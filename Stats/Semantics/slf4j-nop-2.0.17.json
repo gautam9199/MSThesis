@@ -1,0 +1,12 @@
+[
+  {
+    "className": "module-info.class",
+    "errorType": "NoClassDefFoundError",
+    "errorMessage": "META-INF/versions/9/module-info is not a class because access_flag ACC_MODULE is set"
+  },
+  {
+    "className": "NOPServiceProvider.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Bad type on operand stack\nException Details:\n  Location:\n    org/slf4j/nop/NOPServiceProvider.\u003cinit\u003e()V @8: checkcast\n  Reason:\n    Type uninitialized 4 (current frame, stack[1]) is not assignable to \u0027java/lang/Object\u0027\n  Current Frame:\n    bci: @8\n    flags: { }\n    locals: { \u0027org/slf4j/nop/NOPServiceProvider\u0027 }\n    stack: { uninitialized 4, uninitialized 4 }\n  Bytecode:\n    0000000: 2ab7 0011 bb00 1359 c000 13b7 0014 2ac0\n    0000010: 0016 b500 0ebb 0018 59c0 0018 b700 192a\n    0000020: c000 1bb5 001f bb00 2159 c000 21b7 0022\n    0000030: 2ac0 0024 b500 28b1                    \n"
+  }
+]

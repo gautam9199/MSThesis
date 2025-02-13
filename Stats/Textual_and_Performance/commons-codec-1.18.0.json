@@ -1,0 +1,1028 @@
+[
+    {
+        "className": "org.apache.commons.codec.digest.HmacAlgorithms",
+        "normalizedScore": 0.8134681543188457,
+        "weightedScore": 0.8171703966661232,
+        "b2s": 7900,
+        "s2b": 203,
+        "b2sMemory": 0.387451171875,
+        "s2bMemory": 4.0464630126953125
+    },
+    {
+        "className": "org.apache.commons.codec.EncoderException",
+        "normalizedScore": 0.7072175283867153,
+        "weightedScore": 0.6963182607551442,
+        "b2s": 7300,
+        "s2b": 6,
+        "b2sMemory": 0.14405059814453125,
+        "s2bMemory": 0.48785400390625
+    },
+    {
+        "className": "org.apache.commons.codec.language.bm.Rule$Phoneme",
+        "normalizedScore": 0.7261105079678668,
+        "weightedScore": 0.7267248242060431,
+        "b2s": 10000,
+        "s2b": 59,
+        "b2sMemory": 0.044830322265625,
+        "s2bMemory": 1.1649398803710938
+    },
+    {
+        "className": "org.apache.commons.codec.language.bm.Languages",
+        "normalizedScore": 0.7239455328940007,
+        "weightedScore": 0.7161901022773882,
+        "b2s": 5700,
+        "s2b": 39,
+        "b2sMemory": 1.25567626953125,
+        "s2bMemory": 4.653076171875
+    },
+    {
+        "className": "org.apache.commons.codec.language.Metaphone",
+        "normalizedScore": 0.7556372628550334,
+        "weightedScore": 0.7527974031862403,
+        "b2s": 5300,
+        "s2b": 121,
+        "b2sMemory": 0.25467681884765625,
+        "s2bMemory": 6.114326477050781
+    },
+    {
+        "className": "org.apache.commons.codec.digest.XXHash32",
+        "normalizedScore": 0.7482294698392847,
+        "weightedScore": 0.7439684641069526,
+        "b2s": 6800,
+        "s2b": 36,
+        "b2sMemory": 2.0,
+        "s2bMemory": 12.0
+    },
+    {
+        "className": "org.apache.commons.codec.digest.Blake3$1",
+        "normalizedScore": 0.7696684961863532,
+        "weightedScore": 0.780201646567718,
+        "b2s": 5700,
+        "s2b": 0,
+        "b2sMemory": 0.451568603515625,
+        "s2bMemory": 0.37642669677734375
+    },
+    {
+        "className": "org.apache.commons.codec.StringEncoderComparator",
+        "normalizedScore": 0.6632768962541364,
+        "weightedScore": 0.6617435589921359,
+        "b2s": 6500,
+        "s2b": 4,
+        "b2sMemory": 0.37630462646484375,
+        "s2bMemory": 1.1290512084960938
+    },
+    {
+        "className": "org.apache.commons.codec.CharEncoding",
+        "normalizedScore": 0.8092293468557571,
+        "weightedScore": 0.8152712076031025,
+        "b2s": 10200,
+        "s2b": 2,
+        "b2sMemory": 0.37630462646484375,
+        "s2bMemory": 0.7527618408203125
+    },
+    {
+        "className": "org.apache.commons.codec.binary.Base16OutputStream",
+        "normalizedScore": 0.7300460982588319,
+        "weightedScore": 0.719513813156196,
+        "b2s": 6000,
+        "s2b": 5,
+        "b2sMemory": 0.37630462646484375,
+        "s2bMemory": 0.7527313232421875
+    },
+    {
+        "className": "org.apache.commons.codec.binary.Base64InputStream",
+        "normalizedScore": 0.6943173676560966,
+        "weightedScore": 0.6835769725957085,
+        "b2s": 14800,
+        "s2b": 3,
+        "b2sMemory": 0.37630462646484375,
+        "s2bMemory": 1.12957763671875
+    },
+    {
+        "className": "org.apache.commons.codec.net.package-info",
+        "normalizedScore": 0.8039681591166873,
+        "weightedScore": 0.8132538828875583,
+        "b2s": 5700,
+        "s2b": 0,
+        "b2sMemory": 0.37630462646484375,
+        "s2bMemory": 0.37642669677734375
+    },
+    {
+        "className": "org.apache.commons.codec.language.bm.Rule$2",
+        "normalizedScore": 0.7627934713602098,
+        "weightedScore": 0.7623479819963725,
+        "b2s": 5600,
+        "s2b": 3,
+        "b2sMemory": 0.37630462646484375,
+        "s2bMemory": 0.75689697265625
+    },
+    {
+        "className": "org.apache.commons.codec.binary.Base64",
+        "normalizedScore": 0.7983324724679068,
+        "weightedScore": 0.7942562732995462,
+        "b2s": 5500,
+        "s2b": 145,
+        "b2sMemory": 0.37630462646484375,
+        "s2bMemory": 8.966583251953125
+    },
+    {
+        "className": "org.apache.commons.codec.Resources",
+        "normalizedScore": 0.7556509103391932,
+        "weightedScore": 0.7573215916629975,
+        "b2s": 5200,
+        "s2b": 3,
+        "b2sMemory": 2.0,
+        "s2bMemory": 0.8658981323242188
+    },
+    {
+        "className": "org.apache.commons.codec.language.RefinedSoundex",
+        "normalizedScore": 0.7455676797261884,
+        "weightedScore": 0.7422274120163126,
+        "b2s": 5300,
+        "s2b": 14,
+        "b2sMemory": 0.5509567260742188,
+        "s2bMemory": 3.1496658325195312
+    },
+    {
+        "className": "org.apache.commons.codec.language.ColognePhonetic$CologneInputBuffer",
+        "normalizedScore": 0.7768209217710768,
+        "weightedScore": 0.7739621511487393,
+        "b2s": 8100,
+        "s2b": 3,
+        "b2sMemory": 0.36736297607421875,
+        "s2bMemory": 1.1022491455078125
+    },
+    {
+        "className": "org.apache.commons.codec.net.RFC1522Codec",
+        "normalizedScore": 0.7646111002134407,
+        "weightedScore": 0.7588323479912088,
+        "b2s": 5700,
+        "s2b": 12,
+        "b2sMemory": 0.36736297607421875,
+        "s2bMemory": 6.206245422363281
+    },
+    {
+        "className": "org.apache.commons.codec.language.bm.PhoneticEngine$1",
+        "normalizedScore": 0.8032803464816453,
+        "weightedScore": 0.8083110234000985,
+        "b2s": 5700,
+        "s2b": 3,
+        "b2sMemory": 0.36179351806640625,
+        "s2bMemory": 1.44732666015625
+    },
+    {
+        "className": "org.apache.commons.codec.language.Caverphone1",
+        "normalizedScore": 0.6507648172754886,
+        "weightedScore": 0.658227316232138,
+        "b2s": 5000,
+        "s2b": 18,
+        "b2sMemory": 0.36179351806640625,
+        "s2bMemory": 15.982307434082031
+    },
+    {
+        "className": "org.apache.commons.codec.binary.Base32$1",
+        "normalizedScore": 0.7689740517419089,
+        "weightedScore": 0.779576646567718,
+        "b2s": 5600,
+        "s2b": 0,
+        "b2sMemory": 0.37432098388671875,
+        "s2bMemory": 0.37444305419921875
+    },
+    {
+        "className": "org.apache.commons.codec.net.PercentCodec",
+        "normalizedScore": 0.7332663475955536,
+        "weightedScore": 0.7223637310187776,
+        "b2s": 5500,
+        "s2b": 25,
+        "b2sMemory": 0.77435302734375,
+        "s2bMemory": 10.249526977539062
+    },
+    {
+        "className": "org.apache.commons.codec.digest.MurmurHash3",
+        "normalizedScore": 0.7287412095090656,
+        "weightedScore": 0.7219764602333879,
+        "b2s": 5600,
+        "s2b": 76,
+        "b2sMemory": 0.363525390625,
+        "s2bMemory": 12.322776794433594
+    },
+    {
+        "className": "org.apache.commons.codec.binary.Base64$Builder",
+        "normalizedScore": 0.7152292869332197,
+        "weightedScore": 0.7076249508580419,
+        "b2s": 4800,
+        "s2b": 2,
+        "b2sMemory": 2.0,
+        "s2bMemory": 0.8389053344726562
+    },
+    {
+        "className": "org.apache.commons.codec.language.DaitchMokotoffSoundex$Branch",
+        "normalizedScore": 0.7695832709588296,
+        "weightedScore": 0.7717782320066023,
+        "b2s": 5500,
+        "s2b": 5,
+        "b2sMemory": 0.5337753295898438,
+        "s2bMemory": 3.050506591796875
+    },
+    {
+        "className": "org.apache.commons.codec.binary.Base32OutputStream",
+        "normalizedScore": 0.7138220683685862,
+        "weightedScore": 0.7052373835402048,
+        "b2s": 6200,
+        "s2b": 2,
+        "b2sMemory": 0.35466766357421875,
+        "s2bMemory": 1.064178466796875
+    },
+    {
+        "className": "org.apache.commons.codec.language.bm.BeiderMorseEncoder",
+        "normalizedScore": 0.8119530029790497,
+        "weightedScore": 0.8136552022039543,
+        "b2s": 5400,
+        "s2b": 6,
+        "b2sMemory": 0.35466766357421875,
+        "s2bMemory": 3.1923675537109375
+    },
+    {
+        "className": "org.apache.commons.codec.language.ColognePhonetic",
+        "normalizedScore": 0.796434806889291,
+        "weightedScore": 0.7945989447259854,
+        "b2s": 6100,
+        "s2b": 17,
+        "b2sMemory": 0.34204864501953125,
+        "s2bMemory": 13.028121948242188
+    },
+    {
+        "className": "org.apache.commons.codec.digest.DigestUtils",
+        "normalizedScore": 0.7707893456997303,
+        "weightedScore": 0.7605873827385901,
+        "b2s": 5500,
+        "s2b": 48,
+        "b2sMemory": 0.346099853515625,
+        "s2bMemory": 18.078933715820312
+    },
+    {
+        "className": "org.apache.commons.codec.language.bm.ResourceConstants",
+        "normalizedScore": 0.8361626738911735,
+        "weightedScore": 0.8377315916872413,
+        "b2s": 5100,
+        "s2b": 1,
+        "b2sMemory": 2.0,
+        "s2bMemory": 0.8421554565429688
+    },
+    {
+        "className": "org.apache.commons.codec.binary.Base32$Builder",
+        "normalizedScore": 0.7437812258355718,
+        "weightedScore": 0.7406727180879633,
+        "b2s": 5500,
+        "s2b": 2,
+        "b2sMemory": 0.5358505249023438,
+        "s2bMemory": 1.1484375
+    },
+    {
+        "className": "org.apache.commons.codec.language.Soundex",
+        "normalizedScore": 0.7518289452730681,
+        "weightedScore": 0.7475604695600975,
+        "b2s": 7000,
+        "s2b": 11,
+        "b2sMemory": 0.38275146484375,
+        "s2bMemory": 6.298606872558594
+    },
+    {
+        "className": "org.apache.commons.codec.binary.StringUtils",
+        "normalizedScore": 0.777213146680184,
+        "weightedScore": 0.7726182513914238,
+        "b2s": 5700,
+        "s2b": 12,
+        "b2sMemory": 0.38201141357421875,
+        "s2bMemory": 4.383964538574219
+    },
+    {
+        "className": "org.apache.commons.codec.digest.PureJavaCrc32",
+        "normalizedScore": 0.9255800690840706,
+        "weightedScore": 0.9233942460625078,
+        "b2s": 5700,
+        "s2b": 54,
+        "b2sMemory": 0.36138153076171875,
+        "s2bMemory": 8.171257019042969
+    },
+    {
+        "className": "org.apache.commons.codec.digest.MurmurHash3$IncrementalHash32",
+        "normalizedScore": 0.7201236258146634,
+        "weightedScore": 0.7179251533829928,
+        "b2s": 4795600,
+        "s2b": 2,
+        "b2sMemory": 2.0,
+        "s2bMemory": 1.733123779296875
+    },
+    {
+        "className": "org.apache.commons.codec.net.URLCodec",
+        "normalizedScore": 0.7538155036022215,
+        "weightedScore": 0.744908164173485,
+        "b2s": 3800,
+        "s2b": 16,
+        "b2sMemory": 0.5514068603515625,
+        "s2bMemory": 9.183555603027344
+    },
+    {
+        "className": "org.apache.commons.codec.digest.package-info",
+        "normalizedScore": 0.8045131278374155,
+        "weightedScore": 0.813984295673829,
+        "b2s": 5600,
+        "s2b": 0,
+        "b2sMemory": 0.36847686767578125,
+        "s2bMemory": 0.36859893798828125
+    },
+    {
+        "className": "org.apache.commons.codec.language.ColognePhonetic$CologneOutputBuffer",
+        "normalizedScore": 0.7753143535871988,
+        "weightedScore": 0.7768237708039674,
+        "b2s": 3600,
+        "s2b": 2,
+        "b2sMemory": 0.36847686767578125,
+        "s2bMemory": 1.1055908203125
+    },
+    {
+        "className": "org.apache.commons.codec.binary.BaseNCodecInputStream",
+        "normalizedScore": 0.7480292562977202,
+        "weightedScore": 0.7464739530702025,
+        "b2s": 6000,
+        "s2b": 12,
+        "b2sMemory": 0.36847686767578125,
+        "s2bMemory": 7.319007873535156
+    },
+    {
+        "className": "org.apache.commons.codec.language.bm.Languages$1",
+        "normalizedScore": 0.7456669340365415,
+        "weightedScore": 0.7355430558821541,
+        "b2s": 5500,
+        "s2b": 2,
+        "b2sMemory": 0.369232177734375,
+        "s2bMemory": 0.73858642578125
+    },
+    {
+        "className": "org.apache.commons.codec.binary.BinaryCodec",
+        "normalizedScore": 0.7467188835108223,
+        "weightedScore": 0.7416855103161675,
+        "b2s": 14900,
+        "s2b": 12,
+        "b2sMemory": 0.369232177734375,
+        "s2bMemory": 8.371223449707031
+    },
+    {
+        "className": "org.apache.commons.codec.digest.Blake3$EngineState",
+        "normalizedScore": 0.7350691775230378,
+        "weightedScore": 0.7383667271819692,
+        "b2s": 7700,
+        "s2b": 8,
+        "b2sMemory": 0.3783416748046875,
+        "s2bMemory": 4.7600250244140625
+    },
+    {
+        "className": "org.apache.commons.codec.language.DoubleMetaphone",
+        "normalizedScore": 0.8188135033145256,
+        "weightedScore": 0.81243766585972,
+        "b2s": 5500,
+        "s2b": 110,
+        "b2sMemory": 0.3700103759765625,
+        "s2bMemory": 50.89154815673828
+    },
+    {
+        "className": "org.apache.commons.codec.language.MatchRatingApproachEncoder",
+        "normalizedScore": 0.7639987408883169,
+        "weightedScore": 0.760374547308128,
+        "b2s": 5600,
+        "s2b": 38,
+        "b2sMemory": 2.0,
+        "s2bMemory": 17.56951904296875
+    },
+    {
+        "className": "org.apache.commons.codec.cli.package-info",
+        "normalizedScore": 0.8036678588163869,
+        "weightedScore": 0.812983612617288,
+        "b2s": 5100,
+        "s2b": 0,
+        "b2sMemory": 0.5230865478515625,
+        "s2bMemory": 0.5232086181640625
+    },
+    {
+        "className": "org.apache.commons.codec.language.bm.NameType",
+        "normalizedScore": 0.797815407879599,
+        "weightedScore": 0.8001499080472706,
+        "b2s": 5500,
+        "s2b": 2,
+        "b2sMemory": 0.5230865478515625,
+        "s2bMemory": 1.046295166015625
+    },
+    {
+        "className": "org.apache.commons.codec.binary.Base32InputStream",
+        "normalizedScore": 0.7033291564324863,
+        "weightedScore": 0.6934108508583394,
+        "b2s": 5200,
+        "s2b": 1,
+        "b2sMemory": 0.5230865478515625,
+        "s2bMemory": 1.046295166015625
+    },
+    {
+        "className": "org.apache.commons.codec.language.package-info",
+        "normalizedScore": 0.8048639048875305,
+        "weightedScore": 0.8144538502766401,
+        "b2s": 5800,
+        "s2b": 0,
+        "b2sMemory": 0.5230865478515625,
+        "s2bMemory": 0.5232086181640625
+    },
+    {
+        "className": "org.apache.commons.codec.binary.Base16InputStream",
+        "normalizedScore": 0.7047605066317093,
+        "weightedScore": 0.6895750669968543,
+        "b2s": 5600,
+        "s2b": 1,
+        "b2sMemory": 0.5230865478515625,
+        "s2bMemory": 1.046295166015625
+    },
+    {
+        "className": "org.apache.commons.codec.language.DoubleMetaphone$DoubleMetaphoneResult",
+        "normalizedScore": 0.7610899618032585,
+        "weightedScore": 0.7562022912190882,
+        "b2s": 5500,
+        "s2b": 5,
+        "b2sMemory": 0.5230865478515625,
+        "s2bMemory": 3.6623916625976562
+    },
+    {
+        "className": "org.apache.commons.codec.Decoder",
+        "normalizedScore": 0.9288883342144403,
+        "weightedScore": 0.9352026880439923,
+        "b2s": 5600,
+        "s2b": 0,
+        "b2sMemory": 0.48639678955078125,
+        "s2bMemory": 0.48651885986328125
+    },
+    {
+        "className": "org.apache.commons.codec.digest.Blake3",
+        "normalizedScore": 0.7830805957877683,
+        "weightedScore": 0.782036288932303,
+        "b2s": 5500,
+        "s2b": 20,
+        "b2sMemory": 0.48639678955078125,
+        "s2bMemory": 18.43445587158203
+    },
+    {
+        "className": "org.apache.commons.codec.language.bm.Rule$PhonemeExpr",
+        "normalizedScore": 0.7222626024910616,
+        "weightedScore": 0.7193463319432941,
+        "b2s": 7400,
+        "s2b": 0,
+        "b2sMemory": 2.0,
+        "s2bMemory": 0.7507171630859375
+    },
+    {
+        "className": "org.apache.commons.codec.digest.MurmurHash3$IncrementalHash32x86",
+        "normalizedScore": 0.7131028168733521,
+        "weightedScore": 0.7092414969727905,
+        "b2s": 6600,
+        "s2b": 9,
+        "b2sMemory": 0.6004791259765625,
+        "s2bMemory": 10.629425048828125
+    },
+    {
+        "className": "org.apache.commons.codec.binary.Base64$1",
+        "normalizedScore": 0.7703629406307977,
+        "weightedScore": 0.780826646567718,
+        "b2s": 5300,
+        "s2b": 0,
+        "b2sMemory": 0.512664794921875,
+        "s2bMemory": 0.512786865234375
+    },
+    {
+        "className": "org.apache.commons.codec.language.bm.PhoneticEngine",
+        "normalizedScore": 0.7480174429332673,
+        "weightedScore": 0.7457408601240926,
+        "b2s": 5500,
+        "s2b": 32,
+        "b2sMemory": 0.512664794921875,
+        "s2bMemory": 6.74053955078125
+    },
+    {
+        "className": "org.apache.commons.codec.language.bm.PhoneticEngine$RulesApplication",
+        "normalizedScore": 0.7070247613402246,
+        "weightedScore": 0.7081649353097219,
+        "b2s": 7200,
+        "s2b": 2,
+        "b2sMemory": 0.5295486450195312,
+        "s2bMemory": 2.6480865478515625
+    },
+    {
+        "className": "org.apache.commons.codec.BinaryDecoder",
+        "normalizedScore": 0.935250412637927,
+        "weightedScore": 0.9409818769503426,
+        "b2s": 5500,
+        "s2b": 0,
+        "b2sMemory": 0.5295486450195312,
+        "s2bMemory": 0.5296707153320312
+    },
+    {
+        "className": "org.apache.commons.codec.digest.Sha2Crypt",
+        "normalizedScore": 0.7511956958869415,
+        "weightedScore": 0.75654136072995,
+        "b2s": 5700,
+        "s2b": 57,
+        "b2sMemory": 0.5295486450195312,
+        "s2bMemory": 10.540748596191406
+    },
+    {
+        "className": "org.apache.commons.codec.binary.Base64OutputStream",
+        "normalizedScore": 0.7000336441143776,
+        "weightedScore": 0.6898598996243028,
+        "b2s": 5500,
+        "s2b": 2,
+        "b2sMemory": 2.0,
+        "s2bMemory": 1.0154266357421875
+    },
+    {
+        "className": "org.apache.commons.codec.digest.MurmurHash2",
+        "normalizedScore": 0.7209327717920595,
+        "weightedScore": 0.7134649017789773,
+        "b2s": 6600,
+        "s2b": 12,
+        "b2sMemory": 0.702911376953125,
+        "s2bMemory": 14.188858032226562
+    },
+    {
+        "className": "org.apache.commons.codec.language.bm.package-info",
+        "normalizedScore": 0.8050921458176626,
+        "weightedScore": 0.814881438698583,
+        "b2s": 5500,
+        "s2b": 0,
+        "b2sMemory": 0.547119140625,
+        "s2bMemory": 0.5472412109375
+    },
+    {
+        "className": "org.apache.commons.codec.digest.UnixCrypt",
+        "normalizedScore": 0.8712487454203949,
+        "weightedScore": 0.8697183900475385,
+        "b2s": 5800,
+        "s2b": 80,
+        "b2sMemory": 0.547119140625,
+        "s2bMemory": 27.828536987304688
+    },
+    {
+        "className": "org.apache.commons.codec.language.Caverphone2",
+        "normalizedScore": 0.6783778446920369,
+        "weightedScore": 0.6865872307565647,
+        "b2s": 5800,
+        "s2b": 14,
+        "b2sMemory": 2.0,
+        "s2bMemory": 16.938072204589844
+    },
+    {
+        "className": "org.apache.commons.codec.package-info",
+        "normalizedScore": 0.8028926580764296,
+        "weightedScore": 0.8119476545638686,
+        "b2s": 9300,
+        "s2b": 0,
+        "b2sMemory": 0.6726760864257812,
+        "s2bMemory": 0.5233154296875
+    },
+    {
+        "className": "org.apache.commons.codec.digest.Blake3$Output",
+        "normalizedScore": 0.6996624409025197,
+        "weightedScore": 0.6999815009572524,
+        "b2s": 16000,
+        "s2b": 3,
+        "b2sMemory": 0.523193359375,
+        "s2bMemory": 2.6161270141601562
+    },
+    {
+        "className": "org.apache.commons.codec.digest.HmacUtils",
+        "normalizedScore": 0.7623129543837613,
+        "weightedScore": 0.7555351141699993,
+        "b2s": 5800,
+        "s2b": 22,
+        "b2sMemory": 0.523193359375,
+        "s2bMemory": 12.525169372558594
+    },
+    {
+        "className": "org.apache.commons.codec.language.bm.Lang$1",
+        "normalizedScore": 0.7707159916966431,
+        "weightedScore": 0.7814704794835006,
+        "b2s": 5900,
+        "s2b": 0,
+        "b2sMemory": 2.0,
+        "s2bMemory": 0.7620315551757812
+    },
+    {
+        "className": "org.apache.commons.codec.language.bm.Lang$LangRule",
+        "normalizedScore": 0.6535736302313381,
+        "weightedScore": 0.6457087143381137,
+        "b2s": 7100,
+        "s2b": 1,
+        "b2sMemory": 0.609527587890625,
+        "s2bMemory": 0.9144287109375
+    },
+    {
+        "className": "org.apache.commons.codec.BinaryEncoder",
+        "normalizedScore": 0.935250412637927,
+        "weightedScore": 0.9409818769503426,
+        "b2s": 5200,
+        "s2b": 0,
+        "b2sMemory": 0.4571533203125,
+        "s2bMemory": 0.457275390625
+    },
+    {
+        "className": "org.apache.commons.codec.binary.package-info",
+        "normalizedScore": 0.803928332515778,
+        "weightedScore": 0.8134579798843553,
+        "b2s": 5500,
+        "s2b": 0,
+        "b2sMemory": 0.4571533203125,
+        "s2bMemory": 0.457275390625
+    },
+    {
+        "className": "org.apache.commons.codec.digest.MessageDigestAlgorithms",
+        "normalizedScore": 0.8732857369578294,
+        "weightedScore": 0.8744277514973405,
+        "b2s": 5000,
+        "s2b": 0,
+        "b2sMemory": 0.4571533203125,
+        "s2bMemory": 0.457275390625
+    },
+    {
+        "className": "org.apache.commons.codec.CodecPolicy",
+        "normalizedScore": 0.7774695168473675,
+        "weightedScore": 0.781055445135429,
+        "b2s": 6200,
+        "s2b": 1,
+        "b2sMemory": 0.4571533203125,
+        "s2bMemory": 0.914459228515625
+    },
+    {
+        "className": "org.apache.commons.codec.binary.Base32",
+        "normalizedScore": 0.7841756894266018,
+        "weightedScore": 0.7809878267228945,
+        "b2s": 5000,
+        "s2b": 181,
+        "b2sMemory": 0.4571533203125,
+        "s2bMemory": 110.40894317626953
+    },
+    {
+        "className": "org.apache.commons.codec.language.bm.RuleType",
+        "normalizedScore": 0.7978245443974098,
+        "weightedScore": 0.8000763756719547,
+        "b2s": 5200,
+        "s2b": 2,
+        "b2sMemory": 2.0,
+        "s2bMemory": 1.8743515014648438
+    },
+    {
+        "className": "org.apache.commons.codec.StringDecoder",
+        "normalizedScore": 0.9356962371414509,
+        "weightedScore": 0.9414621616000631,
+        "b2s": 5700,
+        "s2b": 0,
+        "b2sMemory": 0.7028350830078125,
+        "s2bMemory": 0.5467758178710938
+    },
+    {
+        "className": "org.apache.commons.codec.language.bm.Rule$1",
+        "normalizedScore": 0.8307123540398657,
+        "weightedScore": 0.8331647325989181,
+        "b2s": 6700,
+        "s2b": 2,
+        "b2sMemory": 0.5466537475585938,
+        "s2bMemory": 2.1867828369140625
+    },
+    {
+        "className": "org.apache.commons.codec.language.DaitchMokotoffSoundex",
+        "normalizedScore": 0.7051093935628744,
+        "weightedScore": 0.6998508802694334,
+        "b2s": 5700,
+        "s2b": 33,
+        "b2sMemory": 0.5466537475585938,
+        "s2bMemory": 7.170616149902344
+    },
+    {
+        "className": "org.apache.commons.codec.language.bm.Rule$PhonemeList",
+        "normalizedScore": 0.6257849648279853,
+        "weightedScore": 0.6220274850047339,
+        "b2s": 4900,
+        "s2b": 1,
+        "b2sMemory": 0.5238876342773438,
+        "s2bMemory": 0.5240097045898438
+    },
+    {
+        "className": "org.apache.commons.codec.digest.Blake3$ChunkState",
+        "normalizedScore": 0.7431431250241692,
+        "weightedScore": 0.7412900460532902,
+        "b2s": 6200,
+        "s2b": 4,
+        "b2sMemory": 0.5238876342773438,
+        "s2bMemory": 3.66741943359375
+    },
+    {
+        "className": "org.apache.commons.codec.language.DaitchMokotoffSoundex$1",
+        "normalizedScore": 0.7749814711334979,
+        "weightedScore": 0.7866306108418535,
+        "b2s": 28500,
+        "s2b": 0,
+        "b2sMemory": 0.5238876342773438,
+        "s2bMemory": 0.5240097045898438
+    },
+    {
+        "className": "org.apache.commons.codec.net.BCodec",
+        "normalizedScore": 0.747765445937878,
+        "weightedScore": 0.7401862201543121,
+        "b2s": 5500,
+        "s2b": 7,
+        "b2sMemory": 0.5238876342773438,
+        "s2bMemory": 4.525848388671875
+    },
+    {
+        "className": "org.apache.commons.codec.language.bm.Languages$2",
+        "normalizedScore": 0.7442232733646973,
+        "weightedScore": 0.7342176738345372,
+        "b2s": 6000,
+        "s2b": 1,
+        "b2sMemory": 0.5191421508789062,
+        "s2bMemory": 1.038421630859375
+    },
+    {
+        "className": "org.apache.commons.codec.language.DaitchMokotoffSoundex$Rule",
+        "normalizedScore": 0.7583666737511229,
+        "weightedScore": 0.7560113508101765,
+        "b2s": 5700,
+        "s2b": 2,
+        "b2sMemory": 0.5191421508789062,
+        "s2bMemory": 2.595916748046875
+    },
+    {
+        "className": "org.apache.commons.codec.net.QuotedPrintableCodec",
+        "normalizedScore": 0.7481859240962073,
+        "weightedScore": 0.740193080854178,
+        "b2s": 5100,
+        "s2b": 17,
+        "b2sMemory": 0.5191421508789062,
+        "s2bMemory": 15.637741088867188
+    },
+    {
+        "className": "org.apache.commons.codec.language.bm.Rule$RPattern",
+        "normalizedScore": 0.9205826679159145,
+        "weightedScore": 0.92756746332528,
+        "b2s": 5000,
+        "s2b": 0,
+        "b2sMemory": 2.0,
+        "s2bMemory": 0.8379440307617188
+    },
+    {
+        "className": "org.apache.commons.codec.binary.BaseNCodecOutputStream",
+        "normalizedScore": 0.7845350428741188,
+        "weightedScore": 0.784148729741289,
+        "b2s": 5300,
+        "s2b": 4,
+        "b2sMemory": 0.6854934692382812,
+        "s2bMemory": 3.7328109741210938
+    },
+    {
+        "className": "org.apache.commons.codec.DecoderException",
+        "normalizedScore": 0.7234719823362877,
+        "weightedScore": 0.7158585119133098,
+        "b2s": 6600,
+        "s2b": 1,
+        "b2sMemory": 0.5331649780273438,
+        "s2bMemory": 0.5332870483398438
+    },
+    {
+        "className": "org.apache.commons.codec.language.Nysiis",
+        "normalizedScore": 0.7695458409460323,
+        "weightedScore": 0.7666377578249717,
+        "b2s": 6400,
+        "s2b": 15,
+        "b2sMemory": 0.5331649780273438,
+        "s2bMemory": 17.601486206054688
+    },
+    {
+        "className": "org.apache.commons.codec.digest.Crypt",
+        "normalizedScore": 0.7651930483488951,
+        "weightedScore": 0.7680855082198881,
+        "b2s": 11100,
+        "s2b": 1,
+        "b2sMemory": 0.5383529663085938,
+        "s2bMemory": 1.6151885986328125
+    },
+    {
+        "className": "org.apache.commons.codec.language.bm.Lang",
+        "normalizedScore": 0.718232985723256,
+        "weightedScore": 0.7075119388572518,
+        "b2s": 5300,
+        "s2b": 12,
+        "b2sMemory": 0.5383529663085938,
+        "s2bMemory": 11.2322998046875
+    },
+    {
+        "className": "org.apache.commons.codec.language.bm.PhoneticEngine$PhonemeBuilder",
+        "normalizedScore": 0.7019452663885452,
+        "weightedScore": 0.6997459907673297,
+        "b2s": 5500,
+        "s2b": 6,
+        "b2sMemory": 0.5211868286132812,
+        "s2bMemory": 5.044525146484375
+    },
+    {
+        "className": "org.apache.commons.codec.binary.Hex",
+        "normalizedScore": 0.7764731829794088,
+        "weightedScore": 0.7670132202790315,
+        "b2s": 5100,
+        "s2b": 15,
+        "b2sMemory": 0.4983367919921875,
+        "s2bMemory": 11.490486145019531
+    },
+    {
+        "className": "org.apache.commons.codec.language.bm.Languages$LanguageSet",
+        "normalizedScore": 0.7403547508999928,
+        "weightedScore": 0.7380829203747206,
+        "b2s": 5500,
+        "s2b": 1,
+        "b2sMemory": 0.481170654296875,
+        "s2bMemory": 0.481292724609375
+    },
+    {
+        "className": "org.apache.commons.codec.Encoder",
+        "normalizedScore": 0.9288883342144403,
+        "weightedScore": 0.9352026880439923,
+        "b2s": 4900,
+        "s2b": 0,
+        "b2sMemory": 0.481170654296875,
+        "s2bMemory": 0.481292724609375
+    },
+    {
+        "className": "org.apache.commons.codec.cli.Digest",
+        "normalizedScore": 0.7119568949717112,
+        "weightedScore": 0.7008231249791841,
+        "b2s": 5400,
+        "s2b": 8,
+        "b2sMemory": 0.481170654296875,
+        "s2bMemory": 6.889152526855469
+    },
+    {
+        "className": "org.apache.commons.codec.net.QCodec",
+        "normalizedScore": 0.7539651823329748,
+        "weightedScore": 0.7516172649833297,
+        "b2s": 4100,
+        "s2b": 10,
+        "b2sMemory": 0.48705291748046875,
+        "s2bMemory": 10.43731689453125
+    },
+    {
+        "className": "org.apache.commons.codec.language.bm.Rule",
+        "normalizedScore": 0.7011247313519423,
+        "weightedScore": 0.6957797400290903,
+        "b2s": 5000,
+        "s2b": 81,
+        "b2sMemory": 0.5044097900390625,
+        "s2bMemory": 15.151039123535156
+    },
+    {
+        "className": "org.apache.commons.codec.StringEncoder",
+        "normalizedScore": 0.9356962371414509,
+        "weightedScore": 0.9414621616000631,
+        "b2s": 7600,
+        "s2b": 0,
+        "b2sMemory": 2.0,
+        "s2bMemory": 0.9775619506835938
+    },
+    {
+        "className": "org.apache.commons.codec.binary.BaseNCodec",
+        "normalizedScore": 0.7496277748737046,
+        "weightedScore": 0.7426924227153593,
+        "b2s": 6000,
+        "s2b": 15,
+        "b2sMemory": 0.67669677734375,
+        "s2bMemory": 11.159927368164062
+    },
+    {
+        "className": "org.apache.commons.codec.binary.BaseNCodec$Context",
+        "normalizedScore": 0.7840860338346524,
+        "weightedScore": 0.7788220364190526,
+        "b2s": 4900,
+        "s2b": 1,
+        "b2sMemory": 0.43640899658203125,
+        "s2bMemory": 1.7477569580078125
+    },
+    {
+        "className": "org.apache.commons.codec.binary.CharSequenceUtils",
+        "normalizedScore": 0.673317253940375,
+        "weightedScore": 0.672337272732384,
+        "b2s": 5200,
+        "s2b": 2,
+        "b2sMemory": 0.43640899658203125,
+        "s2bMemory": 2.182281494140625
+    },
+    {
+        "className": "org.apache.commons.codec.Charsets",
+        "normalizedScore": 0.7810605869652694,
+        "weightedScore": 0.7840416466604029,
+        "b2s": 5100,
+        "s2b": 1,
+        "b2sMemory": 0.43640899658203125,
+        "s2bMemory": 0.8729705810546875
+    },
+    {
+        "className": "org.apache.commons.codec.language.bm.Languages$SomeLanguages",
+        "normalizedScore": 0.7386725894364412,
+        "weightedScore": 0.7369239577492939,
+        "b2s": 5400,
+        "s2b": 5,
+        "b2sMemory": 0.43640899658203125,
+        "s2bMemory": 3.0550384521484375
+    },
+    {
+        "className": "org.apache.commons.codec.digest.B64",
+        "normalizedScore": 0.7305810595373142,
+        "weightedScore": 0.7271050431358217,
+        "b2s": 4900,
+        "s2b": 2,
+        "b2sMemory": 0.43640899658203125,
+        "s2bMemory": 2.1821975708007812
+    },
+    {
+        "className": "org.apache.commons.codec.language.ColognePhonetic$CologneBuffer",
+        "normalizedScore": 0.7573081475866079,
+        "weightedScore": 0.755090649135864,
+        "b2s": 5400,
+        "s2b": 1,
+        "b2sMemory": 0.43640899658203125,
+        "s2bMemory": 0.873321533203125
+    },
+    {
+        "className": "org.apache.commons.codec.language.SoundexUtils",
+        "normalizedScore": 0.7045695214798323,
+        "weightedScore": 0.7032958955760005,
+        "b2s": 5100,
+        "s2b": 3,
+        "b2sMemory": 0.43640899658203125,
+        "s2bMemory": 3.0552978515625
+    },
+    {
+        "className": "org.apache.commons.codec.language.Caverphone",
+        "normalizedScore": 0.7537920262546797,
+        "weightedScore": 0.7518828358691136,
+        "b2s": 5000,
+        "s2b": 1,
+        "b2sMemory": 0.43640899658203125,
+        "s2bMemory": 1.3094100952148438
+    },
+    {
+        "className": "org.apache.commons.codec.digest.PureJavaCrc32C",
+        "normalizedScore": 0.9260536013272178,
+        "weightedScore": 0.9240667443129992,
+        "b2s": 4900,
+        "s2b": 48,
+        "b2sMemory": 0.43640899658203125,
+        "s2bMemory": 11.39697265625
+    },
+    {
+        "className": "org.apache.commons.codec.binary.Base16",
+        "normalizedScore": 0.8149739047146559,
+        "weightedScore": 0.8127833687717139,
+        "b2s": 5600,
+        "s2b": 17,
+        "b2sMemory": 2.0,
+        "s2bMemory": 15.787750244140625
+    },
+    {
+        "className": "org.apache.commons.codec.language.AbstractCaverphone",
+        "normalizedScore": 0.7528946114772076,
+        "weightedScore": 0.7491630350364902,
+        "b2s": 5200,
+        "s2b": 1,
+        "b2sMemory": 0.7862930297851562,
+        "s2bMemory": 0.7864151000976562
+    },
+    {
+        "className": "org.apache.commons.codec.net.Utils",
+        "normalizedScore": 0.8057864543746153,
+        "weightedScore": 0.8045282541626957,
+        "b2s": 5900,
+        "s2b": 1,
+        "b2sMemory": 0.7862930297851562,
+        "s2bMemory": 0.7864151000976562
+    },
+    {
+        "className": "org.apache.commons.codec.digest.Md5Crypt",
+        "normalizedScore": 0.7096736093089656,
+        "weightedScore": 0.7063105664183431,
+        "b2s": 5500,
+        "s2b": 17,
+        "b2sMemory": 0.7862930297851562,
+        "s2bMemory": 23.93395233154297
+    },
+    {
+        "className": "org.apache.commons.codec.binary.BaseNCodec$AbstractBuilder",
+        "normalizedScore": 0.5806891962885784,
+        "weightedScore": 0.5750223052443219,
+        "b2s": 5800,
+        "s2b": 2,
+        "b2sMemory": 0.7849349975585938,
+        "s2bMemory": 2.354949951171875
+    }
+]

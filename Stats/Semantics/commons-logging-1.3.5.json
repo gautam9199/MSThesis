@@ -1,0 +1,297 @@
+[
+  {
+    "className": "module-info.class",
+    "errorType": "NoClassDefFoundError",
+    "errorMessage": "META-INF/versions/9/module-info is not a class because access_flag ACC_MODULE is set"
+  },
+  {
+    "className": "AvalonLogger.class",
+    "errorType": "NoClassDefFoundError",
+    "errorMessage": "org/apache/avalon/framework/logger/Logger"
+  },
+  {
+    "className": "Jdk13LumberjackLogger.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Illegal exception table range in class file org/apache/commons/logging/impl/Jdk13LumberjackLogger"
+  },
+  {
+    "className": "Jdk14Logger.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Operand stack underflow\nException Details:\n  Location:\n    org/apache/commons/logging/impl/Jdk14Logger.\u003cinit\u003e(Ljava/lang/String;)V @15: swap\n  Reason:\n    Attempt to pop empty stack.\n  Current Frame:\n    bci: @15\n    flags: { }\n    locals: { \u0027org/apache/commons/logging/impl/Jdk14Logger\u0027, \u0027java/lang/String\u0027, \u0027java/util/logging/Logger\u0027 }\n    stack: { \u0027org/apache/commons/logging/impl/Jdk14Logger\u0027 }\n  Bytecode:\n    0000000: 2ab7 003f 2a2b b500 432a b600 214d 2a5f\n    0000010: b500 47b1                              \n"
+  },
+  {
+    "className": "org.apache.commons.logging.impl.Log4jApiLogFactory$1",
+    "methods": [],
+    "instanceCreation": "no-arg constructor not available"
+  },
+  {
+    "className": "Log4jApiLogFactory$Log4j2Log.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Bad local variable type\nException Details:\n  Location:\n    org/apache/commons/logging/impl/Log4jApiLogFactory$Log4j2Log.\u003cclinit\u003e()V @2: aload_0\n  Reason:\n    Type top (current frame, locals[0]) is not assignable to reference type\n  Current Frame:\n    bci: @2\n    flags: { }\n    locals: { }\n    stack: { \u0027java/lang/String\u0027 }\n  Bytecode:\n    0000000: 1249 2ab6 004f 4c5f b300 53b1          \n"
+  },
+  {
+    "className": "Log4jApiLogFactory$LogAdapter.class",
+    "errorType": "NoClassDefFoundError",
+    "errorMessage": "org/apache/logging/log4j/spi/AbstractLoggerAdapter"
+  },
+  {
+    "className": "Log4jApiLogFactory.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/apache/commons/logging/impl/Log4jApiLogFactory"
+  },
+  {
+    "className": "Log4JLogger.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Bad type on operand stack\nException Details:\n  Location:\n    org/apache/commons/logging/impl/Log4JLogger.\u003cinit\u003e(Lorg/apache/log4j/Logger;)V @6: if_icmpne\n  Reason:\n    Type null (current frame, stack[1]) is not assignable to integer\n  Current Frame:\n    bci: @6\n    flags: { }\n    locals: { \u0027org/apache/commons/logging/impl/Log4JLogger\u0027, \u0027org/apache/log4j/Logger\u0027 }\n    stack: { \u0027org/apache/log4j/Logger\u0027, null }\n  Bytecode:\n    0000000: 2ab7 004e 2b01 a000 13bb 0056 59c0 0056\n    0000010: 1258 b700 5ac0 002d bf2b b600 5e3a 052a\n    0000020: 5fb5 0034 2a2b b500 31b1               \n  Stackmap Table:\n    full_frame(@25,{Object[#2],Object[#24]},{})\n"
+  },
+  {
+    "className": "LogFactoryImpl.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/apache/commons/logging/impl/LogFactoryImpl"
+  },
+  {
+    "className": "LogKitLogger.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Operand stack underflow\nException Details:\n  Location:\n    org/apache/commons/logging/impl/LogKitLogger.\u003cinit\u003e(Ljava/lang/String;)V @15: swap\n  Reason:\n    Attempt to pop empty stack.\n  Current Frame:\n    bci: @15\n    flags: { }\n    locals: { \u0027org/apache/commons/logging/impl/LogKitLogger\u0027, \u0027java/lang/String\u0027, \u0027org/apache/log/Logger\u0027 }\n    stack: { \u0027org/apache/commons/logging/impl/LogKitLogger\u0027 }\n  Bytecode:\n    0000000: 2ab7 003e 2a2b b500 362a b600 0e4d 2a5f\n    0000010: b500 2cb1                              \n"
+  },
+  {
+    "className": "org.apache.commons.logging.impl.NoOpLog",
+    "methods": [
+      {
+        "name": "info",
+        "returnType": "void"
+      },
+      {
+        "name": "info",
+        "returnType": "void"
+      },
+      {
+        "name": "trace",
+        "returnType": "void"
+      },
+      {
+        "name": "trace",
+        "returnType": "void"
+      },
+      {
+        "name": "debug",
+        "returnType": "void"
+      },
+      {
+        "name": "debug",
+        "returnType": "void"
+      },
+      {
+        "name": "error",
+        "returnType": "void"
+      },
+      {
+        "name": "error",
+        "returnType": "void"
+      },
+      {
+        "name": "warn",
+        "returnType": "void"
+      },
+      {
+        "name": "warn",
+        "returnType": "void"
+      },
+      {
+        "name": "isTraceEnabled",
+        "returnType": "boolean"
+      },
+      {
+        "name": "isDebugEnabled",
+        "returnType": "boolean"
+      },
+      {
+        "name": "isInfoEnabled",
+        "returnType": "boolean"
+      },
+      {
+        "name": "isErrorEnabled",
+        "returnType": "boolean"
+      },
+      {
+        "name": "isWarnEnabled",
+        "returnType": "boolean"
+      },
+      {
+        "name": "isFatalEnabled",
+        "returnType": "boolean"
+      },
+      {
+        "name": "fatal",
+        "returnType": "void"
+      },
+      {
+        "name": "fatal",
+        "returnType": "void"
+      }
+    ],
+    "instanceCreation": "success"
+  },
+  {
+    "className": "org.apache.commons.logging.impl.package-info",
+    "methods": [],
+    "instanceCreation": "no-arg constructor not available"
+  },
+  {
+    "className": "ServletContextCleaner.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/apache/commons/logging/impl/ServletContextCleaner"
+  },
+  {
+    "className": "SimpleLog.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Method \"type\" in class org/apache/commons/logging/impl/SimpleLog has illegal signature \"methodtype: java.lang.Object __METHODTYPE__()\""
+  },
+  {
+    "className": "Slf4jLogFactory$Slf4jLocationAwareLog.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Bad local variable type\nException Details:\n  Location:\n    org/apache/commons/logging/impl/Slf4jLogFactory$Slf4jLocationAwareLog.\u003cclinit\u003e()V @2: aload_0\n  Reason:\n    Type top (current frame, locals[0]) is not assignable to reference type\n  Current Frame:\n    bci: @2\n    flags: { }\n    locals: { }\n    stack: { \u0027java/lang/String\u0027 }\n  Bytecode:\n    0000000: 1239 2ab6 003f 4c5f b300 28b1          \n"
+  },
+  {
+    "className": "Slf4jLogFactory$Slf4jLog.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Bad local variable type\nException Details:\n  Location:\n    org/apache/commons/logging/impl/Slf4jLogFactory$Slf4jLog.info(Ljava/lang/Object;Ljava/lang/Throwable;)V @15: aload_3\n  Reason:\n    Type top (current frame, locals[3]) is not assignable to reference type\n  Current Frame:\n    bci: @15\n    flags: { }\n    locals: { \u0027org/apache/commons/logging/impl/Slf4jLogFactory$Slf4jLog\u0027, \u0027java/lang/Object\u0027, \u0027java/lang/Throwable\u0027, top, \u0027org/slf4j/Marker\u0027, \u0027java/lang/String\u0027 }\n    stack: { \u0027org/slf4j/Logger\u0027 }\n  Bytecode:\n    0000000: 2ab4 000c b800 123a 042b b800 183a 052d\n    0000010: 2cb9 0026 0400 b1                      \n"
+  },
+  {
+    "className": "Slf4jLogFactory.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/apache/commons/logging/impl/Slf4jLogFactory"
+  },
+  {
+    "className": "WeakHashtable$1.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Bad type on operand stack in putfield\nException Details:\n  Location:\n    org/apache/commons/logging/impl/WeakHashtable$1.\u003cinit\u003e(Lorg/apache/commons/logging/impl/WeakHashtable;Ljava/util/Enumeration;)V @3: putfield\n  Reason:\n    Type uninitializedThis (current frame, stack[1]) is not assignable to \u0027org/apache/commons/logging/impl/WeakHashtable$1\u0027 (constant pool 30)\n  Current Frame:\n    bci: @3\n    flags: { flagThisUninit }\n    locals: { uninitializedThis, \u0027org/apache/commons/logging/impl/WeakHashtable\u0027, \u0027java/util/Enumeration\u0027 }\n    stack: { uninitializedThis, uninitializedThis, \u0027org/apache/commons/logging/impl/WeakHashtable\u0027 }\n  Bytecode:\n    0000000: 2a2a 2bb5 001e 2a2c b500 0cb7 0021 b1  \n"
+  },
+  {
+    "className": "WeakHashtable$Entry.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Operand stack overflow\nException Details:\n  Location:\n    org/apache/commons/logging/impl/WeakHashtable$Entry.equals(Ljava/lang/Object;)Z @0: ldc\n  Reason:\n    Exceeded max stack size.\n  Current Frame:\n    bci: @0\n    flags: { }\n    locals: { \u0027org/apache/commons/logging/impl/WeakHashtable$Entry\u0027, \u0027java/lang/Object\u0027 }\n    stack: { }\n  Bytecode:\n    0000000: 1215 3d2b c100 063e 1d03 9f00 6ac0 0006\n    0000010: 3a04 2ab6 0019 4c2b 01a6 0010 b900 1a01\n    0000020: 002b 01a6 004e a700 192a b600 194c b900\n    0000030: 1a01 002b 1905 b600 1c3e 1d03 9f00 352a\n    0000040: b600 1f4c 2b01 a600 10b9 0020 0100 2b01\n    0000050: a600 21a7 0019 2ab6 001f 4cb9 0020 0100\n    0000060: 2b19 06b6 001c 3e1d 039f 0008 043d a700\n    0000070: 0612 153d ac                           \n"
+  },
+  {
+    "className": "WeakHashtable$Referenced.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Operand stack underflow\nException Details:\n  Location:\n    org/apache/commons/logging/impl/WeakHashtable$Referenced.\u003cinit\u003e(Ljava/lang/Object;)V @23: swap\n  Reason:\n    Attempt to pop empty stack.\n  Current Frame:\n    bci: @23\n    flags: { }\n    locals: { \u0027org/apache/commons/logging/impl/WeakHashtable$Referenced\u0027, \u0027java/lang/Object\u0027, top, integer }\n    stack: { \u0027org/apache/commons/logging/impl/WeakHashtable$Referenced\u0027 }\n  Bytecode:\n    0000000: 2ab7 0009 bb00 2459 2bb7 0032 2a5f b500\n    0000010: 122b b600 163e 2a5f b500 19b1          \n"
+  },
+  {
+    "className": "org.apache.commons.logging.impl.WeakHashtable$WeakKey",
+    "methods": [
+      {
+        "name": "access$400",
+        "returnType": "org.apache.commons.logging.impl.WeakHashtable$Referenced"
+      },
+      {
+        "name": "getReferenced",
+        "returnType": "org.apache.commons.logging.impl.WeakHashtable$Referenced"
+      }
+    ],
+    "instanceCreation": "no-arg constructor not available"
+  },
+  {
+    "className": "WeakHashtable.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Bad local variable type\nException Details:\n  Location:\n    org/apache/commons/logging/impl/WeakHashtable.remove(Ljava/lang/Object;)Ljava/lang/Object; @4: iload_2\n  Reason:\n    Type top (current frame, locals[2]) is not assignable to integer\n  Current Frame:\n    bci: @4\n    flags: { }\n    locals: { \u0027org/apache/commons/logging/impl/WeakHashtable\u0027, \u0027java/lang/Object\u0027 }\n    stack: { integer }\n  Bytecode:\n    0000000: 2ab4 007d 1c04 603e 2a5f b500 7d1c 127e\n    0000010: a400 0f2a b700 0a2a 03b5 007d a700 152a\n    0000020: b400 7d1c 127f 703d 1c03 a000 072a b700\n    0000030: 82bb 0023 592b 01b7 0069 1904 b700 65b0\n    0000040:                                        \n  Stackmap Table:\n    append_frame(@31,Top,Integer)\n    same_locals_1_stack_item_frame(@49,Integer)\n"
+  },
+  {
+    "className": "org.apache.commons.logging.Log",
+    "methods": [
+      {
+        "name": "info",
+        "returnType": "void"
+      },
+      {
+        "name": "info",
+        "returnType": "void"
+      },
+      {
+        "name": "trace",
+        "returnType": "void"
+      },
+      {
+        "name": "trace",
+        "returnType": "void"
+      },
+      {
+        "name": "debug",
+        "returnType": "void"
+      },
+      {
+        "name": "debug",
+        "returnType": "void"
+      },
+      {
+        "name": "error",
+        "returnType": "void"
+      },
+      {
+        "name": "error",
+        "returnType": "void"
+      },
+      {
+        "name": "warn",
+        "returnType": "void"
+      },
+      {
+        "name": "warn",
+        "returnType": "void"
+      },
+      {
+        "name": "isTraceEnabled",
+        "returnType": "boolean"
+      },
+      {
+        "name": "isDebugEnabled",
+        "returnType": "boolean"
+      },
+      {
+        "name": "isInfoEnabled",
+        "returnType": "boolean"
+      },
+      {
+        "name": "isErrorEnabled",
+        "returnType": "boolean"
+      },
+      {
+        "name": "isWarnEnabled",
+        "returnType": "boolean"
+      },
+      {
+        "name": "isFatalEnabled",
+        "returnType": "boolean"
+      },
+      {
+        "name": "fatal",
+        "returnType": "void"
+      },
+      {
+        "name": "fatal",
+        "returnType": "void"
+      }
+    ],
+    "instanceCreation": "no-arg constructor not available"
+  },
+  {
+    "className": "LogConfigurationException.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Bad type on operand stack\nException Details:\n  Location:\n    org/apache/commons/logging/LogConfigurationException.\u003cinit\u003e(Ljava/lang/Throwable;)V @8: invokespecial\n  Reason:\n    Type uninitializedThis (current frame, stack[0]) is not assignable to \u0027java/lang/String\u0027\n  Current Frame:\n    bci: @8\n    flags: { flagThisUninit }\n    locals: { uninitializedThis, \u0027java/lang/Throwable\u0027, \u0027java/lang/String\u0027 }\n    stack: { uninitializedThis, \u0027java/lang/Throwable\u0027 }\n  Bytecode:\n    0000000: 2a2b 01b8 0013 4d2b b700 14b1          \n"
+  },
+  {
+    "className": "LogFactory.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Method \"type\" in class org/apache/commons/logging/LogFactory has illegal signature \"methodtype: java.lang.Object __METHODTYPE__()\""
+  },
+  {
+    "className": "LogSource.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/apache/commons/logging/LogSource"
+  },
+  {
+    "className": "org.apache.commons.logging.package-info",
+    "methods": [],
+    "instanceCreation": "no-arg constructor not available"
+  }
+]

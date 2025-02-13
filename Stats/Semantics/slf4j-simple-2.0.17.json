@@ -1,0 +1,42 @@
+[
+  {
+    "className": "module-info.class",
+    "errorType": "NoClassDefFoundError",
+    "errorMessage": "META-INF/versions/9/module-info is not a class because access_flag ACC_MODULE is set"
+  },
+  {
+    "className": "OutputChoice$1.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/slf4j/simple/OutputChoice$1"
+  },
+  {
+    "className": "OutputChoice$OutputChoiceType.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/slf4j/simple/OutputChoice$OutputChoiceType"
+  },
+  {
+    "className": "OutputChoice.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/slf4j/simple/OutputChoice"
+  },
+  {
+    "className": "SimpleLogger.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Operand stack underflow\nException Details:\n  Location:\n    org/slf4j/simple/SimpleLogger.\u003cinit\u003e(Ljava/lang/String;)V @36: swap\n  Reason:\n    Attempt to pop empty stack.\n  Current Frame:\n    bci: @36\n    flags: { }\n    locals: { \u0027org/slf4j/simple/SimpleLogger\u0027, \u0027java/lang/String\u0027, integer }\n    stack: { \u0027org/slf4j/simple/SimpleLogger\u0027 }\n  Bytecode:\n    0000000: 2ab7 000f 2a10 14b5 0013 2a01 b500 172a\n    0000010: 2bb5 001a 2ab6 001e 4c2b 01a5 0010 2bb8\n    0000020: 0024 3d2a 5fb5 0013 a700 0fb2 0028 2db4\n    0000030: 002b 2a5f b500 13b1                    \n  Stackmap Table:\n    full_frame(@43,{Object[#2],Object[#45]},{})\n    same_locals_1_stack_item_frame(@55,Object[#32])\n"
+  },
+  {
+    "className": "SimpleLoggerConfiguration.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Method \"type\" in class org/slf4j/simple/SimpleLoggerConfiguration has illegal signature \"methodtype: java.lang.Object __METHODTYPE__()\""
+  },
+  {
+    "className": "SimpleLoggerFactory.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Method \"type\" in class org/slf4j/simple/SimpleLoggerFactory has illegal signature \"methodtype: java.lang.Object __METHODTYPE__(java.lang.Object)\""
+  },
+  {
+    "className": "SimpleServiceProvider.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Bad type on operand stack\nException Details:\n  Location:\n    org/slf4j/simple/SimpleServiceProvider.initialize()V @16: checkcast\n  Reason:\n    Type uninitialized 12 (current frame, stack[1]) is not assignable to \u0027java/lang/Object\u0027\n  Current Frame:\n    bci: @16\n    flags: { }\n    locals: { \u0027org/slf4j/simple/SimpleServiceProvider\u0027 }\n    stack: { uninitialized 12, uninitialized 12 }\n  Bytecode:\n    0000000: bb00 1359 b700 142a 5fb5 0018 bb00 1a59\n    0000010: c000 1ab7 001b 2ac0 001d b500 21bb 0023\n    0000020: 59c0 0023 b700 242a c000 26b5 000c b1  \n"
+  }
+]

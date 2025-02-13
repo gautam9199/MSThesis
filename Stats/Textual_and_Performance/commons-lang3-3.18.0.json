@@ -1,0 +1,3638 @@
+[
+    {
+        "className": "org.apache.commons.lang3.AnnotationUtils",
+        "normalizedScore": 0.6994769163833413,
+        "weightedScore": 0.6960249293225171,
+        "b2s": 5200,
+        "s2b": 354,
+        "b2sMemory": 0.3685760498046875,
+        "s2bMemory": 4.906547546386719
+    },
+    {
+        "className": "org.apache.commons.lang3.reflect.TypeLiteral",
+        "normalizedScore": 0.7306582353562495,
+        "weightedScore": 0.72306297127259,
+        "b2s": 5000,
+        "s2b": 13,
+        "b2sMemory": 0.3660430908203125,
+        "s2bMemory": 2.0624160766601562
+    },
+    {
+        "className": "org.apache.commons.lang3.Strings",
+        "normalizedScore": 0.707294917766811,
+        "weightedScore": 0.7022558951550751,
+        "b2s": 4500,
+        "s2b": 83,
+        "b2sMemory": 0.29283905029296875,
+        "s2bMemory": 15.809394836425781
+    },
+    {
+        "className": "org.apache.commons.lang3.package-info",
+        "normalizedScore": 0.8028926580764296,
+        "weightedScore": 0.8119476545638686,
+        "b2s": 5100,
+        "s2b": 0,
+        "b2sMemory": 0.3867340087890625,
+        "s2bMemory": 0.3868560791015625
+    },
+    {
+        "className": "org.apache.commons.lang3.ClassUtils$2",
+        "normalizedScore": 0.6869724708172414,
+        "weightedScore": 0.6823651529009006,
+        "b2s": 4800,
+        "s2b": 9,
+        "b2sMemory": 0.3867340087890625,
+        "s2bMemory": 2.3206329345703125
+    },
+    {
+        "className": "org.apache.commons.lang3.mutable.MutableLong",
+        "normalizedScore": 0.7288537642961729,
+        "weightedScore": 0.7224544263722295,
+        "b2s": 4900,
+        "s2b": 27,
+        "b2sMemory": 0.3867340087890625,
+        "s2bMemory": 4.775672912597656
+    },
+    {
+        "className": "org.apache.commons.lang3.builder.package-info",
+        "normalizedScore": 0.8043998809575855,
+        "weightedScore": 0.813959892861827,
+        "b2s": 6000,
+        "s2b": 0,
+        "b2sMemory": 0.3890380859375,
+        "s2bMemory": 0.38916015625
+    },
+    {
+        "className": "org.apache.commons.lang3.concurrent.AbstractCircuitBreaker$1",
+        "normalizedScore": 0.7760688347304362,
+        "weightedScore": 0.7878558906513319,
+        "b2s": 7600,
+        "s2b": 0,
+        "b2sMemory": 0.3890380859375,
+        "s2bMemory": 0.38916015625
+    },
+    {
+        "className": "org.apache.commons.lang3.time.DateParser",
+        "normalizedScore": 0.9494135647061305,
+        "weightedScore": 0.9542576159608392,
+        "b2s": 5300,
+        "s2b": 0,
+        "b2sMemory": 0.3890380859375,
+        "s2bMemory": 0.38916015625
+    },
+    {
+        "className": "org.apache.commons.lang3.builder.ReflectionToStringBuilder",
+        "normalizedScore": 0.6968355964572325,
+        "weightedScore": 0.6897168070929112,
+        "b2s": 5300,
+        "s2b": 49,
+        "b2sMemory": 0.3890380859375,
+        "s2bMemory": 12.3909912109375
+    },
+    {
+        "className": "org.apache.commons.lang3.concurrent.EventCountCircuitBreaker$StateStrategyOpen",
+        "normalizedScore": 0.6875767224571717,
+        "weightedScore": 0.682565933004472,
+        "b2s": 5000,
+        "s2b": 5,
+        "b2sMemory": 2.0,
+        "s2bMemory": 0.9407272338867188
+    },
+    {
+        "className": "org.apache.commons.lang3.concurrent.locks.LockingVisitors",
+        "normalizedScore": 0.667676080286694,
+        "weightedScore": 0.661744866719737,
+        "b2s": 5400,
+        "s2b": 2,
+        "b2sMemory": 0.7054595947265625,
+        "s2bMemory": 0.7055816650390625
+    },
+    {
+        "className": "org.apache.commons.lang3.function.FailableShortSupplier",
+        "normalizedScore": 0.5743000978984001,
+        "weightedScore": 0.5664256436641155,
+        "b2s": 6700,
+        "s2b": 0,
+        "b2sMemory": 0.7054595947265625,
+        "s2bMemory": 0.7055816650390625
+    },
+    {
+        "className": "org.apache.commons.lang3.time.FastDateParser$Strategy",
+        "normalizedScore": 0.7111095432668056,
+        "weightedScore": 0.7023319222734583,
+        "b2s": 5400,
+        "s2b": 2,
+        "b2sMemory": 0.7054595947265625,
+        "s2bMemory": 0.7055816650390625
+    },
+    {
+        "className": "org.apache.commons.lang3.compare.package-info",
+        "normalizedScore": 0.804979591102513,
+        "weightedScore": 0.8144816319922618,
+        "b2s": 4500,
+        "s2b": 0,
+        "b2sMemory": 0.7054595947265625,
+        "s2bMemory": 0.7055816650390625
+    },
+    {
+        "className": "org.apache.commons.lang3.reflect.Typed",
+        "normalizedScore": 0.7052141943614813,
+        "weightedScore": 0.697679787912346,
+        "b2s": 5300,
+        "s2b": 0,
+        "b2sMemory": 0.7054595947265625,
+        "s2bMemory": 0.7055816650390625
+    },
+    {
+        "className": "org.apache.commons.lang3.tuple.ImmutablePair",
+        "normalizedScore": 0.6002793652543396,
+        "weightedScore": 0.5976560897458547,
+        "b2s": 5100,
+        "s2b": 16,
+        "b2sMemory": 0.7054595947265625,
+        "s2bMemory": 2.1166152954101562
+    },
+    {
+        "className": "org.apache.commons.lang3.time.FastDateFormat$1",
+        "normalizedScore": 0.7029554940540493,
+        "weightedScore": 0.69733303131869,
+        "b2s": 5200,
+        "s2b": 2,
+        "b2sMemory": 0.7054595947265625,
+        "s2bMemory": 0.7055816650390625
+    },
+    {
+        "className": "org.apache.commons.lang3.time.FastDatePrinter$TwoDigitNumberField",
+        "normalizedScore": 0.7551184005251037,
+        "weightedScore": 0.7499859974370977,
+        "b2s": 4800,
+        "s2b": 4,
+        "b2sMemory": 0.7054595947265625,
+        "s2bMemory": 0.7055816650390625
+    },
+    {
+        "className": "org.apache.commons.lang3.mutable.MutableDouble",
+        "normalizedScore": 0.7360179339013907,
+        "weightedScore": 0.730768144345194,
+        "b2s": 4700,
+        "s2b": 21,
+        "b2sMemory": 0.7054595947265625,
+        "s2bMemory": 5.412933349609375
+    },
+    {
+        "className": "org.apache.commons.lang3.reflect.FieldUtils",
+        "normalizedScore": 0.6924850306776998,
+        "weightedScore": 0.6820412762384036,
+        "b2s": 4500,
+        "s2b": 51,
+        "b2sMemory": 0.6707534790039062,
+        "s2bMemory": 16.672706604003906
+    },
+    {
+        "className": "org.apache.commons.lang3.time.TimeZones",
+        "normalizedScore": 0.7999064956962227,
+        "weightedScore": 0.8027782539890083,
+        "b2s": 5100,
+        "s2b": 1,
+        "b2sMemory": 0.758331298828125,
+        "s2bMemory": 0.758453369140625
+    },
+    {
+        "className": "org.apache.commons.lang3.function.FailableDoubleToIntFunction",
+        "normalizedScore": 0.7014825700150719,
+        "weightedScore": 0.7002965320475196,
+        "b2s": 5000,
+        "s2b": 2,
+        "b2sMemory": 0.758331298828125,
+        "s2bMemory": 0.758453369140625
+    },
+    {
+        "className": "org.apache.commons.lang3.function.FailableDoubleBinaryOperator",
+        "normalizedScore": 0.563145165112164,
+        "weightedScore": 0.554887908314649,
+        "b2s": 4700,
+        "s2b": 0,
+        "b2sMemory": 0.758331298828125,
+        "s2bMemory": 0.758453369140625
+    },
+    {
+        "className": "org.apache.commons.lang3.exception.CloneFailedException",
+        "normalizedScore": 0.7283039082122337,
+        "weightedScore": 0.7231245241024197,
+        "b2s": 15600,
+        "s2b": 2,
+        "b2sMemory": 0.758331298828125,
+        "s2bMemory": 0.758453369140625
+    },
+    {
+        "className": "org.apache.commons.lang3.function.FailableObjLongConsumer",
+        "normalizedScore": 0.6838982274736676,
+        "weightedScore": 0.6817837997601608,
+        "b2s": 5200,
+        "s2b": 1,
+        "b2sMemory": 0.758331298828125,
+        "s2bMemory": 0.758453369140625
+    },
+    {
+        "className": "org.apache.commons.lang3.Functions$FailableRunnable",
+        "normalizedScore": 0.5412995488102238,
+        "weightedScore": 0.535025124403242,
+        "b2s": 5000,
+        "s2b": 0,
+        "b2sMemory": 0.758331298828125,
+        "s2bMemory": 0.758453369140625
+    },
+    {
+        "className": "org.apache.commons.lang3.function.package-info",
+        "normalizedScore": 0.8051512612093695,
+        "weightedScore": 0.8147124709662952,
+        "b2s": 5100,
+        "s2b": 0,
+        "b2sMemory": 0.758331298828125,
+        "s2bMemory": 0.758453369140625
+    },
+    {
+        "className": "org.apache.commons.lang3.text.translate.CharSequenceTranslator",
+        "normalizedScore": 0.7167599591389929,
+        "weightedScore": 0.707238511118842,
+        "b2s": 4700,
+        "s2b": 11,
+        "b2sMemory": 1.1583633422851562,
+        "s2bMemory": 3.7943115234375
+    },
+    {
+        "className": "org.apache.commons.lang3.time.package-info",
+        "normalizedScore": 0.8041523915354234,
+        "weightedScore": 0.8135009319094401,
+        "b2s": 4700,
+        "s2b": 0,
+        "b2sMemory": 0.758331298828125,
+        "s2bMemory": 0.758453369140625
+    },
+    {
+        "className": "org.apache.commons.lang3.compare.ComparableUtils$ComparableCheckBuilder",
+        "normalizedScore": 0.540644184785613,
+        "weightedScore": 0.5343337400458217,
+        "b2s": 4600,
+        "s2b": 9,
+        "b2sMemory": 0.758331298828125,
+        "s2bMemory": 3.794342041015625
+    },
+    {
+        "className": "org.apache.commons.lang3.time.FastDatePrinter$PaddedNumberField",
+        "normalizedScore": 0.736335909082458,
+        "weightedScore": 0.7324046569410443,
+        "b2s": 4600,
+        "s2b": 2,
+        "b2sMemory": 0.758331298828125,
+        "s2bMemory": 0.758453369140625
+    },
+    {
+        "className": "org.apache.commons.lang3.time.FastDatePrinter",
+        "normalizedScore": 0.7212436631962665,
+        "weightedScore": 0.7134259164169983,
+        "b2s": 4900,
+        "s2b": 88,
+        "b2sMemory": 0.758331298828125,
+        "s2bMemory": 3.303497314453125
+    },
+    {
+        "className": "org.apache.commons.lang3.mutable.MutableBoolean",
+        "normalizedScore": 0.7307835589601055,
+        "weightedScore": 0.723072362379817,
+        "b2s": 4700,
+        "s2b": 8,
+        "b2sMemory": 0.779937744140625,
+        "s2bMemory": 3.119903564453125
+    },
+    {
+        "className": "org.apache.commons.lang3.function.FailableIntFunction",
+        "normalizedScore": 0.6933883338079223,
+        "weightedScore": 0.6927553827800712,
+        "b2s": 4900,
+        "s2b": 1,
+        "b2sMemory": 0.7799453735351562,
+        "s2bMemory": 0.780059814453125
+    },
+    {
+        "className": "org.apache.commons.lang3.function.FailableLongSupplier",
+        "normalizedScore": 0.5746026401518809,
+        "weightedScore": 0.5668052974850074,
+        "b2s": 4700,
+        "s2b": 0,
+        "b2sMemory": 0.7799453735351562,
+        "s2bMemory": 0.780059814453125
+    },
+    {
+        "className": "org.apache.commons.lang3.reflect.TypeUtils",
+        "normalizedScore": 0.6754872001443539,
+        "weightedScore": 0.6681827836923473,
+        "b2s": 5100,
+        "s2b": 168,
+        "b2sMemory": 0.7799453735351562,
+        "s2bMemory": 38.398902893066406
+    },
+    {
+        "className": "org.apache.commons.lang3.time.DatePrinter",
+        "normalizedScore": 0.6934273066770702,
+        "weightedScore": 0.6884141563573674,
+        "b2s": 4900,
+        "s2b": 0,
+        "b2sMemory": 2.0,
+        "s2bMemory": 1.1051788330078125
+    },
+    {
+        "className": "org.apache.commons.lang3.time.FastTimeZone",
+        "normalizedScore": 0.7780143472722826,
+        "weightedScore": 0.7792090826720448,
+        "b2s": 5000,
+        "s2b": 4,
+        "b2sMemory": 0.789337158203125,
+        "s2bMemory": 2.3681182861328125
+    },
+    {
+        "className": "org.apache.commons.lang3.time.FastDatePrinter$UnpaddedNumberField",
+        "normalizedScore": 0.7234815377842754,
+        "weightedScore": 0.7112657856240899,
+        "b2s": 4400,
+        "s2b": 2,
+        "b2sMemory": 0.789337158203125,
+        "s2bMemory": 0.7894515991210938
+    },
+    {
+        "className": "org.apache.commons.lang3.concurrent.AbstractCircuitBreaker$State$2",
+        "normalizedScore": 0.8082278646219997,
+        "weightedScore": 0.8083361435134254,
+        "b2s": 4700,
+        "s2b": 1,
+        "b2sMemory": 0.789337158203125,
+        "s2bMemory": 0.7894515991210938
+    },
+    {
+        "className": "org.apache.commons.lang3.time.FastDatePrinter$DayInWeekField",
+        "normalizedScore": 0.7042249423551098,
+        "weightedScore": 0.6945657158596107,
+        "b2s": 5200,
+        "s2b": 2,
+        "b2sMemory": 0.789337158203125,
+        "s2bMemory": 0.7894515991210938
+    },
+    {
+        "className": "org.apache.commons.lang3.tuple.MutableTriple",
+        "normalizedScore": 0.5638294501718034,
+        "weightedScore": 0.5574961137975512,
+        "b2s": 5600,
+        "s2b": 4,
+        "b2sMemory": 0.789337158203125,
+        "s2bMemory": 1.5788040161132812
+    },
+    {
+        "className": "org.apache.commons.lang3.time.StopWatch$State$1",
+        "normalizedScore": 0.7411697658620463,
+        "weightedScore": 0.7376069662816316,
+        "b2s": 5200,
+        "s2b": 1,
+        "b2sMemory": 0.789337158203125,
+        "s2bMemory": 0.7894515991210938
+    },
+    {
+        "className": "org.apache.commons.lang3.Validate",
+        "normalizedScore": 0.6707497998733718,
+        "weightedScore": 0.6584694680673107,
+        "b2s": 5600,
+        "s2b": 51,
+        "b2sMemory": 0.789337158203125,
+        "s2bMemory": 20.791290283203125
+    },
+    {
+        "className": "org.apache.commons.lang3.time.FastDateParser$PatternStrategy",
+        "normalizedScore": 0.7428467373865532,
+        "weightedScore": 0.7385979059418046,
+        "b2s": 5500,
+        "s2b": 3,
+        "b2sMemory": 0.7447357177734375,
+        "s2bMemory": 2.2343368530273438
+    },
+    {
+        "className": "org.apache.commons.lang3.time.FastDatePrinter$StringLiteral",
+        "normalizedScore": 0.7508399484369114,
+        "weightedScore": 0.7473651489955191,
+        "b2s": 4500,
+        "s2b": 1,
+        "b2sMemory": 0.7447357177734375,
+        "s2bMemory": 0.7448501586914062
+    },
+    {
+        "className": "org.apache.commons.lang3.Range$ComparableComparator",
+        "normalizedScore": 0.7570746994412337,
+        "weightedScore": 0.7573660714195192,
+        "b2s": 4600,
+        "s2b": 2,
+        "b2sMemory": 0.7447357177734375,
+        "s2bMemory": 1.4896011352539062
+    },
+    {
+        "className": "org.apache.commons.lang3.exception.package-info",
+        "normalizedScore": 0.8053205835558778,
+        "weightedScore": 0.8149400403518051,
+        "b2s": 4900,
+        "s2b": 0,
+        "b2sMemory": 0.7447357177734375,
+        "s2bMemory": 0.7448501586914062
+    },
+    {
+        "className": "org.apache.commons.lang3.builder.ToStringBuilder",
+        "normalizedScore": 0.7523720655963628,
+        "weightedScore": 0.7494528476771524,
+        "b2s": 5100,
+        "s2b": 27,
+        "b2sMemory": 0.7447357177734375,
+        "s2bMemory": 13.491828918457031
+    },
+    {
+        "className": "org.apache.commons.lang3.mutable.MutableFloat",
+        "normalizedScore": 0.7431948441193911,
+        "weightedScore": 0.7376230756290014,
+        "b2s": 4900,
+        "s2b": 12,
+        "b2sMemory": 0.73114013671875,
+        "s2bMemory": 4.7332000732421875
+    },
+    {
+        "className": "org.apache.commons.lang3.text.translate.package-info",
+        "normalizedScore": 0.805587118934044,
+        "weightedScore": 0.8155393559457491,
+        "b2s": 5100,
+        "s2b": 0,
+        "b2sMemory": 0.6990127563476562,
+        "s2bMemory": 0.699127197265625
+    },
+    {
+        "className": "org.apache.commons.lang3.function.TriFunction",
+        "normalizedScore": 0.5615357933094438,
+        "weightedScore": 0.5580137929258678,
+        "b2s": 5900,
+        "s2b": 1,
+        "b2sMemory": 0.6990127563476562,
+        "s2bMemory": 0.699127197265625
+    },
+    {
+        "className": "org.apache.commons.lang3.RandomStringUtils",
+        "normalizedScore": 0.7854116174150443,
+        "weightedScore": 0.7789239979523515,
+        "b2s": 4800,
+        "s2b": 30,
+        "b2sMemory": 0.6990127563476562,
+        "s2bMemory": 25.39997100830078
+    },
+    {
+        "className": "org.apache.commons.lang3.Functions$FailableBiConsumer",
+        "normalizedScore": 0.5222485424803963,
+        "weightedScore": 0.5157741403119227,
+        "b2s": 6000,
+        "s2b": 0,
+        "b2sMemory": 2.0,
+        "s2bMemory": 1.0237350463867188
+    },
+    {
+        "className": "org.apache.commons.lang3.function.FailableFunction",
+        "normalizedScore": 0.5719964290961094,
+        "weightedScore": 0.5699688730358395,
+        "b2s": 4800,
+        "s2b": 3,
+        "b2sMemory": 0.7311630249023438,
+        "s2bMemory": 1.4650192260742188
+    },
+    {
+        "className": "org.apache.commons.lang3.function.FailableLongUnaryOperator",
+        "normalizedScore": 0.6058369090270331,
+        "weightedScore": 0.6032075138835036,
+        "b2s": 4800,
+        "s2b": 2,
+        "b2sMemory": 0.7311630249023438,
+        "s2bMemory": 1.46246337890625
+    },
+    {
+        "className": "org.apache.commons.lang3.concurrent.BackgroundInitializer$InitializationTask",
+        "normalizedScore": 0.6894637905116969,
+        "weightedScore": 0.6849813933096481,
+        "b2s": 5000,
+        "s2b": 2,
+        "b2sMemory": 0.7311630249023438,
+        "s2bMemory": 0.7312774658203125
+    },
+    {
+        "className": "org.apache.commons.lang3.function.FailableIntUnaryOperator",
+        "normalizedScore": 0.6078728725408231,
+        "weightedScore": 0.6052176482160561,
+        "b2s": 5600,
+        "s2b": 2,
+        "b2sMemory": 0.7311630249023438,
+        "s2bMemory": 1.462432861328125
+    },
+    {
+        "className": "org.apache.commons.lang3.ThreadUtils$ThreadIdPredicate",
+        "normalizedScore": 0.7178925102856826,
+        "weightedScore": 0.7151270389817701,
+        "b2s": 5100,
+        "s2b": 1,
+        "b2sMemory": 0.7311630249023438,
+        "s2bMemory": 0.7312774658203125
+    },
+    {
+        "className": "org.apache.commons.lang3.time.FastDatePrinter$TimeZoneNumberRule",
+        "normalizedScore": 0.7853008515011416,
+        "weightedScore": 0.7863944222650059,
+        "b2s": 5300,
+        "s2b": 2,
+        "b2sMemory": 0.7311630249023438,
+        "s2bMemory": 1.462493896484375
+    },
+    {
+        "className": "org.apache.commons.lang3.text.translate.UnicodeUnescaper",
+        "normalizedScore": 0.7638615970060451,
+        "weightedScore": 0.7612915932942985,
+        "b2s": 5000,
+        "s2b": 5,
+        "b2sMemory": 0.7311630249023438,
+        "s2bMemory": 6.195549011230469
+    },
+    {
+        "className": "org.apache.commons.lang3.time.FastDateParser$3",
+        "normalizedScore": 0.7124468726312281,
+        "weightedScore": 0.7079668912504582,
+        "b2s": 5200,
+        "s2b": 0,
+        "b2sMemory": 0.7311630249023438,
+        "s2bMemory": 0.7312774658203125
+    },
+    {
+        "className": "org.apache.commons.lang3.Strings$CiStrings",
+        "normalizedScore": 0.6901763934322432,
+        "weightedScore": 0.688141341701979,
+        "b2s": 5600,
+        "s2b": 5,
+        "b2sMemory": 0.7311630249023438,
+        "s2bMemory": 4.7331085205078125
+    },
+    {
+        "className": "org.apache.commons.lang3.time.AbstractFormatCache",
+        "normalizedScore": 0.6761973401208343,
+        "weightedScore": 0.6667462125500342,
+        "b2s": 4800,
+        "s2b": 6,
+        "b2sMemory": 0.7311630249023438,
+        "s2bMemory": 5.464324951171875
+    },
+    {
+        "className": "org.apache.commons.lang3.time.FastDatePrinter$Rule",
+        "normalizedScore": 0.9328945595575812,
+        "weightedScore": 0.9389599423115006,
+        "b2s": 5500,
+        "s2b": 0,
+        "b2sMemory": 0.7311630249023438,
+        "s2bMemory": 0.7312774658203125
+    },
+    {
+        "className": "org.apache.commons.lang3.function.FailableBiConsumer",
+        "normalizedScore": 0.6033555608902762,
+        "weightedScore": 0.6015019851434402,
+        "b2s": 5200,
+        "s2b": 1,
+        "b2sMemory": 0.7311630249023438,
+        "s2bMemory": 1.46246337890625
+    },
+    {
+        "className": "org.apache.commons.lang3.concurrent.locks.LockingVisitors$StampedLockVisitor",
+        "normalizedScore": 0.6365354167596217,
+        "weightedScore": 0.632837557261564,
+        "b2s": 5400,
+        "s2b": 0,
+        "b2sMemory": 0.7311630249023438,
+        "s2bMemory": 0.7312774658203125
+    },
+    {
+        "className": "org.apache.commons.lang3.StringEscapeUtils$CsvUnescaper",
+        "normalizedScore": 0.7820680203495417,
+        "weightedScore": 0.7801961179301364,
+        "b2s": 4900,
+        "s2b": 3,
+        "b2sMemory": 0.7311630249023438,
+        "s2bMemory": 3.6560440063476562
+    },
+    {
+        "className": "org.apache.commons.lang3.builder.IDKey",
+        "normalizedScore": 0.7394379339831735,
+        "weightedScore": 0.7395782654152495,
+        "b2s": 5200,
+        "s2b": 1,
+        "b2sMemory": 0.7311630249023438,
+        "s2bMemory": 0.7312774658203125
+    },
+    {
+        "className": "org.apache.commons.lang3.time.FastDateParser$TimeZoneStrategy",
+        "normalizedScore": 0.7361004639295556,
+        "weightedScore": 0.7342459894528037,
+        "b2s": 4700,
+        "s2b": 13,
+        "b2sMemory": 0.7311630249023438,
+        "s2bMemory": 10.195510864257812
+    },
+    {
+        "className": "org.apache.commons.lang3.concurrent.AtomicInitializer$1",
+        "normalizedScore": 0.7750284059266569,
+        "weightedScore": 0.786501943286747,
+        "b2s": 5000,
+        "s2b": 0,
+        "b2sMemory": 0.7335052490234375,
+        "s2bMemory": 0.7336196899414062
+    },
+    {
+        "className": "org.apache.commons.lang3.stream.Streams",
+        "normalizedScore": 0.5465766887846605,
+        "weightedScore": 0.5417302592547004,
+        "b2s": 5000,
+        "s2b": 6,
+        "b2sMemory": 0.7335052490234375,
+        "s2bMemory": 3.6676788330078125
+    },
+    {
+        "className": "org.apache.commons.lang3.ClassPathUtils",
+        "normalizedScore": 0.7240090200967572,
+        "weightedScore": 0.7183230706059933,
+        "b2s": 5700,
+        "s2b": 2,
+        "b2sMemory": 0.7335052490234375,
+        "s2bMemory": 2.2007522583007812
+    },
+    {
+        "className": "org.apache.commons.lang3.ArchUtils",
+        "normalizedScore": 0.8594566758697101,
+        "weightedScore": 0.8653375946393715,
+        "b2s": 5500,
+        "s2b": 6,
+        "b2sMemory": 0.7335052490234375,
+        "s2bMemory": 4.0
+    },
+    {
+        "className": "org.apache.commons.lang3.builder.ToStringStyle$MultiLineToStringStyle",
+        "normalizedScore": 0.8258698114138285,
+        "weightedScore": 0.8272683082877745,
+        "b2s": 4700,
+        "s2b": 1,
+        "b2sMemory": 0.7335052490234375,
+        "s2bMemory": 1.4672164916992188
+    },
+    {
+        "className": "org.apache.commons.lang3.time.StopWatch$State$3",
+        "normalizedScore": 0.741493435254673,
+        "weightedScore": 0.7379953695527837,
+        "b2s": 5000,
+        "s2b": 0,
+        "b2sMemory": 0.7335052490234375,
+        "s2bMemory": 0.7336196899414062
+    },
+    {
+        "className": "org.apache.commons.lang3.function.Predicates",
+        "normalizedScore": 0.7319143564359657,
+        "weightedScore": 0.7342763679776949,
+        "b2s": 4800,
+        "s2b": 1,
+        "b2sMemory": 0.7335052490234375,
+        "s2bMemory": 0.7336196899414062
+    },
+    {
+        "className": "org.apache.commons.lang3.builder.ToStringStyle",
+        "normalizedScore": 0.7572239680686366,
+        "weightedScore": 0.7517264808458597,
+        "b2s": 5500,
+        "s2b": 61,
+        "b2sMemory": 0.7335052490234375,
+        "s2bMemory": 0.976043701171875
+    },
+    {
+        "className": "org.apache.commons.lang3.CharUtils",
+        "normalizedScore": 0.7767454139618962,
+        "weightedScore": 0.7661549643021464,
+        "b2s": 5400,
+        "s2b": 11,
+        "b2sMemory": 2.0,
+        "s2bMemory": 7.271156311035156
+    },
+    {
+        "className": "org.apache.commons.lang3.DoubleRange",
+        "normalizedScore": 0.7215743347661042,
+        "weightedScore": 0.7161185819617628,
+        "b2s": 4700,
+        "s2b": 1,
+        "b2sMemory": 0.7486724853515625,
+        "s2bMemory": 0.7487945556640625
+    },
+    {
+        "className": "org.apache.commons.lang3.builder.Diff",
+        "normalizedScore": 0.6829496935150036,
+        "weightedScore": 0.667372981645352,
+        "b2s": 5100,
+        "s2b": 2,
+        "b2sMemory": 0.7486724853515625,
+        "s2bMemory": 2.2461700439453125
+    },
+    {
+        "className": "org.apache.commons.lang3.time.FastDatePrinter$UnpaddedMonthField",
+        "normalizedScore": 0.7569598528678038,
+        "weightedScore": 0.7488090483039149,
+        "b2s": 4600,
+        "s2b": 2,
+        "b2sMemory": 0.7486724853515625,
+        "s2bMemory": 0.7487945556640625
+    },
+    {
+        "className": "org.apache.commons.lang3.stream.LangCollectors",
+        "normalizedScore": 0.6317454159522656,
+        "weightedScore": 0.6295545584431115,
+        "b2s": 5800,
+        "s2b": 3,
+        "b2sMemory": 0.7486724853515625,
+        "s2bMemory": 2.995208740234375
+    },
+    {
+        "className": "org.apache.commons.lang3.builder.DiffBuilder$SerializableSupplier",
+        "normalizedScore": 0.5565552696778678,
+        "weightedScore": 0.5441964460067844,
+        "b2s": 5100,
+        "s2b": 0,
+        "b2sMemory": 0.7486724853515625,
+        "s2bMemory": 0.7487945556640625
+    },
+    {
+        "className": "org.apache.commons.lang3.RegExUtils",
+        "normalizedScore": 0.7436848580467025,
+        "weightedScore": 0.7340452056403937,
+        "b2s": 5400,
+        "s2b": 6,
+        "b2sMemory": 0.7486724853515625,
+        "s2bMemory": 4.750633239746094
+    },
+    {
+        "className": "org.apache.commons.lang3.concurrent.package-info",
+        "normalizedScore": 0.8057700905459279,
+        "weightedScore": 0.8154186454011094,
+        "b2s": 5200,
+        "s2b": 0,
+        "b2sMemory": 0.7486724853515625,
+        "s2bMemory": 0.7487945556640625
+    },
+    {
+        "className": "org.apache.commons.lang3.math.NumberUtils",
+        "normalizedScore": 0.7438885743134417,
+        "weightedScore": 0.7375921218775414,
+        "b2s": 5600,
+        "s2b": 94,
+        "b2sMemory": 0.7486724853515625,
+        "s2bMemory": 14.109321594238281
+    },
+    {
+        "className": "org.apache.commons.lang3.concurrent.ConstantInitializer",
+        "normalizedScore": 0.6144648446161297,
+        "weightedScore": 0.604543433392497,
+        "b2s": 4400,
+        "s2b": 2,
+        "b2sMemory": 2.0,
+        "s2bMemory": 1.0958251953125
+    },
+    {
+        "className": "org.apache.commons.lang3.concurrent.AtomicSafeInitializer",
+        "normalizedScore": 0.5954978307725259,
+        "weightedScore": 0.5886509914954519,
+        "b2s": 5400,
+        "s2b": 3,
+        "b2sMemory": 0.78265380859375,
+        "s2bMemory": 2.3480987548828125
+    },
+    {
+        "className": "org.apache.commons.lang3.mutable.MutableObject",
+        "normalizedScore": 0.5705630801863019,
+        "weightedScore": 0.5644697082141834,
+        "b2s": 18600,
+        "s2b": 1,
+        "b2sMemory": 0.78265380859375,
+        "s2bMemory": 1.5654296875
+    },
+    {
+        "className": "org.apache.commons.lang3.text.translate.NumericEntityUnescaper$OPTION",
+        "normalizedScore": 0.7912291656004267,
+        "weightedScore": 0.7964245763286282,
+        "b2s": 4600,
+        "s2b": 1,
+        "b2sMemory": 0.78265380859375,
+        "s2bMemory": 1.56549072265625
+    },
+    {
+        "className": "org.apache.commons.lang3.concurrent.ThresholdCircuitBreaker",
+        "normalizedScore": 0.7317596176124814,
+        "weightedScore": 0.730646857133578,
+        "b2s": 5400,
+        "s2b": 2,
+        "b2sMemory": 0.78265380859375,
+        "s2bMemory": 1.565765380859375
+    },
+    {
+        "className": "org.apache.commons.lang3.time.FastDateParser$NumberStrategy",
+        "normalizedScore": 0.7437282641030242,
+        "weightedScore": 0.7422219584804679,
+        "b2s": 5300,
+        "s2b": 3,
+        "b2sMemory": 0.78265380859375,
+        "s2bMemory": 3.1308059692382812
+    },
+    {
+        "className": "org.apache.commons.lang3.Functions$FailableConsumer",
+        "normalizedScore": 0.5374372944759773,
+        "weightedScore": 0.5308595569312136,
+        "b2s": 5200,
+        "s2b": 0,
+        "b2sMemory": 0.78265380859375,
+        "s2bMemory": 0.78277587890625
+    },
+    {
+        "className": "org.apache.commons.lang3.util.FluentBitSet",
+        "normalizedScore": 0.774978609782488,
+        "weightedScore": 0.7674147897774624,
+        "b2s": 5300,
+        "s2b": 12,
+        "b2sMemory": 0.78265380859375,
+        "s2bMemory": 7.132568359375
+    },
+    {
+        "className": "org.apache.commons.lang3.concurrent.EventCountCircuitBreaker$1",
+        "normalizedScore": 0.7765779985537131,
+        "weightedScore": 0.7884724375043121,
+        "b2s": 5600,
+        "s2b": 0,
+        "b2sMemory": 0.7641372680664062,
+        "s2bMemory": 0.7642593383789062
+    },
+    {
+        "className": "org.apache.commons.lang3.function.FailableIntToLongFunction",
+        "normalizedScore": 0.7025021538857744,
+        "weightedScore": 0.7014789916372937,
+        "b2s": 4700,
+        "s2b": 1,
+        "b2sMemory": 0.7641372680664062,
+        "s2bMemory": 0.7642593383789062
+    },
+    {
+        "className": "org.apache.commons.lang3.tuple.package-info",
+        "normalizedScore": 0.8046290154138266,
+        "weightedScore": 0.814009863872444,
+        "b2s": 5200,
+        "s2b": 0,
+        "b2sMemory": 0.7641372680664062,
+        "s2bMemory": 0.7642593383789062
+    },
+    {
+        "className": "org.apache.commons.lang3.text.StrLookup$MapStrLookup",
+        "normalizedScore": 0.5788408460532423,
+        "weightedScore": 0.5735140806719039,
+        "b2s": 4900,
+        "s2b": 1,
+        "b2sMemory": 0.7641372680664062,
+        "s2bMemory": 0.7642593383789062
+    },
+    {
+        "className": "org.apache.commons.lang3.time.StopWatch$SplitState",
+        "normalizedScore": 0.7818774682247202,
+        "weightedScore": 0.7854752217018288,
+        "b2s": 4700,
+        "s2b": 1,
+        "b2sMemory": 0.7641372680664062,
+        "s2bMemory": 0.7642593383789062
+    },
+    {
+        "className": "org.apache.commons.lang3.time.FastDateParser$5",
+        "normalizedScore": 0.6947341715883848,
+        "weightedScore": 0.6901256192944111,
+        "b2s": 4600,
+        "s2b": 0,
+        "b2sMemory": 0.7641372680664062,
+        "s2bMemory": 0.7642593383789062
+    },
+    {
+        "className": "org.apache.commons.lang3.time.DurationUtils$1",
+        "normalizedScore": 0.8148242721370632,
+        "weightedScore": 0.8159888202144674,
+        "b2s": 5500,
+        "s2b": 4,
+        "b2sMemory": 0.7641372680664062,
+        "s2bMemory": 3.82342529296875
+    },
+    {
+        "className": "org.apache.commons.lang3.concurrent.BackgroundInitializer$1",
+        "normalizedScore": 0.7758086103573487,
+        "weightedScore": 0.7875407264208505,
+        "b2s": 5500,
+        "s2b": 0,
+        "b2sMemory": 0.7641372680664062,
+        "s2bMemory": 0.7642593383789062
+    },
+    {
+        "className": "org.apache.commons.lang3.concurrent.UncheckedExecutionException",
+        "normalizedScore": 0.7790455198803189,
+        "weightedScore": 0.777078467892287,
+        "b2s": 4900,
+        "s2b": 0,
+        "b2sMemory": 0.7641372680664062,
+        "s2bMemory": 0.7642593383789062
+    },
+    {
+        "className": "org.apache.commons.lang3.time.FastDatePrinter$Iso8601_Rule",
+        "normalizedScore": 0.7866314213657493,
+        "weightedScore": 0.7863753897206348,
+        "b2s": 4300,
+        "s2b": 2,
+        "b2sMemory": 0.7641372680664062,
+        "s2bMemory": 2.292572021484375
+    },
+    {
+        "className": "org.apache.commons.lang3.time.FastDateFormat",
+        "normalizedScore": 0.766093770784888,
+        "weightedScore": 0.7608727678742669,
+        "b2s": 5300,
+        "s2b": 10,
+        "b2sMemory": 0.7641372680664062,
+        "s2bMemory": 8.766090393066406
+    },
+    {
+        "className": "org.apache.commons.lang3.ArrayFill",
+        "normalizedScore": 0.6802897295165908,
+        "weightedScore": 0.6784464358461733,
+        "b2s": 22400,
+        "s2b": 2,
+        "b2sMemory": 0.7601165771484375,
+        "s2bMemory": 1.5203781127929688
+    },
+    {
+        "className": "org.apache.commons.lang3.text.StrMatcher$CharMatcher",
+        "normalizedScore": 0.7163698587410736,
+        "weightedScore": 0.7139064265859745,
+        "b2s": 5900,
+        "s2b": 1,
+        "b2sMemory": 0.7601165771484375,
+        "s2bMemory": 0.7602386474609375
+    },
+    {
+        "className": "org.apache.commons.lang3.function.FailableLongFunction",
+        "normalizedScore": 0.6950626114045085,
+        "weightedScore": 0.6941571925663507,
+        "b2s": 5500,
+        "s2b": 0,
+        "b2sMemory": 0.7601165771484375,
+        "s2bMemory": 0.7602386474609375
+    },
+    {
+        "className": "org.apache.commons.lang3.concurrent.LazyInitializer$1",
+        "normalizedScore": 0.7741628126224233,
+        "weightedScore": 0.7855465313601809,
+        "b2s": 5000,
+        "s2b": 0,
+        "b2sMemory": 0.7601165771484375,
+        "s2bMemory": 0.7602386474609375
+    },
+    {
+        "className": "org.apache.commons.lang3.concurrent.EventCountCircuitBreaker$StateStrategyClosed",
+        "normalizedScore": 0.6976573464326142,
+        "weightedScore": 0.6921146914105385,
+        "b2s": 4800,
+        "s2b": 1,
+        "b2sMemory": 0.7601165771484375,
+        "s2bMemory": 0.7602386474609375
+    },
+    {
+        "className": "org.apache.commons.lang3.stream.Streams$ArrayCollector",
+        "normalizedScore": 0.582465812949719,
+        "weightedScore": 0.58014121747035,
+        "b2s": 5600,
+        "s2b": 2,
+        "b2sMemory": 0.7601165771484375,
+        "s2bMemory": 1.520355224609375
+    },
+    {
+        "className": "org.apache.commons.lang3.event.EventUtils",
+        "normalizedScore": 0.7205338911514895,
+        "weightedScore": 0.716044718156801,
+        "b2s": 5400,
+        "s2b": 2,
+        "b2sMemory": 0.7601165771484375,
+        "s2bMemory": 3.04412841796875
+    },
+    {
+        "className": "org.apache.commons.lang3.time.GmtTimeZone",
+        "normalizedScore": 0.7480266527489533,
+        "weightedScore": 0.7430213499700373,
+        "b2s": 5100,
+        "s2b": 5,
+        "b2sMemory": 0.7601165771484375,
+        "s2bMemory": 4.7621002197265625
+    },
+    {
+        "className": "org.apache.commons.lang3.time.AbstractFormatCache$ArrayKey",
+        "normalizedScore": 0.7385783518041423,
+        "weightedScore": 0.7395992751106341,
+        "b2s": 5200,
+        "s2b": 1,
+        "b2sMemory": 0.7601165771484375,
+        "s2bMemory": 1.520355224609375
+    },
+    {
+        "className": "org.apache.commons.lang3.time.FastDatePrinter$TextField",
+        "normalizedScore": 0.7140199775983757,
+        "weightedScore": 0.7142426089186569,
+        "b2s": 5500,
+        "s2b": 1,
+        "b2sMemory": 0.7601165771484375,
+        "s2bMemory": 1.5203857421875
+    },
+    {
+        "className": "org.apache.commons.lang3.exception.UncheckedReflectiveOperationException",
+        "normalizedScore": 0.7765260479180167,
+        "weightedScore": 0.7741014066520508,
+        "b2s": 5100,
+        "s2b": 0,
+        "b2sMemory": 0.7601165771484375,
+        "s2bMemory": 0.7602386474609375
+    },
+    {
+        "className": "org.apache.commons.lang3.StringEscapeUtils$CsvEscaper",
+        "normalizedScore": 0.7955277301148661,
+        "weightedScore": 0.7960533884759284,
+        "b2s": 5000,
+        "s2b": 2,
+        "b2sMemory": 0.7601165771484375,
+        "s2bMemory": 2.2805023193359375
+    },
+    {
+        "className": "org.apache.commons.lang3.concurrent.AtomicSafeInitializer$1",
+        "normalizedScore": 0.7758086103573487,
+        "weightedScore": 0.7875407264208505,
+        "b2s": 4700,
+        "s2b": 0,
+        "b2sMemory": 0.7601165771484375,
+        "s2bMemory": 0.7602386474609375
+    },
+    {
+        "className": "org.apache.commons.lang3.exception.ExceptionUtils",
+        "normalizedScore": 0.6972190265468748,
+        "weightedScore": 0.6922324677418481,
+        "b2s": 5600,
+        "s2b": 37,
+        "b2sMemory": 0.7601165771484375,
+        "s2bMemory": 17.522216796875
+    },
+    {
+        "className": "org.apache.commons.lang3.time.FastDatePrinter$CharacterLiteral",
+        "normalizedScore": 0.739819755650507,
+        "weightedScore": 0.7353515777201474,
+        "b2s": 5200,
+        "s2b": 1,
+        "b2sMemory": 0.744598388671875,
+        "s2bMemory": 0.744720458984375
+    },
+    {
+        "className": "org.apache.commons.lang3.concurrent.MultiBackgroundInitializer$MultiBackgroundInitializerResults",
+        "normalizedScore": 0.6708154696837202,
+        "weightedScore": 0.6640633249113629,
+        "b2s": 5500,
+        "s2b": 3,
+        "b2sMemory": 0.6701431274414062,
+        "s2bMemory": 2.0105819702148438
+    },
+    {
+        "className": "org.apache.commons.lang3.time.FastDateParser$CaseInsensitiveTextStrategy",
+        "normalizedScore": 0.7902837809947328,
+        "weightedScore": 0.790602269620767,
+        "b2s": 5600,
+        "s2b": 3,
+        "b2sMemory": 0.6701431274414062,
+        "s2bMemory": 3.355438232421875
+    },
+    {
+        "className": "org.apache.commons.lang3.builder.HashCodeExclude",
+        "normalizedScore": 0.9168186305084273,
+        "weightedScore": 0.9239873421702283,
+        "b2s": 73600,
+        "s2b": 8,
+        "b2sMemory": 0.6701431274414062,
+        "s2bMemory": 0.6702651977539062
+    },
+    {
+        "className": "org.apache.commons.lang3.event.EventUtils$EventBindingInvocationHandler",
+        "normalizedScore": 0.7709575009891876,
+        "weightedScore": 0.7720004690641056,
+        "b2s": 5300,
+        "s2b": 2,
+        "b2sMemory": 0.6701431274414062,
+        "s2bMemory": 2.0105819702148438
+    },
+    {
+        "className": "org.apache.commons.lang3.function.FailableLongBinaryOperator",
+        "normalizedScore": 0.5636000335903075,
+        "weightedScore": 0.5558716091786452,
+        "b2s": 5200,
+        "s2b": 0,
+        "b2sMemory": 0.6701431274414062,
+        "s2bMemory": 0.6702651977539062
+    },
+    {
+        "className": "org.apache.commons.lang3.function.FailableDoubleToLongFunction",
+        "normalizedScore": 0.7013985191033957,
+        "weightedScore": 0.7001897835826049,
+        "b2s": 5600,
+        "s2b": 1,
+        "b2sMemory": 0.6701431274414062,
+        "s2bMemory": 0.6702651977539062
+    },
+    {
+        "className": "org.apache.commons.lang3.concurrent.locks.LockingVisitors$ReadWriteLockVisitor",
+        "normalizedScore": 0.6372476672352808,
+        "weightedScore": 0.6331665391488268,
+        "b2s": 5400,
+        "s2b": 0,
+        "b2sMemory": 0.6701431274414062,
+        "s2bMemory": 0.6702651977539062
+    },
+    {
+        "className": "org.apache.commons.lang3.concurrent.FutureTasks",
+        "normalizedScore": 0.6024514199169716,
+        "weightedScore": 0.5964287980325129,
+        "b2s": 4400,
+        "s2b": 0,
+        "b2sMemory": 0.6701431274414062,
+        "s2bMemory": 0.6702651977539062
+    },
+    {
+        "className": "org.apache.commons.lang3.time.FastDateParser$1",
+        "normalizedScore": 0.7192157631466,
+        "weightedScore": 0.7168977110610149,
+        "b2s": 5100,
+        "s2b": 0,
+        "b2sMemory": 0.6701431274414062,
+        "s2bMemory": 0.6702651977539062
+    },
+    {
+        "className": "org.apache.commons.lang3.text.StrMatcher",
+        "normalizedScore": 0.8246041479851236,
+        "weightedScore": 0.8277378230696403,
+        "b2s": 5500,
+        "s2b": 4,
+        "b2sMemory": 0.6701431274414062,
+        "s2bMemory": 3.3515243530273438
+    },
+    {
+        "className": "org.apache.commons.lang3.text.StrBuilder$StrBuilderTokenizer",
+        "normalizedScore": 0.7131080062003669,
+        "weightedScore": 0.7128674987629512,
+        "b2s": 4600,
+        "s2b": 1,
+        "b2sMemory": 0.6701431274414062,
+        "s2bMemory": 1.3404617309570312
+    },
+    {
+        "className": "org.apache.commons.lang3.time.StopWatch$1",
+        "normalizedScore": 0.8033622530382462,
+        "weightedScore": 0.8078550015774799,
+        "b2s": 4500,
+        "s2b": 2,
+        "b2sMemory": 0.6701431274414062,
+        "s2bMemory": 2.010711669921875
+    },
+    {
+        "className": "org.apache.commons.lang3.math.Fraction",
+        "normalizedScore": 0.7699752521522796,
+        "weightedScore": 0.7650908704547932,
+        "b2s": 6100,
+        "s2b": 44,
+        "b2sMemory": 0.6701431274414062,
+        "s2bMemory": 1.9841461181640625
+    },
+    {
+        "className": "org.apache.commons.lang3.text.translate.JavaUnicodeEscaper",
+        "normalizedScore": 0.7904422217761026,
+        "weightedScore": 0.7915052382043904,
+        "b2s": 5000,
+        "s2b": 2,
+        "b2sMemory": 2.0,
+        "s2bMemory": 2.321258544921875
+    },
+    {
+        "className": "org.apache.commons.lang3.RandomUtils",
+        "normalizedScore": 0.7701296850472676,
+        "weightedScore": 0.7660652628317528,
+        "b2s": 5000,
+        "s2b": 12,
+        "b2sMemory": 0.9284210205078125,
+        "s2bMemory": 8.930374145507812
+    },
+    {
+        "className": "org.apache.commons.lang3.time.DateUtils$DateIterator",
+        "normalizedScore": 0.7287510038169702,
+        "weightedScore": 0.7237000423319407,
+        "b2s": 5500,
+        "s2b": 1,
+        "b2sMemory": 0.8987274169921875,
+        "s2bMemory": 1.7975692749023438
+    },
+    {
+        "className": "org.apache.commons.lang3.time.FastDateParser$2",
+        "normalizedScore": 0.7223542232184986,
+        "weightedScore": 0.7172616580395059,
+        "b2s": 4300,
+        "s2b": 0,
+        "b2sMemory": 0.8987274169921875,
+        "s2bMemory": 0.8988494873046875
+    },
+    {
+        "className": "org.apache.commons.lang3.function.FailableToLongFunction",
+        "normalizedScore": 0.6928856821330293,
+        "weightedScore": 0.6912374607933001,
+        "b2s": 4900,
+        "s2b": 0,
+        "b2sMemory": 0.8987274169921875,
+        "s2bMemory": 0.8988494873046875
+    },
+    {
+        "className": "org.apache.commons.lang3.text.translate.LookupTranslator",
+        "normalizedScore": 0.720308447082629,
+        "weightedScore": 0.7229942690410328,
+        "b2s": 4600,
+        "s2b": 4,
+        "b2sMemory": 0.8987274169921875,
+        "s2bMemory": 3.595062255859375
+    },
+    {
+        "className": "org.apache.commons.lang3.text.translate.UnicodeUnpairedSurrogateRemover",
+        "normalizedScore": 0.7222757783121262,
+        "weightedScore": 0.7190699396113484,
+        "b2s": 4900,
+        "s2b": 0,
+        "b2sMemory": 0.8987274169921875,
+        "s2bMemory": 0.8988494873046875
+    },
+    {
+        "className": "org.apache.commons.lang3.compare.ObjectToStringComparator",
+        "normalizedScore": 0.6758662637052454,
+        "weightedScore": 0.6744017964256299,
+        "b2s": 5200,
+        "s2b": 1,
+        "b2sMemory": 0.8987274169921875,
+        "s2bMemory": 0.8988494873046875
+    },
+    {
+        "className": "org.apache.commons.lang3.AppendableJoiner$1",
+        "normalizedScore": 0.7703792913599429,
+        "weightedScore": 0.7811674491804703,
+        "b2s": 4300,
+        "s2b": 0,
+        "b2sMemory": 0.8987274169921875,
+        "s2bMemory": 0.8988494873046875
+    },
+    {
+        "className": "org.apache.commons.lang3.builder.ReflectionDiffBuilder",
+        "normalizedScore": 0.6648749777281376,
+        "weightedScore": 0.6581923255504893,
+        "b2s": 4400,
+        "s2b": 7,
+        "b2sMemory": 0.8987274169921875,
+        "s2bMemory": 5.7994232177734375
+    },
+    {
+        "className": "org.apache.commons.lang3.function.FailableLongToIntFunction",
+        "normalizedScore": 0.7025093392575378,
+        "weightedScore": 0.701440795268891,
+        "b2s": 5400,
+        "s2b": 0,
+        "b2sMemory": 0.8987274169921875,
+        "s2bMemory": 0.8988494873046875
+    },
+    {
+        "className": "org.apache.commons.lang3.ThreadUtils$ThreadPredicate",
+        "normalizedScore": 0.8223237163252645,
+        "weightedScore": 0.8318344639587931,
+        "b2s": 4900,
+        "s2b": 0,
+        "b2sMemory": 0.8987274169921875,
+        "s2bMemory": 0.8988494873046875
+    },
+    {
+        "className": "org.apache.commons.lang3.Functions$FailablePredicate",
+        "normalizedScore": 0.5358877219247976,
+        "weightedScore": 0.5291676366010046,
+        "b2s": 5400,
+        "s2b": 0,
+        "b2sMemory": 0.8987274169921875,
+        "s2bMemory": 0.8988494873046875
+    },
+    {
+        "className": "org.apache.commons.lang3.CharEncoding",
+        "normalizedScore": 0.7375714466624869,
+        "weightedScore": 0.7420962555812745,
+        "b2s": 4400,
+        "s2b": 1,
+        "b2sMemory": 0.8987274169921875,
+        "s2bMemory": 0.8988494873046875
+    },
+    {
+        "className": "org.apache.commons.lang3.compare.ComparableUtils",
+        "normalizedScore": 0.6737086881814989,
+        "weightedScore": 0.6718560569942627,
+        "b2s": 4700,
+        "s2b": 4,
+        "b2sMemory": 0.8987274169921875,
+        "s2bMemory": 3.5957183837890625
+    },
+    {
+        "className": "org.apache.commons.lang3.arch.Processor",
+        "normalizedScore": 0.7861963418248695,
+        "weightedScore": 0.7854518776590064,
+        "b2s": 4600,
+        "s2b": 3,
+        "b2sMemory": 0.8987274169921875,
+        "s2bMemory": 2.6963043212890625
+    },
+    {
+        "className": "org.apache.commons.lang3.AppendableJoiner",
+        "normalizedScore": 0.5552598226529789,
+        "weightedScore": 0.5501145908979651,
+        "b2s": 5300,
+        "s2b": 8,
+        "b2sMemory": 0.8987274169921875,
+        "s2bMemory": 6.698005676269531
+    },
+    {
+        "className": "org.apache.commons.lang3.concurrent.CallableBackgroundInitializer",
+        "normalizedScore": 0.5713576340764045,
+        "weightedScore": 0.5621881586863529,
+        "b2s": 5300,
+        "s2b": 1,
+        "b2sMemory": 0.8987274169921875,
+        "s2bMemory": 1.3826522827148438
+    },
+    {
+        "className": "org.apache.commons.lang3.math.package-info",
+        "normalizedScore": 0.8041523915354234,
+        "weightedScore": 0.8135009319094401,
+        "b2s": 5600,
+        "s2b": 0,
+        "b2sMemory": 0.8987274169921875,
+        "s2bMemory": 0.8988494873046875
+    },
+    {
+        "className": "org.apache.commons.lang3.time.FastDatePrinter$WeekYear",
+        "normalizedScore": 0.7620416658505129,
+        "weightedScore": 0.7603386079129117,
+        "b2s": 5700,
+        "s2b": 1,
+        "b2sMemory": 0.8987274169921875,
+        "s2bMemory": 0.8988494873046875
+    },
+    {
+        "className": "org.apache.commons.lang3.reflect.MemberUtils",
+        "normalizedScore": 0.6559904030272308,
+        "weightedScore": 0.6510736263718657,
+        "b2s": 4600,
+        "s2b": 16,
+        "b2sMemory": 0.8987274169921875,
+        "s2bMemory": 13.799430847167969
+    },
+    {
+        "className": "org.apache.commons.lang3.AppendableJoiner$Builder",
+        "normalizedScore": 0.5581258978051701,
+        "weightedScore": 0.5488425278407314,
+        "b2s": 5100,
+        "s2b": 1,
+        "b2sMemory": 0.8815231323242188,
+        "s2bMemory": 2.3216781616210938
+    },
+    {
+        "className": "org.apache.commons.lang3.stream.Streams$FailableStream",
+        "normalizedScore": 0.5384279180523724,
+        "weightedScore": 0.5329474498441158,
+        "b2s": 5600,
+        "s2b": 3,
+        "b2sMemory": 0.8815231323242188,
+        "s2bMemory": 2.644683837890625
+    },
+    {
+        "className": "org.apache.commons.lang3.stream.IntStreams",
+        "normalizedScore": 0.7337884966910578,
+        "weightedScore": 0.737024067084648,
+        "b2s": 4800,
+        "s2b": 1,
+        "b2sMemory": 0.8815231323242188,
+        "s2bMemory": 0.8816452026367188
+    },
+    {
+        "className": "org.apache.commons.lang3.builder.AbstractSupplier",
+        "normalizedScore": 0.5006356139060589,
+        "weightedScore": 0.4874707866926682,
+        "b2s": 4900,
+        "s2b": 0,
+        "b2sMemory": 0.8815231323242188,
+        "s2bMemory": 0.8816452026367188
+    },
+    {
+        "className": "org.apache.commons.lang3.Functions$FailableCallable",
+        "normalizedScore": 0.5390791058533615,
+        "weightedScore": 0.5326918564250502,
+        "b2s": 5300,
+        "s2b": 0,
+        "b2sMemory": 0.8815231323242188,
+        "s2bMemory": 0.8816452026367188
+    },
+    {
+        "className": "org.apache.commons.lang3.builder.CompareToBuilder",
+        "normalizedScore": 0.6746895002855946,
+        "weightedScore": 0.6692882311014933,
+        "b2s": 5100,
+        "s2b": 29,
+        "b2sMemory": 0.8815231323242188,
+        "s2bMemory": 23.528121948242188
+    },
+    {
+        "className": "org.apache.commons.lang3.stream.Streams$EnumerationSpliterator",
+        "normalizedScore": 0.566132417759857,
+        "weightedScore": 0.5568065942216551,
+        "b2s": 5300,
+        "s2b": 1,
+        "b2sMemory": 0.8446502685546875,
+        "s2bMemory": 1.689422607421875
+    },
+    {
+        "className": "org.apache.commons.lang3.concurrent.ConcurrentInitializer",
+        "normalizedScore": 0.5216425707601532,
+        "weightedScore": 0.5045846966628612,
+        "b2s": 10500,
+        "s2b": 0,
+        "b2sMemory": 0.8446502685546875,
+        "s2bMemory": 0.8447723388671875
+    },
+    {
+        "className": "org.apache.commons.lang3.time.FastDatePrinter$TwoDigitMonthField",
+        "normalizedScore": 0.7736936172519325,
+        "weightedScore": 0.7689021830751808,
+        "b2s": 4800,
+        "s2b": 1,
+        "b2sMemory": 0.8446502685546875,
+        "s2bMemory": 0.8472976684570312
+    },
+    {
+        "className": "org.apache.commons.lang3.text.StrBuilder$StrBuilderWriter",
+        "normalizedScore": 0.7463882098102691,
+        "weightedScore": 0.7415433282231816,
+        "b2s": 5100,
+        "s2b": 2,
+        "b2sMemory": 0.8446502685546875,
+        "s2bMemory": 1.6894302368164062
+    },
+    {
+        "className": "org.apache.commons.lang3.text.translate.OctalUnescaper",
+        "normalizedScore": 0.7187035544811858,
+        "weightedScore": 0.7177562122781005,
+        "b2s": 4900,
+        "s2b": 3,
+        "b2sMemory": 0.8446502685546875,
+        "s2bMemory": 4.0
+    },
+    {
+        "className": "org.apache.commons.lang3.ClassUtils$1",
+        "normalizedScore": 0.7039603653092957,
+        "weightedScore": 0.7014536252105102,
+        "b2s": 4600,
+        "s2b": 1,
+        "b2sMemory": 0.8446502685546875,
+        "s2bMemory": 0.8447723388671875
+    },
+    {
+        "className": "org.apache.commons.lang3.event.EventListenerSupport$ProxyInvocationHandler",
+        "normalizedScore": 0.6105950408165111,
+        "weightedScore": 0.6063179171315927,
+        "b2s": 5100,
+        "s2b": 2,
+        "b2sMemory": 0.8446502685546875,
+        "s2bMemory": 1.689422607421875
+    },
+    {
+        "className": "org.apache.commons.lang3.concurrent.EventCountCircuitBreaker$StateStrategy",
+        "normalizedScore": 0.7172372462489008,
+        "weightedScore": 0.715448428052001,
+        "b2s": 5200,
+        "s2b": 1,
+        "b2sMemory": 0.8446502685546875,
+        "s2bMemory": 0.8447723388671875
+    },
+    {
+        "className": "org.apache.commons.lang3.function.FailableSupplier",
+        "normalizedScore": 0.7074186671839389,
+        "weightedScore": 0.7065445123714734,
+        "b2s": 44700,
+        "s2b": 0,
+        "b2sMemory": 0.8446502685546875,
+        "s2bMemory": 0.8447723388671875
+    },
+    {
+        "className": "org.apache.commons.lang3.JavaVersion",
+        "normalizedScore": 0.8368507344249708,
+        "weightedScore": 0.8338868629858126,
+        "b2s": 5700,
+        "s2b": 35,
+        "b2sMemory": 0.8446502685546875,
+        "s2bMemory": 38.543792724609375
+    },
+    {
+        "className": "org.apache.commons.lang3.builder.ToStringStyle$NoFieldNameToStringStyle",
+        "normalizedScore": 0.7991346849734752,
+        "weightedScore": 0.7982593289988136,
+        "b2s": 5000,
+        "s2b": 0,
+        "b2sMemory": 0.8840713500976562,
+        "s2bMemory": 0.8841934204101562
+    },
+    {
+        "className": "org.apache.commons.lang3.concurrent.AtomicSafeInitializer$Builder",
+        "normalizedScore": 0.5745327109629952,
+        "weightedScore": 0.5670344083446303,
+        "b2s": 4300,
+        "s2b": 0,
+        "b2sMemory": 0.8840713500976562,
+        "s2bMemory": 0.8841934204101562
+    },
+    {
+        "className": "org.apache.commons.lang3.concurrent.UncheckedFuture",
+        "normalizedScore": 0.5678502334942505,
+        "weightedScore": 0.5574661480111793,
+        "b2s": 4500,
+        "s2b": 1,
+        "b2sMemory": 0.8840713500976562,
+        "s2bMemory": 0.8841934204101562
+    },
+    {
+        "className": "org.apache.commons.lang3.StringEscapeUtils",
+        "normalizedScore": 0.8222578283921745,
+        "weightedScore": 0.8253265473160497,
+        "b2s": 5600,
+        "s2b": 68,
+        "b2sMemory": 0.8840713500976562,
+        "s2bMemory": 3.6984024047851562
+    },
+    {
+        "className": "org.apache.commons.lang3.reflect.TypeUtils$GenericArrayTypeImpl",
+        "normalizedScore": 0.7216517667938324,
+        "weightedScore": 0.7142942250682218,
+        "b2s": 4700,
+        "s2b": 2,
+        "b2sMemory": 2.0,
+        "s2bMemory": 1.3912582397460938
+    },
+    {
+        "className": "org.apache.commons.lang3.Range",
+        "normalizedScore": 0.6577813705405232,
+        "weightedScore": 0.6497885166587509,
+        "b2s": 5200,
+        "s2b": 12,
+        "b2sMemory": 1.0047149658203125,
+        "s2bMemory": 11.016250610351562
+    },
+    {
+        "className": "org.apache.commons.lang3.function.FailableToIntFunction",
+        "normalizedScore": 0.691595382495476,
+        "weightedScore": 0.6901748148341635,
+        "b2s": 5200,
+        "s2b": 0,
+        "b2sMemory": 0.9982452392578125,
+        "s2bMemory": 0.9983673095703125
+    },
+    {
+        "className": "org.apache.commons.lang3.function.Failable",
+        "normalizedScore": 0.5414088268397489,
+        "weightedScore": 0.5417013462240231,
+        "b2s": 5100,
+        "s2b": 18,
+        "b2sMemory": 0.9982452392578125,
+        "s2bMemory": 13.000267028808594
+    },
+    {
+        "className": "org.apache.commons.lang3.function.FailableBiFunction",
+        "normalizedScore": 0.5965954541738802,
+        "weightedScore": 0.5944010947251155,
+        "b2s": 5100,
+        "s2b": 1,
+        "b2sMemory": 0.9279937744140625,
+        "s2bMemory": 0.9281158447265625
+    },
+    {
+        "className": "org.apache.commons.lang3.reflect.TypeUtils$WildcardTypeBuilder",
+        "normalizedScore": 0.7180178228817082,
+        "weightedScore": 0.7140996686597096,
+        "b2s": 5100,
+        "s2b": 1,
+        "b2sMemory": 0.9279937744140625,
+        "s2bMemory": 0.9281158447265625
+    },
+    {
+        "className": "org.apache.commons.lang3.concurrent.LazyInitializer",
+        "normalizedScore": 0.576952580217915,
+        "weightedScore": 0.5698392762804801,
+        "b2s": 4700,
+        "s2b": 4,
+        "b2sMemory": 0.9279937744140625,
+        "s2bMemory": 1.8561325073242188
+    },
+    {
+        "className": "org.apache.commons.lang3.builder.DiffBuilder$1",
+        "normalizedScore": 0.7710585896304601,
+        "weightedScore": 0.7820883238877532,
+        "b2s": 4800,
+        "s2b": 0,
+        "b2sMemory": 0.9279937744140625,
+        "s2bMemory": 0.9281158447265625
+    },
+    {
+        "className": "org.apache.commons.lang3.text.StrBuilder$StrBuilderReader",
+        "normalizedScore": 0.7378058969335246,
+        "weightedScore": 0.7310103896793243,
+        "b2s": 4400,
+        "s2b": 4,
+        "b2sMemory": 0.9279937744140625,
+        "s2bMemory": 4.9299468994140625
+    },
+    {
+        "className": "org.apache.commons.lang3.time.FastDateParser$ISO8601TimeZoneStrategy",
+        "normalizedScore": 0.798562366967967,
+        "weightedScore": 0.798024210127608,
+        "b2s": 4900,
+        "s2b": 1,
+        "b2sMemory": 0.9279937744140625,
+        "s2bMemory": 1.85614013671875
+    },
+    {
+        "className": "org.apache.commons.lang3.function.BooleanConsumer",
+        "normalizedScore": 0.7755779368789731,
+        "weightedScore": 0.7776601549939675,
+        "b2s": 5600,
+        "s2b": 1,
+        "b2sMemory": 0.9279937744140625,
+        "s2bMemory": 0.9281158447265625
+    },
+    {
+        "className": "org.apache.commons.lang3.mutable.MutableShort",
+        "normalizedScore": 0.7440514892328652,
+        "weightedScore": 0.7367608517233999,
+        "b2s": 4800,
+        "s2b": 6,
+        "b2sMemory": 0.9279937744140625,
+        "s2bMemory": 4.9300079345703125
+    },
+    {
+        "className": "org.apache.commons.lang3.time.DurationFormatUtils",
+        "normalizedScore": 0.736446181043144,
+        "weightedScore": 0.7316333980529248,
+        "b2s": 5800,
+        "s2b": 46,
+        "b2sMemory": 0.9279937744140625,
+        "s2bMemory": 13.318092346191406
+    },
+    {
+        "className": "org.apache.commons.lang3.mutable.MutableByte",
+        "normalizedScore": 0.7448270023830678,
+        "weightedScore": 0.7378193914472615,
+        "b2s": 4500,
+        "s2b": 6,
+        "b2sMemory": 0.925445556640625,
+        "s2bMemory": 4.92742919921875
+    },
+    {
+        "className": "org.apache.commons.lang3.function.FailableIntPredicate",
+        "normalizedScore": 0.6533615234760508,
+        "weightedScore": 0.6471692006108029,
+        "b2s": 4600,
+        "s2b": 3,
+        "b2sMemory": 0.925445556640625,
+        "s2bMemory": 2.7785415649414062
+    },
+    {
+        "className": "org.apache.commons.lang3.function.Suppliers",
+        "normalizedScore": 0.6960159602154828,
+        "weightedScore": 0.6949463998792549,
+        "b2s": 4900,
+        "s2b": 1,
+        "b2sMemory": 0.925445556640625,
+        "s2bMemory": 0.9280929565429688
+    },
+    {
+        "className": "org.apache.commons.lang3.time.DurationUtils",
+        "normalizedScore": 0.7080914382377671,
+        "weightedScore": 0.7015162089333548,
+        "b2s": 5100,
+        "s2b": 4,
+        "b2sMemory": 0.925445556640625,
+        "s2bMemory": 4.0
+    },
+    {
+        "className": "org.apache.commons.lang3.reflect.TypeUtils$ParameterizedTypeImpl",
+        "normalizedScore": 0.6944486914923805,
+        "weightedScore": 0.6883570363921816,
+        "b2s": 4400,
+        "s2b": 2,
+        "b2sMemory": 0.925445556640625,
+        "s2bMemory": 2.7768707275390625
+    },
+    {
+        "className": "org.apache.commons.lang3.text.FormatFactory",
+        "normalizedScore": 0.8269117117302788,
+        "weightedScore": 0.837478967523543,
+        "b2s": 4400,
+        "s2b": 0,
+        "b2sMemory": 0.925445556640625,
+        "s2bMemory": 0.925567626953125
+    },
+    {
+        "className": "org.apache.commons.lang3.LocaleUtils",
+        "normalizedScore": 0.7304492532391259,
+        "weightedScore": 0.7283129347687485,
+        "b2s": 5500,
+        "s2b": 16,
+        "b2sMemory": 0.925445556640625,
+        "s2bMemory": 17.852882385253906
+    },
+    {
+        "className": "org.apache.commons.lang3.ThreadUtils",
+        "normalizedScore": 0.6681353966815763,
+        "weightedScore": 0.6620900755734788,
+        "b2s": 6000,
+        "s2b": 10,
+        "b2sMemory": 2.0,
+        "s2bMemory": 9.2431640625
+    },
+    {
+        "className": "org.apache.commons.lang3.ThreadUtils$AlwaysTruePredicate",
+        "normalizedScore": 0.6361589336428181,
+        "weightedScore": 0.635611222096718,
+        "b2s": 5200,
+        "s2b": 0,
+        "b2sMemory": 0.8977432250976562,
+        "s2bMemory": 0.8978652954101562
+    },
+    {
+        "className": "org.apache.commons.lang3.Strings$CsStrings",
+        "normalizedScore": 0.690663822998626,
+        "weightedScore": 0.6888614406987634,
+        "b2s": 4700,
+        "s2b": 2,
+        "b2sMemory": 0.8977432250976562,
+        "s2bMemory": 2.6934051513671875
+    },
+    {
+        "className": "org.apache.commons.lang3.text.StrTokenizer",
+        "normalizedScore": 0.7487828970945615,
+        "weightedScore": 0.7462402447424434,
+        "b2s": 5800,
+        "s2b": 27,
+        "b2sMemory": 0.8977432250976562,
+        "s2bMemory": 23.593116760253906
+    },
+    {
+        "className": "org.apache.commons.lang3.Functions$FailableBiFunction",
+        "normalizedScore": 0.5178895926328032,
+        "weightedScore": 0.511693853708506,
+        "b2s": 9500,
+        "s2b": 0,
+        "b2sMemory": 0.9173202514648438,
+        "s2bMemory": 0.8409957885742188
+    },
+    {
+        "className": "org.apache.commons.lang3.function.IntToCharFunction",
+        "normalizedScore": 0.9200704982516955,
+        "weightedScore": 0.927016328007678,
+        "b2s": 6100,
+        "s2b": 0,
+        "b2sMemory": 0.8408737182617188,
+        "s2bMemory": 0.8409957885742188
+    },
+    {
+        "className": "org.apache.commons.lang3.function.TriConsumer",
+        "normalizedScore": 0.5777094833096106,
+        "weightedScore": 0.5739006956586605,
+        "b2s": 5900,
+        "s2b": 0,
+        "b2sMemory": 0.8408737182617188,
+        "s2bMemory": 0.8409957885742188
+    },
+    {
+        "className": "org.apache.commons.lang3.concurrent.ConcurrentUtils$ConstantFuture",
+        "normalizedScore": 0.49883812791876886,
+        "weightedScore": 0.48812435561272194,
+        "b2s": 5500,
+        "s2b": 0,
+        "b2sMemory": 0.8408737182617188,
+        "s2bMemory": 0.8409957885742188
+    },
+    {
+        "className": "org.apache.commons.lang3.concurrent.AbstractCircuitBreaker",
+        "normalizedScore": 0.6892554512601715,
+        "weightedScore": 0.6798411925685177,
+        "b2s": 5000,
+        "s2b": 2,
+        "b2sMemory": 0.8408737182617188,
+        "s2bMemory": 2.5227737426757812
+    },
+    {
+        "className": "org.apache.commons.lang3.arch.package-info",
+        "normalizedScore": 0.8044500105830424,
+        "weightedScore": 0.8137687890522972,
+        "b2s": 5500,
+        "s2b": 0,
+        "b2sMemory": 0.8408737182617188,
+        "s2bMemory": 0.8409957885742188
+    },
+    {
+        "className": "org.apache.commons.lang3.concurrent.CircuitBreakingException",
+        "normalizedScore": 0.7178008430668892,
+        "weightedScore": 0.7093174620569035,
+        "b2s": 5000,
+        "s2b": 0,
+        "b2sMemory": 0.8408737182617188,
+        "s2bMemory": 0.8409957885742188
+    },
+    {
+        "className": "org.apache.commons.lang3.function.FailableDoubleSupplier",
+        "normalizedScore": 0.5740047586874093,
+        "weightedScore": 0.5660548322692178,
+        "b2s": 5000,
+        "s2b": 0,
+        "b2sMemory": 0.8408737182617188,
+        "s2bMemory": 0.8409957885742188
+    },
+    {
+        "className": "org.apache.commons.lang3.Strings$Builder",
+        "normalizedScore": 0.7236858689289954,
+        "weightedScore": 0.7200956835330219,
+        "b2s": 4300,
+        "s2b": 2,
+        "b2sMemory": 0.8408737182617188,
+        "s2bMemory": 1.6818771362304688
+    },
+    {
+        "className": "org.apache.commons.lang3.function.ToBooleanBiFunction",
+        "normalizedScore": 0.6180188671050247,
+        "weightedScore": 0.6076518589817187,
+        "b2s": 5700,
+        "s2b": 0,
+        "b2sMemory": 0.8408737182617188,
+        "s2bMemory": 0.8409957885742188
+    },
+    {
+        "className": "org.apache.commons.lang3.function.FailableObjDoubleConsumer",
+        "normalizedScore": 0.6838297948075578,
+        "weightedScore": 0.6815924160414069,
+        "b2s": 5000,
+        "s2b": 0,
+        "b2sMemory": 0.8408737182617188,
+        "s2bMemory": 0.8409957885742188
+    },
+    {
+        "className": "org.apache.commons.lang3.util.IterableStringTokenizer$1",
+        "normalizedScore": 0.7442488512991478,
+        "weightedScore": 0.7391984231631512,
+        "b2s": 4800,
+        "s2b": 0,
+        "b2sMemory": 0.8408737182617188,
+        "s2bMemory": 0.8409957885742188
+    },
+    {
+        "className": "org.apache.commons.lang3.CharSet",
+        "normalizedScore": 0.7773636644607186,
+        "weightedScore": 0.7807469467522976,
+        "b2s": 5000,
+        "s2b": 7,
+        "b2sMemory": 0.8408737182617188,
+        "s2bMemory": 8.0
+    },
+    {
+        "className": "org.apache.commons.lang3.function.FailableRunnable",
+        "normalizedScore": 0.575293627945275,
+        "weightedScore": 0.5674113239742768,
+        "b2s": 4500,
+        "s2b": 0,
+        "b2sMemory": 0.8024215698242188,
+        "s2bMemory": 0.8025436401367188
+    },
+    {
+        "className": "org.apache.commons.lang3.text.translate.UnicodeEscaper",
+        "normalizedScore": 0.7866348033700273,
+        "weightedScore": 0.7852109950119819,
+        "b2s": 5600,
+        "s2b": 3,
+        "b2sMemory": 0.8024215698242188,
+        "s2bMemory": 3.2109146118164062
+    },
+    {
+        "className": "org.apache.commons.lang3.builder.ToStringStyle$ShortPrefixToStringStyle",
+        "normalizedScore": 0.8125660225692615,
+        "weightedScore": 0.8123290281554727,
+        "b2s": 4900,
+        "s2b": 0,
+        "b2sMemory": 0.8024215698242188,
+        "s2bMemory": 0.8025436401367188
+    },
+    {
+        "className": "org.apache.commons.lang3.function.FailablePredicate",
+        "normalizedScore": 0.6407214742966173,
+        "weightedScore": 0.6352667592413652,
+        "b2s": 19700,
+        "s2b": 2,
+        "b2sMemory": 0.8024215698242188,
+        "s2bMemory": 2.407379150390625
+    },
+    {
+        "className": "org.apache.commons.lang3.ThreadUtils$NamePredicate",
+        "normalizedScore": 0.7252523066533297,
+        "weightedScore": 0.7259429748136517,
+        "b2s": 4800,
+        "s2b": 1,
+        "b2sMemory": 0.8024215698242188,
+        "s2bMemory": 1.6049728393554688
+    },
+    {
+        "className": "org.apache.commons.lang3.concurrent.CircuitBreaker",
+        "normalizedScore": 0.7331155981330411,
+        "weightedScore": 0.7311490675595029,
+        "b2s": 5500,
+        "s2b": 0,
+        "b2sMemory": 0.8024215698242188,
+        "s2bMemory": 0.8025436401367188
+    },
+    {
+        "className": "org.apache.commons.lang3.concurrent.AbstractCircuitBreaker$State$1",
+        "normalizedScore": 0.8079646115619377,
+        "weightedScore": 0.8080650113922909,
+        "b2s": 5000,
+        "s2b": 0,
+        "b2sMemory": 0.8024215698242188,
+        "s2bMemory": 0.8025436401367188
+    },
+    {
+        "className": "org.apache.commons.lang3.builder.DiffExclude",
+        "normalizedScore": 0.9166017946669966,
+        "weightedScore": 0.9237651446120617,
+        "b2s": 6100,
+        "s2b": 0,
+        "b2sMemory": 0.8024215698242188,
+        "s2bMemory": 0.8025436401367188
+    },
+    {
+        "className": "org.apache.commons.lang3.Conversion",
+        "normalizedScore": 0.773169058287305,
+        "weightedScore": 0.7621641511490311,
+        "b2s": 5100,
+        "s2b": 78,
+        "b2sMemory": 0.8024215698242188,
+        "s2bMemory": 1.7620162963867188
+    },
+    {
+        "className": "org.apache.commons.lang3.exception.ExceptionContext",
+        "normalizedScore": 0.6860760210282693,
+        "weightedScore": 0.681587314891472,
+        "b2s": 4700,
+        "s2b": 0,
+        "b2sMemory": 2.0,
+        "s2bMemory": 1.5549850463867188
+    },
+    {
+        "className": "org.apache.commons.lang3.RuntimeEnvironment",
+        "normalizedScore": 0.7583699873887685,
+        "weightedScore": 0.761198474983852,
+        "b2s": 4600,
+        "s2b": 9,
+        "b2sMemory": 1.088409423828125,
+        "s2bMemory": 5.090423583984375
+    },
+    {
+        "className": "org.apache.commons.lang3.stream.package-info",
+        "normalizedScore": 0.8045131278374155,
+        "weightedScore": 0.813984295673829,
+        "b2s": 4100,
+        "s2b": 0,
+        "b2sMemory": 1.088409423828125,
+        "s2bMemory": 1.088531494140625
+    },
+    {
+        "className": "org.apache.commons.lang3.function.FailableIntBinaryOperator",
+        "normalizedScore": 0.567070689991895,
+        "weightedScore": 0.5592952449243295,
+        "b2s": 5000,
+        "s2b": 0,
+        "b2sMemory": 1.088409423828125,
+        "s2bMemory": 1.088531494140625
+    },
+    {
+        "className": "org.apache.commons.lang3.function.Consumers",
+        "normalizedScore": 0.7069790419253078,
+        "weightedScore": 0.7054465164035651,
+        "b2s": 3900,
+        "s2b": 1,
+        "b2sMemory": 1.088409423828125,
+        "s2bMemory": 1.088531494140625
+    },
+    {
+        "className": "org.apache.commons.lang3.concurrent.EventCountCircuitBreaker$CheckIntervalData",
+        "normalizedScore": 0.7590139879278853,
+        "weightedScore": 0.7555250844305428,
+        "b2s": 4800,
+        "s2b": 1,
+        "b2sMemory": 1.088409423828125,
+        "s2bMemory": 1.088531494140625
+    },
+    {
+        "className": "org.apache.commons.lang3.concurrent.Memoizer",
+        "normalizedScore": 0.6390893644007203,
+        "weightedScore": 0.6340833510930914,
+        "b2s": 7200,
+        "s2b": 6,
+        "b2sMemory": 1.088409423828125,
+        "s2bMemory": 3.2654266357421875
+    },
+    {
+        "className": "org.apache.commons.lang3.builder.HashCodeBuilder",
+        "normalizedScore": 0.7043207152803634,
+        "weightedScore": 0.6995442450057545,
+        "b2s": 5400,
+        "s2b": 19,
+        "b2sMemory": 1.088409423828125,
+        "s2bMemory": 19.276023864746094
+    },
+    {
+        "className": "org.apache.commons.lang3.mutable.MutableInt",
+        "normalizedScore": 0.741270337116415,
+        "weightedScore": 0.7333706935856521,
+        "b2s": 6000,
+        "s2b": 5,
+        "b2sMemory": 1.091278076171875,
+        "s2bMemory": 5.093223571777344
+    },
+    {
+        "className": "org.apache.commons.lang3.SystemProperties",
+        "normalizedScore": 0.8918469966783192,
+        "weightedScore": 0.8940181732744017,
+        "b2s": 5100,
+        "s2b": 19,
+        "b2sMemory": 1.091278076171875,
+        "s2bMemory": 18.184593200683594
+    },
+    {
+        "className": "org.apache.commons.lang3.function.FailableLongPredicate",
+        "normalizedScore": 0.6505662529892532,
+        "weightedScore": 0.6445245636789481,
+        "b2s": 5000,
+        "s2b": 2,
+        "b2sMemory": 1.0688705444335938,
+        "s2bMemory": 2.1378936767578125
+    },
+    {
+        "className": "org.apache.commons.lang3.time.CalendarUtils",
+        "normalizedScore": 0.7873037367021362,
+        "weightedScore": 0.7833433218435955,
+        "b2s": 5300,
+        "s2b": 4,
+        "b2sMemory": 1.0688705444335938,
+        "s2bMemory": 3.2067489624023438
+    },
+    {
+        "className": "org.apache.commons.lang3.time.FastDatePrinter$TimeZoneNameRule",
+        "normalizedScore": 0.7612715346119883,
+        "weightedScore": 0.7604680057462587,
+        "b2s": 7200,
+        "s2b": 1,
+        "b2sMemory": 1.0688705444335938,
+        "s2bMemory": 2.1378936767578125
+    },
+    {
+        "className": "org.apache.commons.lang3.reflect.MethodUtils",
+        "normalizedScore": 0.6543043583439406,
+        "weightedScore": 0.6505309129723581,
+        "b2s": 5100,
+        "s2b": 43,
+        "b2sMemory": 1.0688705444335938,
+        "s2bMemory": 46.13972473144531
+    },
+    {
+        "className": "org.apache.commons.lang3.time.StopWatch$State$2",
+        "normalizedScore": 0.741388613451738,
+        "weightedScore": 0.7379010299301421,
+        "b2s": 4800,
+        "s2b": 0,
+        "b2sMemory": 2.0,
+        "s2bMemory": 1.6347808837890625
+    },
+    {
+        "className": "org.apache.commons.lang3.concurrent.Computable",
+        "normalizedScore": 0.6555388382007911,
+        "weightedScore": 0.6467178462129416,
+        "b2s": 6200,
+        "s2b": 0,
+        "b2sMemory": 1.3232955932617188,
+        "s2bMemory": 1.0898971557617188
+    },
+    {
+        "className": "org.apache.commons.lang3.SerializationException",
+        "normalizedScore": 0.7112196854068337,
+        "weightedScore": 0.701173847375595,
+        "b2s": 6300,
+        "s2b": 0,
+        "b2sMemory": 1.0897750854492188,
+        "s2bMemory": 1.0898971557617188
+    },
+    {
+        "className": "org.apache.commons.lang3.mutable.package-info",
+        "normalizedScore": 0.8046897360300495,
+        "weightedScore": 0.8142207624270443,
+        "b2s": 5100,
+        "s2b": 0,
+        "b2sMemory": 1.0897750854492188,
+        "s2bMemory": 1.0898971557617188
+    },
+    {
+        "className": "org.apache.commons.lang3.NumberRange",
+        "normalizedScore": 0.48673982952328965,
+        "weightedScore": 0.4775114755688285,
+        "b2s": 4600,
+        "s2b": 0,
+        "b2sMemory": 1.0897750854492188,
+        "s2bMemory": 1.0898971557617188
+    },
+    {
+        "className": "org.apache.commons.lang3.time.FastDatePrinter$TwelveHourField",
+        "normalizedScore": 0.7576707061809493,
+        "weightedScore": 0.7566927335511736,
+        "b2s": 4500,
+        "s2b": 1,
+        "b2sMemory": 1.0897750854492188,
+        "s2bMemory": 1.0898971557617188
+    },
+    {
+        "className": "org.apache.commons.lang3.function.FailableObjIntConsumer",
+        "normalizedScore": 0.6842825319544913,
+        "weightedScore": 0.6822637204294915,
+        "b2s": 5200,
+        "s2b": 0,
+        "b2sMemory": 1.0897750854492188,
+        "s2bMemory": 1.0898971557617188
+    },
+    {
+        "className": "org.apache.commons.lang3.function.FailableDoublePredicate",
+        "normalizedScore": 0.6499665350726826,
+        "weightedScore": 0.6437150620771563,
+        "b2s": 5000,
+        "s2b": 2,
+        "b2sMemory": 1.0897750854492188,
+        "s2bMemory": 2.1796646118164062
+    },
+    {
+        "className": "org.apache.commons.lang3.ClassLoaderUtils",
+        "normalizedScore": 0.7833456749864568,
+        "weightedScore": 0.7848111074878112,
+        "b2s": 4900,
+        "s2b": 1,
+        "b2sMemory": 1.0897750854492188,
+        "s2bMemory": 2.1796798706054688
+    },
+    {
+        "className": "org.apache.commons.lang3.builder.ReflectionDiffBuilder$1",
+        "normalizedScore": 0.775301970203286,
+        "weightedScore": 0.7868342731829574,
+        "b2s": 5400,
+        "s2b": 0,
+        "b2sMemory": 1.0897750854492188,
+        "s2bMemory": 1.0898971557617188
+    },
+    {
+        "className": "org.apache.commons.lang3.reflect.ConstructorUtils",
+        "normalizedScore": 0.6549402744518285,
+        "weightedScore": 0.6466571396675321,
+        "b2s": 4900,
+        "s2b": 7,
+        "b2sMemory": 1.0897750854492188,
+        "s2bMemory": 6.184074401855469
+    },
+    {
+        "className": "org.apache.commons.lang3.CharRange$CharacterIterator",
+        "normalizedScore": 0.7619905010252676,
+        "weightedScore": 0.7625263368319386,
+        "b2s": 4700,
+        "s2b": 3,
+        "b2sMemory": 1.0897750854492188,
+        "s2bMemory": 4.0
+    },
+    {
+        "className": "org.apache.commons.lang3.text.translate.NumericEntityEscaper",
+        "normalizedScore": 0.7944396264889511,
+        "weightedScore": 0.795916716471635,
+        "b2s": 5400,
+        "s2b": 2,
+        "b2sMemory": 1.0897750854492188,
+        "s2bMemory": 2.1796798706054688
+    },
+    {
+        "className": "org.apache.commons.lang3.function.FailableToDoubleBiFunction",
+        "normalizedScore": 0.6744773092960221,
+        "weightedScore": 0.6722059524435322,
+        "b2s": 7500,
+        "s2b": 0,
+        "b2sMemory": 1.0897750854492188,
+        "s2bMemory": 1.0898971557617188
+    },
+    {
+        "className": "org.apache.commons.lang3.builder.Diffable",
+        "normalizedScore": 0.5756489731699496,
+        "weightedScore": 0.5660597843549788,
+        "b2s": 4600,
+        "s2b": 0,
+        "b2sMemory": 1.0897750854492188,
+        "s2bMemory": 1.0898971557617188
+    },
+    {
+        "className": "org.apache.commons.lang3.builder.EqualsBuilder",
+        "normalizedScore": 0.6965136021563575,
+        "weightedScore": 0.6913883344311758,
+        "b2s": 4600,
+        "s2b": 26,
+        "b2sMemory": 1.0897750854492188,
+        "s2bMemory": 27.271316528320312
+    },
+    {
+        "className": "org.apache.commons.lang3.CharSequenceUtils",
+        "normalizedScore": 0.7029140306529834,
+        "weightedScore": 0.69948794343989,
+        "b2s": 4700,
+        "s2b": 18,
+        "b2sMemory": 1.0932159423828125,
+        "s2bMemory": 14.18841552734375
+    },
+    {
+        "className": "org.apache.commons.lang3.tuple.Triple",
+        "normalizedScore": 0.661700827247703,
+        "weightedScore": 0.6553106956231771,
+        "b2s": 5100,
+        "s2b": 4,
+        "b2sMemory": 0.9908065795898438,
+        "s2bMemory": 3.9633636474609375
+    },
+    {
+        "className": "org.apache.commons.lang3.ArrayUtils",
+        "normalizedScore": 0.7210420370171358,
+        "weightedScore": 0.7148596225241364,
+        "b2s": 4600,
+        "s2b": 373,
+        "b2sMemory": 0.9908065795898438,
+        "s2bMemory": 56.752105712890625
+    },
+    {
+        "className": "org.apache.commons.lang3.reflect.TypeUtils$1",
+        "normalizedScore": 0.7700535686748989,
+        "weightedScore": 0.7809792462901677,
+        "b2s": 8400,
+        "s2b": 0,
+        "b2sMemory": 2.0,
+        "s2bMemory": 1.5631027221679688
+    },
+    {
+        "className": "org.apache.commons.lang3.concurrent.EventCountCircuitBreaker",
+        "normalizedScore": 0.7447897282184549,
+        "weightedScore": 0.7386535961041497,
+        "b2s": 5300,
+        "s2b": 10,
+        "b2sMemory": 1.0940933227539062,
+        "s2bMemory": 5.721351623535156
+    },
+    {
+        "className": "org.apache.commons.lang3.text.translate.EntityArrays",
+        "normalizedScore": 0.8889991494877014,
+        "weightedScore": 0.8856266474088058,
+        "b2s": 5200,
+        "s2b": 291,
+        "b2sMemory": 0.8039398193359375,
+        "s2bMemory": 76.32176971435547
+    },
+    {
+        "className": "org.apache.commons.lang3.text.StrLookup$1",
+        "normalizedScore": 0.7700236019914882,
+        "weightedScore": 0.7806318612613659,
+        "b2s": 5400,
+        "s2b": 0,
+        "b2sMemory": 2.0,
+        "s2bMemory": 1.874298095703125
+    },
+    {
+        "className": "org.apache.commons.lang3.event.package-info",
+        "normalizedScore": 0.8046290154138266,
+        "weightedScore": 0.814009863872444,
+        "b2s": 5300,
+        "s2b": 0,
+        "b2sMemory": 1.4056396484375,
+        "s2bMemory": 1.1714935302734375
+    },
+    {
+        "className": "org.apache.commons.lang3.stream.LangCollectors$SimpleCollector",
+        "normalizedScore": 0.48589233333453796,
+        "weightedScore": 0.4757599577350503,
+        "b2s": 4800,
+        "s2b": 1,
+        "b2sMemory": 1.1713714599609375,
+        "s2bMemory": 1.1714935302734375
+    },
+    {
+        "className": "org.apache.commons.lang3.concurrent.locks.LockingVisitors$LockVisitor",
+        "normalizedScore": 0.5445705782530065,
+        "weightedScore": 0.5364933194485767,
+        "b2s": 5200,
+        "s2b": 3,
+        "b2sMemory": 1.1713714599609375,
+        "s2bMemory": 3.5147705078125
+    },
+    {
+        "className": "org.apache.commons.lang3.exception.ContextedException",
+        "normalizedScore": 0.7226408019765952,
+        "weightedScore": 0.7194499786191828,
+        "b2s": 5800,
+        "s2b": 11,
+        "b2sMemory": 1.1713714599609375,
+        "s2bMemory": 3.5142364501953125
+    },
+    {
+        "className": "org.apache.commons.lang3.time.StopWatch",
+        "normalizedScore": 0.775403822106936,
+        "weightedScore": 0.7720839336399015,
+        "b2s": 5200,
+        "s2b": 11,
+        "b2sMemory": 1.1713714599609375,
+        "s2bMemory": 9.173355102539062
+    },
+    {
+        "className": "org.apache.commons.lang3.builder.StandardToStringStyle",
+        "normalizedScore": 0.7715350254062168,
+        "weightedScore": 0.7648603122478824,
+        "b2s": 5700,
+        "s2b": 4,
+        "b2sMemory": 1.113800048828125,
+        "s2bMemory": 5.116241455078125
+    },
+    {
+        "className": "org.apache.commons.lang3.function.FailableToIntBiFunction",
+        "normalizedScore": 0.6765337674681055,
+        "weightedScore": 0.6741958942733215,
+        "b2s": 5300,
+        "s2b": 0,
+        "b2sMemory": 1.113800048828125,
+        "s2bMemory": 1.113922119140625
+    },
+    {
+        "className": "org.apache.commons.lang3.AnnotationUtils$1",
+        "normalizedScore": 0.7571783112907031,
+        "weightedScore": 0.7600073628322266,
+        "b2s": 5200,
+        "s2b": 1,
+        "b2sMemory": 1.113800048828125,
+        "s2bMemory": 2.227752685546875
+    },
+    {
+        "className": "org.apache.commons.lang3.stream.LangCollectors$1",
+        "normalizedScore": 0.7723496278620998,
+        "weightedScore": 0.7834479984092232,
+        "b2s": 5300,
+        "s2b": 0,
+        "b2sMemory": 1.113800048828125,
+        "s2bMemory": 1.113922119140625
+    },
+    {
+        "className": "org.apache.commons.lang3.tuple.Pair",
+        "normalizedScore": 0.5981351018640685,
+        "weightedScore": 0.5942238421263708,
+        "b2s": 4700,
+        "s2b": 4,
+        "b2sMemory": 1.113800048828125,
+        "s2bMemory": 4.0
+    },
+    {
+        "className": "org.apache.commons.lang3.concurrent.ConcurrentException",
+        "normalizedScore": 0.7311575614002271,
+        "weightedScore": 0.7230849618569986,
+        "b2s": 5500,
+        "s2b": 0,
+        "b2sMemory": 1.113800048828125,
+        "s2bMemory": 1.113922119140625
+    },
+    {
+        "className": "org.apache.commons.lang3.concurrent.AbstractConcurrentInitializer$AbstractBuilder",
+        "normalizedScore": 0.5181711039489681,
+        "weightedScore": 0.5098213602167607,
+        "b2s": 5200,
+        "s2b": 1,
+        "b2sMemory": 1.113800048828125,
+        "s2bMemory": 1.113922119140625
+    },
+    {
+        "className": "org.apache.commons.lang3.reflect.package-info",
+        "normalizedScore": 0.8046897360300495,
+        "weightedScore": 0.8142207624270443,
+        "b2s": 4800,
+        "s2b": 0,
+        "b2sMemory": 1.113800048828125,
+        "s2bMemory": 1.113922119140625
+    },
+    {
+        "className": "org.apache.commons.lang3.reflect.MemberUtils$Executable",
+        "normalizedScore": 0.7029151530770594,
+        "weightedScore": 0.699718598620588,
+        "b2s": 4900,
+        "s2b": 1,
+        "b2sMemory": 1.113800048828125,
+        "s2bMemory": 1.113922119140625
+    },
+    {
+        "className": "org.apache.commons.lang3.SystemUtils",
+        "normalizedScore": 0.8034155187533178,
+        "weightedScore": 0.8095542863303533,
+        "b2s": 5400,
+        "s2b": 25,
+        "b2sMemory": 1.113800048828125,
+        "s2bMemory": 42.22960662841797
+    },
+    {
+        "className": "org.apache.commons.lang3.time.DurationFormatUtils$Token",
+        "normalizedScore": 0.7619610476576599,
+        "weightedScore": 0.7635264949936985,
+        "b2s": 5600,
+        "s2b": 3,
+        "b2sMemory": 1.1389846801757812,
+        "s2bMemory": 4.0
+    },
+    {
+        "className": "org.apache.commons.lang3.event.EventListenerSupport",
+        "normalizedScore": 0.6144939410932512,
+        "weightedScore": 0.6077753879004922,
+        "b2s": 4900,
+        "s2b": 5,
+        "b2sMemory": 1.1389846801757812,
+        "s2bMemory": 5.1409454345703125
+    },
+    {
+        "className": "org.apache.commons.lang3.text.StrLookup",
+        "normalizedScore": 0.6972537368171533,
+        "weightedScore": 0.6944848848745684,
+        "b2s": 5000,
+        "s2b": 0,
+        "b2sMemory": 1.1389846801757812,
+        "s2bMemory": 1.1391067504882812
+    },
+    {
+        "className": "org.apache.commons.lang3.concurrent.AbstractConcurrentInitializer",
+        "normalizedScore": 0.6642142830501135,
+        "weightedScore": 0.6565682057591428,
+        "b2s": 5300,
+        "s2b": 2,
+        "b2sMemory": 1.1389846801757812,
+        "s2bMemory": 2.2781143188476562
+    },
+    {
+        "className": "org.apache.commons.lang3.function.FailableDoubleConsumer",
+        "normalizedScore": 0.6688438977726782,
+        "weightedScore": 0.6621556665569142,
+        "b2s": 4900,
+        "s2b": 0,
+        "b2sMemory": 1.1389846801757812,
+        "s2bMemory": 1.1391067504882812
+    },
+    {
+        "className": "org.apache.commons.lang3.concurrent.BasicThreadFactory",
+        "normalizedScore": 0.779071820753225,
+        "weightedScore": 0.7779427187400868,
+        "b2s": 5100,
+        "s2b": 3,
+        "b2sMemory": 1.1389846801757812,
+        "s2bMemory": 3.4171371459960938
+    },
+    {
+        "className": "org.apache.commons.lang3.EnumUtils",
+        "normalizedScore": 0.6475920644891561,
+        "weightedScore": 0.6404230933228087,
+        "b2s": 4900,
+        "s2b": 10,
+        "b2sMemory": 1.1389846801757812,
+        "s2bMemory": 10.28033447265625
+    },
+    {
+        "className": "org.apache.commons.lang3.exception.UncheckedInterruptedException",
+        "normalizedScore": 0.7787582273244175,
+        "weightedScore": 0.7767391024112903,
+        "b2s": 5300,
+        "s2b": 0,
+        "b2sMemory": 1.1292648315429688,
+        "s2bMemory": 1.1293869018554688
+    },
+    {
+        "className": "org.apache.commons.lang3.ClassUtils$Interfaces",
+        "normalizedScore": 0.7789400797050035,
+        "weightedScore": 0.7827916156804159,
+        "b2s": 5400,
+        "s2b": 1,
+        "b2sMemory": 1.1292648315429688,
+        "s2bMemory": 1.1293869018554688
+    },
+    {
+        "className": "org.apache.commons.lang3.function.FailableIntConsumer",
+        "normalizedScore": 0.6690254467943347,
+        "weightedScore": 0.6627371937989798,
+        "b2s": 5300,
+        "s2b": 1,
+        "b2sMemory": 1.1292648315429688,
+        "s2bMemory": 1.1293869018554688
+    },
+    {
+        "className": "org.apache.commons.lang3.BitField",
+        "normalizedScore": 0.7382085170818783,
+        "weightedScore": 0.7321127405076249,
+        "b2s": 6900,
+        "s2b": 4,
+        "b2sMemory": 1.1292648315429688,
+        "s2bMemory": 3.3879470825195312
+    },
+    {
+        "className": "org.apache.commons.lang3.builder.ToStringStyle$JsonToStringStyle",
+        "normalizedScore": 0.7364381374352744,
+        "weightedScore": 0.7300476833615999,
+        "b2s": 5400,
+        "s2b": 8,
+        "b2sMemory": 1.1292648315429688,
+        "s2bMemory": 10.260856628417969
+    },
+    {
+        "className": "org.apache.commons.lang3.compare.ComparableUtils$1",
+        "normalizedScore": 0.7723379653496161,
+        "weightedScore": 0.7836287589785889,
+        "b2s": 4500,
+        "s2b": 0,
+        "b2sMemory": 1.1052932739257812,
+        "s2bMemory": 1.1054153442382812
+    },
+    {
+        "className": "org.apache.commons.lang3.builder.RecursiveToStringStyle",
+        "normalizedScore": 0.6706510612310166,
+        "weightedScore": 0.6678351641612125,
+        "b2s": 5100,
+        "s2b": 1,
+        "b2sMemory": 1.1052932739257812,
+        "s2bMemory": 2.2107086181640625
+    },
+    {
+        "className": "org.apache.commons.lang3.builder.DiffBuilder",
+        "normalizedScore": 0.7180071232465237,
+        "weightedScore": 0.715356786861721,
+        "b2s": 5200,
+        "s2b": 525,
+        "b2sMemory": 1.1052932739257812,
+        "s2bMemory": 56.65739440917969
+    },
+    {
+        "className": "org.apache.commons.lang3.LongRange",
+        "normalizedScore": 0.7378918309149484,
+        "weightedScore": 0.7329147256939343,
+        "b2s": 5200,
+        "s2b": 1,
+        "b2sMemory": 2.0,
+        "s2bMemory": 1.5776824951171875
+    },
+    {
+        "className": "org.apache.commons.lang3.ThreadUtils$ThreadGroupPredicate",
+        "normalizedScore": 0.8235152698181181,
+        "weightedScore": 0.8332690059942012,
+        "b2s": 5100,
+        "s2b": 0,
+        "b2sMemory": 1.4198074340820312,
+        "s2bMemory": 1.4199295043945312
+    },
+    {
+        "className": "org.apache.commons.lang3.time.StopWatch$State",
+        "normalizedScore": 0.7763675104735203,
+        "weightedScore": 0.7785273006265752,
+        "b2s": 4500,
+        "s2b": 1,
+        "b2sMemory": 1.4198074340820312,
+        "s2bMemory": 1.4199295043945312
+    },
+    {
+        "className": "org.apache.commons.lang3.NotImplementedException",
+        "normalizedScore": 0.734865420513735,
+        "weightedScore": 0.7226968653727655,
+        "b2s": 5300,
+        "s2b": 1,
+        "b2sMemory": 1.4198074340820312,
+        "s2bMemory": 1.4199295043945312
+    },
+    {
+        "className": "org.apache.commons.lang3.concurrent.ConcurrentUtils",
+        "normalizedScore": 0.5963585813451657,
+        "weightedScore": 0.592365390260926,
+        "b2s": 7200,
+        "s2b": 4,
+        "b2sMemory": 1.4198074340820312,
+        "s2bMemory": 4.0
+    },
+    {
+        "className": "org.apache.commons.lang3.function.FailableDoubleUnaryOperator",
+        "normalizedScore": 0.6038747198378589,
+        "weightedScore": 0.6012784732701093,
+        "b2s": 5300,
+        "s2b": 1,
+        "b2sMemory": 1.4198074340820312,
+        "s2bMemory": 1.4199295043945312
+    },
+    {
+        "className": "org.apache.commons.lang3.function.FailableToDoubleFunction",
+        "normalizedScore": 0.6905863403007487,
+        "weightedScore": 0.6890198269370404,
+        "b2s": 5000,
+        "s2b": 0,
+        "b2sMemory": 1.4198074340820312,
+        "s2bMemory": 1.4199295043945312
+    },
+    {
+        "className": "org.apache.commons.lang3.text.StrMatcher$NoMatcher",
+        "normalizedScore": 0.6904877410246687,
+        "weightedScore": 0.6845595342980884,
+        "b2s": 6800,
+        "s2b": 0,
+        "b2sMemory": 1.4198074340820312,
+        "s2bMemory": 1.4199295043945312
+    },
+    {
+        "className": "org.apache.commons.lang3.arch.Processor$Type",
+        "normalizedScore": 0.8128609536597242,
+        "weightedScore": 0.816894551388381,
+        "b2s": 5400,
+        "s2b": 2,
+        "b2sMemory": 1.4198074340820312,
+        "s2bMemory": 2.8397903442382812
+    },
+    {
+        "className": "org.apache.commons.lang3.time.FastDateParser$StrategyAndWidth",
+        "normalizedScore": 0.7304254182825153,
+        "weightedScore": 0.7263671981993217,
+        "b2s": 5000,
+        "s2b": 1,
+        "b2sMemory": 1.4198074340820312,
+        "s2bMemory": 1.4199295043945312
+    },
+    {
+        "className": "org.apache.commons.lang3.text.translate.CodePointTranslator",
+        "normalizedScore": 0.7289661344290491,
+        "weightedScore": 0.7287799170257482,
+        "b2s": 5500,
+        "s2b": 0,
+        "b2sMemory": 1.4198074340820312,
+        "s2bMemory": 1.4199295043945312
+    },
+    {
+        "className": "org.apache.commons.lang3.time.FastDateParser$4",
+        "normalizedScore": 0.6895679036735611,
+        "weightedScore": 0.6854759781710699,
+        "b2s": 4600,
+        "s2b": 0,
+        "b2sMemory": 1.4198074340820312,
+        "s2bMemory": 1.4199295043945312
+    },
+    {
+        "className": "org.apache.commons.lang3.concurrent.UncheckedFutureImpl",
+        "normalizedScore": 0.4137830468461323,
+        "weightedScore": 0.4061375857725765,
+        "b2s": 4600,
+        "s2b": 2,
+        "b2sMemory": 1.4198074340820312,
+        "s2bMemory": 1.4199295043945312
+    },
+    {
+        "className": "org.apache.commons.lang3.time.FastDatePrinter$TwoDigitYearField",
+        "normalizedScore": 0.7511241567832321,
+        "weightedScore": 0.743584962862231,
+        "b2s": 5700,
+        "s2b": 1,
+        "b2sMemory": 1.4198074340820312,
+        "s2bMemory": 1.4199295043945312
+    },
+    {
+        "className": "org.apache.commons.lang3.builder.ToStringSummary",
+        "normalizedScore": 0.9168186305084273,
+        "weightedScore": 0.9239873421702283,
+        "b2s": 5900,
+        "s2b": 0,
+        "b2sMemory": 1.4198074340820312,
+        "s2bMemory": 1.4199295043945312
+    },
+    {
+        "className": "org.apache.commons.lang3.SerializationUtils$ClassLoaderAwareObjectInputStream",
+        "normalizedScore": 0.6617716413064006,
+        "weightedScore": 0.6548526632087944,
+        "b2s": 5200,
+        "s2b": 2,
+        "b2sMemory": 1.4198074340820312,
+        "s2bMemory": 1.4199295043945312
+    },
+    {
+        "className": "org.apache.commons.lang3.IntegerRange",
+        "normalizedScore": 0.7391246011677682,
+        "weightedScore": 0.7344811804692846,
+        "b2s": 9100,
+        "s2b": 1,
+        "b2sMemory": 1.4198074340820312,
+        "s2bMemory": 1.4199295043945312
+    },
+    {
+        "className": "org.apache.commons.lang3.function.FailableConsumer",
+        "normalizedScore": 0.6653374408568676,
+        "weightedScore": 0.6597572272479462,
+        "b2s": 4700,
+        "s2b": 1,
+        "b2sMemory": 1.4198074340820312,
+        "s2bMemory": 1.4199295043945312
+    },
+    {
+        "className": "org.apache.commons.lang3.builder.Builder",
+        "normalizedScore": 0.6452494349628948,
+        "weightedScore": 0.635115426310798,
+        "b2s": 4800,
+        "s2b": 0,
+        "b2sMemory": 1.4198074340820312,
+        "s2bMemory": 1.4199295043945312
+    },
+    {
+        "className": "org.apache.commons.lang3.ArraySorter",
+        "normalizedScore": 0.6643552718022262,
+        "weightedScore": 0.6634831420423004,
+        "b2s": 5100,
+        "s2b": 2,
+        "b2sMemory": 1.4198074340820312,
+        "s2bMemory": 1.4199295043945312
+    },
+    {
+        "className": "org.apache.commons.lang3.CharRange$1",
+        "normalizedScore": 0.7674603721007004,
+        "weightedScore": 0.7777513719276674,
+        "b2s": 5100,
+        "s2b": 0,
+        "b2sMemory": 1.4198074340820312,
+        "s2bMemory": 1.4199295043945312
+    },
+    {
+        "className": "org.apache.commons.lang3.builder.ToStringStyle$NoClassNameToStringStyle",
+        "normalizedScore": 0.8106963869220624,
+        "weightedScore": 0.8105866223447262,
+        "b2s": 6200,
+        "s2b": 0,
+        "b2sMemory": 1.4198074340820312,
+        "s2bMemory": 1.4199295043945312
+    },
+    {
+        "className": "org.apache.commons.lang3.function.Functions",
+        "normalizedScore": 0.5372594451598935,
+        "weightedScore": 0.5304733346688004,
+        "b2s": 5200,
+        "s2b": 0,
+        "b2sMemory": 1.4198074340820312,
+        "s2bMemory": 1.4199295043945312
+    },
+    {
+        "className": "org.apache.commons.lang3.text.package-info",
+        "normalizedScore": 0.8038547724878043,
+        "weightedScore": 0.813233074766583,
+        "b2s": 5300,
+        "s2b": 0,
+        "b2sMemory": 1.4198074340820312,
+        "s2bMemory": 1.4199295043945312
+    },
+    {
+        "className": "org.apache.commons.lang3.tuple.MutablePair",
+        "normalizedScore": 0.5619526116440379,
+        "weightedScore": 0.5553019007885023,
+        "b2s": 6200,
+        "s2b": 2,
+        "b2sMemory": 1.4198074340820312,
+        "s2bMemory": 2.8399200439453125
+    },
+    {
+        "className": "org.apache.commons.lang3.concurrent.AtomicInitializer",
+        "normalizedScore": 0.5886760294425497,
+        "weightedScore": 0.5827629719528401,
+        "b2s": 19800,
+        "s2b": 2,
+        "b2sMemory": 1.4198074340820312,
+        "s2bMemory": 2.8397369384765625
+    },
+    {
+        "className": "org.apache.commons.lang3.concurrent.BackgroundInitializer",
+        "normalizedScore": 0.611095100478234,
+        "weightedScore": 0.6038446599207427,
+        "b2s": 4600,
+        "s2b": 5,
+        "b2sMemory": 1.4198074340820312,
+        "s2bMemory": 4.0
+    },
+    {
+        "className": "org.apache.commons.lang3.concurrent.AbstractCircuitBreaker$State",
+        "normalizedScore": 0.7544904897282395,
+        "weightedScore": 0.7557840974849203,
+        "b2s": 5200,
+        "s2b": 1,
+        "b2sMemory": 1.4198074340820312,
+        "s2bMemory": 1.4199295043945312
+    },
+    {
+        "className": "org.apache.commons.lang3.Streams",
+        "normalizedScore": 0.5837813515135236,
+        "weightedScore": 0.5803601935413706,
+        "b2s": 4900,
+        "s2b": 1,
+        "b2sMemory": 1.4198074340820312,
+        "s2bMemory": 1.4199295043945312
+    },
+    {
+        "className": "org.apache.commons.lang3.time.FastDatePrinter$NumberRule",
+        "normalizedScore": 0.9356585589950263,
+        "weightedScore": 0.9414215621559263,
+        "b2s": 5400,
+        "s2b": 0,
+        "b2sMemory": 1.4198074340820312,
+        "s2bMemory": 1.4199295043945312
+    },
+    {
+        "className": "org.apache.commons.lang3.function.FailableIntSupplier",
+        "normalizedScore": 0.5749126480348931,
+        "weightedScore": 0.5671941105041312,
+        "b2s": 5800,
+        "s2b": 0,
+        "b2sMemory": 1.4198074340820312,
+        "s2bMemory": 1.4199295043945312
+    },
+    {
+        "className": "org.apache.commons.lang3.text.CompositeFormat",
+        "normalizedScore": 0.731356600808418,
+        "weightedScore": 0.7303363253429609,
+        "b2s": 5500,
+        "s2b": 1,
+        "b2sMemory": 1.4198074340820312,
+        "s2bMemory": 1.4199295043945312
+    },
+    {
+        "className": "org.apache.commons.lang3.text.StrBuilder",
+        "normalizedScore": 0.7289520012050454,
+        "weightedScore": 0.720488020908077,
+        "b2s": 5000,
+        "s2b": 75,
+        "b2sMemory": 1.4198074340820312,
+        "s2bMemory": 7.2501068115234375
+    },
+    {
+        "className": "org.apache.commons.lang3.text.StrMatcher$StringMatcher",
+        "normalizedScore": 0.7500746195142791,
+        "weightedScore": 0.7474400389187834,
+        "b2s": 5500,
+        "s2b": 1,
+        "b2sMemory": 2.0,
+        "s2bMemory": 1.9790496826171875
+    },
+    {
+        "className": "org.apache.commons.lang3.concurrent.BackgroundInitializer$Builder",
+        "normalizedScore": 0.601060169382769,
+        "weightedScore": 0.5939815984951939,
+        "b2s": 5300,
+        "s2b": 1,
+        "b2sMemory": 1.7414627075195312,
+        "s2bMemory": 1.5832672119140625
+    },
+    {
+        "className": "org.apache.commons.lang3.exception.DefaultExceptionContext",
+        "normalizedScore": 0.7337487577820392,
+        "weightedScore": 0.7342396793415152,
+        "b2s": 24900,
+        "s2b": 7,
+        "b2sMemory": 1.424835205078125,
+        "s2bMemory": 6.85162353515625
+    },
+    {
+        "className": "org.apache.commons.lang3.time.StopWatch$State$4",
+        "normalizedScore": 0.7415458461561405,
+        "weightedScore": 0.7380425393641044,
+        "b2s": 12800,
+        "s2b": 0,
+        "b2sMemory": 1.424835205078125,
+        "s2bMemory": 1.424957275390625
+    },
+    {
+        "className": "org.apache.commons.lang3.Streams$FailableStream",
+        "normalizedScore": 0.5379162194055612,
+        "weightedScore": 0.5332749596612004,
+        "b2s": 5600,
+        "s2b": 2,
+        "b2sMemory": 1.424835205078125,
+        "s2bMemory": 2.84979248046875
+    },
+    {
+        "className": "org.apache.commons.lang3.text.FormattableUtils",
+        "normalizedScore": 0.680224048334442,
+        "weightedScore": 0.6703953687522923,
+        "b2s": 7400,
+        "s2b": 3,
+        "b2sMemory": 1.424835205078125,
+        "s2bMemory": 5.42681884765625
+    },
+    {
+        "className": "org.apache.commons.lang3.concurrent.TimedSemaphore",
+        "normalizedScore": 0.7804625318227701,
+        "weightedScore": 0.7788283519524778,
+        "b2s": 5400,
+        "s2b": 5,
+        "b2sMemory": 1.424835205078125,
+        "s2bMemory": 5.426788330078125
+    },
+    {
+        "className": "org.apache.commons.lang3.builder.DiffResult",
+        "normalizedScore": 0.6815583621760317,
+        "weightedScore": 0.6736747825142996,
+        "b2s": 5300,
+        "s2b": 2,
+        "b2sMemory": 1.424835205078125,
+        "s2bMemory": 4.0
+    },
+    {
+        "className": "org.apache.commons.lang3.text.StrLookup$SystemPropertiesStrLookup",
+        "normalizedScore": 0.6220212628031242,
+        "weightedScore": 0.6151355922190144,
+        "b2s": 5000,
+        "s2b": 0,
+        "b2sMemory": 1.424835205078125,
+        "s2bMemory": 1.424957275390625
+    },
+    {
+        "className": "org.apache.commons.lang3.exception.UncheckedIllegalAccessException",
+        "normalizedScore": 0.7836505443459219,
+        "weightedScore": 0.7823322735370608,
+        "b2s": 5000,
+        "s2b": 0,
+        "b2sMemory": 1.424835205078125,
+        "s2bMemory": 1.424957275390625
+    },
+    {
+        "className": "org.apache.commons.lang3.ObjectUtils",
+        "normalizedScore": 0.6906134536091525,
+        "weightedScore": 0.6851128106159474,
+        "b2s": 5300,
+        "s2b": 23,
+        "b2sMemory": 1.424835205078125,
+        "s2bMemory": 20.0
+    },
+    {
+        "className": "org.apache.commons.lang3.concurrent.LazyInitializer$Builder",
+        "normalizedScore": 0.5590112544048816,
+        "weightedScore": 0.5488977894717534,
+        "b2s": 6400,
+        "s2b": 0,
+        "b2sMemory": 1.4215545654296875,
+        "s2bMemory": 1.4216766357421875
+    },
+    {
+        "className": "org.apache.commons.lang3.reflect.InheritanceUtils",
+        "normalizedScore": 0.6471283955880676,
+        "weightedScore": 0.6444307330950281,
+        "b2s": 4800,
+        "s2b": 1,
+        "b2sMemory": 1.4215545654296875,
+        "s2bMemory": 1.4216766357421875
+    },
+    {
+        "className": "org.apache.commons.lang3.exception.ContextedRuntimeException",
+        "normalizedScore": 0.7247253882384616,
+        "weightedScore": 0.7220853955717643,
+        "b2s": 5300,
+        "s2b": 3,
+        "b2sMemory": 1.4215545654296875,
+        "s2bMemory": 2.8432540893554688
+    },
+    {
+        "className": "org.apache.commons.lang3.text.WordUtils",
+        "normalizedScore": 0.6986803866027217,
+        "weightedScore": 0.6961919506671672,
+        "b2s": 5500,
+        "s2b": 14,
+        "b2sMemory": 1.4215545654296875,
+        "s2bMemory": 18.845191955566406
+    },
+    {
+        "className": "org.apache.commons.lang3.concurrent.BasicThreadFactory$1",
+        "normalizedScore": 0.7750043511556669,
+        "weightedScore": 0.7865664160401002,
+        "b2s": 5500,
+        "s2b": 0,
+        "b2sMemory": 1.3811874389648438,
+        "s2bMemory": 1.3813095092773438
+    },
+    {
+        "className": "org.apache.commons.lang3.concurrent.AbstractFutureProxy",
+        "normalizedScore": 0.590664639746516,
+        "weightedScore": 0.583508327876569,
+        "b2s": 3714100,
+        "s2b": 1,
+        "b2sMemory": 1.3811874389648438,
+        "s2bMemory": 1.3813095092773438
+    },
+    {
+        "className": "org.apache.commons.lang3.concurrent.MultiBackgroundInitializer",
+        "normalizedScore": 0.6628374637626905,
+        "weightedScore": 0.6569269150115276,
+        "b2s": 5300,
+        "s2b": 6,
+        "b2sMemory": 1.3811874389648438,
+        "s2bMemory": 5.383171081542969
+    },
+    {
+        "className": "org.apache.commons.lang3.function.FailableIntToDoubleFunction",
+        "normalizedScore": 0.6995824185796794,
+        "weightedScore": 0.6986241767217114,
+        "b2s": 4500,
+        "s2b": 0,
+        "b2sMemory": 1.3811874389648438,
+        "s2bMemory": 1.3813095092773438
+    },
+    {
+        "className": "org.apache.commons.lang3.concurrent.locks.package-info",
+        "normalizedScore": 0.8067126846861461,
+        "weightedScore": 0.8166888982319199,
+        "b2s": 5400,
+        "s2b": 0,
+        "b2sMemory": 1.3811874389648438,
+        "s2bMemory": 1.3813095092773438
+    },
+    {
+        "className": "org.apache.commons.lang3.builder.ReflectionDiffBuilder$Builder",
+        "normalizedScore": 0.5748022331747237,
+        "weightedScore": 0.5673439493043773,
+        "b2s": 7200,
+        "s2b": 1,
+        "b2sMemory": 1.3811874389648438,
+        "s2bMemory": 1.3813095092773438
+    },
+    {
+        "className": "org.apache.commons.lang3.builder.Reflection",
+        "normalizedScore": 0.7908187217368464,
+        "weightedScore": 0.7896403186431014,
+        "b2s": 4800,
+        "s2b": 1,
+        "b2sMemory": 1.3811874389648438,
+        "s2bMemory": 1.3813095092773438
+    },
+    {
+        "className": "org.apache.commons.lang3.Functions$FailableBiPredicate",
+        "normalizedScore": 0.5220336693256756,
+        "weightedScore": 0.5153176670140467,
+        "b2s": 5000,
+        "s2b": 0,
+        "b2sMemory": 1.3811874389648438,
+        "s2bMemory": 1.3813095092773438
+    },
+    {
+        "className": "org.apache.commons.lang3.ThreadUtils$1",
+        "normalizedScore": 0.7678758626453662,
+        "weightedScore": 0.7783610036535569,
+        "b2s": 4700,
+        "s2b": 0,
+        "b2sMemory": 1.3811874389648438,
+        "s2bMemory": 1.3813095092773438
+    },
+    {
+        "className": "org.apache.commons.lang3.text.StrMatcher$TrimMatcher",
+        "normalizedScore": 0.6938086537270838,
+        "weightedScore": 0.6891336707073166,
+        "b2s": 4600,
+        "s2b": 0,
+        "b2sMemory": 1.3811874389648438,
+        "s2bMemory": 1.3813095092773438
+    },
+    {
+        "className": "org.apache.commons.lang3.function.MethodInvokers",
+        "normalizedScore": 0.63604462818791,
+        "weightedScore": 0.6336510634518637,
+        "b2s": 5300,
+        "s2b": 2,
+        "b2sMemory": 1.3811874389648438,
+        "s2bMemory": 2.7624969482421875
+    },
+    {
+        "className": "org.apache.commons.lang3.function.FailableLongConsumer",
+        "normalizedScore": 0.6698606603726667,
+        "weightedScore": 0.6633059506190997,
+        "b2s": 4900,
+        "s2b": 1,
+        "b2sMemory": 1.3811874389648438,
+        "s2bMemory": 1.3813095092773438
+    },
+    {
+        "className": "org.apache.commons.lang3.function.FailableToLongBiFunction",
+        "normalizedScore": 0.676556889841037,
+        "weightedScore": 0.6741835928835114,
+        "b2s": 4800,
+        "s2b": 0,
+        "b2sMemory": 1.3811874389648438,
+        "s2bMemory": 1.3813095092773438
+    },
+    {
+        "className": "org.apache.commons.lang3.Streams$ArrayCollector",
+        "normalizedScore": 0.5721642334508555,
+        "weightedScore": 0.5709611319264188,
+        "b2s": 5300,
+        "s2b": 1,
+        "b2sMemory": 1.3811874389648438,
+        "s2bMemory": 1.3813095092773438
+    },
+    {
+        "className": "org.apache.commons.lang3.time.FastDateParser$TimeZoneStrategy$TzInfo",
+        "normalizedScore": 0.7371048537971338,
+        "weightedScore": 0.7324391084416042,
+        "b2s": 4900,
+        "s2b": 0,
+        "b2sMemory": 1.3811874389648438,
+        "s2bMemory": 1.3813095092773438
+    },
+    {
+        "className": "org.apache.commons.lang3.time.FastDatePrinter$TimeZoneDisplayKey",
+        "normalizedScore": 0.7380222435949476,
+        "weightedScore": 0.7376194995094902,
+        "b2s": 4800,
+        "s2b": 1,
+        "b2sMemory": 1.3811874389648438,
+        "s2bMemory": 2.7631683349609375
+    },
+    {
+        "className": "org.apache.commons.lang3.tuple.ImmutableTriple",
+        "normalizedScore": 0.5932220484969869,
+        "weightedScore": 0.5897241279513357,
+        "b2s": 5500,
+        "s2b": 2,
+        "b2sMemory": 1.3811874389648438,
+        "s2bMemory": 2.7625045776367188
+    },
+    {
+        "className": "org.apache.commons.lang3.concurrent.MultiBackgroundInitializer$1",
+        "normalizedScore": 0.7770726486500318,
+        "weightedScore": 0.7890712661379697,
+        "b2s": 5200,
+        "s2b": 0,
+        "b2sMemory": 1.3811874389648438,
+        "s2bMemory": 1.3813095092773438
+    },
+    {
+        "className": "org.apache.commons.lang3.BooleanUtils",
+        "normalizedScore": 0.7437680511662808,
+        "weightedScore": 0.7373533496846101,
+        "b2s": 4600,
+        "s2b": 18,
+        "b2sMemory": 1.3811874389648438,
+        "s2bMemory": 20.0
+    },
+    {
+        "className": "org.apache.commons.lang3.Charsets",
+        "normalizedScore": 0.7386106664958695,
+        "weightedScore": 0.7377150402030273,
+        "b2s": 5500,
+        "s2b": 1,
+        "b2sMemory": 1.381072998046875,
+        "s2bMemory": 1.304473876953125
+    },
+    {
+        "className": "org.apache.commons.lang3.ClassUtils",
+        "normalizedScore": 0.6866052245879396,
+        "weightedScore": 0.682377410594327,
+        "b2s": 5200,
+        "s2b": 54,
+        "b2sMemory": 1.304351806640625,
+        "s2bMemory": 51.915016174316406
+    },
+    {
+        "className": "org.apache.commons.lang3.Functions$FailableFunction",
+        "normalizedScore": 0.5313888438006332,
+        "weightedScore": 0.5251426147878014,
+        "b2s": 5600,
+        "s2b": 0,
+        "b2sMemory": 2.0,
+        "s2bMemory": 1.941650390625
+    },
+    {
+        "className": "org.apache.commons.lang3.function.FailableLongToDoubleFunction",
+        "normalizedScore": 0.699459295612265,
+        "weightedScore": 0.698405411505584,
+        "b2s": 4800,
+        "s2b": 0,
+        "b2sMemory": 1.630889892578125,
+        "s2bMemory": 1.4756927490234375
+    },
+    {
+        "className": "org.apache.commons.lang3.Strings$1",
+        "normalizedScore": 0.7666623195417289,
+        "weightedScore": 0.7767885404177447,
+        "b2s": 4900,
+        "s2b": 0,
+        "b2sMemory": 1.3202438354492188,
+        "s2bMemory": 1.242706298828125
+    },
+    {
+        "className": "org.apache.commons.lang3.builder.MultilineRecursiveToStringStyle",
+        "normalizedScore": 0.7733336257682565,
+        "weightedScore": 0.7711220284703264,
+        "b2s": 5100,
+        "s2b": 9,
+        "b2sMemory": 1.242584228515625,
+        "s2bMemory": 11.72979736328125
+    },
+    {
+        "className": "org.apache.commons.lang3.time.FastDateParser$StrategyParser",
+        "normalizedScore": 0.7931190453653608,
+        "weightedScore": 0.7959607401871565,
+        "b2s": 9000,
+        "s2b": 4,
+        "b2sMemory": 1.18896484375,
+        "s2bMemory": 5.190948486328125
+    },
+    {
+        "className": "org.apache.commons.lang3.text.ExtendedMessageFormat",
+        "normalizedScore": 0.7196959636690794,
+        "weightedScore": 0.7169036251492732,
+        "b2s": 5200,
+        "s2b": 21,
+        "b2sMemory": 1.18896484375,
+        "s2bMemory": 29.19091796875
+    },
+    {
+        "className": "org.apache.commons.lang3.time.FastDateParser",
+        "normalizedScore": 0.7781281601857426,
+        "weightedScore": 0.7711300193183978,
+        "b2s": 5300,
+        "s2b": 20,
+        "b2sMemory": 1.2839736938476562,
+        "s2bMemory": 21.21039581298828
+    },
+    {
+        "className": "org.apache.commons.lang3.builder.DiffBuilder$Builder",
+        "normalizedScore": 0.5711272263122597,
+        "weightedScore": 0.5631805187970097,
+        "b2s": 13500,
+        "s2b": 1,
+        "b2sMemory": 1.2240676879882812,
+        "s2bMemory": 1.2241897583007812
+    },
+    {
+        "className": "org.apache.commons.lang3.builder.ToStringExclude",
+        "normalizedScore": 0.9168186305084273,
+        "weightedScore": 0.9239873421702283,
+        "b2s": 5500,
+        "s2b": 0,
+        "b2sMemory": 1.2240676879882812,
+        "s2bMemory": 1.2241897583007812
+    },
+    {
+        "className": "org.apache.commons.lang3.math.IEEE754rUtils",
+        "normalizedScore": 0.7097171033579343,
+        "weightedScore": 0.702069206730401,
+        "b2s": 5300,
+        "s2b": 5,
+        "b2sMemory": 1.2240676879882812,
+        "s2bMemory": 5.22601318359375
+    },
+    {
+        "className": "org.apache.commons.lang3.builder.DiffBuilder$SDiff",
+        "normalizedScore": 0.560041937610365,
+        "weightedScore": 0.5541424558912134,
+        "b2s": 5500,
+        "s2b": 1,
+        "b2sMemory": 1.2240676879882812,
+        "s2bMemory": 1.2241897583007812
+    },
+    {
+        "className": "org.apache.commons.lang3.function.FailableBooleanSupplier",
+        "normalizedScore": 0.572937555772769,
+        "weightedScore": 0.5649916262824486,
+        "b2s": 5000,
+        "s2b": 0,
+        "b2sMemory": 1.2240676879882812,
+        "s2bMemory": 1.2241897583007812
+    },
+    {
+        "className": "org.apache.commons.lang3.builder.EqualsExclude",
+        "normalizedScore": 0.9167114882128562,
+        "weightedScore": 0.9238775486938963,
+        "b2s": 6100,
+        "s2b": 0,
+        "b2sMemory": 1.2240676879882812,
+        "s2bMemory": 1.2241897583007812
+    },
+    {
+        "className": "org.apache.commons.lang3.builder.ToStringStyle$SimpleToStringStyle",
+        "normalizedScore": 0.8197945838511762,
+        "weightedScore": 0.8225852404085873,
+        "b2s": 5100,
+        "s2b": 0,
+        "b2sMemory": 1.2240676879882812,
+        "s2bMemory": 1.2241897583007812
+    },
+    {
+        "className": "org.apache.commons.lang3.CachedRandomBits",
+        "normalizedScore": 0.7647816386449443,
+        "weightedScore": 0.7631568185426713,
+        "b2s": 5300,
+        "s2b": 3,
+        "b2sMemory": 1.2240676879882812,
+        "s2bMemory": 5.226287841796875
+    },
+    {
+        "className": "org.apache.commons.lang3.Functions$FailableSupplier",
+        "normalizedScore": 0.5382851856552502,
+        "weightedScore": 0.5319670405337086,
+        "b2s": 4600,
+        "s2b": 0,
+        "b2sMemory": 1.2240676879882812,
+        "s2bMemory": 1.2241897583007812
+    },
+    {
+        "className": "org.apache.commons.lang3.text.translate.AggregateTranslator",
+        "normalizedScore": 0.6956928373729618,
+        "weightedScore": 0.6958619370796328,
+        "b2s": 5200,
+        "s2b": 1,
+        "b2sMemory": 1.2240676879882812,
+        "s2bMemory": 1.2241897583007812
+    },
+    {
+        "className": "org.apache.commons.lang3.function.FailableBiPredicate",
+        "normalizedScore": 0.5911086746550169,
+        "weightedScore": 0.589205543467019,
+        "b2s": 5700,
+        "s2b": 2,
+        "b2sMemory": 1.2240676879882812,
+        "s2bMemory": 2.4482574462890625
+    },
+    {
+        "className": "org.apache.commons.lang3.concurrent.AtomicInitializer$Builder",
+        "normalizedScore": 0.5750510578781347,
+        "weightedScore": 0.567808378765221,
+        "b2s": 9000,
+        "s2b": 0,
+        "b2sMemory": 1.2240676879882812,
+        "s2bMemory": 1.2241897583007812
+    },
+    {
+        "className": "org.apache.commons.lang3.CharSetUtils",
+        "normalizedScore": 0.6896240794102386,
+        "weightedScore": 0.6879574293541082,
+        "b2s": 5600,
+        "s2b": 7,
+        "b2sMemory": 1.2240676879882812,
+        "s2bMemory": 6.4501190185546875
+    },
+    {
+        "className": "org.apache.commons.lang3.text.StrMatcher$CharSetMatcher",
+        "normalizedScore": 0.7145258097676951,
+        "weightedScore": 0.7107036942352133,
+        "b2s": 5400,
+        "s2b": 0,
+        "b2sMemory": 1.2240676879882812,
+        "s2bMemory": 1.2241897583007812
+    },
+    {
+        "className": "org.apache.commons.lang3.ObjectUtils$Null",
+        "normalizedScore": 0.8065872482948606,
+        "weightedScore": 0.8043252625958094,
+        "b2s": 5300,
+        "s2b": 0,
+        "b2sMemory": 1.2240676879882812,
+        "s2bMemory": 1.2241897583007812
+    },
+    {
+        "className": "org.apache.commons.lang3.time.FastDatePrinter$TwentyFourHourField",
+        "normalizedScore": 0.7325733144623366,
+        "weightedScore": 0.7266786556791289,
+        "b2s": 5000,
+        "s2b": 1,
+        "b2sMemory": 1.2240676879882812,
+        "s2bMemory": 1.2241897583007812
+    },
+    {
+        "className": "org.apache.commons.lang3.text.translate.NumericEntityUnescaper",
+        "normalizedScore": 0.7117023485829782,
+        "weightedScore": 0.7079785478412315,
+        "b2s": 6000,
+        "s2b": 8,
+        "b2sMemory": 1.2240676879882812,
+        "s2bMemory": 10.450698852539062
+    },
+    {
+        "className": "org.apache.commons.lang3.exception.UncheckedException",
+        "normalizedScore": 0.7729647524904775,
+        "weightedScore": 0.7702265811283555,
+        "b2s": 5000,
+        "s2b": 0,
+        "b2sMemory": 1.2240676879882812,
+        "s2bMemory": 1.2241897583007812
+    },
+    {
+        "className": "org.apache.commons.lang3.util.IterableStringTokenizer",
+        "normalizedScore": 0.6970039362815775,
+        "weightedScore": 0.6897863012741094,
+        "b2s": 5600,
+        "s2b": 1,
+        "b2sMemory": 1.2240676879882812,
+        "s2bMemory": 1.2241897583007812
+    },
+    {
+        "className": "org.apache.commons.lang3.concurrent.BasicThreadFactory$Builder",
+        "normalizedScore": 0.7537600119594275,
+        "weightedScore": 0.7496483785795769,
+        "b2s": 5800,
+        "s2b": 2,
+        "b2sMemory": 1.2240676879882812,
+        "s2bMemory": 2.4507827758789062
+    },
+    {
+        "className": "org.apache.commons.lang3.StringUtils",
+        "normalizedScore": 0.712952166120747,
+        "weightedScore": 0.7063784069016177,
+        "b2s": 5300,
+        "s2b": 189,
+        "b2sMemory": 1.2240676879882812,
+        "s2bMemory": 55.41780090332031
+    },
+    {
+        "className": "org.apache.commons.lang3.time.DateUtils$ModifyType",
+        "normalizedScore": 0.7878734909491453,
+        "weightedScore": 0.7926551827387769,
+        "b2s": 5300,
+        "s2b": 1,
+        "b2sMemory": 2.0,
+        "s2bMemory": 1.8821487426757812
+    },
+    {
+        "className": "org.apache.commons.lang3.mutable.Mutable",
+        "normalizedScore": 0.6335983509901267,
+        "weightedScore": 0.6258622377725047,
+        "b2s": 5400,
+        "s2b": 0,
+        "b2sMemory": 1.568359375,
+        "s2bMemory": 1.5684814453125
+    },
+    {
+        "className": "org.apache.commons.lang3.builder.ToStringStyle$DefaultToStringStyle",
+        "normalizedScore": 0.7944344282361646,
+        "weightedScore": 0.7918550205002675,
+        "b2s": 5200,
+        "s2b": 0,
+        "b2sMemory": 1.568359375,
+        "s2bMemory": 1.5684814453125
+    },
+    {
+        "className": "org.apache.commons.lang3.function.FailableCallable",
+        "normalizedScore": 0.5742517407173575,
+        "weightedScore": 0.5659681975469093,
+        "b2s": 8800,
+        "s2b": 0,
+        "b2sMemory": 1.568359375,
+        "s2bMemory": 1.5684814453125
+    },
+    {
+        "className": "org.apache.commons.lang3.time.FastDateParser$CopyQuotedStrategy",
+        "normalizedScore": 0.7555844742427631,
+        "weightedScore": 0.7531961789097416,
+        "b2s": 6700,
+        "s2b": 1,
+        "b2sMemory": 1.568359375,
+        "s2bMemory": 3.1368408203125
+    },
+    {
+        "className": "org.apache.commons.lang3.arch.Processor$Arch",
+        "normalizedScore": 0.7955150910387149,
+        "weightedScore": 0.7980596518038391,
+        "b2s": 4800,
+        "s2b": 1,
+        "b2sMemory": 1.568359375,
+        "s2bMemory": 1.5684814453125
+    },
+    {
+        "className": "org.apache.commons.lang3.Functions",
+        "normalizedScore": 0.5487438111792597,
+        "weightedScore": 0.5499325462727448,
+        "b2s": 5500,
+        "s2b": 9,
+        "b2sMemory": 1.568359375,
+        "s2bMemory": 9.571243286132812
+    },
+    {
+        "className": "org.apache.commons.lang3.time.DateUtils",
+        "normalizedScore": 0.7429359834665213,
+        "weightedScore": 0.7351290571967779,
+        "b2s": 5200,
+        "s2b": 35,
+        "b2sMemory": 1.4946365356445312,
+        "s2bMemory": 42.991233825683594
+    },
+    {
+        "className": "org.apache.commons.lang3.time.DateFormatUtils",
+        "normalizedScore": 0.7656326321273387,
+        "weightedScore": 0.7634978450531045,
+        "b2s": 5100,
+        "s2b": 5,
+        "b2sMemory": 1.5729904174804688,
+        "s2bMemory": 5.574974060058594
+    },
+    {
+        "className": "org.apache.commons.lang3.concurrent.ConcurrentRuntimeException",
+        "normalizedScore": 0.7413818061385137,
+        "weightedScore": 0.7353008364900973,
+        "b2s": 4400,
+        "s2b": 0,
+        "b2sMemory": 1.5729904174804688,
+        "s2bMemory": 1.5731124877929688
+    },
+    {
+        "className": "org.apache.commons.lang3.concurrent.UncheckedTimeoutException",
+        "normalizedScore": 0.77962581900902,
+        "weightedScore": 0.7777638660389355,
+        "b2s": 4700,
+        "s2b": 0,
+        "b2sMemory": 1.5729904174804688,
+        "s2bMemory": 1.5731124877929688
+    },
+    {
+        "className": "org.apache.commons.lang3.text.StrSubstitutor",
+        "normalizedScore": 0.6692524469095723,
+        "weightedScore": 0.6621629793447149,
+        "b2s": 5700,
+        "s2b": 32,
+        "b2sMemory": 1.5729904174804688,
+        "s2bMemory": 35.150054931640625
+    },
+    {
+        "className": "org.apache.commons.lang3.util.package-info",
+        "normalizedScore": 0.8041523915354234,
+        "weightedScore": 0.8135009319094401,
+        "b2s": 14500,
+        "s2b": 0,
+        "b2sMemory": 1.6743698120117188,
+        "s2bMemory": 1.5983810424804688
+    },
+    {
+        "className": "org.apache.commons.lang3.LocaleUtils$SyncAvoid",
+        "normalizedScore": 0.7917239745671245,
+        "weightedScore": 0.7961219363918492,
+        "b2s": 7500,
+        "s2b": 1,
+        "b2sMemory": 1.5982589721679688,
+        "s2bMemory": 1.5983810424804688
+    },
+    {
+        "className": "org.apache.commons.lang3.function.FailableDoubleFunction",
+        "normalizedScore": 0.6942624894210426,
+        "weightedScore": 0.6931379526492298,
+        "b2s": 5200,
+        "s2b": 0,
+        "b2sMemory": 1.5982589721679688,
+        "s2bMemory": 1.5983810424804688
+    },
+    {
+        "className": "org.apache.commons.lang3.reflect.TypeUtils$WildcardTypeImpl",
+        "normalizedScore": 0.736033025192862,
+        "weightedScore": 0.7331709704733019,
+        "b2s": 5200,
+        "s2b": 2,
+        "b2sMemory": 1.5982589721679688,
+        "s2bMemory": 3.1966934204101562
+    },
+    {
+        "className": "org.apache.commons.lang3.SerializationUtils",
+        "normalizedScore": 0.6821950176851144,
+        "weightedScore": 0.6738698037504307,
+        "b2s": 5400,
+        "s2b": 8,
+        "b2sMemory": 1.5982589721679688,
+        "s2bMemory": 5.600242614746094
+    },
+    {
+        "className": "org.apache.commons.lang3.CharRange",
+        "normalizedScore": 0.7656823392835816,
+        "weightedScore": 0.7640717905329458,
+        "b2s": 4900,
+        "s2b": 6,
+        "b2sMemory": 1.5982589721679688,
+        "s2bMemory": 7.198577880859375
+    }
+]

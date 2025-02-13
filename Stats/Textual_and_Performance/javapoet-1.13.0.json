@@ -1,0 +1,389 @@
+[
+    {
+        "className": "com.squareup.javapoet.JavaFile$Builder",
+        "normalizedScore": 0.7144920842902499,
+        "weightedScore": 0.710833544419776,
+        "b2s": 16900,
+        "s2b": 254,
+        "b2sMemory": 0.3474273681640625,
+        "s2bMemory": 3.7758865356445312
+    },
+    {
+        "className": "com.squareup.javapoet.TypeSpec",
+        "normalizedScore": 0.7476674034930003,
+        "weightedScore": 0.7390971401787398,
+        "b2s": 7000,
+        "s2b": 386,
+        "b2sMemory": 2.0,
+        "s2bMemory": 66.83306121826172
+    },
+    {
+        "className": "com.squareup.javapoet.ParameterSpec$1",
+        "normalizedScore": 0.768565670481642,
+        "weightedScore": 0.7788650667362302,
+        "b2s": 4400,
+        "s2b": 0,
+        "b2sMemory": 2.0,
+        "s2bMemory": 0.5488967895507812
+    },
+    {
+        "className": "com.squareup.javapoet.CodeBlock$CodeBlockJoiner",
+        "normalizedScore": 0.7629077216228554,
+        "weightedScore": 0.7648976068562714,
+        "b2s": 4200,
+        "s2b": 4,
+        "b2sMemory": 0.15680694580078125,
+        "s2bMemory": 1.09808349609375
+    },
+    {
+        "className": "com.squareup.javapoet.TypeSpec$Kind",
+        "normalizedScore": 0.728549070363519,
+        "weightedScore": 0.7282988415923798,
+        "b2s": 14900,
+        "s2b": 17,
+        "b2sMemory": 0.15680694580078125,
+        "s2bMemory": 0.6276931762695312
+    },
+    {
+        "className": "com.squareup.javapoet.TypeVariableName",
+        "normalizedScore": 0.6383925960814908,
+        "weightedScore": 0.6257778346130858,
+        "b2s": 3686000,
+        "s2b": 25,
+        "b2sMemory": 0.23577880859375,
+        "s2bMemory": 7.777351379394531
+    },
+    {
+        "className": "com.squareup.javapoet.TypeName$2",
+        "normalizedScore": 0.8142019653992669,
+        "weightedScore": 0.8148203507154405,
+        "b2s": 5300,
+        "s2b": 7,
+        "b2sMemory": 2.0,
+        "s2bMemory": 4.0
+    },
+    {
+        "className": "com.squareup.javapoet.ClassName",
+        "normalizedScore": 0.7252780717857492,
+        "weightedScore": 0.7194004679773078,
+        "b2s": 4200,
+        "s2b": 56,
+        "b2sMemory": 0.22882080078125,
+        "s2bMemory": 5.495513916015625
+    },
+    {
+        "className": "com.squareup.javapoet.Util",
+        "normalizedScore": 0.6830148299492248,
+        "weightedScore": 0.6762870099554634,
+        "b2s": 7000,
+        "s2b": 28,
+        "b2sMemory": 2.0,
+        "s2bMemory": 6.503242492675781
+    },
+    {
+        "className": "com.squareup.javapoet.CodeBlock",
+        "normalizedScore": 0.7261784507946759,
+        "weightedScore": 0.7256294291234094,
+        "b2s": 3700,
+        "s2b": 20,
+        "b2sMemory": 0.23571014404296875,
+        "s2bMemory": 5.416328430175781
+    },
+    {
+        "className": "com.squareup.javapoet.JavaFile$2",
+        "normalizedScore": 0.7695008287822627,
+        "weightedScore": 0.7679296738153119,
+        "b2s": 5200,
+        "s2b": 3,
+        "b2sMemory": 2.0,
+        "s2bMemory": 0.93341064453125
+    },
+    {
+        "className": "com.squareup.javapoet.TypeSpec$1",
+        "normalizedScore": 0.7665923564452976,
+        "weightedScore": 0.7764715823392294,
+        "b2s": 5800,
+        "s2b": 0,
+        "b2sMemory": 0.2333221435546875,
+        "s2bMemory": 0.2334442138671875
+    },
+    {
+        "className": "com.squareup.javapoet.TypeName$1",
+        "normalizedScore": 0.7366225989130317,
+        "weightedScore": 0.7302886685298235,
+        "b2s": 12000,
+        "s2b": 17,
+        "b2sMemory": 0.473358154296875,
+        "s2bMemory": 7.502510070800781
+    },
+    {
+        "className": "com.squareup.javapoet.LineWrapper$1",
+        "normalizedScore": 0.7983251058113039,
+        "weightedScore": 0.8028513022166177,
+        "b2s": 23400,
+        "s2b": 2,
+        "b2sMemory": 0.23470306396484375,
+        "s2bMemory": 1.1738052368164062
+    },
+    {
+        "className": "com.squareup.javapoet.ParameterSpec",
+        "normalizedScore": 0.7582122893495917,
+        "weightedScore": 0.7512040535609783,
+        "b2s": 4900,
+        "s2b": 15,
+        "b2sMemory": 0.23470306396484375,
+        "s2bMemory": 6.8211517333984375
+    },
+    {
+        "className": "com.squareup.javapoet.MethodSpec$1",
+        "normalizedScore": 0.7670326899120993,
+        "weightedScore": 0.7771218737510781,
+        "b2s": 9700,
+        "s2b": 0,
+        "b2sMemory": 2.0,
+        "s2bMemory": 0.46714019775390625
+    },
+    {
+        "className": "com.squareup.javapoet.AnnotationSpec$1",
+        "normalizedScore": 0.7689396924326003,
+        "weightedScore": 0.7793184504620675,
+        "b2s": 5900,
+        "s2b": 0,
+        "b2sMemory": 0.23352813720703125,
+        "s2bMemory": 0.233642578125
+    },
+    {
+        "className": "com.squareup.javapoet.CodeWriter$1",
+        "normalizedScore": 0.7677734306528401,
+        "weightedScore": 0.7777885404177447,
+        "b2s": 5800,
+        "s2b": 0,
+        "b2sMemory": 0.23352813720703125,
+        "s2bMemory": 0.233642578125
+    },
+    {
+        "className": "com.squareup.javapoet.AnnotationSpec$Builder",
+        "normalizedScore": 0.7402849214030679,
+        "weightedScore": 0.7347193518880096,
+        "b2s": 3500,
+        "s2b": 12,
+        "b2sMemory": 0.47356414794921875,
+        "s2bMemory": 5.169715881347656
+    },
+    {
+        "className": "com.squareup.javapoet.NameAllocator",
+        "normalizedScore": 0.7288422436638214,
+        "weightedScore": 0.7235098944164189,
+        "b2s": 6900,
+        "s2b": 9,
+        "b2sMemory": 0.2338714599609375,
+        "s2bMemory": 5.4054107666015625
+    },
+    {
+        "className": "com.squareup.javapoet.CodeBlock$1",
+        "normalizedScore": 0.7673759315845058,
+        "weightedScore": 0.7773050050927219,
+        "b2s": 6200,
+        "s2b": 0,
+        "b2sMemory": 0.2349395751953125,
+        "s2bMemory": 0.23505401611328125
+    },
+    {
+        "className": "com.squareup.javapoet.CodeWriter",
+        "normalizedScore": 0.7420817875078441,
+        "weightedScore": 0.7364903058929526,
+        "b2s": 5400,
+        "s2b": 92,
+        "b2sMemory": 0.2349395751953125,
+        "s2bMemory": 27.46466827392578
+    },
+    {
+        "className": "com.squareup.javapoet.ParameterizedTypeName",
+        "normalizedScore": 0.703161404964844,
+        "weightedScore": 0.6972176782614631,
+        "b2s": 5600,
+        "s2b": 12,
+        "b2sMemory": 2.0,
+        "s2bMemory": 8.0
+    },
+    {
+        "className": "com.squareup.javapoet.AnnotationSpec",
+        "normalizedScore": 0.7026752494318615,
+        "weightedScore": 0.6938583439087045,
+        "b2s": 6600,
+        "s2b": 27,
+        "b2sMemory": 0.203704833984375,
+        "s2bMemory": 5.025917053222656
+    },
+    {
+        "className": "com.squareup.javapoet.FieldSpec$Builder",
+        "normalizedScore": 0.6912850727938452,
+        "weightedScore": 0.682247660221544,
+        "b2s": 5300,
+        "s2b": 10,
+        "b2sMemory": 2.0,
+        "s2bMemory": 4.0
+    },
+    {
+        "className": "com.squareup.javapoet.CodeBlock$Builder",
+        "normalizedScore": 0.7606948665745478,
+        "weightedScore": 0.7555528292251514,
+        "b2s": 6000,
+        "s2b": 52,
+        "b2sMemory": 0.2278900146484375,
+        "s2bMemory": 21.510276794433594
+    },
+    {
+        "className": "com.squareup.javapoet.MethodSpec$Builder",
+        "normalizedScore": 0.7115976799821855,
+        "weightedScore": 0.7034287448679317,
+        "b2s": 6200,
+        "s2b": 33,
+        "b2sMemory": 2.0,
+        "s2bMemory": 12.0
+    },
+    {
+        "className": "com.squareup.javapoet.ClassName$1",
+        "normalizedScore": 0.7482508711791818,
+        "weightedScore": 0.736663373820864,
+        "b2s": 5100,
+        "s2b": 4,
+        "b2sMemory": 0.5160751342773438,
+        "s2bMemory": 2.214447021484375
+    },
+    {
+        "className": "com.squareup.javapoet.FieldSpec$1",
+        "normalizedScore": 0.7666268679140938,
+        "weightedScore": 0.7766308477893511,
+        "b2s": 5000,
+        "s2b": 0,
+        "b2sMemory": 0.36862945556640625,
+        "s2bMemory": 0.368743896484375
+    },
+    {
+        "className": "com.squareup.javapoet.MethodSpec",
+        "normalizedScore": 0.7238089483961518,
+        "weightedScore": 0.7155492267036854,
+        "b2s": 16800,
+        "s2b": 32,
+        "b2sMemory": 0.36862945556640625,
+        "s2bMemory": 8.968650817871094
+    },
+    {
+        "className": "com.squareup.javapoet.TypeName",
+        "normalizedScore": 0.7449773948120648,
+        "weightedScore": 0.7377577873972219,
+        "b2s": 5200,
+        "s2b": 30,
+        "b2sMemory": 2.0,
+        "s2bMemory": 0.842498779296875
+    },
+    {
+        "className": "com.squareup.javapoet.WildcardTypeName",
+        "normalizedScore": 0.689955215616502,
+        "weightedScore": 0.6827502571530045,
+        "b2s": 21900,
+        "s2b": 12,
+        "b2sMemory": 0.34716796875,
+        "s2bMemory": 7.33612060546875
+    },
+    {
+        "className": "com.squareup.javapoet.JavaFile$1",
+        "normalizedScore": 0.6488143508666219,
+        "weightedScore": 0.6450867619338059,
+        "b2s": 5500,
+        "s2b": 1,
+        "b2sMemory": 2.0,
+        "s2bMemory": 0.7250747680664062
+    },
+    {
+        "className": "com.squareup.javapoet.TypeSpec$Builder",
+        "normalizedScore": 0.7296004420181322,
+        "weightedScore": 0.722789344473044,
+        "b2s": 5200,
+        "s2b": 91,
+        "b2sMemory": 0.43498992919921875,
+        "s2bMemory": 21.544998168945312
+    },
+    {
+        "className": "com.squareup.javapoet.ArrayTypeName",
+        "normalizedScore": 0.7017617190079072,
+        "weightedScore": 0.6966034789660525,
+        "b2s": 3800,
+        "s2b": 7,
+        "b2sMemory": 2.0,
+        "s2bMemory": 4.0
+    },
+    {
+        "className": "com.squareup.javapoet.AnnotationSpec$Visitor",
+        "normalizedScore": 0.6963229587848541,
+        "weightedScore": 0.6866798286701823,
+        "b2s": 8400,
+        "s2b": 4,
+        "b2sMemory": 1.0767822265625,
+        "s2bMemory": 2.7841415405273438
+    },
+    {
+        "className": "com.squareup.javapoet.JavaFile",
+        "normalizedScore": 0.7352919509552275,
+        "weightedScore": 0.7298457482618087,
+        "b2s": 6200,
+        "s2b": 26,
+        "b2sMemory": 0.34625244140625,
+        "s2bMemory": 18.772491455078125
+    },
+    {
+        "className": "com.squareup.javapoet.LineWrapper$FlushType",
+        "normalizedScore": 0.7877113194075999,
+        "weightedScore": 0.7912696281552236,
+        "b2s": 3600,
+        "s2b": 2,
+        "b2sMemory": 0.3805999755859375,
+        "s2bMemory": 1.1419296264648438
+    },
+    {
+        "className": "com.squareup.javapoet.LineWrapper",
+        "normalizedScore": 0.776503090458588,
+        "weightedScore": 0.7761200295159696,
+        "b2s": 6000,
+        "s2b": 9,
+        "b2sMemory": 0.3805999755859375,
+        "s2bMemory": 7.810211181640625
+    },
+    {
+        "className": "com.squareup.javapoet.CodeWriter$Multiset",
+        "normalizedScore": 0.6782480592629007,
+        "weightedScore": 0.6713084638439873,
+        "b2s": 5300,
+        "s2b": 2,
+        "b2sMemory": 2.0,
+        "s2bMemory": 2.4423980712890625
+    },
+    {
+        "className": "com.squareup.javapoet.ParameterSpec$Builder",
+        "normalizedScore": 0.6900051849373767,
+        "weightedScore": 0.683196012215771,
+        "b2s": 5100,
+        "s2b": 8,
+        "b2sMemory": 0.381500244140625,
+        "s2bMemory": 3.8154067993164062
+    },
+    {
+        "className": "com.squareup.javapoet.FieldSpec",
+        "normalizedScore": 0.7548271136918396,
+        "weightedScore": 0.7526898912475611,
+        "b2s": 5700,
+        "s2b": 7,
+        "b2sMemory": 0.3559722900390625,
+        "s2bMemory": 5.7844085693359375
+    },
+    {
+        "className": "com.squareup.javapoet.LineWrapper$RecordingAppendable",
+        "normalizedScore": 0.7661441047228434,
+        "weightedScore": 0.7639172911497838,
+        "b2s": 6100,
+        "s2b": 1,
+        "b2sMemory": 0.34589385986328125,
+        "s2bMemory": 1.0379562377929688
+    }
+]

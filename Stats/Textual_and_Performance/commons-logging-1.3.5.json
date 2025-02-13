@@ -1,0 +1,245 @@
+[
+    {
+        "className": "org.apache.commons.logging.LogConfigurationException",
+        "normalizedScore": 0.7167861613175898,
+        "weightedScore": 0.7034884975667831,
+        "b2s": 3960900,
+        "s2b": 143,
+        "b2sMemory": 0.36943817138671875,
+        "s2bMemory": 2.1796646118164062
+    },
+    {
+        "className": "org.apache.commons.logging.impl.WeakHashtable$Referenced",
+        "normalizedScore": 0.6850830246312832,
+        "weightedScore": 0.677604582009715,
+        "b2s": 7100,
+        "s2b": 50,
+        "b2sMemory": 0.17441558837890625,
+        "s2bMemory": 2.4693832397460938
+    },
+    {
+        "className": "org.apache.commons.logging.Log",
+        "normalizedScore": 0.9374636595216703,
+        "weightedScore": 0.937732603242433,
+        "b2s": 6400,
+        "s2b": 3,
+        "b2sMemory": 1.6660232543945312,
+        "s2bMemory": 0.32315826416015625
+    },
+    {
+        "className": "org.apache.commons.logging.package-info",
+        "normalizedScore": 0.8032858840719262,
+        "weightedScore": 0.8124734246969918,
+        "b2s": 7400,
+        "s2b": 0,
+        "b2sMemory": 0.1149139404296875,
+        "s2bMemory": 0.1150360107421875
+    },
+    {
+        "className": "org.apache.commons.logging.LogSource",
+        "normalizedScore": 0.7131756772724355,
+        "weightedScore": 0.7117685627615662,
+        "b2s": 7200,
+        "s2b": 56,
+        "b2sMemory": 0.1149139404296875,
+        "s2bMemory": 4.1168670654296875
+    },
+    {
+        "className": "org.apache.commons.logging.impl.Slf4jLogFactory$Slf4jLog",
+        "normalizedScore": 0.7951823142413685,
+        "weightedScore": 0.7893224570580171,
+        "b2s": 7000,
+        "s2b": 27,
+        "b2sMemory": 0.17972564697265625,
+        "s2bMemory": 3.6060714721679688
+    },
+    {
+        "className": "org.apache.commons.logging.impl.Log4jApiLogFactory$Log4j2Log",
+        "normalizedScore": 0.7748484253093366,
+        "weightedScore": 0.7702188059200681,
+        "b2s": 7400,
+        "s2b": 21,
+        "b2sMemory": 0.19744873046875,
+        "s2bMemory": 3.7583084106445312
+    },
+    {
+        "className": "org.apache.commons.logging.impl.Jdk13LumberjackLogger",
+        "normalizedScore": 0.754654925374171,
+        "weightedScore": 0.751828061813411,
+        "b2s": 7800,
+        "s2b": 43,
+        "b2sMemory": 0.21167755126953125,
+        "s2bMemory": 8.637077331542969
+    },
+    {
+        "className": "org.apache.commons.logging.impl.Jdk14Logger",
+        "normalizedScore": 0.7446408312632681,
+        "weightedScore": 0.7426775486492692,
+        "b2s": 7100,
+        "s2b": 26,
+        "b2sMemory": 0.2003631591796875,
+        "s2bMemory": 4.8047637939453125
+    },
+    {
+        "className": "org.apache.commons.logging.impl.package-info",
+        "normalizedScore": 0.8045131278374155,
+        "weightedScore": 0.813984295673829,
+        "b2s": 19800,
+        "s2b": 0,
+        "b2sMemory": 2.0,
+        "s2bMemory": 0.49542236328125
+    },
+    {
+        "className": "org.apache.commons.logging.impl.Log4JLogger",
+        "normalizedScore": 0.7621352663148518,
+        "weightedScore": 0.7566799657205626,
+        "b2s": 7100,
+        "s2b": 36,
+        "b2sMemory": 0.2122802734375,
+        "s2bMemory": 5.9132080078125
+    },
+    {
+        "className": "org.apache.commons.logging.impl.ServletContextCleaner",
+        "normalizedScore": 0.69577767820032,
+        "weightedScore": 0.6936150253857645,
+        "b2s": 9300,
+        "s2b": 7,
+        "b2sMemory": 0.22542572021484375,
+        "s2bMemory": 2.2570343017578125
+    },
+    {
+        "className": "org.apache.commons.logging.impl.WeakHashtable$1",
+        "normalizedScore": 0.7804960925436615,
+        "weightedScore": 0.7789428336542589,
+        "b2s": 7300,
+        "s2b": 3,
+        "b2sMemory": 0.20965576171875,
+        "s2bMemory": 0.6317596435546875
+    },
+    {
+        "className": "org.apache.commons.logging.impl.WeakHashtable",
+        "normalizedScore": 0.7589841812844584,
+        "weightedScore": 0.7569974165902322,
+        "b2s": 10600,
+        "s2b": 29,
+        "b2sMemory": 0.20965576171875,
+        "s2bMemory": 6.938545227050781
+    },
+    {
+        "className": "org.apache.commons.logging.impl.Slf4jLogFactory$Slf4jLocationAwareLog",
+        "normalizedScore": 0.7815278589484219,
+        "weightedScore": 0.7744846976041274,
+        "b2s": 7300,
+        "s2b": 12,
+        "b2sMemory": 2.0,
+        "s2bMemory": 3.1357650756835938
+    },
+    {
+        "className": "org.apache.commons.logging.impl.Log4jApiLogFactory$LogAdapter",
+        "normalizedScore": 0.6696538686107645,
+        "weightedScore": 0.6583681837981052,
+        "b2s": 7100,
+        "s2b": 5,
+        "b2sMemory": 0.21219635009765625,
+        "s2bMemory": 1.0612106323242188
+    },
+    {
+        "className": "org.apache.commons.logging.impl.Log4jApiLogFactory",
+        "normalizedScore": 0.7712533822822603,
+        "weightedScore": 0.7661178476227852,
+        "b2s": 7000,
+        "s2b": 7,
+        "b2sMemory": 0.21219635009765625,
+        "s2bMemory": 1.9126358032226562
+    },
+    {
+        "className": "org.apache.commons.logging.LogFactory",
+        "normalizedScore": 0.7481451999286365,
+        "weightedScore": 0.7440725817121574,
+        "b2s": 18400,
+        "s2b": 209,
+        "b2sMemory": 0.209808349609375,
+        "s2bMemory": 61.840293884277344
+    },
+    {
+        "className": "org.apache.commons.logging.impl.LogKitLogger",
+        "normalizedScore": 0.7583895490694408,
+        "weightedScore": 0.7546241727578145,
+        "b2s": 7600,
+        "s2b": 12,
+        "b2sMemory": 2.0,
+        "s2bMemory": 4.632743835449219
+    },
+    {
+        "className": "org.apache.commons.logging.impl.LogFactoryImpl",
+        "normalizedScore": 0.7559475324915917,
+        "weightedScore": 0.7520105986357917,
+        "b2s": 12000,
+        "s2b": 143,
+        "b2sMemory": 0.23683929443359375,
+        "s2bMemory": 69.60430145263672
+    },
+    {
+        "className": "org.apache.commons.logging.impl.WeakHashtable$Entry",
+        "normalizedScore": 0.7215242584863536,
+        "weightedScore": 0.7180714470786576,
+        "b2s": 7300,
+        "s2b": 5,
+        "b2sMemory": 2.0,
+        "s2bMemory": 2.7300872802734375
+    },
+    {
+        "className": "org.apache.commons.logging.impl.AvalonLogger",
+        "normalizedScore": 0.7717494485211773,
+        "weightedScore": 0.7679600817019859,
+        "b2s": 11400,
+        "s2b": 12,
+        "b2sMemory": 0.22641754150390625,
+        "s2bMemory": 5.587471008300781
+    },
+    {
+        "className": "org.apache.commons.logging.impl.WeakHashtable$WeakKey",
+        "normalizedScore": 0.7084966847368669,
+        "weightedScore": 0.7041612617784809,
+        "b2s": 11400,
+        "s2b": 1,
+        "b2sMemory": 0.21556854248046875,
+        "s2bMemory": 0.6470718383789062
+    },
+    {
+        "className": "org.apache.commons.logging.impl.SimpleLog",
+        "normalizedScore": 0.7655097637882206,
+        "weightedScore": 0.762672056859668,
+        "b2s": 13900,
+        "s2b": 49,
+        "b2sMemory": 0.21556854248046875,
+        "s2bMemory": 1.284027099609375
+    },
+    {
+        "className": "org.apache.commons.logging.impl.Log4jApiLogFactory$1",
+        "normalizedScore": 0.7738735673320548,
+        "weightedScore": 0.7851958880182043,
+        "b2s": 7900,
+        "s2b": 0,
+        "b2sMemory": 2.0,
+        "s2bMemory": 0.687591552734375
+    },
+    {
+        "className": "org.apache.commons.logging.impl.NoOpLog",
+        "normalizedScore": 0.6513613361979665,
+        "weightedScore": 0.6424468826060542,
+        "b2s": 7400,
+        "s2b": 4,
+        "b2sMemory": 0.22917938232421875,
+        "s2bMemory": 1.3752365112304688
+    },
+    {
+        "className": "org.apache.commons.logging.impl.Slf4jLogFactory",
+        "normalizedScore": 0.7396468185717854,
+        "weightedScore": 0.7342576012370452,
+        "b2s": 5400,
+        "s2b": 11,
+        "b2sMemory": 0.1378021240234375,
+        "s2bMemory": 2.62347412109375
+    }
+]

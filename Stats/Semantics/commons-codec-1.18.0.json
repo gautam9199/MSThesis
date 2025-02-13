@@ -1,0 +1,612 @@
+[
+  {
+    "className": "module-info.class",
+    "errorType": "NoClassDefFoundError",
+    "errorMessage": "META-INF/versions/9/module-info is not a class because access_flag ACC_MODULE is set"
+  },
+  {
+    "className": "Base16.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/apache/commons/codec/binary/Base16"
+  },
+  {
+    "className": "Base16InputStream.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/apache/commons/codec/binary/BaseNCodecInputStream"
+  },
+  {
+    "className": "Base16OutputStream.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/apache/commons/codec/binary/BaseNCodecOutputStream"
+  },
+  {
+    "className": "org.apache.commons.codec.binary.Base32$1",
+    "methods": [],
+    "instanceCreation": "no-arg constructor not available"
+  },
+  {
+    "className": "Base32$Builder.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/apache/commons/codec/binary/BaseNCodec$AbstractBuilder"
+  },
+  {
+    "className": "Base32.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/apache/commons/codec/binary/Base32"
+  },
+  {
+    "className": "Base32InputStream.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/apache/commons/codec/binary/BaseNCodecInputStream"
+  },
+  {
+    "className": "Base32OutputStream.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/apache/commons/codec/binary/BaseNCodecOutputStream"
+  },
+  {
+    "className": "org.apache.commons.codec.binary.Base64$1",
+    "methods": [],
+    "instanceCreation": "no-arg constructor not available"
+  },
+  {
+    "className": "Base64$Builder.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/apache/commons/codec/binary/BaseNCodec$AbstractBuilder"
+  },
+  {
+    "className": "Base64.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/apache/commons/codec/binary/Base64"
+  },
+  {
+    "className": "Base64InputStream.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/apache/commons/codec/binary/BaseNCodecInputStream"
+  },
+  {
+    "className": "Base64OutputStream.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/apache/commons/codec/binary/BaseNCodecOutputStream"
+  },
+  {
+    "className": "BaseNCodec$AbstractBuilder.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/apache/commons/codec/binary/BaseNCodec$AbstractBuilder"
+  },
+  {
+    "className": "BaseNCodec$Context.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/apache/commons/codec/binary/BaseNCodec$Context"
+  },
+  {
+    "className": "BaseNCodec.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/apache/commons/codec/binary/BaseNCodec"
+  },
+  {
+    "className": "BaseNCodecInputStream.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/apache/commons/codec/binary/BaseNCodecInputStream"
+  },
+  {
+    "className": "BaseNCodecOutputStream.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/apache/commons/codec/binary/BaseNCodecOutputStream"
+  },
+  {
+    "className": "BinaryCodec.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/apache/commons/codec/binary/BinaryCodec"
+  },
+  {
+    "className": "CharSequenceUtils.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Operand stack overflow\nException Details:\n  Location:\n    org/apache/commons/codec/binary/CharSequenceUtils.regionMatches(Ljava/lang/CharSequence;ZILjava/lang/CharSequence;II)Z @0: aload_0\n  Reason:\n    Exceeded max stack size.\n  Current Frame:\n    bci: @0\n    flags: { }\n    locals: { \u0027java/lang/CharSequence\u0027, integer, integer, \u0027java/lang/CharSequence\u0027, integer, integer }\n    stack: { }\n  Bytecode:\n    0000000: 2ac1 0008 3606 1506 039f 002a 2dc1 0008\n    0000010: 3607 1507 039f 001e 2ac0 0008 3a08 2dc0\n    0000020: 0008 3a09 1908 1b1c 1909 1504 1505 b600\n    0000030: 0b3c ac15 0a02 6036 0a15 0a03 a400 5b15\n    0000040: 0b04 6036 0bb9 0011 0200 150a 0460 360a\n    0000050: b900 1102 0015 0c15 0da0 0006 a7ff d71b\n    0000060: 03a0 0006 1212 ac15 0cb8 0018 360e 150d\n    0000070: b800 1836 0f15 0e15 0f9f 001b 150c b800\n    0000080: 1b36 0f15 0db8 001b 360d 150f 150d 9f00\n    0000090: 0612 12ac a7ff 9f12 1cac               \n"
+  },
+  {
+    "className": "Hex.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/apache/commons/codec/binary/Hex"
+  },
+  {
+    "className": "org.apache.commons.codec.binary.package-info",
+    "methods": [],
+    "instanceCreation": "no-arg constructor not available"
+  },
+  {
+    "className": "StringUtils.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Operand stack overflow\nException Details:\n  Location:\n    org/apache/commons/codec/binary/StringUtils.equals(Ljava/lang/CharSequence;Ljava/lang/CharSequence;)Z @0: aload_0\n  Reason:\n    Exceeded max stack size.\n  Current Frame:\n    bci: @0\n    flags: { }\n    locals: { \u0027java/lang/CharSequence\u0027, \u0027java/lang/CharSequence\u0027 }\n    stack: { }\n  Bytecode:\n    0000000: 2a2b a000 0612 58ac 2a01 a500 082b 01a0\n    0000010: 0006 1259 ac2a c100 153d 1c03 9f00 132b\n    0000020: c100 153e 1d03 9f00 09b9 005e 0200 acb9\n    0000030: 0062 0100 b900 6201 0015 0415 05a0 001d\n    0000040: b900 6201 002a 0303 2b03 1504 b800 683e\n    0000050: 1d03 9f00 0804 3ea7 0006 1259 3eac     \n"
+  },
+  {
+    "className": "org.apache.commons.codec.BinaryDecoder",
+    "methods": [
+      {
+        "name": "decode",
+        "returnType": "[B"
+      }
+    ],
+    "instanceCreation": "no-arg constructor not available"
+  },
+  {
+    "className": "org.apache.commons.codec.BinaryEncoder",
+    "methods": [
+      {
+        "name": "encode",
+        "returnType": "[B"
+      }
+    ],
+    "instanceCreation": "no-arg constructor not available"
+  },
+  {
+    "className": "CharEncoding.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Bad local variable type\nException Details:\n  Location:\n    org/apache/commons/codec/CharEncoding.\u003cclinit\u003e()V @3: aload_0\n  Reason:\n    Type top (current frame, locals[0]) is not assignable to reference type\n  Current Frame:\n    bci: @3\n    flags: { }\n    locals: { }\n    stack: { \u0027java/nio/charset/Charset\u0027 }\n  Bytecode:\n    0000000: b200 0c2a b600 124c 5fb3 0015 b200 182c\n    0000010: b600 124e 5fb3 001a b200 1d2c b600 124e\n    0000020: 5fb3 001f b200 222c b600 124e 5fb3 0024\n    0000030: b200 272c b600 124e 5fb3 0029 b200 2c2c\n    0000040: b600 124e 5fb3 002e b1                 \n"
+  },
+  {
+    "className": "Charsets.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Operand stack underflow\nException Details:\n  Location:\n    org/apache/commons/codec/Charsets.\u003cclinit\u003e()V @3: swap\n  Reason:\n    Attempt to pop empty stack.\n  Current Frame:\n    bci: @3\n    flags: { }\n    locals: { }\n    stack: { \u0027java/nio/charset/Charset\u0027 }\n  Bytecode:\n    0000000: b200 1a5f b300 1bb2 001e 5fb3 001f b200\n    0000010: 225f b300 23b2 0026 5fb3 0027 b200 2a5f\n    0000020: b300 2bb2 002e 5fb3 002f b1            \n"
+  },
+  {
+    "className": "Digest.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/apache/commons/codec/cli/Digest"
+  },
+  {
+    "className": "org.apache.commons.codec.cli.package-info",
+    "methods": [],
+    "instanceCreation": "no-arg constructor not available"
+  },
+  {
+    "className": "CodecPolicy.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/apache/commons/codec/CodecPolicy"
+  },
+  {
+    "className": "org.apache.commons.codec.Decoder",
+    "methods": [
+      {
+        "name": "decode",
+        "returnType": "java.lang.Object"
+      }
+    ],
+    "instanceCreation": "no-arg constructor not available"
+  },
+  {
+    "className": "org.apache.commons.codec.DecoderException",
+    "methods": [],
+    "instanceCreation": "success"
+  },
+  {
+    "className": "B64.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/apache/commons/codec/digest/B64"
+  },
+  {
+    "className": "org.apache.commons.codec.digest.Blake3$1",
+    "methods": [],
+    "instanceCreation": "no-arg constructor not available"
+  },
+  {
+    "className": "Blake3$ChunkState.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/apache/commons/codec/digest/Blake3$ChunkState"
+  },
+  {
+    "className": "Blake3$EngineState.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/apache/commons/codec/digest/Blake3$EngineState"
+  },
+  {
+    "className": "Blake3$Output.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/apache/commons/codec/digest/Blake3$Output"
+  },
+  {
+    "className": "Blake3.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/apache/commons/codec/digest/Blake3"
+  },
+  {
+    "className": "Crypt.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Bad local variable type\nException Details:\n  Location:\n    org/apache/commons/codec/digest/Crypt.crypt(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String; @4: aload_2\n  Reason:\n    Type top (current frame, locals[2]) is not assignable to reference type\n  Current Frame:\n    bci: @4\n    flags: { }\n    locals: { \u0027java/lang/String\u0027, \u0027java/lang/String\u0027 }\n    stack: { \u0027java/nio/charset/Charset\u0027, \u0027java/lang/String\u0027 }\n  Bytecode:\n    0000000: b200 352a 2cb6 0039 4e2d 2bb8 002b 4bb0\n    0000010:                                        \n"
+  },
+  {
+    "className": "DigestUtils.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Bad type on operand stack\nException Details:\n  Location:\n    org/apache/commons/codec/digest/DigestUtils.\u003cinit\u003e(Ljava/lang/String;)V @6: invokespecial\n  Reason:\n    Type uninitializedThis (current frame, stack[0]) is not assignable to \u0027java/security/MessageDigest\u0027\n  Current Frame:\n    bci: @6\n    flags: { flagThisUninit }\n    locals: { uninitializedThis, \u0027java/lang/String\u0027, \u0027java/security/MessageDigest\u0027 }\n    stack: { uninitializedThis }\n  Bytecode:\n    0000000: 2a2b b800 2f4d b700 dab1               \n"
+  },
+  {
+    "className": "HmacAlgorithms.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/apache/commons/codec/digest/HmacAlgorithms"
+  },
+  {
+    "className": "HmacUtils.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Bad type on operand stack\nException Details:\n  Location:\n    org/apache/commons/codec/digest/HmacUtils.\u003cinit\u003e(Ljava/lang/String;[B)V @7: invokespecial\n  Reason:\n    Type uninitializedThis (current frame, stack[0]) is not assignable to \u0027javax/crypto/Mac\u0027\n  Current Frame:\n    bci: @7\n    flags: { flagThisUninit }\n    locals: { uninitializedThis, \u0027java/lang/String\u0027, \u0027[B\u0027, \u0027javax/crypto/Mac\u0027 }\n    stack: { uninitializedThis }\n  Bytecode:\n    0000000: 2a2b 2cb8 0083 4eb7 0085 b1            \n"
+  },
+  {
+    "className": "Md5Crypt.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Bad type on operand stack\nException Details:\n  Location:\n    org/apache/commons/codec/digest/Md5Crypt.md5Crypt([BLjava/lang/String;Ljava/lang/String;)Ljava/lang/String; @4: checkcast\n  Reason:\n    Type uninitialized 0 (current frame, stack[1]) is not assignable to \u0027java/lang/Object\u0027\n  Current Frame:\n    bci: @4\n    flags: { }\n    locals: { \u0027[B\u0027, \u0027java/lang/String\u0027, \u0027java/lang/String\u0027 }\n    stack: { uninitialized 0, uninitialized 0 }\n  Bytecode:\n    0000000: bb00 a859 c000 a8b7 00a9 c000 ab2a 2b2c\n    0000010: 1905 b800 ad4c b0                      \n"
+  },
+  {
+    "className": "MessageDigestAlgorithms.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Operand stack underflow\nException Details:\n  Location:\n    org/apache/commons/codec/digest/MessageDigestAlgorithms.values()[Ljava/lang/String; @17: aastore\n  Reason:\n    Attempt to pop empty stack.\n  Current Frame:\n    bci: @17\n    flags: { }\n    locals: { }\n    stack: { integer, \u0027java/lang/String\u0027 }\n  Bytecode:\n    0000000: 100d bd00 0c59 0312 0e53 0412 1053 0512\n    0000010: 1253 0612 1453 0712 1653 0812 1853 1006\n    0000020: 121a 5310 0712 1c53 1008 121e 5310 0912\n    0000030: 2053 100a 1222 5310 0b12 2453 100c 1226\n    0000040: 53b0                                   \n"
+  },
+  {
+    "className": "MurmurHash2.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Bad type on operand stack\nException Details:\n  Location:\n    org/apache/commons/codec/digest/MurmurHash2.getLittleEndianLong([BI)J @9: iand\n  Reason:\n    Type long_2nd (current frame, stack[3]) is not assignable to integer\n  Current Frame:\n    bci: @9\n    flags: { }\n    locals: { \u0027[B\u0027, integer, top, long, long_2nd }\n    stack: { long, long_2nd, long, long_2nd }\n  Bytecode:\n    0000000: 2a1b 3385 4221 1400 117e 421b 0460 3604\n    0000010: 2a15 0433 8537 0516 0514 0011 7e37 0516\n    0000020: 0512 1378 3705 2116 0580 421b 0560 3604\n    0000030: 2a15 0433 8537 0516 0514 0011 7e37 0516\n    0000040: 0512 1478 3705 2116 0580 421b 0660 3606\n    0000050: 2a15 0633 8537 0516 0514 0011 7e37 0816\n    0000060: 0812 1578 3705 2116 0580 421b 0760 3604\n    0000070: 2a15 0433 8537 0516 0514 0011 7e37 0516\n    0000080: 0512 1678 3705 2116 0580 421b 0860 3604\n    0000090: 2a15 0433 8537 0516 0514 0011 7e37 0516\n    00000a0: 0512 1778 3705 2116 0580 3705 1b12 1860\n    00000b0: 3604 2a15 0433 8542 2114 0011 7e42 2112\n    00000c0: 1978 4216 0521 8042 1b12 1a60 3c2a 1b33\n    00000d0: 8537 0516 0514 0011 7e37 0516 0512 1b78\n    00000e0: 3705 2116 0580 42ad                    \n"
+  },
+  {
+    "className": "MurmurHash3$IncrementalHash32.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/apache/commons/codec/digest/MurmurHash3$IncrementalHash32x86"
+  },
+  {
+    "className": "MurmurHash3$IncrementalHash32x86.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/apache/commons/codec/digest/MurmurHash3$IncrementalHash32x86"
+  },
+  {
+    "className": "MurmurHash3.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Operand stack underflow\nException Details:\n  Location:\n    org/apache/commons/codec/digest/MurmurHash3.mix32(II)I @37: ireturn\n  Reason:\n    Attempt to pop empty stack.\n  Current Frame:\n    bci: @37\n    flags: { }\n    locals: { integer, integer }\n    stack: { }\n  Bytecode:\n    0000000: 1a12 2668 3b1a 100f b800 2a3b 1a12 2b68\n    0000010: 3b1b 1a82 3b1a 100d b800 2a3b 1a08 683b\n    0000020: 1a12 2c60 3bac                         \n"
+  },
+  {
+    "className": "org.apache.commons.codec.digest.package-info",
+    "methods": [],
+    "instanceCreation": "no-arg constructor not available"
+  },
+  {
+    "className": "PureJavaCrc32.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/apache/commons/codec/digest/PureJavaCrc32"
+  },
+  {
+    "className": "PureJavaCrc32C.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/apache/commons/codec/digest/PureJavaCrc32C"
+  },
+  {
+    "className": "Sha2Crypt.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Operand stack underflow\nException Details:\n  Location:\n    org/apache/commons/codec/digest/Sha2Crypt.\u003cclinit\u003e()V @6: swap\n  Reason:\n    Attempt to pop empty stack.\n  Current Frame:\n    bci: @6\n    flags: { }\n    locals: { \u0027java/util/regex/Pattern\u0027 }\n    stack: { }\n  Bytecode:\n    0000000: 122f b800 354b 5fb3 0039 b1            \n"
+  },
+  {
+    "className": "UnixCrypt.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/apache/commons/codec/digest/UnixCrypt"
+  },
+  {
+    "className": "XXHash32.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/apache/commons/codec/digest/XXHash32"
+  },
+  {
+    "className": "org.apache.commons.codec.Encoder",
+    "methods": [
+      {
+        "name": "encode",
+        "returnType": "java.lang.Object"
+      }
+    ],
+    "instanceCreation": "no-arg constructor not available"
+  },
+  {
+    "className": "org.apache.commons.codec.EncoderException",
+    "methods": [],
+    "instanceCreation": "success"
+  },
+  {
+    "className": "AbstractCaverphone.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Bad operand type when invoking \u003cinit\u003e\nException Details:\n  Location:\n    org/apache/commons/codec/language/AbstractCaverphone.encode(Ljava/lang/Object;)Ljava/lang/Object; @20: invokespecial\n  Reason:\n    Invalid type: \u0027org/apache/commons/codec/EncoderException\u0027 (current frame, stack[2])\n  Current Frame:\n    bci: @20\n    flags: { }\n    locals: { \u0027org/apache/commons/codec/language/AbstractCaverphone\u0027, \u0027java/lang/Object\u0027, integer }\n    stack: { uninitialized 10, uninitialized 10, \u0027org/apache/commons/codec/EncoderException\u0027, \u0027java/lang/String\u0027 }\n  Bytecode:\n    0000000: 2bc1 0014 3d1c 03a0 0015 bb00 0e59 2bc0\n    0000010: 000e 121b b700 1e2b c000 20bf 2bc0 0014\n    0000020: 3a05 2a19 05b6 0012 3a06 b0            \n  Stackmap Table:\n    append_frame(@28,Integer)\n"
+  },
+  {
+    "className": "BeiderMorseEncoder.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Bad operand type when invoking \u003cinit\u003e\nException Details:\n  Location:\n    org/apache/commons/codec/language/bm/BeiderMorseEncoder.encode(Ljava/lang/Object;)Ljava/lang/Object; @20: invokespecial\n  Reason:\n    Invalid type: \u0027org/apache/commons/codec/EncoderException\u0027 (current frame, stack[2])\n  Current Frame:\n    bci: @20\n    flags: { }\n    locals: { \u0027org/apache/commons/codec/language/bm/BeiderMorseEncoder\u0027, \u0027java/lang/Object\u0027, integer }\n    stack: { uninitialized 10, uninitialized 10, \u0027org/apache/commons/codec/EncoderException\u0027, \u0027java/lang/String\u0027 }\n  Bytecode:\n    0000000: 2bc1 0036 3d1c 03a0 0015 bb00 3459 2bc0\n    0000010: 0034 1238 b700 3b2b c000 3dbf 2bc0 0036\n    0000020: 3a05 2a19 05b6 0040 3a06 b0            \n  Stackmap Table:\n    append_frame(@28,Integer)\n"
+  },
+  {
+    "className": "org.apache.commons.codec.language.bm.Lang$1",
+    "methods": [],
+    "instanceCreation": "no-arg constructor not available"
+  },
+  {
+    "className": "Lang$LangRule.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Bad local variable type\nException Details:\n  Location:\n    org/apache/commons/codec/language/bm/Lang$LangRule.matches(Ljava/lang/String;)Z @8: aload_2\n  Reason:\n    Type top (current frame, locals[2]) is not assignable to reference type\n  Current Frame:\n    bci: @8\n    flags: { }\n    locals: { \u0027org/apache/commons/codec/language/bm/Lang$LangRule\u0027, \u0027java/lang/String\u0027 }\n    stack: { \u0027java/util/regex/Pattern\u0027, \u0027java/lang/CharSequence\u0027 }\n  Bytecode:\n    0000000: 2ab4 001c 2bc0 0020 2c2d b600 263a 0419\n    0000010: 04b6 002c 3605 ac                      \n"
+  },
+  {
+    "className": "Lang.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Method \"type\" in class org/apache/commons/codec/language/bm/Lang has illegal signature \"methodtype: void __METHODTYPE__(java.lang.Object)\""
+  },
+  {
+    "className": "Languages$1.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Operand stack underflow\nException Details:\n  Location:\n    org/apache/commons/codec/language/bm/Languages$LanguageSet.from(Ljava/util/Set;)Lorg/apache/commons/codec/language/bm/Languages$LanguageSet; @0: invokeinterface\n  Reason:\n    Attempt to pop empty stack.\n  Current Frame:\n    bci: @0\n    flags: { }\n    locals: { \u0027java/util/Set\u0027 }\n    stack: { }\n  Bytecode:\n    0000000: b900 1501 001b 039f 0009 b200 1ba7 000f\n    0000010: bb00 1d59 c000 1d2a 01b7 0020 b0       \n"
+  },
+  {
+    "className": "Languages$2.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Operand stack underflow\nException Details:\n  Location:\n    org/apache/commons/codec/language/bm/Languages$LanguageSet.from(Ljava/util/Set;)Lorg/apache/commons/codec/language/bm/Languages$LanguageSet; @0: invokeinterface\n  Reason:\n    Attempt to pop empty stack.\n  Current Frame:\n    bci: @0\n    flags: { }\n    locals: { \u0027java/util/Set\u0027 }\n    stack: { }\n  Bytecode:\n    0000000: b900 1501 001b 039f 0009 b200 1ba7 000f\n    0000010: bb00 1d59 c000 1d2a 01b7 0020 b0       \n"
+  },
+  {
+    "className": "Languages$LanguageSet.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Operand stack underflow\nException Details:\n  Location:\n    org/apache/commons/codec/language/bm/Languages$LanguageSet.from(Ljava/util/Set;)Lorg/apache/commons/codec/language/bm/Languages$LanguageSet; @0: invokeinterface\n  Reason:\n    Attempt to pop empty stack.\n  Current Frame:\n    bci: @0\n    flags: { }\n    locals: { \u0027java/util/Set\u0027 }\n    stack: { }\n  Bytecode:\n    0000000: b900 1501 001b 039f 0009 b200 1ba7 000f\n    0000010: bb00 1d59 c000 1d2a 01b7 0020 b0       \n"
+  },
+  {
+    "className": "Languages$SomeLanguages.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Method \"type\" in class org/apache/commons/codec/language/bm/Languages$SomeLanguages has illegal signature \"methodtype: boolean __METHODTYPE__(java.lang.Object)\""
+  },
+  {
+    "className": "Languages.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Illegal exception table range in class file org/apache/commons/codec/language/bm/Languages"
+  },
+  {
+    "className": "NameType.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/apache/commons/codec/language/bm/NameType"
+  },
+  {
+    "className": "org.apache.commons.codec.language.bm.package-info",
+    "methods": [],
+    "instanceCreation": "no-arg constructor not available"
+  },
+  {
+    "className": "PhoneticEngine$1.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/apache/commons/codec/language/bm/PhoneticEngine$1"
+  },
+  {
+    "className": "PhoneticEngine$PhonemeBuilder.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Method \"type\" in class org/apache/commons/codec/language/bm/PhoneticEngine$PhonemeBuilder has illegal signature \"methodtype: void __METHODTYPE__(java.lang.Object)\""
+  },
+  {
+    "className": "PhoneticEngine$RulesApplication.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Operand stack overflow\nException Details:\n  Location:\n    org/apache/commons/codec/language/bm/PhoneticEngine$RulesApplication.invoke()Lorg/apache/commons/codec/language/bm/PhoneticEngine$RulesApplication; @0: aload_0\n  Reason:\n    Exceeded max stack size.\n  Current Frame:\n    bci: @0\n    flags: { }\n    locals: { \u0027org/apache/commons/codec/language/bm/PhoneticEngine$RulesApplication\u0027 }\n    stack: { }\n  Bytecode:\n    0000000: 2a03 b500 0a04 3c2a b400 0e2a b400 122a\n    0000010: b400 162a b400 1615 051b 6036 06b9 001c\n    0000020: 0300 b900 2202 00c0 0024 3a08 1908 01a5\n    0000030: 0060 b900 2801 00b9 002e 0100 150a 039f\n    0000040: 0050 b900 3201 00c0 0034 3a0c 190c b600\n    0000050: 383a 0d19 0db6 003e 3c2a b400 122a b400\n    0000060: 1619 0c19 0e15 04b6 0042 360f 150f 039f\n    0000070: 001d 2ab4 0046 190c b600 4a3a 112a b400\n    0000080: 4db6 0053 2a04 b500 0aa7 0006 a7ff ab2a\n    0000090: b400 0a15 0f03 a000 0504 3c2a b400 1615\n    00000a0: 041b 6036 042a 5fb5 0016 b0            \n"
+  },
+  {
+    "className": "PhoneticEngine.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Method \"type\" in class org/apache/commons/codec/language/bm/PhoneticEngine has illegal signature \"methodtype: void __METHODTYPE__(java.lang.Object)\""
+  },
+  {
+    "className": "ResourceConstants.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Operand stack underflow\nException Details:\n  Location:\n    org/apache/commons/codec/language/bm/ResourceConstants.\u003cclinit\u003e()V @3: swap\n  Reason:\n    Attempt to pop empty stack.\n  Current Frame:\n    bci: @3\n    flags: { }\n    locals: { }\n    stack: { \u0027java/lang/String\u0027 }\n  Bytecode:\n    0000000: b200 0f5f b300 12b1                    \n"
+  },
+  {
+    "className": "Rule$1.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Method \"type\" in class org/apache/commons/codec/language/bm/Rule has illegal signature \"methodtype: boolean __METHODTYPE__(java.lang.CharSequence)\""
+  },
+  {
+    "className": "Rule$2.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Bad type on operand stack\nException Details:\n  Location:\n    org/apache/commons/codec/language/bm/Rule$2.\u003cinit\u003e(Ljava/lang/String;)V @3: putfield\n  Reason:\n    Type uninitializedThis (current frame, stack[1]) is not assignable to \u0027java/lang/String\u0027\n  Current Frame:\n    bci: @3\n    flags: { flagThisUninit }\n    locals: { uninitializedThis, \u0027java/lang/String\u0027 }\n    stack: { uninitializedThis, uninitializedThis }\n  Bytecode:\n    0000000: 2a2a 5fb5 000c b700 0f2a b400 0c2b b800\n    0000010: 154d 2a5f b500 19b1                    \n"
+  },
+  {
+    "className": "Rule$Phoneme.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Method \"type\" in class org/apache/commons/codec/language/bm/Rule$Phoneme has illegal signature \"methodtype: int __METHODTYPE__(java.lang.Object,java.lang.Object)\""
+  },
+  {
+    "className": "Rule$PhonemeExpr.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Operand stack underflow\nException Details:\n  Location:\n    org/apache/commons/codec/language/bm/Rule$PhonemeExpr.size()I @0: invokeinterface\n  Reason:\n    Attempt to pop empty stack.\n  Current Frame:\n    bci: @0\n    flags: { }\n    locals: { \u0027org/apache/commons/codec/language/bm/Rule$PhonemeExpr\u0027 }\n    stack: { }\n  Bytecode:\n    0000000: b900 0a01 00b9 0010 0100 b900 1601 0021\n    0000010: 1400 17b8 001e 3704 8836 05ac          \n"
+  },
+  {
+    "className": "Rule$PhonemeList.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Operand stack underflow\nException Details:\n  Location:\n    org/apache/commons/codec/language/bm/Rule$PhonemeExpr.size()I @0: invokeinterface\n  Reason:\n    Attempt to pop empty stack.\n  Current Frame:\n    bci: @0\n    flags: { }\n    locals: { \u0027org/apache/commons/codec/language/bm/Rule$PhonemeExpr\u0027 }\n    stack: { }\n  Bytecode:\n    0000000: b900 0a01 00b9 0010 0100 b900 1601 0021\n    0000010: 1400 17b8 001e 3704 8836 05ac          \n"
+  },
+  {
+    "className": "org.apache.commons.codec.language.bm.Rule$RPattern",
+    "methods": [
+      {
+        "name": "isMatch",
+        "returnType": "boolean"
+      }
+    ],
+    "instanceCreation": "no-arg constructor not available"
+  },
+  {
+    "className": "Rule.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Method \"type\" in class org/apache/commons/codec/language/bm/Rule has illegal signature \"methodtype: boolean __METHODTYPE__(java.lang.CharSequence)\""
+  },
+  {
+    "className": "RuleType.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/apache/commons/codec/language/bm/RuleType"
+  },
+  {
+    "className": "Caverphone.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Bad operand type when invoking \u003cinit\u003e\nException Details:\n  Location:\n    org/apache/commons/codec/language/Caverphone.encode(Ljava/lang/Object;)Ljava/lang/Object; @20: invokespecial\n  Reason:\n    Invalid type: \u0027org/apache/commons/codec/EncoderException\u0027 (current frame, stack[2])\n  Current Frame:\n    bci: @20\n    flags: { }\n    locals: { \u0027org/apache/commons/codec/language/Caverphone\u0027, \u0027java/lang/Object\u0027, integer }\n    stack: { uninitialized 10, uninitialized 10, \u0027org/apache/commons/codec/EncoderException\u0027, \u0027java/lang/String\u0027 }\n  Bytecode:\n    0000000: 2bc1 000e 3d1c 03a0 0015 bb00 1659 2bc0\n    0000010: 0016 1218 b700 1c2b c000 1ebf 2bc0 000e\n    0000020: 3a05 2a19 05b6 000c 3a06 b0            \n  Stackmap Table:\n    append_frame(@28,Integer)\n"
+  },
+  {
+    "className": "Caverphone1.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Bad operand type when invoking \u003cinit\u003e\nException Details:\n  Location:\n    org/apache/commons/codec/language/AbstractCaverphone.encode(Ljava/lang/Object;)Ljava/lang/Object; @20: invokespecial\n  Reason:\n    Invalid type: \u0027org/apache/commons/codec/EncoderException\u0027 (current frame, stack[2])\n  Current Frame:\n    bci: @20\n    flags: { }\n    locals: { \u0027org/apache/commons/codec/language/AbstractCaverphone\u0027, \u0027java/lang/Object\u0027, integer }\n    stack: { uninitialized 10, uninitialized 10, \u0027org/apache/commons/codec/EncoderException\u0027, \u0027java/lang/String\u0027 }\n  Bytecode:\n    0000000: 2bc1 0014 3d1c 03a0 0015 bb00 0e59 2bc0\n    0000010: 000e 121b b700 1e2b c000 20bf 2bc0 0014\n    0000020: 3a05 2a19 05b6 0012 3a06 b0            \n  Stackmap Table:\n    append_frame(@28,Integer)\n"
+  },
+  {
+    "className": "Caverphone2.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Bad operand type when invoking \u003cinit\u003e\nException Details:\n  Location:\n    org/apache/commons/codec/language/AbstractCaverphone.encode(Ljava/lang/Object;)Ljava/lang/Object; @20: invokespecial\n  Reason:\n    Invalid type: \u0027org/apache/commons/codec/EncoderException\u0027 (current frame, stack[2])\n  Current Frame:\n    bci: @20\n    flags: { }\n    locals: { \u0027org/apache/commons/codec/language/AbstractCaverphone\u0027, \u0027java/lang/Object\u0027, integer }\n    stack: { uninitialized 10, uninitialized 10, \u0027org/apache/commons/codec/EncoderException\u0027, \u0027java/lang/String\u0027 }\n  Bytecode:\n    0000000: 2bc1 0014 3d1c 03a0 0015 bb00 0e59 2bc0\n    0000010: 000e 121b b700 1e2b c000 20bf 2bc0 0014\n    0000020: 3a05 2a19 05b6 0012 3a06 b0            \n  Stackmap Table:\n    append_frame(@28,Integer)\n"
+  },
+  {
+    "className": "ColognePhonetic$CologneBuffer.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/apache/commons/codec/language/ColognePhonetic$CologneBuffer"
+  },
+  {
+    "className": "ColognePhonetic$CologneInputBuffer.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/apache/commons/codec/language/ColognePhonetic$CologneInputBuffer"
+  },
+  {
+    "className": "ColognePhonetic$CologneOutputBuffer.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/apache/commons/codec/language/ColognePhonetic$CologneOutputBuffer"
+  },
+  {
+    "className": "ColognePhonetic.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/apache/commons/codec/language/ColognePhonetic"
+  },
+  {
+    "className": "org.apache.commons.codec.language.DaitchMokotoffSoundex$1",
+    "methods": [],
+    "instanceCreation": "no-arg constructor not available"
+  },
+  {
+    "className": "DaitchMokotoffSoundex$Branch.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Operand stack underflow\nException Details:\n  Location:\n    org/apache/commons/codec/language/DaitchMokotoffSoundex$Branch.equals(Ljava/lang/Object;)Z @45: ireturn\n  Reason:\n    Attempt to pop empty stack.\n  Current Frame:\n    bci: @45\n    flags: { }\n    locals: { \u0027org/apache/commons/codec/language/DaitchMokotoffSoundex$Branch\u0027, \u0027java/lang/Object\u0027, integer, \u0027java/lang/String\u0027, \u0027java/lang/String\u0027, integer }\n    stack: { }\n  Bytecode:\n    0000000: 2a2b a600 0612 2aac 2bc1 0002 3d1c 03a0\n    0000010: 0006 122b ac2a b600 124e 2bc0 0002 4b2a\n    0000020: b600 123a 042d 1904 b600 2d36 05ac     \n  Stackmap Table:\n    same_frame(@8)\n    append_frame(@21,Integer)\n"
+  },
+  {
+    "className": "DaitchMokotoffSoundex$Rule.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/apache/commons/codec/language/DaitchMokotoffSoundex$Rule"
+  },
+  {
+    "className": "DaitchMokotoffSoundex.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Method \"type\" in class org/apache/commons/codec/language/DaitchMokotoffSoundex has illegal signature \"methodtype: java.lang.Object __METHODTYPE__(java.lang.Object)\""
+  },
+  {
+    "className": "DoubleMetaphone$DoubleMetaphoneResult.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Bad type on operand stack\nException Details:\n  Location:\n    org/apache/commons/codec/language/DoubleMetaphone$DoubleMetaphoneResult.\u003cinit\u003e(Lorg/apache/commons/codec/language/DoubleMetaphone;I)V @3: putfield\n  Reason:\n    Type uninitializedThis (current frame, stack[1]) is not assignable to \u0027org/apache/commons/codec/language/DoubleMetaphone\u0027\n  Current Frame:\n    bci: @3\n    flags: { flagThisUninit }\n    locals: { uninitializedThis, \u0027org/apache/commons/codec/language/DoubleMetaphone\u0027, integer }\n    stack: { uninitializedThis, uninitializedThis }\n  Bytecode:\n    0000000: 2a2a 5fb5 003b b700 3ebb 0010 592a b400\n    0000010: 3b2b b600 4336 04b7 0046 2a5f b500 0ebb\n    0000020: 0010 592a b400 3b2b b600 4336 06b7 0046\n    0000030: 2a5f b500 302a 1cb5 000a b1            \n"
+  },
+  {
+    "className": "DoubleMetaphone.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/apache/commons/codec/language/DoubleMetaphone"
+  },
+  {
+    "className": "MatchRatingApproachEncoder.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Illegal class name \"Ljava/lang/Object;\" in class file org/apache/commons/codec/language/MatchRatingApproachEncoder"
+  },
+  {
+    "className": "Metaphone.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Bad operand type when invoking \u003cinit\u003e\nException Details:\n  Location:\n    org/apache/commons/codec/language/Metaphone.encode(Ljava/lang/Object;)Ljava/lang/Object; @20: invokespecial\n  Reason:\n    Invalid type: \u0027org/apache/commons/codec/EncoderException\u0027 (current frame, stack[2])\n  Current Frame:\n    bci: @20\n    flags: { }\n    locals: { \u0027org/apache/commons/codec/language/Metaphone\u0027, \u0027java/lang/Object\u0027, integer }\n    stack: { uninitialized 10, uninitialized 10, \u0027org/apache/commons/codec/EncoderException\u0027, \u0027java/lang/String\u0027 }\n  Bytecode:\n    0000000: 2bc1 000b 3d1c 03a0 0015 bb00 8f59 2bc0\n    0000010: 008f 1291 b700 942b c000 96bf 2bc0 000b\n    0000020: 3a05 2a19 05b6 007e 3a06 b0            \n  Stackmap Table:\n    append_frame(@28,Integer)\n"
+  },
+  {
+    "className": "Nysiis.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/apache/commons/codec/language/Nysiis"
+  },
+  {
+    "className": "org.apache.commons.codec.language.package-info",
+    "methods": [],
+    "instanceCreation": "no-arg constructor not available"
+  },
+  {
+    "className": "RefinedSoundex.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/apache/commons/codec/language/RefinedSoundex"
+  },
+  {
+    "className": "Soundex.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/apache/commons/codec/language/Soundex"
+  },
+  {
+    "className": "SoundexUtils.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Operand stack overflow\nException Details:\n  Location:\n    org/apache/commons/codec/language/SoundexUtils.isEmpty(Ljava/lang/CharSequence;)Z @0: aload_0\n  Reason:\n    Exceeded max stack size.\n  Current Frame:\n    bci: @0\n    flags: { }\n    locals: { \u0027java/lang/CharSequence\u0027 }\n    stack: { }\n  Bytecode:\n    0000000: 2a01 a500 0db9 0034 0100 1b03 a000 0804\n    0000010: 3da7 0006 1207 3dac                    \n"
+  },
+  {
+    "className": "BCodec.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Operand stack underflow\nException Details:\n  Location:\n    org/apache/commons/codec/net/RFC1522Codec.\u003cinit\u003e(Ljava/nio/charset/Charset;)V @11: checkcast\n  Reason:\n    Attempt to pop empty stack.\n  Current Frame:\n    bci: @11\n    flags: { }\n    locals: { \u0027org/apache/commons/codec/net/RFC1522Codec\u0027, \u0027java/nio/charset/Charset\u0027, \u0027java/lang/Object\u0027 }\n    stack: { }\n  Bytecode:\n    0000000: 2ab7 0065 2b12 66b8 006c 4dc0 0060 4c2a\n    0000010: 2bb5 005e b1                           \n"
+  },
+  {
+    "className": "org.apache.commons.codec.net.package-info",
+    "methods": [],
+    "instanceCreation": "no-arg constructor not available"
+  },
+  {
+    "className": "PercentCodec.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Illegal class name \"byte[]\" in class file org/apache/commons/codec/net/PercentCodec"
+  },
+  {
+    "className": "QCodec.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Operand stack underflow\nException Details:\n  Location:\n    org/apache/commons/codec/net/RFC1522Codec.\u003cinit\u003e(Ljava/nio/charset/Charset;)V @11: checkcast\n  Reason:\n    Attempt to pop empty stack.\n  Current Frame:\n    bci: @11\n    flags: { }\n    locals: { \u0027org/apache/commons/codec/net/RFC1522Codec\u0027, \u0027java/nio/charset/Charset\u0027, \u0027java/lang/Object\u0027 }\n    stack: { }\n  Bytecode:\n    0000000: 2ab7 0065 2b12 66b8 006c 4dc0 0060 4c2a\n    0000010: 2bb5 005e b1                           \n"
+  },
+  {
+    "className": "QuotedPrintableCodec.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Illegal class name \"byte[]\" in class file org/apache/commons/codec/net/QuotedPrintableCodec"
+  },
+  {
+    "className": "RFC1522Codec.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Operand stack underflow\nException Details:\n  Location:\n    org/apache/commons/codec/net/RFC1522Codec.\u003cinit\u003e(Ljava/nio/charset/Charset;)V @11: checkcast\n  Reason:\n    Attempt to pop empty stack.\n  Current Frame:\n    bci: @11\n    flags: { }\n    locals: { \u0027org/apache/commons/codec/net/RFC1522Codec\u0027, \u0027java/nio/charset/Charset\u0027, \u0027java/lang/Object\u0027 }\n    stack: { }\n  Bytecode:\n    0000000: 2ab7 0065 2b12 66b8 006c 4dc0 0060 4c2a\n    0000010: 2bb5 005e b1                           \n"
+  },
+  {
+    "className": "URLCodec.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Illegal class name \"byte[]\" in class file org/apache/commons/codec/net/URLCodec"
+  },
+  {
+    "className": "Utils.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Bad local variable type\nException Details:\n  Location:\n    org/apache/commons/codec/net/Utils.digit16(B)I @26: aload\n  Reason:\n    Type top (current frame, locals[4]) is not assignable to reference type\n  Current Frame:\n    bci: @26\n    flags: { }\n    locals: { integer, integer, integer }\n    stack: { uninitialized 15, uninitialized 15, \u0027java/lang/StringBuilder\u0027 }\n  Bytecode:\n    0000000: 1a92 3c1b 1010 b800 1d3d 1c02 a000 30bb\n    0000010: 0019 59bb 001f 59b7 0020 1904 1222 b600\n    0000020: 263a 0519 051a b600 293a 0519 05b6 002d\n    0000030: 3a06 c000 19b7 0030 c000 32bf ac       \n  Stackmap Table:\n    append_frame(@60,Integer,Integer)\n"
+  },
+  {
+    "className": "org.apache.commons.codec.package-info",
+    "methods": [],
+    "instanceCreation": "no-arg constructor not available"
+  },
+  {
+    "className": "Resources.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Bad local variable type\nException Details:\n  Location:\n    org/apache/commons/codec/Resources.getInputStream(Ljava/lang/String;)Ljava/io/InputStream; @2: aload_1\n  Reason:\n    Type top (current frame, locals[1]) is not assignable to reference type\n  Current Frame:\n    bci: @2\n    flags: { }\n    locals: { \u0027java/lang/String\u0027 }\n    stack: { \u0027java/lang/String\u0027 }\n  Bytecode:\n    0000000: 120c 2b2a b600 114d 2c01 a000 30bb 0013\n    0000010: 59bb 0015 59b7 0016 1904 1218 b600 1c3a\n    0000020: 0519 052a b600 1c3a 0519 05b6 0020 4bc0\n    0000030: 0013 2ab7 0023 c000 25bf b0            \n  Stackmap Table:\n    full_frame(@58,{Object[#39],Top,Object[#41]},{Object[#39]})\n"
+  },
+  {
+    "className": "org.apache.commons.codec.StringDecoder",
+    "methods": [
+      {
+        "name": "decode",
+        "returnType": "java.lang.String"
+      }
+    ],
+    "instanceCreation": "no-arg constructor not available"
+  },
+  {
+    "className": "org.apache.commons.codec.StringEncoder",
+    "methods": [
+      {
+        "name": "encode",
+        "returnType": "java.lang.String"
+      }
+    ],
+    "instanceCreation": "no-arg constructor not available"
+  },
+  {
+    "className": "StringEncoderComparator.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Operand stack overflow\nException Details:\n  Location:\n    org/apache/commons/codec/StringEncoderComparator.compare(Ljava/lang/Object;Ljava/lang/Object;)I @0: ldc\n  Reason:\n    Exceeded max stack size.\n  Current Frame:\n    bci: @0\n    flags: { }\n    locals: { \u0027org/apache/commons/codec/StringEncoderComparator\u0027, \u0027java/lang/Object\u0027, \u0027java/lang/Object\u0027 }\n    stack: { }\n  Bytecode:\n    0000000: 1214 3e2a b400 0eb9 001a 0200 2bc0 001c\n    0000010: 3a05 2ab4 000e b900 1a02 002b c000 1c3a\n    0000020: 07b9 0020 0200 a700 093a 0912 1436 08ac\n    0000030:                                        \n  Exception Handler Table:\n    bci [3, 38] \u003d\u003e handler: 41\n"
+  }
+]

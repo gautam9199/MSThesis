@@ -1,0 +1,1505 @@
+[
+  {
+    "className": "module-info.class",
+    "errorType": "NoClassDefFoundError",
+    "errorMessage": "META-INF/versions/9/module-info is not a class because access_flag ACC_MODULE is set"
+  },
+  {
+    "className": "RequestAuthHandler.class",
+    "errorType": "NoClassDefFoundError",
+    "errorMessage": "org/jsoup/helper/RequestAuthHandler (wrong name: META-INF/versions/9/org/jsoup/helper/RequestAuthHandler)"
+  },
+  {
+    "className": "Connection$Base.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/jsoup/Connection$Method"
+  },
+  {
+    "className": "org.jsoup.Connection$KeyVal",
+    "methods": [
+      {
+        "name": "value",
+        "returnType": "java.lang.String"
+      },
+      {
+        "name": "value",
+        "returnType": "org.jsoup.Connection$KeyVal"
+      },
+      {
+        "name": "key",
+        "returnType": "java.lang.String"
+      },
+      {
+        "name": "key",
+        "returnType": "org.jsoup.Connection$KeyVal"
+      },
+      {
+        "name": "inputStream",
+        "returnType": "java.io.InputStream"
+      },
+      {
+        "name": "inputStream",
+        "returnType": "org.jsoup.Connection$KeyVal"
+      },
+      {
+        "name": "hasInputStream",
+        "returnType": "boolean"
+      },
+      {
+        "name": "contentType",
+        "returnType": "java.lang.String"
+      },
+      {
+        "name": "contentType",
+        "returnType": "org.jsoup.Connection$KeyVal"
+      }
+    ],
+    "instanceCreation": "no-arg constructor not available"
+  },
+  {
+    "className": "Connection$Method.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/jsoup/Connection$Method"
+  },
+  {
+    "className": "Connection$Request.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Bad type on operand stack\nException Details:\n  Location:\n    org/jsoup/Connection$Request.auth(Lorg/jsoup/helper/RequestAuthenticator;)Lorg/jsoup/Connection$Request; @4: checkcast\n  Reason:\n    Type uninitialized 0 (current frame, stack[1]) is not assignable to \u0027java/lang/Object\u0027\n  Current Frame:\n    bci: @4\n    flags: { }\n    locals: { \u0027org/jsoup/Connection$Request\u0027, \u0027org/jsoup/helper/RequestAuthenticator\u0027 }\n    stack: { uninitialized 0, uninitialized 0 }\n  Bytecode:\n    0000000: bb00 2259 c000 22b7 0026 c000 28bf     \n"
+  },
+  {
+    "className": "Connection$Response.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Bad type on operand stack\nException Details:\n  Location:\n    org/jsoup/Connection$Response.streamParser()Lorg/jsoup/parser/StreamParser; @4: checkcast\n  Reason:\n    Type uninitialized 0 (current frame, stack[1]) is not assignable to \u0027java/lang/Object\u0027\n  Current Frame:\n    bci: @4\n    flags: { }\n    locals: { \u0027org/jsoup/Connection$Response\u0027 }\n    stack: { uninitialized 0, uninitialized 0 }\n  Bytecode:\n    0000000: bb00 1259 c000 12b7 0016 c000 18bf     \n"
+  },
+  {
+    "className": "Connection.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Bad type on operand stack\nException Details:\n  Location:\n    org/jsoup/Connection.auth(Lorg/jsoup/helper/RequestAuthenticator;)Lorg/jsoup/Connection; @4: checkcast\n  Reason:\n    Type uninitialized 0 (current frame, stack[1]) is not assignable to \u0027java/lang/Object\u0027\n  Current Frame:\n    bci: @4\n    flags: { }\n    locals: { \u0027org/jsoup/Connection\u0027, \u0027org/jsoup/helper/RequestAuthenticator\u0027 }\n    stack: { uninitialized 0, uninitialized 0 }\n  Bytecode:\n    0000000: bb00 1359 c000 13b7 0017 c000 19bf     \n"
+  },
+  {
+    "className": "org.jsoup.helper.AuthenticationHandler$AuthShim",
+    "methods": [
+      {
+        "name": "remove",
+        "returnType": "void"
+      },
+      {
+        "name": "get",
+        "returnType": "org.jsoup.helper.AuthenticationHandler"
+      },
+      {
+        "name": "enable",
+        "returnType": "void"
+      }
+    ],
+    "instanceCreation": "no-arg constructor not available"
+  },
+  {
+    "className": "AuthenticationHandler$GlobalHandler.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Operand stack underflow\nException Details:\n  Location:\n    org/jsoup/helper/AuthenticationHandler$GlobalHandler.\u003cclinit\u003e()V @7: swap\n  Reason:\n    Attempt to pop empty stack.\n  Current Frame:\n    bci: @7\n    flags: { }\n    locals: { }\n    stack: { \u0027java/lang/ThreadLocal\u0027 }\n  Bytecode:\n    0000000: bb00 0e59 b700 1c5f b300 0cbb 0013 59b7\n    0000010: 001d b800 23b1                         \n"
+  },
+  {
+    "className": "AuthenticationHandler.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Operand stack overflow\nException Details:\n  Location:\n    org/jsoup/helper/AuthenticationHandler.\u003cclinit\u003e()V @0: ldc\n  Reason:\n    Exceeded max stack size.\n  Current Frame:\n    bci: @0\n    flags: { }\n    locals: { }\n    stack: { }\n  Bytecode:\n    0000000: 1213 b800 194b 03bd 0015 592a 2bb6 001d\n    0000010: 4d03 bd00 1f59 2c2d b600 253a 04c0 0027\n    0000020: 3a05 5fb3 002b a700 253a 06bb 002d 59c0\n    0000030: 002d b700 30c0 0032 bf3a 093a 09bb 0034\n    0000040: 59b7 0035 5fb3 002b a700 03b1          \n  Exception Handler Table:\n    bci [0, 38] \u003d\u003e handler: 57\n    bci [0, 38] \u003d\u003e handler: 41\n"
+  },
+  {
+    "className": "org.jsoup.helper.ChangeNotifyingArrayList",
+    "methods": [
+      {
+        "name": "add",
+        "returnType": "void"
+      },
+      {
+        "name": "add",
+        "returnType": "boolean"
+      },
+      {
+        "name": "remove",
+        "returnType": "boolean"
+      },
+      {
+        "name": "remove",
+        "returnType": "java.lang.Object"
+      },
+      {
+        "name": "clear",
+        "returnType": "void"
+      },
+      {
+        "name": "addAll",
+        "returnType": "boolean"
+      },
+      {
+        "name": "addAll",
+        "returnType": "boolean"
+      },
+      {
+        "name": "set",
+        "returnType": "java.lang.Object"
+      },
+      {
+        "name": "removeRange",
+        "returnType": "void"
+      },
+      {
+        "name": "removeAll",
+        "returnType": "boolean"
+      },
+      {
+        "name": "retainAll",
+        "returnType": "boolean"
+      },
+      {
+        "name": "onContentsChanged",
+        "returnType": "void"
+      }
+    ],
+    "instanceCreation": "no-arg constructor not available"
+  },
+  {
+    "className": "CookieUtil.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Bad type on operand stack\nException Details:\n  Location:\n    org/jsoup/helper/CookieUtil.\u003cclinit\u003e()V @4: checkcast\n  Reason:\n    Type uninitialized 0 (current frame, stack[1]) is not assignable to \u0027java/lang/Object\u0027\n  Current Frame:\n    bci: @4\n    flags: { }\n    locals: { }\n    stack: { uninitialized 0, uninitialized 0 }\n  Bytecode:\n    0000000: bb00 a659 c000 a6b7 00a7 c000 402c b800\n    0000010: ad4e 5fb3 007a b1                      \n"
+  },
+  {
+    "className": "org.jsoup.helper.DataUtil$BomCharset",
+    "methods": [
+      {
+        "name": "access$000",
+        "returnType": "java.lang.String"
+      },
+      {
+        "name": "access$100",
+        "returnType": "boolean"
+      }
+    ],
+    "instanceCreation": "no-arg constructor not available"
+  },
+  {
+    "className": "DataUtil$CharsetDoc.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Method \"type\" in class org/jsoup/nodes/Element has illegal signature \"methodtype: void __METHODTYPE__(org.jsoup.nodes.Node,int)\""
+  },
+  {
+    "className": "DataUtil.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/jsoup/helper/DataUtil"
+  },
+  {
+    "className": "org.jsoup.helper.HttpConnection$1",
+    "methods": [],
+    "instanceCreation": "no-arg constructor not available"
+  },
+  {
+    "className": "HttpConnection$Base.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Operand stack overflow\nException Details:\n  Location:\n    org/jsoup/helper/HttpConnection$Base.\u003cinit\u003e(Lorg/jsoup/helper/HttpConnection$Base;)V @0: aload_0\n  Reason:\n    Exceeded max stack size.\n  Current Frame:\n    bci: @0\n    flags: { flagThisUninit }\n    locals: { uninitializedThis, \u0027org/jsoup/helper/HttpConnection$Base\u0027 }\n    stack: { }\n  Bytecode:\n    0000000: 2ab7 009f b200 722a 5fb5 007d b200 a52a\n    0000010: 5fb5 00a8 2bb4 007d 2a5f b500 7d2b b400\n    0000020: a82a 5fb5 00a8 bb00 aa59 c000 aab7 00ab\n    0000030: 2ac0 0016 b500 322b b400 32b9 0043 0100\n    0000040: b900 4901 00b9 004e 0100 150b 039f 0036\n    0000050: b900 5201 00c0 0054 3a0c 2ab4 0032 b900\n    0000060: 5701 00c0 001c 3a0e bb00 2c59 b900 5e01\n    0000070: 00c0 0095 3a10 b700 ae19 08b9 0036 0300\n    0000080: a7ff c5bb 00aa 59c0 00aa b700 ab2a c000\n    0000090: 16b5 0014 2ab4 0014 2bb4 0014 1908 b900\n    00000a0: b202 00b1                              \n"
+  },
+  {
+    "className": "HttpConnection$KeyVal.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Operand stack underflow\nException Details:\n  Location:\n    org/jsoup/helper/HttpConnection$KeyVal.value(Ljava/lang/String;)Lorg/jsoup/Connection$KeyVal; @6: areturn\n  Reason:\n    Attempt to pop empty stack.\n  Current Frame:\n    bci: @6\n    flags: { }\n    locals: { \u0027org/jsoup/helper/HttpConnection$KeyVal\u0027, \u0027java/lang/String\u0027 }\n    stack: { }\n  Bytecode:\n    0000000: 2a2b b600 3d4b b0                      \n"
+  },
+  {
+    "className": "HttpConnection$Request.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Operand stack overflow\nException Details:\n  Location:\n    org/jsoup/helper/HttpConnection$Base.\u003cinit\u003e(Lorg/jsoup/helper/HttpConnection$Base;)V @0: aload_0\n  Reason:\n    Exceeded max stack size.\n  Current Frame:\n    bci: @0\n    flags: { flagThisUninit }\n    locals: { uninitializedThis, \u0027org/jsoup/helper/HttpConnection$Base\u0027 }\n    stack: { }\n  Bytecode:\n    0000000: 2ab7 009f b200 722a 5fb5 007d b200 a52a\n    0000010: 5fb5 00a8 2bb4 007d 2a5f b500 7d2b b400\n    0000020: a82a 5fb5 00a8 bb00 aa59 c000 aab7 00ab\n    0000030: 2ac0 0016 b500 322b b400 32b9 0043 0100\n    0000040: b900 4901 00b9 004e 0100 150b 039f 0036\n    0000050: b900 5201 00c0 0054 3a0c 2ab4 0032 b900\n    0000060: 5701 00c0 001c 3a0e bb00 2c59 b900 5e01\n    0000070: 00c0 0095 3a10 b700 ae19 08b9 0036 0300\n    0000080: a7ff c5bb 00aa 59c0 00aa b700 ab2a c000\n    0000090: 16b5 0014 2ab4 0014 2bb4 0014 1908 b900\n    00000a0: b202 00b1                              \n"
+  },
+  {
+    "className": "HttpConnection$Response.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Illegal exception table range in class file org/jsoup/helper/HttpConnection$Response"
+  },
+  {
+    "className": "HttpConnection.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Bad type on operand stack\nException Details:\n  Location:\n    org/jsoup/Connection.auth(Lorg/jsoup/helper/RequestAuthenticator;)Lorg/jsoup/Connection; @4: checkcast\n  Reason:\n    Type uninitialized 0 (current frame, stack[1]) is not assignable to \u0027java/lang/Object\u0027\n  Current Frame:\n    bci: @4\n    flags: { }\n    locals: { \u0027org/jsoup/Connection\u0027, \u0027org/jsoup/helper/RequestAuthenticator\u0027 }\n    stack: { uninitialized 0, uninitialized 0 }\n  Bytecode:\n    0000000: bb00 1359 c000 13b7 0017 c000 19bf     \n"
+  },
+  {
+    "className": "org.jsoup.helper.package-info",
+    "methods": [],
+    "instanceCreation": "no-arg constructor not available"
+  },
+  {
+    "className": "RequestAuthenticator$Context.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Bad local variable type\nException Details:\n  Location:\n    org/jsoup/helper/RequestAuthenticator$Context.isServer()Z @7: aload_1\n  Reason:\n    Type top (current frame, locals[1]) is not assignable to reference type\n  Current Frame:\n    bci: @7\n    flags: { }\n    locals: { \u0027org/jsoup/helper/RequestAuthenticator$Context\u0027 }\n    stack: { \u0027java/net/Authenticator$RequestorType\u0027, \u0027java/net/Authenticator$RequestorType\u0027 }\n  Bytecode:\n    0000000: 2ab4 0021 b200 2d2b 2ca0 0008 043e a700\n    0000010: 0612 293e ac                           \n  Stackmap Table:\n    full_frame(@17,{Object[#2]},{Object[#37],Object[#37]})\n    full_frame(@20,{Object[#2],Top,Top,Integer},{Object[#37],Object[#37]})\n"
+  },
+  {
+    "className": "org.jsoup.helper.RequestAuthenticator",
+    "methods": [
+      {
+        "name": "authenticate",
+        "returnType": "java.net.PasswordAuthentication"
+      }
+    ],
+    "instanceCreation": "no-arg constructor not available"
+  },
+  {
+    "className": "UrlBuilder.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Operand stack overflow\nException Details:\n  Location:\n    org/jsoup/helper/UrlBuilder.\u003cinit\u003e(Ljava/net/URL;)V @0: aload_0\n  Reason:\n    Exceeded max stack size.\n  Current Frame:\n    bci: @0\n    flags: { flagThisUninit }\n    locals: { uninitializedThis, \u0027java/net/URL\u0027 }\n    stack: { }\n  Bytecode:\n    0000000: 2ab7 00cd 2a5f b500 622a b400 622b b600\n    0000010: d04d 2c01 a500 1eb8 0082 4e2a b400 622b\n    0000020: b600 d03a 042d 1904 b600 333a 052a 5fb5\n    0000030: 008e b1                                \n"
+  },
+  {
+    "className": "Validate.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Bad type on operand stack\nException Details:\n  Location:\n    org/jsoup/helper/Validate.fail(Ljava/lang/String;[Ljava/lang/Object;)V @10: checkcast\n  Reason:\n    Type uninitialized 0 (current frame, stack[1]) is not assignable to \u0027java/lang/Object\u0027\n  Current Frame:\n    bci: @10\n    flags: { }\n    locals: { \u0027java/lang/String\u0027, \u0027[Ljava/lang/Object;\u0027 }\n    stack: { uninitialized 0, uninitialized 0 }\n  Bytecode:\n    0000000: bb00 1559 2a2b b800 344b c000 152a b700\n    0000010: 1ac0 001c bf                           \n"
+  },
+  {
+    "className": "ValidationException.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Illegal class name \"java/lang/StackTraceElement[]\" in class file org/jsoup/helper/ValidationException"
+  },
+  {
+    "className": "W3CDom$W3CBuilder.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Operand stack overflow\nException Details:\n  Location:\n    org/jsoup/helper/W3CDom$W3CBuilder.\u003cinit\u003e(Lorg/w3c/dom/Document;)V @0: aload_0\n  Reason:\n    Exceeded max stack size.\n  Current Frame:\n    bci: @0\n    flags: { flagThisUninit }\n    locals: { uninitializedThis, \u0027org/w3c/dom/Document\u0027 }\n    stack: { }\n  Bytecode:\n    0000000: 2ab7 007f 2a04 b500 83bb 001c 59b7 0084\n    0000010: 2a5f b500 1ab2 0089 2a5f b500 412a c000\n    0000020: 8bb5 008f 2ab4 001a bb00 6c59 b700 90b6\n    0000030: 0094 2ac0 0010 b500 0ec0 008b b900 9802\n    0000040: 00c0 000a 3a07 2a5f b500 9c2a b400 9c19\n    0000050: 0701 a500 4f2a b400 9c19 08b6 00a0 3a09\n    0000060: 2ab4 0083 150a 039f 003a 1909 01a5 0034\n    0000070: 1909 b600 a63a 0b19 0bb6 00ac 3a0c 190c\n    0000080: c100 ae36 0d15 0d03 9f00 192a b400 1a19\n    0000090: 04b6 006a 4cc0 006c 3a0e 1259 12b0 b600\n    00000a0: 70b1                                   \n"
+  },
+  {
+    "className": "W3CDom.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Operand stack underflow\nException Details:\n  Location:\n    org/jsoup/helper/W3CDom.\u003cinit\u003e()V @14: swap\n  Reason:\n    Attempt to pop empty stack.\n  Current Frame:\n    bci: @14\n    flags: { }\n    locals: { \u0027org/jsoup/helper/W3CDom\u0027, \u0027javax/xml/parsers/DocumentBuilderFactory\u0027 }\n    stack: { \u0027org/jsoup/helper/W3CDom\u0027 }\n  Bytecode:\n    0000000: 2ab7 0135 2a04 b500 83b8 0138 4c2a 5fb5\n    0000010: 0020 2ab4 0020 04b6 013b b1            \n"
+  },
+  {
+    "className": "HttpStatusException.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Bad local variable type\nException Details:\n  Location:\n    org/jsoup/HttpStatusException.\u003cinit\u003e(Ljava/lang/String;ILjava/lang/String;)V @8: aload\n  Reason:\n    Type top (current frame, locals[4]) is not assignable to reference type\n  Current Frame:\n    bci: @8\n    flags: { flagThisUninit }\n    locals: { uninitializedThis, \u0027java/lang/String\u0027, integer, \u0027java/lang/String\u0027 }\n    stack: { uninitializedThis, \u0027java/lang/StringBuilder\u0027 }\n  Bytecode:\n    0000000: 2abb 0014 59b7 0017 1904 2bb6 001b 3a04\n    0000010: 1904 121d b600 1b3a 0419 041c b600 203a\n    0000020: 0419 0412 22b6 001b 3a04 1904 2db6 001b\n    0000030: 3a05 1905 1224 b600 1b3a 0419 04b6 0027\n    0000040: 4cb7 002a 2a1c b500 0a2a 2db5 0010 b1  \n"
+  },
+  {
+    "className": "ControllableInputStream.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Operand stack overflow\nException Details:\n  Location:\n    org/jsoup/internal/ControllableInputStream.\u003cinit\u003e(Ljava/io/BufferedInputStream;I)V @0: aload_0\n  Reason:\n    Exceeded max stack size.\n  Current Frame:\n    bci: @0\n    flags: { flagThisUninit }\n    locals: { uninitializedThis, \u0027java/io/BufferedInputStream\u0027, integer }\n    stack: { }\n  Bytecode:\n    0000000: 2a2b c000 3bb7 003e 2a14 003f b500 442a\n    0000010: 02b5 0037 2a03 b500 0e1c 03a1 0009 0436\n    0000020: 04a7 0007 1238 3604 b800 4a2a c000 4cb5\n    0000030: 0050 1c03 9f00 0904 3605 a700 0712 3836\n    0000040: 052a 5fb5 0019 2a1c b500 532a 1cb5 001c\n    0000050: 2a02 b500 56b8 005c 3706 2a5f b500 5fb1\n    0000060:                                        \n"
+  },
+  {
+    "className": "Functions.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Method \"type\" in class org/jsoup/internal/Functions has illegal signature \"methodtype: java.lang.Object __METHODTYPE__(java.lang.Object)\""
+  },
+  {
+    "className": "Normalizer.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Operand stack underflow\nException Details:\n  Location:\n    org/jsoup/internal/Normalizer.normalize(Ljava/lang/String;Z)Ljava/lang/String; @18: areturn\n  Reason:\n    Attempt to pop empty stack.\n  Current Frame:\n    bci: @18\n    flags: { }\n    locals: { \u0027java/lang/String\u0027, integer }\n    stack: { }\n  Bytecode:\n    0000000: 1b03 9f00 0b2a b800 0a4b a700 082a b800\n    0000010: 0c4b b0                                \n  Stackmap Table:\n    same_frame(@13)\n    same_frame(@18)\n"
+  },
+  {
+    "className": "org.jsoup.internal.package-info",
+    "methods": [],
+    "instanceCreation": "no-arg constructor not available"
+  },
+  {
+    "className": "org.jsoup.internal.SharedConstants",
+    "methods": [],
+    "instanceCreation": "failed: class transformer.textsimilarity.ClassFileTester cannot access a member of class org.jsoup.internal.SharedConstants with modifiers \"private\""
+  },
+  {
+    "className": "StringUtil$StringJoiner.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Operand stack underflow\nException Details:\n  Location:\n    org/jsoup/internal/StringUtil$StringJoiner.\u003cinit\u003e(Ljava/lang/String;)V @9: swap\n  Reason:\n    Attempt to pop empty stack.\n  Current Frame:\n    bci: @9\n    flags: { }\n    locals: { \u0027org/jsoup/internal/StringUtil$StringJoiner\u0027, \u0027java/lang/String\u0027, \u0027java/lang/StringBuilder\u0027 }\n    stack: { \u0027org/jsoup/internal/StringUtil$StringJoiner\u0027 }\n  Bytecode:\n    0000000: 2ab7 002e b800 324d 2a5f b500 0a2a 04b5\n    0000010: 001c 2a2b b500 20b1                    \n"
+  },
+  {
+    "className": "StringUtil.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/jsoup/internal/StringUtil"
+  },
+  {
+    "className": "Jsoup.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Operand stack underflow\nException Details:\n  Location:\n    org/jsoup/Jsoup.connect(Ljava/lang/String;)Lorg/jsoup/Connection; @5: areturn\n  Reason:\n    Attempt to pop empty stack.\n  Current Frame:\n    bci: @5\n    flags: { }\n    locals: { \u0027java/lang/String\u0027, \u0027org/jsoup/Connection\u0027 }\n    stack: { }\n  Bytecode:\n    0000000: 2ab8 006f 4cb0                         \n"
+  },
+  {
+    "className": "Attribute.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/jsoup/nodes/Attribute"
+  },
+  {
+    "className": "Attributes$1.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/jsoup/nodes/Attributes$1"
+  },
+  {
+    "className": "Attributes$Dataset$DatasetIterator.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Bad type on operand stack\nException Details:\n  Location:\n    org/jsoup/nodes/Attributes$Dataset$DatasetIterator.\u003cinit\u003e(Lorg/jsoup/nodes/Attributes$Dataset;)V @3: putfield\n  Reason:\n    Type uninitializedThis (current frame, stack[1]) is not assignable to \u0027org/jsoup/nodes/Attributes$Dataset\u0027\n  Current Frame:\n    bci: @3\n    flags: { flagThisUninit }\n    locals: { uninitializedThis, \u0027org/jsoup/nodes/Attributes$Dataset\u0027 }\n    stack: { uninitializedThis, uninitializedThis }\n  Bytecode:\n    0000000: 2a2a 5fb5 000c b700 0f2a b400 0c2b b800\n    0000010: 154d 2cb6 001b 4e2a 5fb5 001f b1       \n"
+  },
+  {
+    "className": "Attributes$Dataset$EntrySet.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Bad type on operand stack in putfield\nException Details:\n  Location:\n    org/jsoup/nodes/Attributes$Dataset$EntrySet.\u003cinit\u003e(Lorg/jsoup/nodes/Attributes$Dataset;)V @3: putfield\n  Reason:\n    Type uninitializedThis (current frame, stack[1]) is not assignable to \u0027org/jsoup/nodes/Attributes$Dataset$EntrySet\u0027 (constant pool 10)\n  Current Frame:\n    bci: @3\n    flags: { flagThisUninit }\n    locals: { uninitializedThis, \u0027org/jsoup/nodes/Attributes$Dataset\u0027 }\n    stack: { uninitializedThis, uninitializedThis, \u0027org/jsoup/nodes/Attributes$Dataset\u0027 }\n  Bytecode:\n    0000000: 2a2a 2bb5 000a b700 0db1               \n"
+  },
+  {
+    "className": "Attributes$Dataset.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Operand stack overflow\nException Details:\n  Location:\n    org/jsoup/nodes/Attributes$Dataset.put(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String; @0: aload_1\n  Reason:\n    Exceeded max stack size.\n  Current Frame:\n    bci: @0\n    flags: { }\n    locals: { \u0027org/jsoup/nodes/Attributes$Dataset\u0027, \u0027java/lang/String\u0027, \u0027java/lang/String\u0027 }\n    stack: { }\n  Bytecode:\n    0000000: 2bb8 0023 4c2a b400 1d2d 2bb6 0027 3604\n    0000010: 1504 039f 0012 2ab4 001d 1905 2bb6 002a\n    0000020: 3a06 a700 0601 3a06 2ab4 001d 2b2c b600\n    0000030: 2db0                                   \n"
+  },
+  {
+    "className": "Attributes.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/jsoup/nodes/Attributes"
+  },
+  {
+    "className": "CDataNode.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Illegal class name \"org/jsoup/nodes/Node[]\" in class file org/jsoup/nodes/Node"
+  },
+  {
+    "className": "Comment.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Illegal class name \"org/jsoup/nodes/Node[]\" in class file org/jsoup/nodes/Node"
+  },
+  {
+    "className": "DataNode.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Illegal class name \"org/jsoup/nodes/Node[]\" in class file org/jsoup/nodes/Node"
+  },
+  {
+    "className": "Document$OutputSettings$Syntax.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/jsoup/nodes/Document$OutputSettings$Syntax"
+  },
+  {
+    "className": "Document$OutputSettings.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Operand stack underflow\nException Details:\n  Location:\n    org/jsoup/nodes/Document$OutputSettings.\u003cinit\u003e()V @56: invokevirtual\n  Reason:\n    Attempt to pop empty stack.\n  Current Frame:\n    bci: @56\n    flags: { }\n    locals: { \u0027org/jsoup/nodes/Document$OutputSettings\u0027 }\n    stack: { \u0027java/nio/charset/Charset\u0027 }\n  Bytecode:\n    0000000: 2ab7 004d b200 532a 5fb5 0056 bb00 3459\n    0000010: b700 572a 5fb5 0032 2a04 b500 0b2a 03b5\n    0000020: 005a 2a04 b500 5d2a 101e b500 49b2 0062\n    0000030: 2a5f b500 10b2 0067 b600 2cb1          \n"
+  },
+  {
+    "className": "Document$QuirksMode.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/jsoup/nodes/Document$QuirksMode"
+  },
+  {
+    "className": "Document.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Method \"type\" in class org/jsoup/nodes/Element has illegal signature \"methodtype: void __METHODTYPE__(org.jsoup.nodes.Node,int)\""
+  },
+  {
+    "className": "DocumentType.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Illegal class name \"org/jsoup/nodes/Node[]\" in class file org/jsoup/nodes/Node"
+  },
+  {
+    "className": "Element$NodeList.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Method \"type\" in class org/jsoup/nodes/Element has illegal signature \"methodtype: void __METHODTYPE__(org.jsoup.nodes.Node,int)\""
+  },
+  {
+    "className": "Element$TextAccumulator.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Operand stack overflow\nException Details:\n  Location:\n    org/jsoup/nodes/Element$TextAccumulator.tail(Lorg/jsoup/nodes/Node;I)V @0: aload_1\n  Reason:\n    Exceeded max stack size.\n  Current Frame:\n    bci: @0\n    flags: { }\n    locals: { \u0027org/jsoup/nodes/Element$TextAccumulator\u0027, \u0027org/jsoup/nodes/Node\u0027, integer }\n    stack: { }\n  Bytecode:\n    0000000: 2bc1 0013 3e1d 039f 005f 2bc0 0013 3a04\n    0000010: 2bb6 0019 4c19 04b6 001d 3e1d 039f 0049\n    0000020: 2bc1 001f 3e1d 03a0 0027 2bc1 0013 3e1d\n    0000030: 039f 0035 2bc0 0013 3a05 1905 b800 233a\n    0000040: 0619 06b6 0028 3607 1507 03a0 001b 2ab4\n    0000050: 000f 1908 b800 2c3e 1d03 a000 0c2a b400\n    0000060: 0f10 20b6 0032 b1                      \n"
+  },
+  {
+    "className": "Element.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Method \"type\" in class org/jsoup/nodes/Element has illegal signature \"methodtype: void __METHODTYPE__(org.jsoup.nodes.Node,int)\""
+  },
+  {
+    "className": "Entities$1.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/jsoup/nodes/Entities$1"
+  },
+  {
+    "className": "Entities$CoreCharset.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/jsoup/nodes/Entities$CoreCharset"
+  },
+  {
+    "className": "Entities$EscapeMode.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/jsoup/nodes/Entities$EscapeMode"
+  },
+  {
+    "className": "Entities.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/jsoup/nodes/Entities"
+  },
+  {
+    "className": "org.jsoup.nodes.EntitiesData",
+    "methods": [],
+    "instanceCreation": "failed: class transformer.textsimilarity.ClassFileTester cannot access a member of class org.jsoup.nodes.EntitiesData with modifiers \"\""
+  },
+  {
+    "className": "FormElement.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Method \"type\" in class org/jsoup/nodes/Element has illegal signature \"methodtype: void __METHODTYPE__(org.jsoup.nodes.Node,int)\""
+  },
+  {
+    "className": "LeafNode.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Illegal class name \"org/jsoup/nodes/Node[]\" in class file org/jsoup/nodes/Node"
+  },
+  {
+    "className": "Node$OuterHtmlVisitor.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Operand stack underflow\nException Details:\n  Location:\n    org/jsoup/nodes/Node$OuterHtmlVisitor.\u003cinit\u003e(Ljava/lang/Appendable;Lorg/jsoup/nodes/Document$OutputSettings;)V @14: invokevirtual\n  Reason:\n    Attempt to pop empty stack.\n  Current Frame:\n    bci: @14\n    flags: { }\n    locals: { \u0027org/jsoup/nodes/Node$OuterHtmlVisitor\u0027, \u0027java/lang/Appendable\u0027, \u0027org/jsoup/nodes/Document$OutputSettings\u0027 }\n    stack: { }\n  Bytecode:\n    0000000: 2ab7 000b 2a2b b500 0f2a 2cb5 0013 b600\n    0000010: 19b1                                   \n"
+  },
+  {
+    "className": "Node.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Illegal class name \"org/jsoup/nodes/Node[]\" in class file org/jsoup/nodes/Node"
+  },
+  {
+    "className": "NodeIterator.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Operand stack underflow\nException Details:\n  Location:\n    org/jsoup/nodes/NodeIterator.\u003cinit\u003e(Lorg/jsoup/nodes/Node;Ljava/lang/Class;)V @18: invokevirtual\n  Reason:\n    Attempt to pop empty stack.\n  Current Frame:\n    bci: @18\n    flags: { }\n    locals: { \u0027org/jsoup/nodes/NodeIterator\u0027, \u0027org/jsoup/nodes/Node\u0027, \u0027java/lang/Class\u0027 }\n    stack: { \u0027org/jsoup/nodes/Node\u0027 }\n  Bytecode:\n    0000000: 2ab7 0044 2bb8 004a 2cb8 004a 2a2c b500\n    0000010: 2b2b b600 4eb1                         \n"
+  },
+  {
+    "className": "NodeUtils.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Operand stack underflow\nException Details:\n  Location:\n    org/jsoup/nodes/NodeUtils.stream(Lorg/jsoup/nodes/Node;Ljava/lang/Class;)Ljava/util/stream/Stream; @24: areturn\n  Reason:\n    Attempt to pop empty stack.\n  Current Frame:\n    bci: @24\n    flags: { }\n    locals: { \u0027org/jsoup/nodes/Node\u0027, \u0027java/lang/Class\u0027, top, \u0027org/jsoup/nodes/NodeIterator\u0027, \u0027java/util/Spliterator\u0027, \u0027java/util/stream/Stream\u0027 }\n    stack: { }\n  Bytecode:\n    0000000: bb00 5659 2a2b b700 594e 2db8 005b 3a04\n    0000010: 1904 03b8 0060 3a05 b0                 \n"
+  },
+  {
+    "className": "org.jsoup.nodes.package-info",
+    "methods": [],
+    "instanceCreation": "no-arg constructor not available"
+  },
+  {
+    "className": "PseudoTextElement.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Method \"type\" in class org/jsoup/nodes/Element has illegal signature \"methodtype: void __METHODTYPE__(org.jsoup.nodes.Node,int)\""
+  },
+  {
+    "className": "Range$AttributeRange.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Operand stack underflow\nException Details:\n  Location:\n    org/jsoup/nodes/Range$AttributeRange.\u003cclinit\u003e()V @13: swap\n  Reason:\n    Attempt to pop empty stack.\n  Current Frame:\n    bci: @13\n    flags: { }\n    locals: { }\n    stack: { \u0027org/jsoup/nodes/Range$AttributeRange\u0027 }\n  Bytecode:\n    0000000: bb00 0259 b200 23b2 0023 b700 255f b300\n    0000010: 29b1                                   \n"
+  },
+  {
+    "className": "Range$Position.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Bad type on operand stack\nException Details:\n  Location:\n    org/jsoup/nodes/Range$Position.equals(Ljava/lang/Object;)Z @25: if_icmpeq\n  Reason:\n    Type \u0027java/lang/Class\u0027 (current frame, stack[1]) is not assignable to integer\n  Current Frame:\n    bci: @25\n    flags: { }\n    locals: { \u0027org/jsoup/nodes/Range$Position\u0027, \u0027java/lang/Object\u0027, \u0027java/lang/Class\u0027, \u0027java/lang/Class\u0027 }\n    stack: { \u0027java/lang/Class\u0027, \u0027java/lang/Class\u0027 }\n  Bytecode:\n    0000000: 2a2b a600 0612 36ac 2b01 a500 122a b600\n    0000010: 3a4d 2bb6 003a 4e2c 2d9f 0006 1217 ac2b\n    0000020: c000 023a 042a b400 0919 04b4 0009 1505\n    0000030: 1506 9f00 0612 17ac 2ab4 001c 1904 b400\n    0000040: 1c15 0615 079f 0006 1217 ac2a b400 0c19\n    0000050: 04b4 000c 1506 1505 a000 0904 3608 a700\n    0000060: 0712 1736 08ac                         \n  Stackmap Table:\n    same_frame(@8)\n    same_frame(@28)\n    append_frame(@31,Object[#60],Object[#60])\n    full_frame(@56,{Object[#2],Object[#4],Object[#60],Object[#60],Object[#2]},{Integer,Integer})\n    full_frame(@75,{Object[#2],Object[#4],Object[#60],Object[#60],Object[#2]},{Integer,Integer,Integer,Integer})\n    full_frame(@97,{Object[#2],Object[#4],Object[#60],Object[#60],Object[#2]},{Integer,Integer,Integer,Integer,Integer,Integer})\n    full_frame(@101,{Object[#2],Object[#4],Object[#60],Object[#60],Object[#2],Top,Top,Top,Integer},{Integer,Integer,Integer,Integer,Integer,Integer})\n"
+  },
+  {
+    "className": "Range.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Operand stack underflow\nException Details:\n  Location:\n    org/jsoup/nodes/Range.\u003cclinit\u003e()V @10: swap\n  Reason:\n    Attempt to pop empty stack.\n  Current Frame:\n    bci: @10\n    flags: { }\n    locals: { }\n    stack: { \u0027org/jsoup/nodes/Range$Position\u0027 }\n  Bytecode:\n    0000000: bb00 2a59 0202 02b7 005a 5fb3 005d bb00\n    0000010: 0259 b200 5db2 005d b700 5f5f b300 46b1\n    0000020:                                        \n"
+  },
+  {
+    "className": "TextNode.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Illegal class name \"org/jsoup/nodes/Node[]\" in class file org/jsoup/nodes/Node"
+  },
+  {
+    "className": "XmlDeclaration.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Illegal class name \"org/jsoup/nodes/Node[]\" in class file org/jsoup/nodes/Node"
+  },
+  {
+    "className": "org.jsoup.package-info",
+    "methods": [],
+    "instanceCreation": "no-arg constructor not available"
+  },
+  {
+    "className": "CharacterReader.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/jsoup/parser/CharacterReader"
+  },
+  {
+    "className": "HtmlTreeBuilder.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/jsoup/parser/HtmlTreeBuilder"
+  },
+  {
+    "className": "HtmlTreeBuilderState$1.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/jsoup/parser/HtmlTreeBuilderState"
+  },
+  {
+    "className": "HtmlTreeBuilderState$10.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/jsoup/parser/HtmlTreeBuilderState$10"
+  },
+  {
+    "className": "HtmlTreeBuilderState$11.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/jsoup/parser/HtmlTreeBuilderState$11"
+  },
+  {
+    "className": "HtmlTreeBuilderState$12.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/jsoup/parser/HtmlTreeBuilderState$12"
+  },
+  {
+    "className": "HtmlTreeBuilderState$13.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/jsoup/parser/HtmlTreeBuilderState$13"
+  },
+  {
+    "className": "HtmlTreeBuilderState$14.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/jsoup/parser/HtmlTreeBuilderState$14"
+  },
+  {
+    "className": "HtmlTreeBuilderState$15.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/jsoup/parser/HtmlTreeBuilderState$15"
+  },
+  {
+    "className": "HtmlTreeBuilderState$16.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/jsoup/parser/HtmlTreeBuilderState$16"
+  },
+  {
+    "className": "HtmlTreeBuilderState$17.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/jsoup/parser/HtmlTreeBuilderState$17"
+  },
+  {
+    "className": "HtmlTreeBuilderState$18.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/jsoup/parser/HtmlTreeBuilderState$18"
+  },
+  {
+    "className": "HtmlTreeBuilderState$19.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/jsoup/parser/HtmlTreeBuilderState"
+  },
+  {
+    "className": "HtmlTreeBuilderState$2.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/jsoup/parser/HtmlTreeBuilderState$2"
+  },
+  {
+    "className": "HtmlTreeBuilderState$20.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/jsoup/parser/HtmlTreeBuilderState"
+  },
+  {
+    "className": "HtmlTreeBuilderState$21.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/jsoup/parser/HtmlTreeBuilderState"
+  },
+  {
+    "className": "HtmlTreeBuilderState$22.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/jsoup/parser/HtmlTreeBuilderState"
+  },
+  {
+    "className": "HtmlTreeBuilderState$23.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/jsoup/parser/HtmlTreeBuilderState"
+  },
+  {
+    "className": "HtmlTreeBuilderState$24.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/jsoup/parser/HtmlTreeBuilderState$24"
+  },
+  {
+    "className": "HtmlTreeBuilderState$25.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/jsoup/parser/HtmlTreeBuilderState$25"
+  },
+  {
+    "className": "HtmlTreeBuilderState$3.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/jsoup/parser/HtmlTreeBuilderState$3"
+  },
+  {
+    "className": "HtmlTreeBuilderState$4.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/jsoup/parser/HtmlTreeBuilderState$4"
+  },
+  {
+    "className": "HtmlTreeBuilderState$5.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/jsoup/parser/HtmlTreeBuilderState$5"
+  },
+  {
+    "className": "HtmlTreeBuilderState$6.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/jsoup/parser/HtmlTreeBuilderState$6"
+  },
+  {
+    "className": "HtmlTreeBuilderState$7.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/jsoup/parser/HtmlTreeBuilderState$7"
+  },
+  {
+    "className": "HtmlTreeBuilderState$8.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/jsoup/parser/HtmlTreeBuilderState"
+  },
+  {
+    "className": "HtmlTreeBuilderState$9.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/jsoup/parser/HtmlTreeBuilderState$9"
+  },
+  {
+    "className": "HtmlTreeBuilderState$Constants.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/jsoup/parser/HtmlTreeBuilderState$Constants"
+  },
+  {
+    "className": "HtmlTreeBuilderState.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/jsoup/parser/HtmlTreeBuilderState"
+  },
+  {
+    "className": "org.jsoup.parser.package-info",
+    "methods": [],
+    "instanceCreation": "no-arg constructor not available"
+  },
+  {
+    "className": "ParseError.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Operand stack underflow\nException Details:\n  Location:\n    org/jsoup/parser/ParseError.\u003cinit\u003e(ILjava/lang/String;)V @15: swap\n  Reason:\n    Attempt to pop empty stack.\n  Current Frame:\n    bci: @15\n    flags: { }\n    locals: { \u0027org/jsoup/parser/ParseError\u0027, integer, \u0027java/lang/String\u0027, \u0027java/lang/String\u0027 }\n    stack: { \u0027org/jsoup/parser/ParseError\u0027 }\n  Bytecode:\n    0000000: 2ab7 0009 2a1b b500 121b b800 394e 2a5f\n    0000010: b500 1a2a 2cb5 001d b1                 \n"
+  },
+  {
+    "className": "ParseErrorList.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Bad local variable type\nException Details:\n  Location:\n    org/jsoup/parser/ParseErrorList.canAddError()Z @10: iload_2\n  Reason:\n    Type top (current frame, locals[2]) is not assignable to integer\n  Current Frame:\n    bci: @10\n    flags: { }\n    locals: { \u0027org/jsoup/parser/ParseErrorList\u0027, integer }\n    stack: { integer, integer }\n  Bytecode:\n    0000000: 2ab6 001b 3c2a b400 141b 1ca2 0008 043e\n    0000010: a700 0612 1c3e ac                      \n  Stackmap Table:\n    full_frame(@19,{Object[#2],Integer},{Integer})\n    full_frame(@22,{Object[#2],Integer,Top,Integer},{Integer})\n"
+  },
+  {
+    "className": "Parser.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Illegal class name \"org/jsoup/nodes/Node[]\" in class file org/jsoup/parser/Parser"
+  },
+  {
+    "className": "ParseSettings.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Operand stack underflow\nException Details:\n  Location:\n    org/jsoup/parser/ParseSettings.\u003cclinit\u003e()V @9: swap\n  Reason:\n    Attempt to pop empty stack.\n  Current Frame:\n    bci: @9\n    flags: { }\n    locals: { }\n    stack: { \u0027org/jsoup/parser/ParseSettings\u0027 }\n  Bytecode:\n    0000000: bb00 0259 0303 b700 205f b300 24bb 0002\n    0000010: 5904 04b7 0020 5fb3 0027 b1            \n"
+  },
+  {
+    "className": "StreamParser$ElementIterator.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Bad type on operand stack in putfield\nException Details:\n  Location:\n    org/jsoup/parser/StreamParser$ElementIterator.\u003cinit\u003e(Lorg/jsoup/parser/StreamParser;)V @3: putfield\n  Reason:\n    Type uninitializedThis (current frame, stack[1]) is not assignable to \u0027org/jsoup/parser/StreamParser$ElementIterator\u0027 (constant pool 33)\n  Current Frame:\n    bci: @3\n    flags: { flagThisUninit }\n    locals: { uninitializedThis, \u0027org/jsoup/parser/StreamParser\u0027 }\n    stack: { uninitializedThis, uninitializedThis, \u0027org/jsoup/parser/StreamParser\u0027 }\n  Bytecode:\n    0000000: 2a2a 2bb5 0021 b700 61bb 0063 59c0 0063\n    0000010: b700 642a c000 10b5 000e b1            \n"
+  },
+  {
+    "className": "StreamParser.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Operand stack underflow\nException Details:\n  Location:\n    org/jsoup/parser/StreamParser.\u003cinit\u003e(Lorg/jsoup/parser/Parser;)V @33: swap\n  Reason:\n    Attempt to pop empty stack.\n  Current Frame:\n    bci: @33\n    flags: { }\n    locals: { \u0027org/jsoup/parser/StreamParser\u0027, \u0027org/jsoup/parser/Parser\u0027, top, \u0027org/jsoup/parser/TreeBuilder\u0027 }\n    stack: { \u0027org/jsoup/parser/StreamParser\u0027 }\n  Bytecode:\n    0000000: 2ab7 00ac bb00 8859 2ab7 00af 2a5f b500\n    0000010: 762a 03b5 0082 2a2b b500 8f2b b600 b54e\n    0000020: 2a5f b500 0c2a b400 0c2a b400 76b6 00b9\n    0000030: b1                                     \n"
+  },
+  {
+    "className": "Tag.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/jsoup/parser/Tag"
+  },
+  {
+    "className": "org.jsoup.parser.Token$1",
+    "methods": [],
+    "instanceCreation": "no-arg constructor not available"
+  },
+  {
+    "className": "Token$CData.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Operand stack underflow\nException Details:\n  Location:\n    org/jsoup/parser/Token.reset()Lorg/jsoup/parser/Token; @10: areturn\n  Reason:\n    Attempt to pop empty stack.\n  Current Frame:\n    bci: @10\n    flags: { }\n    locals: { \u0027org/jsoup/parser/Token\u0027 }\n    stack: { }\n  Bytecode:\n    0000000: 2a02 b500 302a 02b5 0019 b0            \n"
+  },
+  {
+    "className": "Token$Character.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Operand stack underflow\nException Details:\n  Location:\n    org/jsoup/parser/Token.reset()Lorg/jsoup/parser/Token; @10: areturn\n  Reason:\n    Attempt to pop empty stack.\n  Current Frame:\n    bci: @10\n    flags: { }\n    locals: { \u0027org/jsoup/parser/Token\u0027 }\n    stack: { }\n  Bytecode:\n    0000000: 2a02 b500 302a 02b5 0019 b0            \n"
+  },
+  {
+    "className": "Token$Comment.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Operand stack underflow\nException Details:\n  Location:\n    org/jsoup/parser/Token.reset()Lorg/jsoup/parser/Token; @10: areturn\n  Reason:\n    Attempt to pop empty stack.\n  Current Frame:\n    bci: @10\n    flags: { }\n    locals: { \u0027org/jsoup/parser/Token\u0027 }\n    stack: { }\n  Bytecode:\n    0000000: 2a02 b500 302a 02b5 0019 b0            \n"
+  },
+  {
+    "className": "Token$Doctype.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Operand stack underflow\nException Details:\n  Location:\n    org/jsoup/parser/Token.reset()Lorg/jsoup/parser/Token; @10: areturn\n  Reason:\n    Attempt to pop empty stack.\n  Current Frame:\n    bci: @10\n    flags: { }\n    locals: { \u0027org/jsoup/parser/Token\u0027 }\n    stack: { }\n  Bytecode:\n    0000000: 2a02 b500 302a 02b5 0019 b0            \n"
+  },
+  {
+    "className": "Token$EndTag.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Operand stack underflow\nException Details:\n  Location:\n    org/jsoup/parser/Token.reset()Lorg/jsoup/parser/Token; @10: areturn\n  Reason:\n    Attempt to pop empty stack.\n  Current Frame:\n    bci: @10\n    flags: { }\n    locals: { \u0027org/jsoup/parser/Token\u0027 }\n    stack: { }\n  Bytecode:\n    0000000: 2a02 b500 302a 02b5 0019 b0            \n"
+  },
+  {
+    "className": "Token$EOF.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Operand stack underflow\nException Details:\n  Location:\n    org/jsoup/parser/Token.reset()Lorg/jsoup/parser/Token; @10: areturn\n  Reason:\n    Attempt to pop empty stack.\n  Current Frame:\n    bci: @10\n    flags: { }\n    locals: { \u0027org/jsoup/parser/Token\u0027 }\n    stack: { }\n  Bytecode:\n    0000000: 2a02 b500 302a 02b5 0019 b0            \n"
+  },
+  {
+    "className": "Token$StartTag.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Operand stack underflow\nException Details:\n  Location:\n    org/jsoup/parser/Token.reset()Lorg/jsoup/parser/Token; @10: areturn\n  Reason:\n    Attempt to pop empty stack.\n  Current Frame:\n    bci: @10\n    flags: { }\n    locals: { \u0027org/jsoup/parser/Token\u0027 }\n    stack: { }\n  Bytecode:\n    0000000: 2a02 b500 302a 02b5 0019 b0            \n"
+  },
+  {
+    "className": "Token$Tag.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Operand stack underflow\nException Details:\n  Location:\n    org/jsoup/parser/Token.reset()Lorg/jsoup/parser/Token; @10: areturn\n  Reason:\n    Attempt to pop empty stack.\n  Current Frame:\n    bci: @10\n    flags: { }\n    locals: { \u0027org/jsoup/parser/Token\u0027 }\n    stack: { }\n  Bytecode:\n    0000000: 2a02 b500 302a 02b5 0019 b0            \n"
+  },
+  {
+    "className": "Token$TokenType.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/jsoup/parser/Token$TokenType"
+  },
+  {
+    "className": "Token.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Operand stack underflow\nException Details:\n  Location:\n    org/jsoup/parser/Token.reset()Lorg/jsoup/parser/Token; @10: areturn\n  Reason:\n    Attempt to pop empty stack.\n  Current Frame:\n    bci: @10\n    flags: { }\n    locals: { \u0027org/jsoup/parser/Token\u0027 }\n    stack: { }\n  Bytecode:\n    0000000: 2a02 b500 302a 02b5 0019 b0            \n"
+  },
+  {
+    "className": "Tokeniser$1.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/jsoup/parser/Tokeniser$1"
+  },
+  {
+    "className": "Tokeniser.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/jsoup/parser/Tokeniser"
+  },
+  {
+    "className": "TokeniserState$1.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/jsoup/parser/TokeniserState"
+  },
+  {
+    "className": "TokeniserState$10.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/jsoup/parser/TokeniserState"
+  },
+  {
+    "className": "TokeniserState$11.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/jsoup/parser/TokeniserState"
+  },
+  {
+    "className": "TokeniserState$12.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/jsoup/parser/TokeniserState"
+  },
+  {
+    "className": "TokeniserState$13.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/jsoup/parser/TokeniserState"
+  },
+  {
+    "className": "TokeniserState$14.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/jsoup/parser/TokeniserState"
+  },
+  {
+    "className": "TokeniserState$15.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/jsoup/parser/TokeniserState"
+  },
+  {
+    "className": "TokeniserState$16.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/jsoup/parser/TokeniserState"
+  },
+  {
+    "className": "TokeniserState$17.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/jsoup/parser/TokeniserState"
+  },
+  {
+    "className": "TokeniserState$18.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/jsoup/parser/TokeniserState"
+  },
+  {
+    "className": "TokeniserState$19.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/jsoup/parser/TokeniserState"
+  },
+  {
+    "className": "TokeniserState$2.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/jsoup/parser/TokeniserState"
+  },
+  {
+    "className": "TokeniserState$20.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/jsoup/parser/TokeniserState"
+  },
+  {
+    "className": "TokeniserState$21.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/jsoup/parser/TokeniserState"
+  },
+  {
+    "className": "TokeniserState$22.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/jsoup/parser/TokeniserState"
+  },
+  {
+    "className": "TokeniserState$23.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/jsoup/parser/TokeniserState"
+  },
+  {
+    "className": "TokeniserState$24.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/jsoup/parser/TokeniserState"
+  },
+  {
+    "className": "TokeniserState$25.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/jsoup/parser/TokeniserState"
+  },
+  {
+    "className": "TokeniserState$26.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/jsoup/parser/TokeniserState"
+  },
+  {
+    "className": "TokeniserState$27.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/jsoup/parser/TokeniserState"
+  },
+  {
+    "className": "TokeniserState$28.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/jsoup/parser/TokeniserState"
+  },
+  {
+    "className": "TokeniserState$29.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/jsoup/parser/TokeniserState"
+  },
+  {
+    "className": "TokeniserState$3.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/jsoup/parser/TokeniserState"
+  },
+  {
+    "className": "TokeniserState$30.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/jsoup/parser/TokeniserState"
+  },
+  {
+    "className": "TokeniserState$31.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/jsoup/parser/TokeniserState"
+  },
+  {
+    "className": "TokeniserState$32.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/jsoup/parser/TokeniserState"
+  },
+  {
+    "className": "TokeniserState$33.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/jsoup/parser/TokeniserState"
+  },
+  {
+    "className": "TokeniserState$34.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/jsoup/parser/TokeniserState"
+  },
+  {
+    "className": "TokeniserState$35.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/jsoup/parser/TokeniserState$35"
+  },
+  {
+    "className": "TokeniserState$36.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/jsoup/parser/TokeniserState"
+  },
+  {
+    "className": "TokeniserState$37.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/jsoup/parser/TokeniserState"
+  },
+  {
+    "className": "TokeniserState$38.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/jsoup/parser/TokeniserState"
+  },
+  {
+    "className": "TokeniserState$39.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/jsoup/parser/TokeniserState"
+  },
+  {
+    "className": "TokeniserState$4.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/jsoup/parser/TokeniserState"
+  },
+  {
+    "className": "TokeniserState$40.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/jsoup/parser/TokeniserState$40"
+  },
+  {
+    "className": "TokeniserState$41.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/jsoup/parser/TokeniserState"
+  },
+  {
+    "className": "TokeniserState$42.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/jsoup/parser/TokeniserState"
+  },
+  {
+    "className": "TokeniserState$43.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/jsoup/parser/TokeniserState"
+  },
+  {
+    "className": "TokeniserState$44.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/jsoup/parser/TokeniserState"
+  },
+  {
+    "className": "TokeniserState$45.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/jsoup/parser/TokeniserState"
+  },
+  {
+    "className": "TokeniserState$46.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/jsoup/parser/TokeniserState"
+  },
+  {
+    "className": "TokeniserState$47.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/jsoup/parser/TokeniserState"
+  },
+  {
+    "className": "TokeniserState$48.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/jsoup/parser/TokeniserState"
+  },
+  {
+    "className": "TokeniserState$49.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/jsoup/parser/TokeniserState"
+  },
+  {
+    "className": "TokeniserState$5.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/jsoup/parser/TokeniserState"
+  },
+  {
+    "className": "TokeniserState$50.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/jsoup/parser/TokeniserState"
+  },
+  {
+    "className": "TokeniserState$51.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/jsoup/parser/TokeniserState"
+  },
+  {
+    "className": "TokeniserState$52.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/jsoup/parser/TokeniserState"
+  },
+  {
+    "className": "TokeniserState$53.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/jsoup/parser/TokeniserState"
+  },
+  {
+    "className": "TokeniserState$54.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/jsoup/parser/TokeniserState"
+  },
+  {
+    "className": "TokeniserState$55.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/jsoup/parser/TokeniserState"
+  },
+  {
+    "className": "TokeniserState$56.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/jsoup/parser/TokeniserState"
+  },
+  {
+    "className": "TokeniserState$57.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/jsoup/parser/TokeniserState"
+  },
+  {
+    "className": "TokeniserState$58.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/jsoup/parser/TokeniserState"
+  },
+  {
+    "className": "TokeniserState$59.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/jsoup/parser/TokeniserState"
+  },
+  {
+    "className": "TokeniserState$6.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/jsoup/parser/TokeniserState"
+  },
+  {
+    "className": "TokeniserState$60.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/jsoup/parser/TokeniserState"
+  },
+  {
+    "className": "TokeniserState$61.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/jsoup/parser/TokeniserState"
+  },
+  {
+    "className": "TokeniserState$62.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/jsoup/parser/TokeniserState"
+  },
+  {
+    "className": "TokeniserState$63.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/jsoup/parser/TokeniserState"
+  },
+  {
+    "className": "TokeniserState$64.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/jsoup/parser/TokeniserState"
+  },
+  {
+    "className": "TokeniserState$65.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/jsoup/parser/TokeniserState"
+  },
+  {
+    "className": "TokeniserState$66.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/jsoup/parser/TokeniserState"
+  },
+  {
+    "className": "TokeniserState$67.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/jsoup/parser/TokeniserState"
+  },
+  {
+    "className": "TokeniserState$7.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/jsoup/parser/TokeniserState"
+  },
+  {
+    "className": "TokeniserState$8.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/jsoup/parser/TokeniserState"
+  },
+  {
+    "className": "TokeniserState$9.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/jsoup/parser/TokeniserState"
+  },
+  {
+    "className": "TokeniserState.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/jsoup/parser/TokeniserState"
+  },
+  {
+    "className": "TokenQueue.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/jsoup/parser/TokenQueue"
+  },
+  {
+    "className": "TreeBuilder.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Illegal class name \"java/lang/Object[]\" in class file org/jsoup/parser/TreeBuilder"
+  },
+  {
+    "className": "XmlTreeBuilder$1.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/jsoup/parser/XmlTreeBuilder$1"
+  },
+  {
+    "className": "XmlTreeBuilder.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/jsoup/parser/XmlTreeBuilder"
+  },
+  {
+    "className": "org.jsoup.Progress",
+    "methods": [
+      {
+        "name": "onProgress",
+        "returnType": "void"
+      }
+    ],
+    "instanceCreation": "no-arg constructor not available"
+  },
+  {
+    "className": "org.jsoup.safety.Cleaner$1",
+    "methods": [],
+    "instanceCreation": "no-arg constructor not available"
+  },
+  {
+    "className": "Cleaner$CleaningVisitor.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Bad type on operand stack in putfield\nException Details:\n  Location:\n    org/jsoup/safety/Cleaner$CleaningVisitor.\u003cinit\u003e(Lorg/jsoup/safety/Cleaner;Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)V @3: putfield\n  Reason:\n    Type uninitializedThis (current frame, stack[1]) is not assignable to \u0027org/jsoup/safety/Cleaner$CleaningVisitor\u0027 (constant pool 14)\n  Current Frame:\n    bci: @3\n    flags: { flagThisUninit }\n    locals: { uninitializedThis, \u0027org/jsoup/safety/Cleaner\u0027, \u0027org/jsoup/nodes/Element\u0027, \u0027org/jsoup/nodes/Element\u0027 }\n    stack: { uninitializedThis, uninitializedThis, \u0027org/jsoup/safety/Cleaner\u0027 }\n  Bytecode:\n    0000000: 2a2a 2bb5 000e b700 302a 03b5 0034 2a2c\n    0000010: b500 372a 2db5 0024 b1                 \n"
+  },
+  {
+    "className": "Cleaner$ElementMeta.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Method \"type\" in class org/jsoup/nodes/Element has illegal signature \"methodtype: void __METHODTYPE__(org.jsoup.nodes.Node,int)\""
+  },
+  {
+    "className": "Cleaner.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Method \"type\" in class org/jsoup/nodes/Element has illegal signature \"methodtype: void __METHODTYPE__(org.jsoup.nodes.Node,int)\""
+  },
+  {
+    "className": "org.jsoup.safety.package-info",
+    "methods": [],
+    "instanceCreation": "no-arg constructor not available"
+  },
+  {
+    "className": "Safelist$AttributeKey.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Bad type on operand stack\nException Details:\n  Location:\n    org/jsoup/safety/Safelist$TypedValue.equals(Ljava/lang/Object;)Z @28: if_icmpeq\n  Reason:\n    Type \u0027java/lang/Class\u0027 (current frame, stack[1]) is not assignable to integer\n  Current Frame:\n    bci: @28\n    flags: { }\n    locals: { \u0027org/jsoup/safety/Safelist$TypedValue\u0027, \u0027java/lang/Object\u0027, \u0027java/lang/Class\u0027, \u0027java/lang/Class\u0027 }\n    stack: { \u0027java/lang/Class\u0027, \u0027java/lang/Class\u0027 }\n  Bytecode:\n    0000000: 2a2b a600 0612 15ac 2b01 a600 0612 0cac\n    0000010: 2ab6 0019 4d2b b600 194e 2c2d 9f00 0612\n    0000020: 0cac 2bc0 0002 3a04 2ab4 000b 1905 01a0\n    0000030: 0019 1904 b400 0b19 0501 a000 0904 3606\n    0000040: a700 0712 0c36 06ac 2ab4 000b 1904 b400\n    0000050: 0b19 0719 05b6 001b 3608 ac            \n  Stackmap Table:\n    same_frame(@8)\n    same_frame(@16)\n    append_frame(@34,Object[#29],Object[#29])\n    full_frame(@67,{Object[#2],Object[#4],Object[#29],Object[#29],Object[#2]},{Object[#14],Object[#14]})\n    full_frame(@71,{Object[#2],Object[#4],Object[#29],Object[#29],Object[#2],Top,Integer},{Object[#14],Object[#14]})\n    full_frame(@72,{Object[#2],Object[#4],Object[#29],Object[#29],Object[#2]},{Object[#14]})\n"
+  },
+  {
+    "className": "Safelist$AttributeValue.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Bad type on operand stack\nException Details:\n  Location:\n    org/jsoup/safety/Safelist$TypedValue.equals(Ljava/lang/Object;)Z @28: if_icmpeq\n  Reason:\n    Type \u0027java/lang/Class\u0027 (current frame, stack[1]) is not assignable to integer\n  Current Frame:\n    bci: @28\n    flags: { }\n    locals: { \u0027org/jsoup/safety/Safelist$TypedValue\u0027, \u0027java/lang/Object\u0027, \u0027java/lang/Class\u0027, \u0027java/lang/Class\u0027 }\n    stack: { \u0027java/lang/Class\u0027, \u0027java/lang/Class\u0027 }\n  Bytecode:\n    0000000: 2a2b a600 0612 15ac 2b01 a600 0612 0cac\n    0000010: 2ab6 0019 4d2b b600 194e 2c2d 9f00 0612\n    0000020: 0cac 2bc0 0002 3a04 2ab4 000b 1905 01a0\n    0000030: 0019 1904 b400 0b19 0501 a000 0904 3606\n    0000040: a700 0712 0c36 06ac 2ab4 000b 1904 b400\n    0000050: 0b19 0719 05b6 001b 3608 ac            \n  Stackmap Table:\n    same_frame(@8)\n    same_frame(@16)\n    append_frame(@34,Object[#29],Object[#29])\n    full_frame(@67,{Object[#2],Object[#4],Object[#29],Object[#29],Object[#2]},{Object[#14],Object[#14]})\n    full_frame(@71,{Object[#2],Object[#4],Object[#29],Object[#29],Object[#2],Top,Integer},{Object[#14],Object[#14]})\n    full_frame(@72,{Object[#2],Object[#4],Object[#29],Object[#29],Object[#2]},{Object[#14]})\n"
+  },
+  {
+    "className": "Safelist$Protocol.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Bad type on operand stack\nException Details:\n  Location:\n    org/jsoup/safety/Safelist$TypedValue.equals(Ljava/lang/Object;)Z @28: if_icmpeq\n  Reason:\n    Type \u0027java/lang/Class\u0027 (current frame, stack[1]) is not assignable to integer\n  Current Frame:\n    bci: @28\n    flags: { }\n    locals: { \u0027org/jsoup/safety/Safelist$TypedValue\u0027, \u0027java/lang/Object\u0027, \u0027java/lang/Class\u0027, \u0027java/lang/Class\u0027 }\n    stack: { \u0027java/lang/Class\u0027, \u0027java/lang/Class\u0027 }\n  Bytecode:\n    0000000: 2a2b a600 0612 15ac 2b01 a600 0612 0cac\n    0000010: 2ab6 0019 4d2b b600 194e 2c2d 9f00 0612\n    0000020: 0cac 2bc0 0002 3a04 2ab4 000b 1905 01a0\n    0000030: 0019 1904 b400 0b19 0501 a000 0904 3606\n    0000040: a700 0712 0c36 06ac 2ab4 000b 1904 b400\n    0000050: 0b19 0719 05b6 001b 3608 ac            \n  Stackmap Table:\n    same_frame(@8)\n    same_frame(@16)\n    append_frame(@34,Object[#29],Object[#29])\n    full_frame(@67,{Object[#2],Object[#4],Object[#29],Object[#29],Object[#2]},{Object[#14],Object[#14]})\n    full_frame(@71,{Object[#2],Object[#4],Object[#29],Object[#29],Object[#2],Top,Integer},{Object[#14],Object[#14]})\n    full_frame(@72,{Object[#2],Object[#4],Object[#29],Object[#29],Object[#2]},{Object[#14]})\n"
+  },
+  {
+    "className": "Safelist$TagName.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Bad type on operand stack\nException Details:\n  Location:\n    org/jsoup/safety/Safelist$TypedValue.equals(Ljava/lang/Object;)Z @28: if_icmpeq\n  Reason:\n    Type \u0027java/lang/Class\u0027 (current frame, stack[1]) is not assignable to integer\n  Current Frame:\n    bci: @28\n    flags: { }\n    locals: { \u0027org/jsoup/safety/Safelist$TypedValue\u0027, \u0027java/lang/Object\u0027, \u0027java/lang/Class\u0027, \u0027java/lang/Class\u0027 }\n    stack: { \u0027java/lang/Class\u0027, \u0027java/lang/Class\u0027 }\n  Bytecode:\n    0000000: 2a2b a600 0612 15ac 2b01 a600 0612 0cac\n    0000010: 2ab6 0019 4d2b b600 194e 2c2d 9f00 0612\n    0000020: 0cac 2bc0 0002 3a04 2ab4 000b 1905 01a0\n    0000030: 0019 1904 b400 0b19 0501 a000 0904 3606\n    0000040: a700 0712 0c36 06ac 2ab4 000b 1904 b400\n    0000050: 0b19 0719 05b6 001b 3608 ac            \n  Stackmap Table:\n    same_frame(@8)\n    same_frame(@16)\n    append_frame(@34,Object[#29],Object[#29])\n    full_frame(@67,{Object[#2],Object[#4],Object[#29],Object[#29],Object[#2]},{Object[#14],Object[#14]})\n    full_frame(@71,{Object[#2],Object[#4],Object[#29],Object[#29],Object[#2],Top,Integer},{Object[#14],Object[#14]})\n    full_frame(@72,{Object[#2],Object[#4],Object[#29],Object[#29],Object[#2]},{Object[#14]})\n"
+  },
+  {
+    "className": "Safelist$TypedValue.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Bad type on operand stack\nException Details:\n  Location:\n    org/jsoup/safety/Safelist$TypedValue.equals(Ljava/lang/Object;)Z @28: if_icmpeq\n  Reason:\n    Type \u0027java/lang/Class\u0027 (current frame, stack[1]) is not assignable to integer\n  Current Frame:\n    bci: @28\n    flags: { }\n    locals: { \u0027org/jsoup/safety/Safelist$TypedValue\u0027, \u0027java/lang/Object\u0027, \u0027java/lang/Class\u0027, \u0027java/lang/Class\u0027 }\n    stack: { \u0027java/lang/Class\u0027, \u0027java/lang/Class\u0027 }\n  Bytecode:\n    0000000: 2a2b a600 0612 15ac 2b01 a600 0612 0cac\n    0000010: 2ab6 0019 4d2b b600 194e 2c2d 9f00 0612\n    0000020: 0cac 2bc0 0002 3a04 2ab4 000b 1905 01a0\n    0000030: 0019 1904 b400 0b19 0501 a000 0904 3606\n    0000040: a700 0712 0c36 06ac 2ab4 000b 1904 b400\n    0000050: 0b19 0719 05b6 001b 3608 ac            \n  Stackmap Table:\n    same_frame(@8)\n    same_frame(@16)\n    append_frame(@34,Object[#29],Object[#29])\n    full_frame(@67,{Object[#2],Object[#4],Object[#29],Object[#29],Object[#2]},{Object[#14],Object[#14]})\n    full_frame(@71,{Object[#2],Object[#4],Object[#29],Object[#29],Object[#2],Top,Integer},{Object[#14],Object[#14]})\n    full_frame(@72,{Object[#2],Object[#4],Object[#29],Object[#29],Object[#2]},{Object[#14]})\n"
+  },
+  {
+    "className": "Safelist.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Operand stack overflow\nException Details:\n  Location:\n    org/jsoup/safety/Safelist.\u003cinit\u003e(Lorg/jsoup/safety/Safelist;)V @0: aload_0\n  Reason:\n    Exceeded max stack size.\n  Current Frame:\n    bci: @0\n    flags: { flagThisUninit }\n    locals: { uninitializedThis, \u0027org/jsoup/safety/Safelist\u0027 }\n    stack: { }\n  Bytecode:\n    0000000: 2ab7 0009 2ab4 000d 2bb4 000d c000 0f2c\n    0000010: b900 1502 002b b400 19b9 001f 0100 b900\n    0000020: 2301 00b9 0029 0100 1507 039f 0034 b900\n    0000030: 2d01 00c0 002f 2ab4 0019 b900 3201 00c0\n    0000040: 0034 3a09 bb00 3659 b900 3901 00c0 000f\n    0000050: 3a0b b700 3c19 05b9 0040 0300 a7ff c72b\n    0000060: b400 43b9 001f 0100 b900 2301 00b9 0029\n    0000070: 0100 1507 039f 0034 b900 2d01 00c0 002f\n    0000080: 2ab4 0043 b900 3201 00c0 0034 3a09 bb00\n    0000090: 4559 b900 3901 00c0 001b 3a0d b700 4819\n    00000a0: 05b9 0040 0300 a7ff c72b b400 4bb9 001f\n    00000b0: 0100 b900 2301 00b9 0029 0100 1510 039f\n    00000c0: 0083 b900 2d01 00c0 002f bb00 4559 b700\n    00000d0: 4c3a 12b9 0039 0100 c000 1b3a 05b9 001f\n    00000e0: 0100 b900 2301 00b9 0029 0100 1507 039f\n    00000f0: 0039 b900 2d01 00c0 002f 3a13 b900 3201\n    0000100: 00c0 004e 3a14 bb00 3659 b900 3901 00c0\n    0000110: 000f 3a0b b700 3c19 12c0 001b 3a05 1905\n    0000120: b900 4003 00a7 ffc2 2ab4 004b b900 3201\n    0000130: 00c0 0034 3a16 1905 1912 b900 4003 00a7\n    0000140: ff78 2bb4 0052 2a5f b500 52b1          \n"
+  },
+  {
+    "className": "Collector.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Method \"type\" in class org/jsoup/select/Collector has illegal signature \"methodtype: java.lang.Object __METHODTYPE__()\""
+  },
+  {
+    "className": "CombiningEvaluator$And.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Method \"type\" in class org/jsoup/select/CombiningEvaluator has illegal signature \"methodtype: int __METHODTYPE__(java.lang.Object)\""
+  },
+  {
+    "className": "CombiningEvaluator$Or.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Method \"type\" in class org/jsoup/select/CombiningEvaluator has illegal signature \"methodtype: int __METHODTYPE__(java.lang.Object)\""
+  },
+  {
+    "className": "CombiningEvaluator.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Method \"type\" in class org/jsoup/select/CombiningEvaluator has illegal signature \"methodtype: int __METHODTYPE__(java.lang.Object)\""
+  },
+  {
+    "className": "Elements.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Bad type on operand stack\nException Details:\n  Location:\n    org/jsoup/select/Elements.\u003cinit\u003e([Lorg/jsoup/nodes/Element;)V @6: checkcast\n  Reason:\n    Type uninitializedThis (current frame, stack[0]) is not assignable to \u0027java/lang/Object\u0027\n  Current Frame:\n    bci: @6\n    flags: { flagThisUninit }\n    locals: { uninitializedThis, \u0027[Lorg/jsoup/nodes/Element;\u0027, \u0027java/util/List\u0027 }\n    stack: { uninitializedThis }\n  Bytecode:\n    0000000: 2a2b b800 f04d c000 84b7 009f b1       \n"
+  },
+  {
+    "className": "Evaluator$AllElements.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Method \"type\" in class org/jsoup/select/Evaluator has illegal signature \"methodtype: boolean __METHODTYPE__(java.lang.Object)\""
+  },
+  {
+    "className": "Evaluator$Attribute.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Method \"type\" in class org/jsoup/select/Evaluator has illegal signature \"methodtype: boolean __METHODTYPE__(java.lang.Object)\""
+  },
+  {
+    "className": "Evaluator$AttributeKeyPair.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Method \"type\" in class org/jsoup/select/Evaluator has illegal signature \"methodtype: boolean __METHODTYPE__(java.lang.Object)\""
+  },
+  {
+    "className": "Evaluator$AttributeStarting.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Method \"type\" in class org/jsoup/select/Evaluator has illegal signature \"methodtype: boolean __METHODTYPE__(java.lang.Object)\""
+  },
+  {
+    "className": "Evaluator$AttributeWithValue.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Method \"type\" in class org/jsoup/select/Evaluator has illegal signature \"methodtype: boolean __METHODTYPE__(java.lang.Object)\""
+  },
+  {
+    "className": "Evaluator$AttributeWithValueContaining.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Method \"type\" in class org/jsoup/select/Evaluator has illegal signature \"methodtype: boolean __METHODTYPE__(java.lang.Object)\""
+  },
+  {
+    "className": "Evaluator$AttributeWithValueEnding.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Method \"type\" in class org/jsoup/select/Evaluator has illegal signature \"methodtype: boolean __METHODTYPE__(java.lang.Object)\""
+  },
+  {
+    "className": "Evaluator$AttributeWithValueMatching.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Method \"type\" in class org/jsoup/select/Evaluator has illegal signature \"methodtype: boolean __METHODTYPE__(java.lang.Object)\""
+  },
+  {
+    "className": "Evaluator$AttributeWithValueNot.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Method \"type\" in class org/jsoup/select/Evaluator has illegal signature \"methodtype: boolean __METHODTYPE__(java.lang.Object)\""
+  },
+  {
+    "className": "Evaluator$AttributeWithValueStarting.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Method \"type\" in class org/jsoup/select/Evaluator has illegal signature \"methodtype: boolean __METHODTYPE__(java.lang.Object)\""
+  },
+  {
+    "className": "Evaluator$Class.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Method \"type\" in class org/jsoup/select/Evaluator has illegal signature \"methodtype: boolean __METHODTYPE__(java.lang.Object)\""
+  },
+  {
+    "className": "Evaluator$ContainsData.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Method \"type\" in class org/jsoup/select/Evaluator has illegal signature \"methodtype: boolean __METHODTYPE__(java.lang.Object)\""
+  },
+  {
+    "className": "Evaluator$ContainsOwnText.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Method \"type\" in class org/jsoup/select/Evaluator has illegal signature \"methodtype: boolean __METHODTYPE__(java.lang.Object)\""
+  },
+  {
+    "className": "Evaluator$ContainsText.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Method \"type\" in class org/jsoup/select/Evaluator has illegal signature \"methodtype: boolean __METHODTYPE__(java.lang.Object)\""
+  },
+  {
+    "className": "Evaluator$ContainsWholeOwnText.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Method \"type\" in class org/jsoup/select/Evaluator has illegal signature \"methodtype: boolean __METHODTYPE__(java.lang.Object)\""
+  },
+  {
+    "className": "Evaluator$ContainsWholeText.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Method \"type\" in class org/jsoup/select/Evaluator has illegal signature \"methodtype: boolean __METHODTYPE__(java.lang.Object)\""
+  },
+  {
+    "className": "Evaluator$CssNthEvaluator.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Method \"type\" in class org/jsoup/select/Evaluator has illegal signature \"methodtype: boolean __METHODTYPE__(java.lang.Object)\""
+  },
+  {
+    "className": "Evaluator$Id.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Method \"type\" in class org/jsoup/select/Evaluator has illegal signature \"methodtype: boolean __METHODTYPE__(java.lang.Object)\""
+  },
+  {
+    "className": "Evaluator$IndexEquals.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Method \"type\" in class org/jsoup/select/Evaluator has illegal signature \"methodtype: boolean __METHODTYPE__(java.lang.Object)\""
+  },
+  {
+    "className": "Evaluator$IndexEvaluator.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Method \"type\" in class org/jsoup/select/Evaluator has illegal signature \"methodtype: boolean __METHODTYPE__(java.lang.Object)\""
+  },
+  {
+    "className": "Evaluator$IndexGreaterThan.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Method \"type\" in class org/jsoup/select/Evaluator has illegal signature \"methodtype: boolean __METHODTYPE__(java.lang.Object)\""
+  },
+  {
+    "className": "Evaluator$IndexLessThan.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Method \"type\" in class org/jsoup/select/Evaluator has illegal signature \"methodtype: boolean __METHODTYPE__(java.lang.Object)\""
+  },
+  {
+    "className": "Evaluator$IsEmpty.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Method \"type\" in class org/jsoup/select/Evaluator has illegal signature \"methodtype: boolean __METHODTYPE__(java.lang.Object)\""
+  },
+  {
+    "className": "Evaluator$IsFirstChild.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Method \"type\" in class org/jsoup/select/Evaluator has illegal signature \"methodtype: boolean __METHODTYPE__(java.lang.Object)\""
+  },
+  {
+    "className": "Evaluator$IsFirstOfType.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Method \"type\" in class org/jsoup/select/Evaluator has illegal signature \"methodtype: boolean __METHODTYPE__(java.lang.Object)\""
+  },
+  {
+    "className": "Evaluator$IsLastChild.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Method \"type\" in class org/jsoup/select/Evaluator has illegal signature \"methodtype: boolean __METHODTYPE__(java.lang.Object)\""
+  },
+  {
+    "className": "Evaluator$IsLastOfType.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Method \"type\" in class org/jsoup/select/Evaluator has illegal signature \"methodtype: boolean __METHODTYPE__(java.lang.Object)\""
+  },
+  {
+    "className": "Evaluator$IsNthChild.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Method \"type\" in class org/jsoup/select/Evaluator has illegal signature \"methodtype: boolean __METHODTYPE__(java.lang.Object)\""
+  },
+  {
+    "className": "Evaluator$IsNthLastChild.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Method \"type\" in class org/jsoup/select/Evaluator has illegal signature \"methodtype: boolean __METHODTYPE__(java.lang.Object)\""
+  },
+  {
+    "className": "Evaluator$IsNthLastOfType.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Method \"type\" in class org/jsoup/select/Evaluator has illegal signature \"methodtype: boolean __METHODTYPE__(java.lang.Object)\""
+  },
+  {
+    "className": "Evaluator$IsNthOfType.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Method \"type\" in class org/jsoup/select/Evaluator has illegal signature \"methodtype: boolean __METHODTYPE__(java.lang.Object)\""
+  },
+  {
+    "className": "Evaluator$IsOnlyChild.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Method \"type\" in class org/jsoup/select/Evaluator has illegal signature \"methodtype: boolean __METHODTYPE__(java.lang.Object)\""
+  },
+  {
+    "className": "Evaluator$IsOnlyOfType.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Method \"type\" in class org/jsoup/select/Evaluator has illegal signature \"methodtype: boolean __METHODTYPE__(java.lang.Object)\""
+  },
+  {
+    "className": "Evaluator$IsRoot.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Method \"type\" in class org/jsoup/select/Evaluator has illegal signature \"methodtype: boolean __METHODTYPE__(java.lang.Object)\""
+  },
+  {
+    "className": "Evaluator$Matches.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Method \"type\" in class org/jsoup/select/Evaluator has illegal signature \"methodtype: boolean __METHODTYPE__(java.lang.Object)\""
+  },
+  {
+    "className": "Evaluator$MatchesOwn.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Method \"type\" in class org/jsoup/select/Evaluator has illegal signature \"methodtype: boolean __METHODTYPE__(java.lang.Object)\""
+  },
+  {
+    "className": "Evaluator$MatchesWholeOwnText.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Method \"type\" in class org/jsoup/select/Evaluator has illegal signature \"methodtype: boolean __METHODTYPE__(java.lang.Object)\""
+  },
+  {
+    "className": "Evaluator$MatchesWholeText.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Method \"type\" in class org/jsoup/select/Evaluator has illegal signature \"methodtype: boolean __METHODTYPE__(java.lang.Object)\""
+  },
+  {
+    "className": "Evaluator$MatchText.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Method \"type\" in class org/jsoup/select/Evaluator has illegal signature \"methodtype: boolean __METHODTYPE__(java.lang.Object)\""
+  },
+  {
+    "className": "Evaluator$Tag.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Method \"type\" in class org/jsoup/select/Evaluator has illegal signature \"methodtype: boolean __METHODTYPE__(java.lang.Object)\""
+  },
+  {
+    "className": "Evaluator$TagEndsWith.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Method \"type\" in class org/jsoup/select/Evaluator has illegal signature \"methodtype: boolean __METHODTYPE__(java.lang.Object)\""
+  },
+  {
+    "className": "Evaluator$TagStartsWith.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Method \"type\" in class org/jsoup/select/Evaluator has illegal signature \"methodtype: boolean __METHODTYPE__(java.lang.Object)\""
+  },
+  {
+    "className": "Evaluator.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Method \"type\" in class org/jsoup/select/Evaluator has illegal signature \"methodtype: boolean __METHODTYPE__(java.lang.Object)\""
+  },
+  {
+    "className": "NodeFilter$FilterResult.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/jsoup/select/NodeFilter$FilterResult"
+  },
+  {
+    "className": "NodeFilter.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Illegal class name \"org/jsoup/nodes/Node[]\" in class file org/jsoup/nodes/Node"
+  },
+  {
+    "className": "NodeTraversor.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Bad local variable type\nException Details:\n  Location:\n    org/jsoup/select/NodeTraversor.\u003cclinit\u003e()V @2: aload_0\n  Reason:\n    Type top (current frame, locals[0]) is not assignable to reference type\n  Current Frame:\n    bci: @2\n    flags: { }\n    locals: { }\n    stack: { \u0027java/lang/String\u0027 }\n  Bytecode:\n    0000000: 1208 2ab6 000e 3c1b 03a0 0008 043d a700\n    0000010: 0612 0f3d 5fb3 0013 b1                 \n  Stackmap Table:\n    full_frame(@17,{Top,Integer},{Object[#21]})\n    full_frame(@20,{Top,Integer,Integer},{Object[#21]})\n"
+  },
+  {
+    "className": "NodeVisitor.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Illegal class name \"org/jsoup/nodes/Node[]\" in class file org/jsoup/nodes/Node"
+  },
+  {
+    "className": "org.jsoup.select.package-info",
+    "methods": [],
+    "instanceCreation": "no-arg constructor not available"
+  },
+  {
+    "className": "QueryParser.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file org/jsoup/select/QueryParser"
+  },
+  {
+    "className": "org.jsoup.select.Selector$SelectorParseException",
+    "methods": [],
+    "instanceCreation": "no-arg constructor not available"
+  },
+  {
+    "className": "Selector.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Operand stack underflow\nException Details:\n  Location:\n    org/jsoup/select/Selector.selectFirst(Ljava/lang/String;Lorg/jsoup/nodes/Element;)Lorg/jsoup/nodes/Element; @15: areturn\n  Reason:\n    Attempt to pop empty stack.\n  Current Frame:\n    bci: @15\n    flags: { }\n    locals: { \u0027java/lang/String\u0027, \u0027org/jsoup/nodes/Element\u0027, \u0027org/jsoup/select/Evaluator\u0027 }\n    stack: { }\n  Bytecode:\n    0000000: 2ab8 000c 2ab8 0012 4d2c 2bb8 003f 4cb0\n    0000010:                                        \n"
+  },
+  {
+    "className": "StructuralEvaluator$Has.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Method \"type\" in class org/jsoup/select/StructuralEvaluator$Has has illegal signature \"methodtype: java.lang.Object __METHODTYPE__()\""
+  },
+  {
+    "className": "StructuralEvaluator$ImmediateParentRun.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Method \"type\" in class org/jsoup/select/Evaluator has illegal signature \"methodtype: boolean __METHODTYPE__(java.lang.Object)\""
+  },
+  {
+    "className": "StructuralEvaluator$ImmediatePreviousSibling.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Method \"type\" in class org/jsoup/select/StructuralEvaluator has illegal signature \"methodtype: java.lang.Object __METHODTYPE__(java.lang.Object)\""
+  },
+  {
+    "className": "StructuralEvaluator$Is.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Method \"type\" in class org/jsoup/select/StructuralEvaluator has illegal signature \"methodtype: java.lang.Object __METHODTYPE__(java.lang.Object)\""
+  },
+  {
+    "className": "StructuralEvaluator$Not.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Method \"type\" in class org/jsoup/select/StructuralEvaluator has illegal signature \"methodtype: java.lang.Object __METHODTYPE__(java.lang.Object)\""
+  },
+  {
+    "className": "StructuralEvaluator$Parent.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Method \"type\" in class org/jsoup/select/StructuralEvaluator has illegal signature \"methodtype: java.lang.Object __METHODTYPE__(java.lang.Object)\""
+  },
+  {
+    "className": "StructuralEvaluator$PreviousSibling.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Method \"type\" in class org/jsoup/select/StructuralEvaluator has illegal signature \"methodtype: java.lang.Object __METHODTYPE__(java.lang.Object)\""
+  },
+  {
+    "className": "StructuralEvaluator$Root.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Method \"type\" in class org/jsoup/select/Evaluator has illegal signature \"methodtype: boolean __METHODTYPE__(java.lang.Object)\""
+  },
+  {
+    "className": "StructuralEvaluator.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Method \"type\" in class org/jsoup/select/StructuralEvaluator has illegal signature \"methodtype: java.lang.Object __METHODTYPE__(java.lang.Object)\""
+  },
+  {
+    "className": "org.jsoup.SerializationException",
+    "methods": [],
+    "instanceCreation": "success"
+  },
+  {
+    "className": "UncheckedIOException.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Operand stack underflow\nException Details:\n  Location:\n    org/jsoup/UncheckedIOException.ioException()Ljava/io/IOException; @5: areturn\n  Reason:\n    Attempt to pop empty stack.\n  Current Frame:\n    bci: @5\n    flags: { }\n    locals: { \u0027org/jsoup/UncheckedIOException\u0027, \u0027java/io/IOException\u0027 }\n    stack: { }\n  Bytecode:\n    0000000: 2ab6 000d 4cb0                         \n"
+  },
+  {
+    "className": "UnsupportedMimeTypeException.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Bad type on operand stack\nException Details:\n  Location:\n    org/jsoup/UnsupportedMimeTypeException.toString()Ljava/lang/String; @7: invokespecial\n  Reason:\n    Type \u0027java/lang/StringBuilder\u0027 (current frame, stack[0]) is not assignable to \u0027org/jsoup/UnsupportedMimeTypeException\u0027\n  Current Frame:\n    bci: @7\n    flags: { }\n    locals: { \u0027org/jsoup/UnsupportedMimeTypeException\u0027 }\n    stack: { \u0027java/lang/StringBuilder\u0027 }\n  Bytecode:\n    0000000: bb00 1559 b700 18b7 001a 2b2c b600 1e4e\n    0000010: 2d12 20b6 001e 4e2a b400 0d2d 1904 b600\n    0000020: 1e4e 2d12 22b6 001e 4e2a b400 102d 1904\n    0000030: b600 1e4e 2db6 0023 3a04 b0            \n"
+  }
+]

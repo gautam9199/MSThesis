@@ -1,0 +1,22 @@
+[
+  {
+    "className": "Reload4jLoggerAdapter.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Operand stack underflow\nException Details:\n  Location:\n    org/slf4j/reload4j/Reload4jLoggerAdapter.\u003cinit\u003e(Lorg/apache/log4j/Logger;)V @15: swap\n  Reason:\n    Attempt to pop empty stack.\n  Current Frame:\n    bci: @15\n    flags: { }\n    locals: { \u0027org/slf4j/reload4j/Reload4jLoggerAdapter\u0027, \u0027org/apache/log4j/Logger\u0027, \u0027java/lang/String\u0027 }\n    stack: { \u0027org/slf4j/reload4j/Reload4jLoggerAdapter\u0027 }\n  Bytecode:\n    0000000: 2ab7 009a 2a2b b500 102b b600 9b4d 2a5f\n    0000010: b500 9eb1                              \n"
+  },
+  {
+    "className": "Reload4jLoggerFactory.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Bad type on operand stack\nException Details:\n  Location:\n    org/slf4j/reload4j/Reload4jLoggerFactory.\u003cinit\u003e()V @8: checkcast\n  Reason:\n    Type uninitialized 4 (current frame, stack[1]) is not assignable to \u0027java/lang/Object\u0027\n  Current Frame:\n    bci: @8\n    flags: { }\n    locals: { \u0027org/slf4j/reload4j/Reload4jLoggerFactory\u0027 }\n    stack: { uninitialized 4, uninitialized 4 }\n  Bytecode:\n    0000000: 2ab7 0058 bb00 5a59 c000 5ab7 005b 2ac0\n    0000010: 0037 b500 35b8 004b b1                 \n"
+  },
+  {
+    "className": "Reload4jMDCAdapter.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Operand stack underflow\nException Details:\n  Location:\n    org/slf4j/reload4j/Reload4jMDCAdapter.get(Ljava/lang/String;)Ljava/lang/String; @5: checkcast\n  Reason:\n    Attempt to pop empty stack.\n  Current Frame:\n    bci: @5\n    flags: { }\n    locals: { \u0027org/slf4j/reload4j/Reload4jMDCAdapter\u0027, \u0027java/lang/String\u0027, \u0027java/lang/Object\u0027 }\n    stack: { }\n  Bytecode:\n    0000000: 2bb8 0057 4dc0 0041 4cb0               \n"
+  },
+  {
+    "className": "Reload4jServiceProvider.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Instruction type does not match stack map\nException Details:\n  Location:\n    org/slf4j/reload4j/Reload4jServiceProvider.\u003cinit\u003e()V @16: return\n  Reason:\n    Current frame\u0027s stack size doesn\u0027t match stackmap.\n  Current Frame:\n    bci: @16\n    flags: { }\n    locals: { \u0027org/slf4j/reload4j/Reload4jServiceProvider\u0027, top, \u0027java/lang/NoSuchFieldError\u0027 }\n    stack: { }\n  Stackmap Frame:\n    bci: @16\n    flags: { }\n    locals: { \u0027org/slf4j/reload4j/Reload4jServiceProvider\u0027 }\n    stack: { \u0027org/apache/log4j/Level\u0027 }\n  Bytecode:\n    0000000: 2ab7 0012 b200 18a7 0009 4d12 1ab8 0020\n    0000010: b1                                     \n  Exception Handler Table:\n    bci [4, 7] \u003d\u003e handler: 10\n  Stackmap Table:\n    full_frame(@10,{Object[#2]},{Object[#16]})\n    same_locals_1_stack_item_frame(@16,Object[#20])\n"
+  }
+]

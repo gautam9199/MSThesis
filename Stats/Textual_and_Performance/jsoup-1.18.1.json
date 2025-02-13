@@ -1,0 +1,2477 @@
+[
+    {
+        "className": "org.jsoup.select.Evaluator$AttributeWithValueContaining",
+        "normalizedScore": 0.7474218696292633,
+        "weightedScore": 0.7427958772923354,
+        "b2s": 6200,
+        "s2b": 253,
+        "b2sMemory": 0.38736724853515625,
+        "s2bMemory": 7.000297546386719
+    },
+    {
+        "className": "org.jsoup.parser.Tag",
+        "normalizedScore": 0.8254577889397906,
+        "weightedScore": 0.8226032451055725,
+        "b2s": 6400,
+        "s2b": 183,
+        "b2sMemory": 0.19672393798828125,
+        "s2bMemory": 3.9817886352539062
+    },
+    {
+        "className": "org.jsoup.parser.TokeniserState$5",
+        "normalizedScore": 0.7616934201398023,
+        "weightedScore": 0.7602592044501906,
+        "b2s": 6200,
+        "s2b": 2,
+        "b2sMemory": 2.0,
+        "s2bMemory": 0.6100616455078125
+    },
+    {
+        "className": "org.jsoup.safety.Safelist$AttributeValue",
+        "normalizedScore": 0.7976384701848612,
+        "weightedScore": 0.7984122575749772,
+        "b2s": 8600,
+        "s2b": 1,
+        "b2sMemory": 0.38121795654296875,
+        "s2bMemory": 0.3050994873046875
+    },
+    {
+        "className": "org.jsoup.parser.TokeniserState$39",
+        "normalizedScore": 0.7469976729565104,
+        "weightedScore": 0.747431705578521,
+        "b2s": 8000,
+        "s2b": 26,
+        "b2sMemory": 0.3049774169921875,
+        "s2bMemory": 2.757293701171875
+    },
+    {
+        "className": "org.jsoup.helper.ValidationException",
+        "normalizedScore": 0.7088371195432405,
+        "weightedScore": 0.7056661219208478,
+        "b2s": 4800,
+        "s2b": 9,
+        "b2sMemory": 0.3049774169921875,
+        "s2bMemory": 1.537353515625
+    },
+    {
+        "className": "org.jsoup.parser.TokeniserState$19",
+        "normalizedScore": 0.7609165675080153,
+        "weightedScore": 0.759740164994502,
+        "b2s": 7200,
+        "s2b": 3,
+        "b2sMemory": 0.3049774169921875,
+        "s2bMemory": 0.610107421875
+    },
+    {
+        "className": "org.jsoup.parser.HtmlTreeBuilderState$8",
+        "normalizedScore": 0.7569508809103981,
+        "weightedScore": 0.7622262249649231,
+        "b2s": 7000,
+        "s2b": 8,
+        "b2sMemory": 0.3049774169921875,
+        "s2bMemory": 1.2323150634765625
+    },
+    {
+        "className": "org.jsoup.select.StructuralEvaluator$ImmediatePreviousSibling",
+        "normalizedScore": 0.743899713661447,
+        "weightedScore": 0.7398034169940975,
+        "b2s": 7000,
+        "s2b": 4,
+        "b2sMemory": 0.3049774169921875,
+        "s2bMemory": 0.9271621704101562
+    },
+    {
+        "className": "org.jsoup.nodes.Node$OuterHtmlVisitor",
+        "normalizedScore": 0.765348831292146,
+        "weightedScore": 0.7646429184945196,
+        "b2s": 4700,
+        "s2b": 8,
+        "b2sMemory": 0.3049774169921875,
+        "s2bMemory": 1.537109375
+    },
+    {
+        "className": "org.jsoup.select.Evaluator$IsFirstOfType",
+        "normalizedScore": 0.812723642934665,
+        "weightedScore": 0.8100324519017714,
+        "b2s": 4600,
+        "s2b": 2,
+        "b2sMemory": 0.3049774169921875,
+        "s2bMemory": 0.3050994873046875
+    },
+    {
+        "className": "org.jsoup.select.Evaluator$IsLastOfType",
+        "normalizedScore": 0.8144655836193841,
+        "weightedScore": 0.811987817659074,
+        "b2s": 4900,
+        "s2b": 1,
+        "b2sMemory": 0.3049774169921875,
+        "s2bMemory": 0.3050994873046875
+    },
+    {
+        "className": "org.jsoup.select.Evaluator$ContainsData",
+        "normalizedScore": 0.7658837701207456,
+        "weightedScore": 0.76203650985994,
+        "b2s": 5600,
+        "s2b": 3,
+        "b2sMemory": 0.3049774169921875,
+        "s2bMemory": 0.9154510498046875
+    },
+    {
+        "className": "org.jsoup.helper.UrlBuilder",
+        "normalizedScore": 0.7697593708022078,
+        "weightedScore": 0.7670687169685737,
+        "b2s": 6200,
+        "s2b": 42,
+        "b2sMemory": 0.3049774169921875,
+        "s2bMemory": 13.832000732421875
+    },
+    {
+        "className": "org.jsoup.helper.Validate",
+        "normalizedScore": 0.7301870952430615,
+        "weightedScore": 0.7231653674203211,
+        "b2s": 6300,
+        "s2b": 27,
+        "b2sMemory": 0.31191253662109375,
+        "s2bMemory": 4.625923156738281
+    },
+    {
+        "className": "org.jsoup.Connection$Request",
+        "normalizedScore": 0.7153307818666611,
+        "weightedScore": 0.7069725626646848,
+        "b2s": 6600,
+        "s2b": 7,
+        "b2sMemory": 0.3138580322265625,
+        "s2bMemory": 0.6278839111328125
+    },
+    {
+        "className": "org.jsoup.helper.HttpConnection$KeyVal",
+        "normalizedScore": 0.7711033672293507,
+        "weightedScore": 0.7666281656415508,
+        "b2s": 7900,
+        "s2b": 15,
+        "b2sMemory": 0.3138580322265625,
+        "s2bMemory": 2.51446533203125
+    },
+    {
+        "className": "org.jsoup.parser.HtmlTreeBuilderState$2",
+        "normalizedScore": 0.7825604554726491,
+        "weightedScore": 0.7846862529022007,
+        "b2s": 4600,
+        "s2b": 8,
+        "b2sMemory": 0.280914306640625,
+        "s2bMemory": 3.0905685424804688
+    },
+    {
+        "className": "org.jsoup.select.Evaluator$IsNthOfType",
+        "normalizedScore": 0.7010548122074484,
+        "weightedScore": 0.6995677772170901,
+        "b2s": 4800,
+        "s2b": 5,
+        "b2sMemory": 0.280914306640625,
+        "s2bMemory": 1.1263504028320312
+    },
+    {
+        "className": "org.jsoup.helper.AuthenticationHandler$AuthShim",
+        "normalizedScore": 0.8322316165623352,
+        "weightedScore": 0.8360454919431388,
+        "b2s": 6200,
+        "s2b": 0,
+        "b2sMemory": 0.280914306640625,
+        "s2bMemory": 0.281036376953125
+    },
+    {
+        "className": "org.jsoup.safety.Cleaner$1",
+        "normalizedScore": 0.7639711575687186,
+        "weightedScore": 0.7732883275261324,
+        "b2s": 6000,
+        "s2b": 0,
+        "b2sMemory": 0.280914306640625,
+        "s2bMemory": 0.281036376953125
+    },
+    {
+        "className": "org.jsoup.parser.Token$Doctype",
+        "normalizedScore": 0.8399680091319365,
+        "weightedScore": 0.8414705242242149,
+        "b2s": 6100,
+        "s2b": 11,
+        "b2sMemory": 0.280914306640625,
+        "s2bMemory": 1.6882553100585938
+    },
+    {
+        "className": "org.jsoup.parser.TokeniserState$21",
+        "normalizedScore": 0.7743186921079831,
+        "weightedScore": 0.7752569209364005,
+        "b2s": 5500,
+        "s2b": 3,
+        "b2sMemory": 0.280914306640625,
+        "s2bMemory": 0.842926025390625
+    },
+    {
+        "className": "org.jsoup.parser.TokeniserState$41",
+        "normalizedScore": 0.7941865770157458,
+        "weightedScore": 0.7988974480092659,
+        "b2s": 6600,
+        "s2b": 6,
+        "b2sMemory": 0.280914306640625,
+        "s2bMemory": 1.6858901977539062
+    },
+    {
+        "className": "org.jsoup.helper.AuthenticationHandler$GlobalHandler",
+        "normalizedScore": 0.8029779081291609,
+        "weightedScore": 0.8017363786592575,
+        "b2s": 6700,
+        "s2b": 4,
+        "b2sMemory": 0.280914306640625,
+        "s2bMemory": 0.8454132080078125
+    },
+    {
+        "className": "org.jsoup.parser.Token$StartTag",
+        "normalizedScore": 0.7718941428346064,
+        "weightedScore": 0.7733028982682839,
+        "b2s": 5700,
+        "s2b": 6,
+        "b2sMemory": 0.280914306640625,
+        "s2bMemory": 2.5286483764648438
+    },
+    {
+        "className": "org.jsoup.nodes.TextNode",
+        "normalizedScore": 0.7382944308090007,
+        "weightedScore": 0.7340569385386093,
+        "b2s": 5300,
+        "s2b": 38,
+        "b2sMemory": 0.280914306640625,
+        "s2bMemory": 12.563972473144531
+    },
+    {
+        "className": "org.jsoup.safety.Safelist$TagName",
+        "normalizedScore": 0.8034872540757602,
+        "weightedScore": 0.8046723329063274,
+        "b2s": 5700,
+        "s2b": 1,
+        "b2sMemory": 2.0,
+        "s2bMemory": 0.5882949829101562
+    },
+    {
+        "className": "org.jsoup.parser.TokeniserState$13",
+        "normalizedScore": 0.7912634314343413,
+        "weightedScore": 0.7949888706548847,
+        "b2s": 6000,
+        "s2b": 5,
+        "b2sMemory": 0.294097900390625,
+        "s2bMemory": 2.0613937377929688
+    },
+    {
+        "className": "org.jsoup.safety.Safelist$Protocol",
+        "normalizedScore": 0.7976475793156635,
+        "weightedScore": 0.7984383769396528,
+        "b2s": 10200,
+        "s2b": 2,
+        "b2sMemory": 0.294097900390625,
+        "s2bMemory": 0.294219970703125
+    },
+    {
+        "className": "org.jsoup.select.Elements",
+        "normalizedScore": 0.6857943804452371,
+        "weightedScore": 0.6824508259645712,
+        "b2s": 6300,
+        "s2b": 88,
+        "b2sMemory": 0.294097900390625,
+        "s2bMemory": 5.370735168457031
+    },
+    {
+        "className": "org.jsoup.internal.Normalizer",
+        "normalizedScore": 0.7465460165792498,
+        "weightedScore": 0.7421041808787716,
+        "b2s": 6000,
+        "s2b": 2,
+        "b2sMemory": 2.0,
+        "s2bMemory": 0.7005767822265625
+    },
+    {
+        "className": "org.jsoup.nodes.NodeUtils",
+        "normalizedScore": 0.6656100038408751,
+        "weightedScore": 0.6622654668714217,
+        "b2s": 5600,
+        "s2b": 4,
+        "b2sMemory": 0.5448074340820312,
+        "s2bMemory": 1.8680572509765625
+    },
+    {
+        "className": "org.jsoup.parser.HtmlTreeBuilderState$12",
+        "normalizedScore": 0.7525663343064455,
+        "weightedScore": 0.750715428545342,
+        "b2s": 6100,
+        "s2b": 11,
+        "b2sMemory": 0.46697998046875,
+        "s2bMemory": 6.337242126464844
+    },
+    {
+        "className": "org.jsoup.select.Evaluator$IndexEvaluator",
+        "normalizedScore": 0.8090698862246218,
+        "weightedScore": 0.8089321283713904,
+        "b2s": 5900,
+        "s2b": 0,
+        "b2sMemory": 0.4609375,
+        "s2bMemory": 0.46105194091796875
+    },
+    {
+        "className": "org.jsoup.parser.TokeniserState$53",
+        "normalizedScore": 0.762393256226528,
+        "weightedScore": 0.7627704898976,
+        "b2s": 16100,
+        "s2b": 3,
+        "b2sMemory": 0.4609375,
+        "s2bMemory": 2.3053436279296875
+    },
+    {
+        "className": "org.jsoup.parser.TokeniserState$59",
+        "normalizedScore": 0.7875082186820906,
+        "weightedScore": 0.7919716825281674,
+        "b2s": 5900,
+        "s2b": 4,
+        "b2sMemory": 0.4609375,
+        "s2bMemory": 1.8465499877929688
+    },
+    {
+        "className": "org.jsoup.parser.TokeniserState$33",
+        "normalizedScore": 0.7743350147687146,
+        "weightedScore": 0.7746291280397739,
+        "b2s": 7200,
+        "s2b": 1,
+        "b2sMemory": 0.4609375,
+        "s2bMemory": 0.46105194091796875
+    },
+    {
+        "className": "org.jsoup.parser.Token",
+        "normalizedScore": 0.7782424916658012,
+        "weightedScore": 0.7738319074139757,
+        "b2s": 5400,
+        "s2b": 10,
+        "b2sMemory": 0.4609375,
+        "s2bMemory": 2.765899658203125
+    },
+    {
+        "className": "org.jsoup.select.Evaluator$IndexEquals",
+        "normalizedScore": 0.7675121692593946,
+        "weightedScore": 0.7615669224827089,
+        "b2s": 6000,
+        "s2b": 2,
+        "b2sMemory": 0.4609375,
+        "s2bMemory": 0.9219818115234375
+    },
+    {
+        "className": "org.jsoup.parser.TokeniserState$61",
+        "normalizedScore": 0.7694712328217953,
+        "weightedScore": 0.7716860574444856,
+        "b2s": 6600,
+        "s2b": 3,
+        "b2sMemory": 0.4609375,
+        "s2bMemory": 1.8438720703125
+    },
+    {
+        "className": "org.jsoup.parser.HtmlTreeBuilderState$18",
+        "normalizedScore": 0.74262003965887,
+        "weightedScore": 0.743975991002455,
+        "b2s": 6500,
+        "s2b": 7,
+        "b2sMemory": 0.4609375,
+        "s2bMemory": 7.2288818359375
+    },
+    {
+        "className": "org.jsoup.nodes.DataNode",
+        "normalizedScore": 0.7308963023525008,
+        "weightedScore": 0.7300105652218367,
+        "b2s": 5300,
+        "s2b": 5,
+        "b2sMemory": 0.46167755126953125,
+        "s2bMemory": 2.7701873779296875
+    },
+    {
+        "className": "org.jsoup.safety.Safelist",
+        "normalizedScore": 0.7538869805921079,
+        "weightedScore": 0.7489489931565587,
+        "b2s": 7100,
+        "s2b": 56,
+        "b2sMemory": 0.46167755126953125,
+        "s2bMemory": 14.322074890136719
+    },
+    {
+        "className": "org.jsoup.UncheckedIOException",
+        "normalizedScore": 0.7582986860525648,
+        "weightedScore": 0.7584987799941247,
+        "b2s": 5600,
+        "s2b": 1,
+        "b2sMemory": 2.0,
+        "s2bMemory": 0.947509765625
+    },
+    {
+        "className": "org.jsoup.parser.TokeniserState$60",
+        "normalizedScore": 0.7858043924446658,
+        "weightedScore": 0.789803943042759,
+        "b2s": 14600,
+        "s2b": 2,
+        "b2sMemory": 0.6299209594726562,
+        "s2bMemory": 1.8900527954101562
+    },
+    {
+        "className": "org.jsoup.select.Evaluator$TagEndsWith",
+        "normalizedScore": 0.7762134408842503,
+        "weightedScore": 0.7720439316582105,
+        "b2s": 5500,
+        "s2b": 1,
+        "b2sMemory": 0.47245025634765625,
+        "s2bMemory": 0.945037841796875
+    },
+    {
+        "className": "org.jsoup.parser.TokeniserState$27",
+        "normalizedScore": 0.7616416691921176,
+        "weightedScore": 0.7605406867716422,
+        "b2s": 5300,
+        "s2b": 1,
+        "b2sMemory": 0.47245025634765625,
+        "s2bMemory": 0.472564697265625
+    },
+    {
+        "className": "org.jsoup.parser.TokeniserState$67",
+        "normalizedScore": 0.7639518082054257,
+        "weightedScore": 0.7674585881691969,
+        "b2s": 5200,
+        "s2b": 1,
+        "b2sMemory": 0.47245025634765625,
+        "s2bMemory": 0.945037841796875
+    },
+    {
+        "className": "org.jsoup.helper.AuthenticationHandler",
+        "normalizedScore": 0.7520304998623649,
+        "weightedScore": 0.7498478307648688,
+        "b2s": 5700,
+        "s2b": 5,
+        "b2sMemory": 0.47245025634765625,
+        "s2bMemory": 1.8899765014648438
+    },
+    {
+        "className": "org.jsoup.safety.Safelist$TypedValue",
+        "normalizedScore": 0.7305612684079259,
+        "weightedScore": 0.7300905361489942,
+        "b2s": 5200,
+        "s2b": 2,
+        "b2sMemory": 0.47245025634765625,
+        "s2bMemory": 1.4174575805664062
+    },
+    {
+        "className": "org.jsoup.parser.HtmlTreeBuilderState$11",
+        "normalizedScore": 0.7761145422476181,
+        "weightedScore": 0.781656029199327,
+        "b2s": 5500,
+        "s2b": 4,
+        "b2sMemory": 0.47245025634765625,
+        "s2bMemory": 4.474395751953125
+    },
+    {
+        "className": "org.jsoup.parser.TokeniserState$20",
+        "normalizedScore": 0.7734584770542198,
+        "weightedScore": 0.7744827273880135,
+        "b2s": 5700,
+        "s2b": 1,
+        "b2sMemory": 0.47245025634765625,
+        "s2bMemory": 0.94500732421875
+    },
+    {
+        "className": "org.jsoup.safety.Cleaner$ElementMeta",
+        "normalizedScore": 0.7651174131242776,
+        "weightedScore": 0.7650295128714526,
+        "b2s": 5600,
+        "s2b": 1,
+        "b2sMemory": 0.47245025634765625,
+        "s2bMemory": 0.472564697265625
+    },
+    {
+        "className": "org.jsoup.safety.package-info",
+        "normalizedScore": 0.8005236597299712,
+        "weightedScore": 0.8090677849850443,
+        "b2s": 4600,
+        "s2b": 0,
+        "b2sMemory": 0.47245025634765625,
+        "s2bMemory": 0.472564697265625
+    },
+    {
+        "className": "org.jsoup.parser.TokeniserState$14",
+        "normalizedScore": 0.7753225665196307,
+        "weightedScore": 0.7771186248647725,
+        "b2s": 6300,
+        "s2b": 1,
+        "b2sMemory": 0.47245025634765625,
+        "s2bMemory": 0.945037841796875
+    },
+    {
+        "className": "org.jsoup.select.Evaluator$MatchesWholeOwnText",
+        "normalizedScore": 0.7552057109967615,
+        "weightedScore": 0.7484076068574377,
+        "b2s": 6100,
+        "s2b": 3,
+        "b2sMemory": 0.47245025634765625,
+        "s2bMemory": 0.945037841796875
+    },
+    {
+        "className": "org.jsoup.helper.CookieUtil",
+        "normalizedScore": 0.6357391137859253,
+        "weightedScore": 0.6292559755212901,
+        "b2s": 4900,
+        "s2b": 9,
+        "b2sMemory": 0.47245025634765625,
+        "s2bMemory": 5.892127990722656
+    },
+    {
+        "className": "org.jsoup.parser.HtmlTreeBuilderState$7",
+        "normalizedScore": 0.77972887092139,
+        "weightedScore": 0.777592972169861,
+        "b2s": 5500,
+        "s2b": 254,
+        "b2sMemory": 0.45275115966796875,
+        "s2bMemory": 62.33245086669922
+    },
+    {
+        "className": "org.jsoup.select.Evaluator$Attribute",
+        "normalizedScore": 0.7672952440161045,
+        "weightedScore": 0.7617786576198848,
+        "b2s": 5500,
+        "s2b": 1,
+        "b2sMemory": 2.0,
+        "s2bMemory": 0.8645248413085938
+    },
+    {
+        "className": "org.jsoup.select.StructuralEvaluator$ImmediateParentRun",
+        "normalizedScore": 0.750245826985478,
+        "weightedScore": 0.751947908163029,
+        "b2s": 5700,
+        "s2b": 3,
+        "b2sMemory": 0.707244873046875,
+        "s2bMemory": 2.2017364501953125
+    },
+    {
+        "className": "org.jsoup.select.Evaluator$Matches",
+        "normalizedScore": 0.7605007852100417,
+        "weightedScore": 0.7546921180167998,
+        "b2s": 5800,
+        "s2b": 1,
+        "b2sMemory": 0.5500869750976562,
+        "s2bMemory": 1.1003341674804688
+    },
+    {
+        "className": "org.jsoup.parser.HtmlTreeBuilder",
+        "normalizedScore": 0.796206598320636,
+        "weightedScore": 0.7898300935176011,
+        "b2s": 9000,
+        "s2b": 139,
+        "b2sMemory": 0.5500869750976562,
+        "s2bMemory": 12.349189758300781
+    },
+    {
+        "className": "org.jsoup.select.StructuralEvaluator$PreviousSibling",
+        "normalizedScore": 0.753069578524287,
+        "weightedScore": 0.7492717885138893,
+        "b2s": 7800,
+        "s2b": 2,
+        "b2sMemory": 2.0,
+        "s2bMemory": 0.9452438354492188
+    },
+    {
+        "className": "org.jsoup.select.Evaluator$ContainsOwnText",
+        "normalizedScore": 0.7698852390840903,
+        "weightedScore": 0.7662173440465723,
+        "b2s": 6000,
+        "s2b": 2,
+        "b2sMemory": 0.7088546752929688,
+        "s2bMemory": 1.102783203125
+    },
+    {
+        "className": "org.jsoup.nodes.FormElement",
+        "normalizedScore": 0.7355111762186963,
+        "weightedScore": 0.7325793048003046,
+        "b2s": 4400,
+        "s2b": 10,
+        "b2sMemory": 0.5513381958007812,
+        "s2bMemory": 8.553451538085938
+    },
+    {
+        "className": "org.jsoup.SerializationException",
+        "normalizedScore": 0.7200725273485441,
+        "weightedScore": 0.7105801026089448,
+        "b2s": 6600,
+        "s2b": 1,
+        "b2sMemory": 0.5169143676757812,
+        "s2bMemory": 0.51702880859375
+    },
+    {
+        "className": "org.jsoup.parser.XmlTreeBuilder",
+        "normalizedScore": 0.7562925561798833,
+        "weightedScore": 0.7538684769566757,
+        "b2s": 4900,
+        "s2b": 12,
+        "b2sMemory": 0.5169143676757812,
+        "s2bMemory": 8.0
+    },
+    {
+        "className": "org.jsoup.helper.RequestAuthenticator",
+        "normalizedScore": 0.7981985316210408,
+        "weightedScore": 0.7986294621579962,
+        "b2s": 4700,
+        "s2b": 0,
+        "b2sMemory": 0.5266799926757812,
+        "s2bMemory": 0.52679443359375
+    },
+    {
+        "className": "org.jsoup.nodes.Element$TextAccumulator",
+        "normalizedScore": 0.7192121592958086,
+        "weightedScore": 0.7184936925071213,
+        "b2s": 7100,
+        "s2b": 4,
+        "b2sMemory": 0.5266799926757812,
+        "s2bMemory": 3.1603012084960938
+    },
+    {
+        "className": "org.jsoup.parser.HtmlTreeBuilderState$17",
+        "normalizedScore": 0.7669679925271794,
+        "weightedScore": 0.7719743306327531,
+        "b2s": 4700,
+        "s2b": 2,
+        "b2sMemory": 0.5266799926757812,
+        "s2bMemory": 2.1068496704101562
+    },
+    {
+        "className": "org.jsoup.parser.Parser",
+        "normalizedScore": 0.722442718533335,
+        "weightedScore": 0.7206446868364685,
+        "b2s": 7100,
+        "s2b": 12,
+        "b2sMemory": 0.5266799926757812,
+        "s2bMemory": 6.108734130859375
+    },
+    {
+        "className": "org.jsoup.parser.TokeniserState$54",
+        "normalizedScore": 0.8126800369226883,
+        "weightedScore": 0.8166722721382693,
+        "b2s": 21300,
+        "s2b": 3,
+        "b2sMemory": 0.5082321166992188,
+        "s2bMemory": 2.5412521362304688
+    },
+    {
+        "className": "org.jsoup.parser.TokeniserState$38",
+        "normalizedScore": 0.7388568360557949,
+        "weightedScore": 0.736914338946716,
+        "b2s": 7400,
+        "s2b": 2,
+        "b2sMemory": 0.5082321166992188,
+        "s2bMemory": 2.54443359375
+    },
+    {
+        "className": "org.jsoup.nodes.Entities$1",
+        "normalizedScore": 0.79047370903632,
+        "weightedScore": 0.7948849847492294,
+        "b2s": 4600,
+        "s2b": 3,
+        "b2sMemory": 0.5082321166992188,
+        "s2bMemory": 1.0165786743164062
+    },
+    {
+        "className": "org.jsoup.select.StructuralEvaluator",
+        "normalizedScore": 0.7178163121295791,
+        "weightedScore": 0.7164654143275642,
+        "b2s": 5600,
+        "s2b": 3,
+        "b2sMemory": 0.5082321166992188,
+        "s2bMemory": 1.5248184204101562
+    },
+    {
+        "className": "org.jsoup.select.Evaluator$IsNthChild",
+        "normalizedScore": 0.7382497658832695,
+        "weightedScore": 0.7342910363445099,
+        "b2s": 5800,
+        "s2b": 0,
+        "b2sMemory": 0.5082321166992188,
+        "s2bMemory": 0.5083465576171875
+    },
+    {
+        "className": "org.jsoup.parser.TokeniserState$26",
+        "normalizedScore": 0.7945177679378482,
+        "weightedScore": 0.7984561103944893,
+        "b2s": 5300,
+        "s2b": 1,
+        "b2sMemory": 0.5082321166992188,
+        "s2bMemory": 1.016571044921875
+    },
+    {
+        "className": "org.jsoup.select.NodeFilter$FilterResult",
+        "normalizedScore": 0.7976090270698006,
+        "weightedScore": 0.8032095971962288,
+        "b2s": 5800,
+        "s2b": 2,
+        "b2sMemory": 0.5082321166992188,
+        "s2bMemory": 1.524810791015625
+    },
+    {
+        "className": "org.jsoup.helper.HttpConnection",
+        "normalizedScore": 0.7387172259233195,
+        "weightedScore": 0.7327575589572728,
+        "b2s": 5400,
+        "s2b": 25,
+        "b2sMemory": 0.5082321166992188,
+        "s2bMemory": 12.0
+    },
+    {
+        "className": "org.jsoup.select.Selector$SelectorParseException",
+        "normalizedScore": 0.6891876737592684,
+        "weightedScore": 0.6799993646043657,
+        "b2s": 5200,
+        "s2b": 1,
+        "b2sMemory": 0.49491119384765625,
+        "s2bMemory": 0.495025634765625
+    },
+    {
+        "className": "org.jsoup.parser.Token$Tag",
+        "normalizedScore": 0.7695880987914036,
+        "weightedScore": 0.7676524792101298,
+        "b2s": 5200,
+        "s2b": 17,
+        "b2sMemory": 0.49491119384765625,
+        "s2bMemory": 15.466339111328125
+    },
+    {
+        "className": "org.jsoup.parser.TokeniserState$66",
+        "normalizedScore": 0.7693749968606142,
+        "weightedScore": 0.7726247046628525,
+        "b2s": 4300,
+        "s2b": 1,
+        "b2sMemory": 2.0,
+        "s2bMemory": 0.8744354248046875
+    },
+    {
+        "className": "org.jsoup.parser.StreamParser$ElementIterator",
+        "normalizedScore": 0.7539066434610685,
+        "weightedScore": 0.7536818082606904,
+        "b2s": 6100,
+        "s2b": 7,
+        "b2sMemory": 0.6557464599609375,
+        "s2bMemory": 4.0
+    },
+    {
+        "className": "org.jsoup.parser.TokeniserState$12",
+        "normalizedScore": 0.7938981116744284,
+        "weightedScore": 0.7977413185637353,
+        "b2s": 14700,
+        "s2b": 1,
+        "b2sMemory": 0.471435546875,
+        "s2bMemory": 0.9429702758789062
+    },
+    {
+        "className": "org.jsoup.UnsupportedMimeTypeException",
+        "normalizedScore": 0.8041009800705514,
+        "weightedScore": 0.8021983447500634,
+        "b2s": 14000,
+        "s2b": 1,
+        "b2sMemory": 0.471435546875,
+        "s2bMemory": 0.9430084228515625
+    },
+    {
+        "className": "org.jsoup.parser.TokeniserState$55",
+        "normalizedScore": 0.7977703310881282,
+        "weightedScore": 0.8051903010643748,
+        "b2s": 6000,
+        "s2b": 3,
+        "b2sMemory": 0.471435546875,
+        "s2bMemory": 2.3574752807617188
+    },
+    {
+        "className": "org.jsoup.parser.TokeniserState$65",
+        "normalizedScore": 0.7939025746714736,
+        "weightedScore": 0.7982040734767277,
+        "b2s": 6800,
+        "s2b": 1,
+        "b2sMemory": 0.471435546875,
+        "s2bMemory": 1.4145355224609375
+    },
+    {
+        "className": "org.jsoup.parser.HtmlTreeBuilderState$16",
+        "normalizedScore": 0.7270696752026926,
+        "weightedScore": 0.7237096228680902,
+        "b2s": 6900,
+        "s2b": 16,
+        "b2sMemory": 0.471435546875,
+        "s2bMemory": 13.899703979492188
+    },
+    {
+        "className": "org.jsoup.helper.DataUtil$BomCharset",
+        "normalizedScore": 0.7616670466495122,
+        "weightedScore": 0.7619667225281948,
+        "b2s": 5900,
+        "s2b": 0,
+        "b2sMemory": 0.5001068115234375,
+        "s2bMemory": 0.5002212524414062
+    },
+    {
+        "className": "org.jsoup.helper.W3CDom",
+        "normalizedScore": 0.6734592639495453,
+        "weightedScore": 0.6631708837000849,
+        "b2s": 5400,
+        "s2b": 17,
+        "b2sMemory": 0.5001068115234375,
+        "s2bMemory": 13.502265930175781
+    },
+    {
+        "className": "org.jsoup.nodes.Document$QuirksMode",
+        "normalizedScore": 0.7892706441128506,
+        "weightedScore": 0.7931626964589762,
+        "b2s": 6900,
+        "s2b": 1,
+        "b2sMemory": 0.5195236206054688,
+        "s2bMemory": 1.0396728515625
+    },
+    {
+        "className": "org.jsoup.parser.TokeniserState$35",
+        "normalizedScore": 0.7584667221970708,
+        "weightedScore": 0.760042886152628,
+        "b2s": 5700,
+        "s2b": 2,
+        "b2sMemory": 0.4453125,
+        "s2bMemory": 2.6720809936523438
+    },
+    {
+        "className": "org.jsoup.safety.Cleaner",
+        "normalizedScore": 0.7259575264241379,
+        "weightedScore": 0.7264458528106954,
+        "b2s": 6600,
+        "s2b": 5,
+        "b2sMemory": 0.4453125,
+        "s2bMemory": 4.447257995605469
+    },
+    {
+        "className": "org.jsoup.select.Evaluator$AttributeWithValueMatching",
+        "normalizedScore": 0.7508569005518605,
+        "weightedScore": 0.747076392838325,
+        "b2s": 6000,
+        "s2b": 2,
+        "b2sMemory": 0.4149169921875,
+        "s2bMemory": 1.2448577880859375
+    },
+    {
+        "className": "org.jsoup.parser.TokeniserState$42",
+        "normalizedScore": 0.7897275080540479,
+        "weightedScore": 0.7942583516489459,
+        "b2s": 5200,
+        "s2b": 1,
+        "b2sMemory": 0.4149169921875,
+        "s2bMemory": 1.2449111938476562
+    },
+    {
+        "className": "org.jsoup.select.Evaluator$AttributeKeyPair",
+        "normalizedScore": 0.6983104900513503,
+        "weightedScore": 0.6916341117965981,
+        "b2s": 5600,
+        "s2b": 2,
+        "b2sMemory": 0.4149169921875,
+        "s2bMemory": 1.6598052978515625
+    },
+    {
+        "className": "org.jsoup.select.CombiningEvaluator$Or",
+        "normalizedScore": 0.7283074678810659,
+        "weightedScore": 0.726524974004773,
+        "b2s": 5200,
+        "s2b": 4,
+        "b2sMemory": 0.4149169921875,
+        "s2bMemory": 1.6597824096679688
+    },
+    {
+        "className": "org.jsoup.parser.TokeniserState$62",
+        "normalizedScore": 0.7981667381818308,
+        "weightedScore": 0.8045535135013633,
+        "b2s": 6500,
+        "s2b": 1,
+        "b2sMemory": 0.4149169921875,
+        "s2bMemory": 2.07470703125
+    },
+    {
+        "className": "org.jsoup.select.package-info",
+        "normalizedScore": 0.8015337607400722,
+        "weightedScore": 0.8099768758941353,
+        "b2s": 5200,
+        "s2b": 0,
+        "b2sMemory": 0.4149169921875,
+        "s2bMemory": 0.41503143310546875
+    },
+    {
+        "className": "org.jsoup.parser.TokeniserState$32",
+        "normalizedScore": 0.775558220687544,
+        "weightedScore": 0.7776711593269564,
+        "b2s": 6900,
+        "s2b": 1,
+        "b2sMemory": 0.4149169921875,
+        "s2bMemory": 0.8299407958984375
+    },
+    {
+        "className": "org.jsoup.parser.TokeniserState$28",
+        "normalizedScore": 0.7744464974888929,
+        "weightedScore": 0.7747294624879344,
+        "b2s": 6300,
+        "s2b": 0,
+        "b2sMemory": 0.4149169921875,
+        "s2bMemory": 0.41503143310546875
+    },
+    {
+        "className": "org.jsoup.select.Evaluator$IsFirstChild",
+        "normalizedScore": 0.7135376641521805,
+        "weightedScore": 0.7097035827763325,
+        "b2s": 6200,
+        "s2b": 1,
+        "b2sMemory": 0.4149169921875,
+        "s2bMemory": 0.8299713134765625
+    },
+    {
+        "className": "org.jsoup.Connection",
+        "normalizedScore": 0.7389820409374863,
+        "weightedScore": 0.7370188009568182,
+        "b2s": 6400,
+        "s2b": 2,
+        "b2sMemory": 0.4149169921875,
+        "s2bMemory": 1.2449569702148438
+    },
+    {
+        "className": "org.jsoup.parser.package-info",
+        "normalizedScore": 0.8015337607400722,
+        "weightedScore": 0.8099768758941353,
+        "b2s": 6700,
+        "s2b": 0,
+        "b2sMemory": 0.4149169921875,
+        "s2bMemory": 0.41503143310546875
+    },
+    {
+        "className": "org.jsoup.parser.HtmlTreeBuilderState$4",
+        "normalizedScore": 0.7698880281536332,
+        "weightedScore": 0.7738366022583172,
+        "b2s": 6400,
+        "s2b": 7,
+        "b2sMemory": 0.4149169921875,
+        "s2bMemory": 10.083114624023438
+    },
+    {
+        "className": "org.jsoup.select.Evaluator$IsNthLastChild",
+        "normalizedScore": 0.7329877167887936,
+        "weightedScore": 0.7318633922843614,
+        "b2s": 6600,
+        "s2b": 1,
+        "b2sMemory": 0.41651153564453125,
+        "s2bMemory": 0.8331298828125
+    },
+    {
+        "className": "org.jsoup.parser.TokeniserState$6",
+        "normalizedScore": 0.7615260096161607,
+        "weightedScore": 0.7601701566220245,
+        "b2s": 6900,
+        "s2b": 0,
+        "b2sMemory": 0.41651153564453125,
+        "s2bMemory": 0.4166259765625
+    },
+    {
+        "className": "org.jsoup.safety.Safelist$AttributeKey",
+        "normalizedScore": 0.8034725589441901,
+        "weightedScore": 0.804621366041897,
+        "b2s": 6600,
+        "s2b": 0,
+        "b2sMemory": 0.41651153564453125,
+        "s2bMemory": 0.4166259765625
+    },
+    {
+        "className": "org.jsoup.parser.TokeniserState$3",
+        "normalizedScore": 0.766567996869519,
+        "weightedScore": 0.7635855810511257,
+        "b2s": 7600,
+        "s2b": 1,
+        "b2sMemory": 0.41651153564453125,
+        "s2bMemory": 1.249755859375
+    },
+    {
+        "className": "org.jsoup.select.CombiningEvaluator",
+        "normalizedScore": 0.7315162498334845,
+        "weightedScore": 0.7306165638712646,
+        "b2s": 6500,
+        "s2b": 3,
+        "b2sMemory": 0.41651153564453125,
+        "s2bMemory": 2.9158706665039062
+    },
+    {
+        "className": "org.jsoup.select.Evaluator$IsEmpty",
+        "normalizedScore": 0.704167839496694,
+        "weightedScore": 0.7026787363450296,
+        "b2s": 6300,
+        "s2b": 1,
+        "b2sMemory": 0.41651153564453125,
+        "s2bMemory": 1.2496566772460938
+    },
+    {
+        "className": "org.jsoup.select.Evaluator$Tag",
+        "normalizedScore": 0.7744433613828802,
+        "weightedScore": 0.7689394883096416,
+        "b2s": 6100,
+        "s2b": 1,
+        "b2sMemory": 0.41651153564453125,
+        "s2bMemory": 0.8331375122070312
+    },
+    {
+        "className": "org.jsoup.select.Evaluator$IsRoot",
+        "normalizedScore": 0.6993233256285026,
+        "weightedScore": 0.6935621160603048,
+        "b2s": 5900,
+        "s2b": 1,
+        "b2sMemory": 0.41651153564453125,
+        "s2bMemory": 0.833160400390625
+    },
+    {
+        "className": "org.jsoup.parser.HtmlTreeBuilderState$1",
+        "normalizedScore": 0.7691452153634871,
+        "weightedScore": 0.7736611691714299,
+        "b2s": 7100,
+        "s2b": 2,
+        "b2sMemory": 0.41651153564453125,
+        "s2bMemory": 2.4993667602539062
+    },
+    {
+        "className": "org.jsoup.parser.HtmlTreeBuilderState$20",
+        "normalizedScore": 0.7511802693180822,
+        "weightedScore": 0.7458443927727815,
+        "b2s": 5900,
+        "s2b": 4,
+        "b2sMemory": 0.41651153564453125,
+        "s2bMemory": 5.668647766113281
+    },
+    {
+        "className": "org.jsoup.select.StructuralEvaluator$Has",
+        "normalizedScore": 0.7500214193784823,
+        "weightedScore": 0.7493591013936882,
+        "b2s": 5900,
+        "s2b": 4,
+        "b2sMemory": 0.39926910400390625,
+        "s2bMemory": 3.1942901611328125
+    },
+    {
+        "className": "org.jsoup.parser.Token$Comment",
+        "normalizedScore": 0.8186928894371087,
+        "weightedScore": 0.8200728059523622,
+        "b2s": 5900,
+        "s2b": 2,
+        "b2sMemory": 0.39926910400390625,
+        "s2bMemory": 1.9969100952148438
+    },
+    {
+        "className": "org.jsoup.parser.HtmlTreeBuilderState$3",
+        "normalizedScore": 0.7757115243420053,
+        "weightedScore": 0.7793423940010458,
+        "b2s": 4400,
+        "s2b": 3,
+        "b2sMemory": 0.39926910400390625,
+        "s2bMemory": 3.9930038452148438
+    },
+    {
+        "className": "org.jsoup.nodes.CDataNode",
+        "normalizedScore": 0.723798966809334,
+        "weightedScore": 0.7209912200088151,
+        "b2s": 4700,
+        "s2b": 2,
+        "b2sMemory": 0.39926910400390625,
+        "s2bMemory": 1.1991653442382812
+    },
+    {
+        "className": "org.jsoup.parser.TokeniserState$40",
+        "normalizedScore": 0.7395185594257971,
+        "weightedScore": 0.7377245982200595,
+        "b2s": 4700,
+        "s2b": 3,
+        "b2sMemory": 0.39926910400390625,
+        "s2bMemory": 3.9932022094726562
+    },
+    {
+        "className": "org.jsoup.Connection$Method",
+        "normalizedScore": 0.8101220679689547,
+        "weightedScore": 0.8146522528788345,
+        "b2s": 6300,
+        "s2b": 2,
+        "b2sMemory": 0.39926910400390625,
+        "s2bMemory": 1.9964752197265625
+    },
+    {
+        "className": "org.jsoup.parser.TokeniserState$57",
+        "normalizedScore": 0.7702353104628917,
+        "weightedScore": 0.7710361568740076,
+        "b2s": 5100,
+        "s2b": 2,
+        "b2sMemory": 0.39926910400390625,
+        "s2bMemory": 1.9964447021484375
+    },
+    {
+        "className": "org.jsoup.parser.TokeniserState$10",
+        "normalizedScore": 0.7623548069767384,
+        "weightedScore": 0.7600412975316312,
+        "b2s": 4900,
+        "s2b": 1,
+        "b2sMemory": 0.39926910400390625,
+        "s2bMemory": 1.9966354370117188
+    },
+    {
+        "className": "org.jsoup.select.Evaluator$MatchesWholeText",
+        "normalizedScore": 0.756144312660397,
+        "weightedScore": 0.7495477385372145,
+        "b2s": 6900,
+        "s2b": 2,
+        "b2sMemory": 0.39926910400390625,
+        "s2bMemory": 0.80230712890625
+    },
+    {
+        "className": "org.jsoup.Connection$Response",
+        "normalizedScore": 0.7514568864480152,
+        "weightedScore": 0.7486010881808021,
+        "b2s": 4700,
+        "s2b": 0,
+        "b2sMemory": 0.39926910400390625,
+        "s2bMemory": 0.399383544921875
+    },
+    {
+        "className": "org.jsoup.nodes.DocumentType",
+        "normalizedScore": 0.7547235450113803,
+        "weightedScore": 0.7564095211888022,
+        "b2s": 6300,
+        "s2b": 6,
+        "b2sMemory": 0.39926910400390625,
+        "s2bMemory": 5.19976806640625
+    },
+    {
+        "className": "org.jsoup.select.Evaluator$MatchesOwn",
+        "normalizedScore": 0.7590591390336249,
+        "weightedScore": 0.7529792324562699,
+        "b2s": 4500,
+        "s2b": 1,
+        "b2sMemory": 0.3967437744140625,
+        "s2bMemory": 0.7945480346679688
+    },
+    {
+        "className": "org.jsoup.internal.ControllableInputStream",
+        "normalizedScore": 0.7393003693622037,
+        "weightedScore": 0.7366619387935665,
+        "b2s": 6100,
+        "s2b": 16,
+        "b2sMemory": 0.3967437744140625,
+        "s2bMemory": 8.795463562011719
+    },
+    {
+        "className": "org.jsoup.Connection$Base",
+        "normalizedScore": 0.5436470917965687,
+        "weightedScore": 0.5395057963791996,
+        "b2s": 4300,
+        "s2b": 0,
+        "b2sMemory": 0.4237060546875,
+        "s2bMemory": 0.42382049560546875
+    },
+    {
+        "className": "org.jsoup.parser.TokeniserState$4",
+        "normalizedScore": 0.7612505059696284,
+        "weightedScore": 0.7603703351589524,
+        "b2s": 5600,
+        "s2b": 0,
+        "b2sMemory": 0.4237060546875,
+        "s2bMemory": 0.42382049560546875
+    },
+    {
+        "className": "org.jsoup.parser.HtmlTreeBuilderState$14",
+        "normalizedScore": 0.7066034516052784,
+        "weightedScore": 0.7045587985986737,
+        "b2s": 6300,
+        "s2b": 5,
+        "b2sMemory": 0.4237060546875,
+        "s2bMemory": 6.5445098876953125
+    },
+    {
+        "className": "org.jsoup.select.CombiningEvaluator$And",
+        "normalizedScore": 0.6979523966204281,
+        "weightedScore": 0.6931702975628531,
+        "b2s": 6200,
+        "s2b": 2,
+        "b2sMemory": 0.4276885986328125,
+        "s2bMemory": 1.28375244140625
+    },
+    {
+        "className": "org.jsoup.internal.StringUtil",
+        "normalizedScore": 0.7510830404077654,
+        "weightedScore": 0.7500513151194443,
+        "b2s": 6800,
+        "s2b": 21,
+        "b2sMemory": 0.4276885986328125,
+        "s2bMemory": 14.568069458007812
+    },
+    {
+        "className": "org.jsoup.parser.TokeniserState$11",
+        "normalizedScore": 0.7757880507490681,
+        "weightedScore": 0.7785530666277779,
+        "b2s": 4300,
+        "s2b": 2,
+        "b2sMemory": 2.0,
+        "s2bMemory": 2.0791549682617188
+    },
+    {
+        "className": "org.jsoup.select.Evaluator$CssNthEvaluator",
+        "normalizedScore": 0.7828739050648318,
+        "weightedScore": 0.78077970718052,
+        "b2s": 4900,
+        "s2b": 3,
+        "b2sMemory": 0.8167343139648438,
+        "s2bMemory": 3.269561767578125
+    },
+    {
+        "className": "org.jsoup.parser.TokeniserState$58",
+        "normalizedScore": 0.7701185335068779,
+        "weightedScore": 0.770931057613595,
+        "b2s": 27900,
+        "s2b": 2,
+        "b2sMemory": 0.8167343139648438,
+        "s2bMemory": 1.6335983276367188
+    },
+    {
+        "className": "org.jsoup.select.Evaluator$IsNthLastOfType",
+        "normalizedScore": 0.6903761069570865,
+        "weightedScore": 0.688204167903169,
+        "b2s": 5400,
+        "s2b": 1,
+        "b2sMemory": 0.8167343139648438,
+        "s2bMemory": 0.8168487548828125
+    },
+    {
+        "className": "org.jsoup.parser.ParseSettings",
+        "normalizedScore": 0.7709382095790002,
+        "weightedScore": 0.7708402733947628,
+        "b2s": 6200,
+        "s2b": 3,
+        "b2sMemory": 0.8167343139648438,
+        "s2bMemory": 1.633575439453125
+    },
+    {
+        "className": "org.jsoup.helper.HttpConnection$Request",
+        "normalizedScore": 0.7450116606976745,
+        "weightedScore": 0.7354454004327777,
+        "b2s": 4400,
+        "s2b": 15,
+        "b2sMemory": 0.8167343139648438,
+        "s2bMemory": 9.635482788085938
+    },
+    {
+        "className": "org.jsoup.helper.W3CDom$W3CBuilder",
+        "normalizedScore": 0.7179438084569325,
+        "weightedScore": 0.7148238627553938,
+        "b2s": 6000,
+        "s2b": 12,
+        "b2sMemory": 0.8268890380859375,
+        "s2bMemory": 12.828865051269531
+    },
+    {
+        "className": "org.jsoup.select.Evaluator$AttributeWithValueEnding",
+        "normalizedScore": 0.7599303601593425,
+        "weightedScore": 0.75520844831681,
+        "b2s": 4500,
+        "s2b": 1,
+        "b2sMemory": 0.8080368041992188,
+        "s2bMemory": 1.6162109375
+    },
+    {
+        "className": "org.jsoup.parser.TokeniserState$34",
+        "normalizedScore": 0.756541856546991,
+        "weightedScore": 0.7536570565921912,
+        "b2s": 4400,
+        "s2b": 2,
+        "b2sMemory": 0.8080368041992188,
+        "s2bMemory": 2.4242706298828125
+    },
+    {
+        "className": "org.jsoup.select.Evaluator",
+        "normalizedScore": 0.7036007903351348,
+        "weightedScore": 0.7012908287644248,
+        "b2s": 4800,
+        "s2b": 1,
+        "b2sMemory": 0.8080368041992188,
+        "s2bMemory": 0.8081512451171875
+    },
+    {
+        "className": "org.jsoup.parser.TokeniserState$63",
+        "normalizedScore": 0.7704382390301698,
+        "weightedScore": 0.7712187925845577,
+        "b2s": 4500,
+        "s2b": 2,
+        "b2sMemory": 0.8080368041992188,
+        "s2bMemory": 2.4242401123046875
+    },
+    {
+        "className": "org.jsoup.select.StructuralEvaluator$Root",
+        "normalizedScore": 0.7120543663176019,
+        "weightedScore": 0.7064786717192257,
+        "b2s": 4600,
+        "s2b": 1,
+        "b2sMemory": 0.8080368041992188,
+        "s2bMemory": 0.8081512451171875
+    },
+    {
+        "className": "org.jsoup.parser.Token$TokenType",
+        "normalizedScore": 0.8022261916392992,
+        "weightedScore": 0.8076053722503975,
+        "b2s": 5600,
+        "s2b": 1,
+        "b2sMemory": 0.8080368041992188,
+        "s2bMemory": 1.616180419921875
+    },
+    {
+        "className": "org.jsoup.parser.HtmlTreeBuilderState$13",
+        "normalizedScore": 0.7617752701693972,
+        "weightedScore": 0.765033987742403,
+        "b2s": 7000,
+        "s2b": 4,
+        "b2sMemory": 0.8080368041992188,
+        "s2bMemory": 4.8099822998046875
+    },
+    {
+        "className": "org.jsoup.select.Evaluator$AttributeStarting",
+        "normalizedScore": 0.7361915525971835,
+        "weightedScore": 0.7321194771944379,
+        "b2s": 4400,
+        "s2b": 2,
+        "b2sMemory": 0.8080368041992188,
+        "s2bMemory": 1.6162109375
+    },
+    {
+        "className": "org.jsoup.select.Selector",
+        "normalizedScore": 0.6497236102137703,
+        "weightedScore": 0.6451862806749348,
+        "b2s": 6100,
+        "s2b": 3,
+        "b2sMemory": 0.8080368041992188,
+        "s2bMemory": 3.2322998046875
+    },
+    {
+        "className": "org.jsoup.nodes.PseudoTextElement",
+        "normalizedScore": 0.610263651368208,
+        "weightedScore": 0.6068858323755086,
+        "b2s": 6200,
+        "s2b": 0,
+        "b2sMemory": 0.8080368041992188,
+        "s2bMemory": 0.8081512451171875
+    },
+    {
+        "className": "org.jsoup.Progress",
+        "normalizedScore": 0.5439088759408374,
+        "weightedScore": 0.5338249190398229,
+        "b2s": 7000,
+        "s2b": 0,
+        "b2sMemory": 0.8080368041992188,
+        "s2bMemory": 0.8081512451171875
+    },
+    {
+        "className": "org.jsoup.parser.TokeniserState$2",
+        "normalizedScore": 0.7612138217062836,
+        "weightedScore": 0.7602931531841832,
+        "b2s": 6400,
+        "s2b": 0,
+        "b2sMemory": 0.8080368041992188,
+        "s2bMemory": 0.8081512451171875
+    },
+    {
+        "className": "org.jsoup.parser.TokeniserState$29",
+        "normalizedScore": 0.7650676615596073,
+        "weightedScore": 0.7644332485202585,
+        "b2s": 6600,
+        "s2b": 2,
+        "b2sMemory": 0.8080368041992188,
+        "s2bMemory": 1.6161880493164062
+    },
+    {
+        "className": "org.jsoup.select.Evaluator$IndexGreaterThan",
+        "normalizedScore": 0.7663859690320317,
+        "weightedScore": 0.7603632079059546,
+        "b2s": 7200,
+        "s2b": 1,
+        "b2sMemory": 0.8080368041992188,
+        "s2bMemory": 0.8081512451171875
+    },
+    {
+        "className": "org.jsoup.select.Evaluator$IsOnlyChild",
+        "normalizedScore": 0.7126599607094661,
+        "weightedScore": 0.7088522444844758,
+        "b2s": 5900,
+        "s2b": 1,
+        "b2sMemory": 0.8080368041992188,
+        "s2bMemory": 0.8081512451171875
+    },
+    {
+        "className": "org.jsoup.nodes.EntitiesData",
+        "normalizedScore": 0.8850338213488623,
+        "weightedScore": 0.8962998473615549,
+        "b2s": 4700,
+        "s2b": 2,
+        "b2sMemory": 0.8080368041992188,
+        "s2bMemory": 1.7747116088867188
+    },
+    {
+        "className": "org.jsoup.parser.HtmlTreeBuilderState$22",
+        "normalizedScore": 0.7731224278468097,
+        "weightedScore": 0.7747813041957028,
+        "b2s": 6100,
+        "s2b": 2,
+        "b2sMemory": 0.8080368041992188,
+        "s2bMemory": 2.4243621826171875
+    },
+    {
+        "className": "org.jsoup.parser.Token$Character",
+        "normalizedScore": 0.8116380622582916,
+        "weightedScore": 0.8095272507016378,
+        "b2s": 6400,
+        "s2b": 2,
+        "b2sMemory": 0.8080368041992188,
+        "s2bMemory": 1.6161727905273438
+    },
+    {
+        "className": "org.jsoup.parser.HtmlTreeBuilderState$5",
+        "normalizedScore": 0.7815469371257846,
+        "weightedScore": 0.7821434230294375,
+        "b2s": 4700,
+        "s2b": 4,
+        "b2sMemory": 0.8080368041992188,
+        "s2bMemory": 5.6180419921875
+    },
+    {
+        "className": "org.jsoup.nodes.Range$AttributeRange",
+        "normalizedScore": 0.7913985608062628,
+        "weightedScore": 0.7916693289986105,
+        "b2s": 6500,
+        "s2b": 2,
+        "b2sMemory": 0.8080368041992188,
+        "s2bMemory": 2.4242401123046875
+    },
+    {
+        "className": "org.jsoup.select.Evaluator$ContainsText",
+        "normalizedScore": 0.7680192228559335,
+        "weightedScore": 0.763841041262412,
+        "b2s": 5000,
+        "s2b": 1,
+        "b2sMemory": 0.8080368041992188,
+        "s2bMemory": 0.8081512451171875
+    },
+    {
+        "className": "org.jsoup.nodes.Document$OutputSettings",
+        "normalizedScore": 0.7614233456849151,
+        "weightedScore": 0.7584718767235832,
+        "b2s": 6500,
+        "s2b": 5,
+        "b2sMemory": 0.8080368041992188,
+        "s2bMemory": 4.0
+    },
+    {
+        "className": "org.jsoup.parser.HtmlTreeBuilderState$15",
+        "normalizedScore": 0.7420195401389629,
+        "weightedScore": 0.7429073027442968,
+        "b2s": 12800,
+        "s2b": 4,
+        "b2sMemory": 0.8080368041992188,
+        "s2bMemory": 4.8099822998046875
+    },
+    {
+        "className": "org.jsoup.select.Evaluator$TagStartsWith",
+        "normalizedScore": 0.7756101222921084,
+        "weightedScore": 0.7713558829712639,
+        "b2s": 6400,
+        "s2b": 1,
+        "b2sMemory": 0.8080368041992188,
+        "s2bMemory": 0.8081512451171875
+    },
+    {
+        "className": "org.jsoup.nodes.Entities",
+        "normalizedScore": 0.7227001325589436,
+        "weightedScore": 0.7186622267347598,
+        "b2s": 5000,
+        "s2b": 23,
+        "b2sMemory": 0.8080368041992188,
+        "s2bMemory": 20.0
+    },
+    {
+        "className": "org.jsoup.nodes.Attributes$Dataset",
+        "normalizedScore": 0.6677168272350515,
+        "weightedScore": 0.6599188971717498,
+        "b2s": 6200,
+        "s2b": 2,
+        "b2sMemory": 0.7515869140625,
+        "s2bMemory": 1.5032806396484375
+    },
+    {
+        "className": "org.jsoup.parser.TokenQueue",
+        "normalizedScore": 0.7548695894087792,
+        "weightedScore": 0.7526252980084551,
+        "b2s": 5600,
+        "s2b": 18,
+        "b2sMemory": 0.7515869140625,
+        "s2bMemory": 18.256729125976562
+    },
+    {
+        "className": "org.jsoup.Connection$KeyVal",
+        "normalizedScore": 0.8179053279689469,
+        "weightedScore": 0.8173079195401008,
+        "b2s": 5000,
+        "s2b": 0,
+        "b2sMemory": 0.7290115356445312,
+        "s2bMemory": 0.7291259765625
+    },
+    {
+        "className": "org.jsoup.helper.HttpConnection$Response",
+        "normalizedScore": 0.7796164594591853,
+        "weightedScore": 0.7734420539621326,
+        "b2s": 7400,
+        "s2b": 87,
+        "b2sMemory": 0.7290115356445312,
+        "s2bMemory": 35.07330322265625
+    },
+    {
+        "className": "org.jsoup.parser.TokeniserState$44",
+        "normalizedScore": 0.784368104596543,
+        "weightedScore": 0.7889707863794838,
+        "b2s": 6900,
+        "s2b": 1,
+        "b2sMemory": 2.0,
+        "s2bMemory": 2.1391372680664062
+    },
+    {
+        "className": "org.jsoup.parser.TokeniserState$64",
+        "normalizedScore": 0.7703992830504269,
+        "weightedScore": 0.7711837322027891,
+        "b2s": 6000,
+        "s2b": 1,
+        "b2sMemory": 0.84027099609375,
+        "s2bMemory": 1.6807022094726562
+    },
+    {
+        "className": "org.jsoup.nodes.LeafNode",
+        "normalizedScore": 0.7493589252303137,
+        "weightedScore": 0.7454385920008062,
+        "b2s": 6000,
+        "s2b": 5,
+        "b2sMemory": 0.84027099609375,
+        "s2bMemory": 3.361175537109375
+    },
+    {
+        "className": "org.jsoup.nodes.Document$OutputSettings$Syntax",
+        "normalizedScore": 0.7800797384981463,
+        "weightedScore": 0.7834159857538594,
+        "b2s": 5900,
+        "s2b": 1,
+        "b2sMemory": 0.84027099609375,
+        "s2bMemory": 1.6806716918945312
+    },
+    {
+        "className": "org.jsoup.nodes.Element$NodeList",
+        "normalizedScore": 0.7210186928497279,
+        "weightedScore": 0.7148660933572224,
+        "b2s": 6000,
+        "s2b": 0,
+        "b2sMemory": 0.84027099609375,
+        "s2bMemory": 0.8403854370117188
+    },
+    {
+        "className": "org.jsoup.select.NodeTraversor",
+        "normalizedScore": 0.6954887217424824,
+        "weightedScore": 0.6920852257750483,
+        "b2s": 6600,
+        "s2b": 10,
+        "b2sMemory": 0.84027099609375,
+        "s2bMemory": 8.842216491699219
+    },
+    {
+        "className": "org.jsoup.parser.TokeniserState$16",
+        "normalizedScore": 0.7605710709642809,
+        "weightedScore": 0.7593652807752445,
+        "b2s": 26500,
+        "s2b": 0,
+        "b2sMemory": 0.8020172119140625,
+        "s2bMemory": 0.8021316528320312
+    },
+    {
+        "className": "org.jsoup.parser.TokeniserState$36",
+        "normalizedScore": 0.7525090940606308,
+        "weightedScore": 0.7481497414347292,
+        "b2s": 6400,
+        "s2b": 2,
+        "b2sMemory": 0.8020172119140625,
+        "s2bMemory": 3.2081680297851562
+    },
+    {
+        "className": "org.jsoup.parser.TokeniserState$56",
+        "normalizedScore": 0.7982381231378834,
+        "weightedScore": 0.8046177599618107,
+        "b2s": 6500,
+        "s2b": 2,
+        "b2sMemory": 0.8020172119140625,
+        "s2bMemory": 2.40618896484375
+    },
+    {
+        "className": "org.jsoup.parser.TokeniserState",
+        "normalizedScore": 0.8482894958254716,
+        "weightedScore": 0.8503689565351971,
+        "b2s": 6200,
+        "s2b": 28,
+        "b2sMemory": 0.8020172119140625,
+        "s2bMemory": 42.408058166503906
+    },
+    {
+        "className": "org.jsoup.select.QueryParser",
+        "normalizedScore": 0.8158476617500297,
+        "weightedScore": 0.8072606002422034,
+        "b2s": 6400,
+        "s2b": 54,
+        "b2sMemory": 0.7608718872070312,
+        "s2bMemory": 30.769927978515625
+    },
+    {
+        "className": "org.jsoup.nodes.Range$Position",
+        "normalizedScore": 0.7737744081437891,
+        "weightedScore": 0.7720632688993261,
+        "b2s": 5700,
+        "s2b": 2,
+        "b2sMemory": 2.0,
+        "s2bMemory": 2.3199539184570312
+    },
+    {
+        "className": "org.jsoup.parser.TokeniserState$37",
+        "normalizedScore": 0.7619188109570801,
+        "weightedScore": 0.7599805236689652,
+        "b2s": 4500,
+        "s2b": 2,
+        "b2sMemory": 0.8506088256835938,
+        "s2bMemory": 3.4025955200195312
+    },
+    {
+        "className": "org.jsoup.parser.TokeniserState$7",
+        "normalizedScore": 0.7796934954492997,
+        "weightedScore": 0.7816463627249823,
+        "b2s": 4600,
+        "s2b": 1,
+        "b2sMemory": 0.8506088256835938,
+        "s2bMemory": 0.8507232666015625
+    },
+    {
+        "className": "org.jsoup.helper.HttpConnection$Base",
+        "normalizedScore": 0.6652855199288129,
+        "weightedScore": 0.6569173273841028,
+        "b2s": 5200,
+        "s2b": 14,
+        "b2sMemory": 0.8506088256835938,
+        "s2bMemory": 9.703163146972656
+    },
+    {
+        "className": "org.jsoup.parser.HtmlTreeBuilderState$21",
+        "normalizedScore": 0.7813736762133501,
+        "weightedScore": 0.7828787666925737,
+        "b2s": 6600,
+        "s2b": 2,
+        "b2sMemory": 0.8257598876953125,
+        "s2bMemory": 3.30322265625
+    },
+    {
+        "className": "org.jsoup.select.StructuralEvaluator$Not",
+        "normalizedScore": 0.7639971562319783,
+        "weightedScore": 0.7595230840787519,
+        "b2s": 5400,
+        "s2b": 1,
+        "b2sMemory": 0.8257598876953125,
+        "s2bMemory": 0.8258743286132812
+    },
+    {
+        "className": "org.jsoup.parser.TokeniserState$30",
+        "normalizedScore": 0.7699372701103372,
+        "weightedScore": 0.7715256549748644,
+        "b2s": 5200,
+        "s2b": 1,
+        "b2sMemory": 0.8257598876953125,
+        "s2bMemory": 1.651763916015625
+    },
+    {
+        "className": "org.jsoup.helper.ChangeNotifyingArrayList",
+        "normalizedScore": 0.5582093539563698,
+        "weightedScore": 0.5523171700679126,
+        "b2s": 6600,
+        "s2b": 2,
+        "b2sMemory": 0.8257598876953125,
+        "s2bMemory": 1.6516265869140625
+    },
+    {
+        "className": "org.jsoup.helper.DataUtil$CharsetDoc",
+        "normalizedScore": 0.7240798761991422,
+        "weightedScore": 0.7233197076422327,
+        "b2s": 5700,
+        "s2b": 0,
+        "b2sMemory": 0.8257598876953125,
+        "s2bMemory": 0.8258743286132812
+    },
+    {
+        "className": "org.jsoup.nodes.Entities$EscapeMode",
+        "normalizedScore": 0.7594519258396195,
+        "weightedScore": 0.7584338784256521,
+        "b2s": 5600,
+        "s2b": 4,
+        "b2sMemory": 0.8257598876953125,
+        "s2bMemory": 3.3057403564453125
+    },
+    {
+        "className": "org.jsoup.select.StructuralEvaluator$Parent",
+        "normalizedScore": 0.7470281290354585,
+        "weightedScore": 0.7446379045336098,
+        "b2s": 5100,
+        "s2b": 2,
+        "b2sMemory": 0.8257598876953125,
+        "s2bMemory": 1.6516571044921875
+    },
+    {
+        "className": "org.jsoup.HttpStatusException",
+        "normalizedScore": 0.8061719713721777,
+        "weightedScore": 0.8045215639028567,
+        "b2s": 5500,
+        "s2b": 1,
+        "b2sMemory": 0.8257598876953125,
+        "s2bMemory": 0.8258743286132812
+    },
+    {
+        "className": "org.jsoup.select.Evaluator$MatchText",
+        "normalizedScore": 0.7267108205341724,
+        "weightedScore": 0.7256879024431804,
+        "b2s": 5400,
+        "s2b": 1,
+        "b2sMemory": 0.8257598876953125,
+        "s2bMemory": 1.6516342163085938
+    },
+    {
+        "className": "org.jsoup.helper.DataUtil",
+        "normalizedScore": 0.713119798436541,
+        "weightedScore": 0.7051504075126277,
+        "b2s": 5200,
+        "s2b": 26,
+        "b2sMemory": 0.8257598876953125,
+        "s2bMemory": 25.653968811035156
+    },
+    {
+        "className": "org.jsoup.parser.TokeniserState$31",
+        "normalizedScore": 0.7750751431397761,
+        "weightedScore": 0.7778247716829414,
+        "b2s": 6800,
+        "s2b": 1,
+        "b2sMemory": 0.8371429443359375,
+        "s2bMemory": 1.6744461059570312
+    },
+    {
+        "className": "org.jsoup.parser.HtmlTreeBuilderState$10",
+        "normalizedScore": 0.7636491837854503,
+        "weightedScore": 0.7676526774826344,
+        "b2s": 6200,
+        "s2b": 2,
+        "b2sMemory": 0.8371429443359375,
+        "s2bMemory": 4.0
+    },
+    {
+        "className": "org.jsoup.parser.TokeniserState$1",
+        "normalizedScore": 0.766895813279873,
+        "weightedScore": 0.7640330156222404,
+        "b2s": 7800,
+        "s2b": 1,
+        "b2sMemory": 0.8371429443359375,
+        "s2bMemory": 1.6743927001953125
+    },
+    {
+        "className": "org.jsoup.parser.ParseErrorList",
+        "normalizedScore": 0.7789841172899216,
+        "weightedScore": 0.7761274139359711,
+        "b2s": 4600,
+        "s2b": 1,
+        "b2sMemory": 0.8371429443359375,
+        "s2bMemory": 1.6750564575195312
+    },
+    {
+        "className": "org.jsoup.parser.Token$EndTag",
+        "normalizedScore": 0.8155907850966609,
+        "weightedScore": 0.8149181331797927,
+        "b2s": 6100,
+        "s2b": 0,
+        "b2sMemory": 0.8371429443359375,
+        "s2bMemory": 0.8372573852539062
+    },
+    {
+        "className": "org.jsoup.internal.package-info",
+        "normalizedScore": 0.8016404534884568,
+        "weightedScore": 0.8102695115878871,
+        "b2s": 4200,
+        "s2b": 0,
+        "b2sMemory": 0.8371429443359375,
+        "s2bMemory": 0.8372573852539062
+    },
+    {
+        "className": "org.jsoup.parser.ParseError",
+        "normalizedScore": 0.7771698044192973,
+        "weightedScore": 0.775254986714471,
+        "b2s": 8000,
+        "s2b": 2,
+        "b2sMemory": 0.8371429443359375,
+        "s2bMemory": 2.5116500854492188
+    },
+    {
+        "className": "org.jsoup.parser.CharacterReader",
+        "normalizedScore": 0.7723374629520848,
+        "weightedScore": 0.766536027257429,
+        "b2s": 4800,
+        "s2b": 59,
+        "b2sMemory": 0.8371429443359375,
+        "s2bMemory": 37.67625427246094
+    },
+    {
+        "className": "org.jsoup.helper.package-info",
+        "normalizedScore": 0.8008603600666716,
+        "weightedScore": 0.8093708152880745,
+        "b2s": 5300,
+        "s2b": 0,
+        "b2sMemory": 2.0,
+        "s2bMemory": 1.0884628295898438
+    },
+    {
+        "className": "org.jsoup.helper.RequestAuthenticator$Context",
+        "normalizedScore": 0.7588092717922903,
+        "weightedScore": 0.7566646083493249,
+        "b2s": 5700,
+        "s2b": 1,
+        "b2sMemory": 0.7773971557617188,
+        "s2bMemory": 1.554931640625
+    },
+    {
+        "className": "org.jsoup.parser.TokeniserState$49",
+        "normalizedScore": 0.76310289292248,
+        "weightedScore": 0.762545030814698,
+        "b2s": 5200,
+        "s2b": 1,
+        "b2sMemory": 0.7773971557617188,
+        "s2bMemory": 2.3325042724609375
+    },
+    {
+        "className": "org.jsoup.parser.TokeniserState$43",
+        "normalizedScore": 0.7752882632736556,
+        "weightedScore": 0.7785521198731193,
+        "b2s": 4300,
+        "s2b": 1,
+        "b2sMemory": 0.7773971557617188,
+        "s2bMemory": 0.7775115966796875
+    },
+    {
+        "className": "org.jsoup.select.Evaluator$Class",
+        "normalizedScore": 0.7702142313674066,
+        "weightedScore": 0.7649307616686736,
+        "b2s": 5400,
+        "s2b": 1,
+        "b2sMemory": 0.7773971557617188,
+        "s2bMemory": 0.7775115966796875
+    },
+    {
+        "className": "org.jsoup.parser.TokeniserState$8",
+        "normalizedScore": 0.7952375243487775,
+        "weightedScore": 0.7994097771103921,
+        "b2s": 4400,
+        "s2b": 1,
+        "b2sMemory": 0.7773971557617188,
+        "s2bMemory": 1.5549087524414062
+    },
+    {
+        "className": "org.jsoup.select.Evaluator$AttributeWithValueStarting",
+        "normalizedScore": 0.7600108957533719,
+        "weightedScore": 0.7551832755657899,
+        "b2s": 13300,
+        "s2b": 1,
+        "b2sMemory": 0.7773971557617188,
+        "s2bMemory": 1.5549087524414062
+    },
+    {
+        "className": "org.jsoup.nodes.Element",
+        "normalizedScore": 0.7425067195509113,
+        "weightedScore": 0.736736873047239,
+        "b2s": 8000,
+        "s2b": 84,
+        "b2sMemory": 0.7773971557617188,
+        "s2bMemory": 16.224777221679688
+    },
+    {
+        "className": "org.jsoup.parser.HtmlTreeBuilderState$6",
+        "normalizedScore": 0.7697037644817842,
+        "weightedScore": 0.7733176781325031,
+        "b2s": 5700,
+        "s2b": 4,
+        "b2sMemory": 2.0,
+        "s2bMemory": 6.037025451660156
+    },
+    {
+        "className": "org.jsoup.nodes.Node",
+        "normalizedScore": 0.723750443402826,
+        "weightedScore": 0.7198460053087161,
+        "b2s": 6600,
+        "s2b": 36,
+        "b2sMemory": 0.7826156616210938,
+        "s2bMemory": 26.349838256835938
+    },
+    {
+        "className": "org.jsoup.safety.Cleaner$CleaningVisitor",
+        "normalizedScore": 0.7110670712631086,
+        "weightedScore": 0.711694864846689,
+        "b2s": 3583600,
+        "s2b": 4,
+        "b2sMemory": 0.7545852661132812,
+        "s2bMemory": 4.75653076171875
+    },
+    {
+        "className": "org.jsoup.helper.HttpConnection$1",
+        "normalizedScore": 0.7666268679140938,
+        "weightedScore": 0.7766308477893511,
+        "b2s": 7100,
+        "s2b": 0,
+        "b2sMemory": 0.7545852661132812,
+        "s2bMemory": 0.75469970703125
+    },
+    {
+        "className": "org.jsoup.select.Evaluator$AttributeWithValueNot",
+        "normalizedScore": 0.7494146204969012,
+        "weightedScore": 0.7449950791152695,
+        "b2s": 6600,
+        "s2b": 2,
+        "b2sMemory": 0.7545852661132812,
+        "s2bMemory": 1.509307861328125
+    },
+    {
+        "className": "org.jsoup.internal.SharedConstants",
+        "normalizedScore": 0.7995511024288092,
+        "weightedScore": 0.7993143020450832,
+        "b2s": 5800,
+        "s2b": 0,
+        "b2sMemory": 0.7545852661132812,
+        "s2bMemory": 0.75469970703125
+    },
+    {
+        "className": "org.jsoup.parser.HtmlTreeBuilderState$19",
+        "normalizedScore": 0.7759531937185643,
+        "weightedScore": 0.7788498981791124,
+        "b2s": 5600,
+        "s2b": 4,
+        "b2sMemory": 0.7545852661132812,
+        "s2bMemory": 3.7730331420898438
+    },
+    {
+        "className": "org.jsoup.parser.HtmlTreeBuilderState",
+        "normalizedScore": 0.8372414453977214,
+        "weightedScore": 0.8411078316113814,
+        "b2s": 5500,
+        "s2b": 11,
+        "b2sMemory": 0.7545852661132812,
+        "s2bMemory": 8.0
+    },
+    {
+        "className": "org.jsoup.package-info",
+        "normalizedScore": 0.7998930882810442,
+        "weightedScore": 0.8077542467426595,
+        "b2s": 5800,
+        "s2b": 0,
+        "b2sMemory": 0.7410202026367188,
+        "s2bMemory": 0.7411346435546875
+    },
+    {
+        "className": "org.jsoup.parser.TokeniserState$9",
+        "normalizedScore": 0.7978568985681681,
+        "weightedScore": 0.80271212603181,
+        "b2s": 5800,
+        "s2b": 3,
+        "b2sMemory": 0.7410202026367188,
+        "s2bMemory": 3.0232391357421875
+    },
+    {
+        "className": "org.jsoup.parser.TokeniserState$15",
+        "normalizedScore": 0.7781595310826911,
+        "weightedScore": 0.7777997851335994,
+        "b2s": 5900,
+        "s2b": 1,
+        "b2sMemory": 0.7410202026367188,
+        "s2bMemory": 0.7411346435546875
+    },
+    {
+        "className": "org.jsoup.parser.TokeniserState$25",
+        "normalizedScore": 0.7865423087347786,
+        "weightedScore": 0.7912272818063518,
+        "b2s": 6300,
+        "s2b": 2,
+        "b2sMemory": 0.7410202026367188,
+        "s2bMemory": 1.482147216796875
+    },
+    {
+        "className": "org.jsoup.parser.TokeniserState$45",
+        "normalizedScore": 0.7787549381809802,
+        "weightedScore": 0.781511855430076,
+        "b2s": 7000,
+        "s2b": 2,
+        "b2sMemory": 0.7410202026367188,
+        "s2bMemory": 1.482147216796875
+    },
+    {
+        "className": "org.jsoup.nodes.Entities$CoreCharset",
+        "normalizedScore": 0.7869583981076834,
+        "weightedScore": 0.7914452414558113,
+        "b2s": 5900,
+        "s2b": 4,
+        "b2sMemory": 0.7410202026367188,
+        "s2bMemory": 1.482513427734375
+    },
+    {
+        "className": "org.jsoup.parser.TokeniserState$52",
+        "normalizedScore": 0.790175139929413,
+        "weightedScore": 0.7973099977620588,
+        "b2s": 13500,
+        "s2b": 4,
+        "b2sMemory": 0.7410202026367188,
+        "s2bMemory": 2.2231903076171875
+    },
+    {
+        "className": "org.jsoup.parser.TokeniserState$22",
+        "normalizedScore": 0.7676705417157462,
+        "weightedScore": 0.7651795195836048,
+        "b2s": 5200,
+        "s2b": 3,
+        "b2sMemory": 0.7410202026367188,
+        "s2bMemory": 1.482208251953125
+    },
+    {
+        "className": "org.jsoup.parser.TokeniserState$48",
+        "normalizedScore": 0.7734188184198708,
+        "weightedScore": 0.77518274879845,
+        "b2s": 5700,
+        "s2b": 2,
+        "b2sMemory": 0.7410202026367188,
+        "s2bMemory": 1.4822540283203125
+    },
+    {
+        "className": "org.jsoup.parser.HtmlTreeBuilderState$Constants",
+        "normalizedScore": 0.8771146288183379,
+        "weightedScore": 0.8823251016798349,
+        "b2s": 13100,
+        "s2b": 34,
+        "b2sMemory": 0.7410202026367188,
+        "s2bMemory": 29.484054565429688
+    },
+    {
+        "className": "org.jsoup.nodes.Range",
+        "normalizedScore": 0.7889070361164009,
+        "weightedScore": 0.7891932065860934,
+        "b2s": 5400,
+        "s2b": 7,
+        "b2sMemory": 0.7233505249023438,
+        "s2bMemory": 3.6169586181640625
+    },
+    {
+        "className": "org.jsoup.select.Evaluator$IsLastChild",
+        "normalizedScore": 0.7128788574701347,
+        "weightedScore": 0.7091799045294453,
+        "b2s": 6500,
+        "s2b": 1,
+        "b2sMemory": 0.7233505249023438,
+        "s2bMemory": 0.7234649658203125
+    },
+    {
+        "className": "org.jsoup.select.Evaluator$ContainsWholeOwnText",
+        "normalizedScore": 0.757555649299411,
+        "weightedScore": 0.7524487330181185,
+        "b2s": 5900,
+        "s2b": 1,
+        "b2sMemory": 0.7233505249023438,
+        "s2bMemory": 0.7234649658203125
+    },
+    {
+        "className": "org.jsoup.parser.Token$EOF",
+        "normalizedScore": 0.8229112363989494,
+        "weightedScore": 0.8218757997472255,
+        "b2s": 6000,
+        "s2b": 1,
+        "b2sMemory": 0.7233505249023438,
+        "s2bMemory": 0.7234649658203125
+    },
+    {
+        "className": "org.jsoup.nodes.XmlDeclaration",
+        "normalizedScore": 0.6965114973100702,
+        "weightedScore": 0.6857937384891355,
+        "b2s": 6300,
+        "s2b": 9,
+        "b2sMemory": 0.7233505249023438,
+        "s2bMemory": 4.0
+    },
+    {
+        "className": "org.jsoup.parser.HtmlTreeBuilderState$23",
+        "normalizedScore": 0.7686527851562811,
+        "weightedScore": 0.7689945198673525,
+        "b2s": 7100,
+        "s2b": 4,
+        "b2sMemory": 0.7233505249023438,
+        "s2bMemory": 2.894073486328125
+    },
+    {
+        "className": "org.jsoup.parser.Token$CData",
+        "normalizedScore": 0.7997194464202179,
+        "weightedScore": 0.800729957918547,
+        "b2s": 6000,
+        "s2b": 1,
+        "b2sMemory": 0.7233505249023438,
+        "s2bMemory": 0.7234649658203125
+    },
+    {
+        "className": "org.jsoup.parser.Token$1",
+        "normalizedScore": 0.7621949057256531,
+        "weightedScore": 0.7713920818197544,
+        "b2s": 6500,
+        "s2b": 0,
+        "b2sMemory": 0.7233505249023438,
+        "s2bMemory": 0.7234649658203125
+    },
+    {
+        "className": "org.jsoup.nodes.NodeIterator",
+        "normalizedScore": 0.6850906709905118,
+        "weightedScore": 0.6825204685202816,
+        "b2s": 6100,
+        "s2b": 8,
+        "b2sMemory": 0.7233505249023438,
+        "s2bMemory": 3.6168746948242188
+    },
+    {
+        "className": "org.jsoup.parser.TreeBuilder",
+        "normalizedScore": 0.7516496562821882,
+        "weightedScore": 0.7496362039545221,
+        "b2s": 7600,
+        "s2b": 29,
+        "b2sMemory": 0.7233505249023438,
+        "s2bMemory": 16.725296020507812
+    },
+    {
+        "className": "org.jsoup.nodes.Attributes$1",
+        "normalizedScore": 0.7827919600993102,
+        "weightedScore": 0.7825922667885448,
+        "b2s": 5600,
+        "s2b": 5,
+        "b2sMemory": 2.0,
+        "s2bMemory": 3.5721817016601562
+    },
+    {
+        "className": "org.jsoup.internal.StringUtil$StringJoiner",
+        "normalizedScore": 0.7856689907142721,
+        "weightedScore": 0.7892997754564728,
+        "b2s": 5300,
+        "s2b": 2,
+        "b2sMemory": 0.744171142578125,
+        "s2bMemory": 1.3396530151367188
+    },
+    {
+        "className": "org.jsoup.nodes.Comment",
+        "normalizedScore": 0.7571264366369005,
+        "weightedScore": 0.7539772243062753,
+        "b2s": 5200,
+        "s2b": 17,
+        "b2sMemory": 0.6697616577148438,
+        "s2bMemory": 5.341468811035156
+    },
+    {
+        "className": "org.jsoup.select.Evaluator$ContainsWholeText",
+        "normalizedScore": 0.7555794251048414,
+        "weightedScore": 0.7499577258508554,
+        "b2s": 5500,
+        "s2b": 1,
+        "b2sMemory": 0.6697616577148438,
+        "s2bMemory": 0.6698760986328125
+    },
+    {
+        "className": "org.jsoup.parser.Tokeniser$1",
+        "normalizedScore": 0.7873705106249863,
+        "weightedScore": 0.791526150075707,
+        "b2s": 5500,
+        "s2b": 2,
+        "b2sMemory": 0.6697616577148438,
+        "s2bMemory": 0.6698760986328125
+    },
+    {
+        "className": "org.jsoup.parser.TokeniserState$50",
+        "normalizedScore": 0.7579091602576535,
+        "weightedScore": 0.7575857639169277,
+        "b2s": 5300,
+        "s2b": 3,
+        "b2sMemory": 0.6697616577148438,
+        "s2bMemory": 2.0094528198242188
+    },
+    {
+        "className": "org.jsoup.parser.TokeniserState$17",
+        "normalizedScore": 0.7937895989162541,
+        "weightedScore": 0.796503263381404,
+        "b2s": 5400,
+        "s2b": 2,
+        "b2sMemory": 0.6697616577148438,
+        "s2bMemory": 1.3398208618164062
+    },
+    {
+        "className": "org.jsoup.internal.Functions",
+        "normalizedScore": 0.7177418600224813,
+        "weightedScore": 0.7195702538728129,
+        "b2s": 5400,
+        "s2b": 3,
+        "b2sMemory": 0.6697616577148438,
+        "s2bMemory": 1.339630126953125
+    },
+    {
+        "className": "org.jsoup.parser.TokeniserState$47",
+        "normalizedScore": 0.7709038418177779,
+        "weightedScore": 0.7698029035462904,
+        "b2s": 5000,
+        "s2b": 2,
+        "b2sMemory": 0.6697616577148438,
+        "s2bMemory": 1.3396377563476562
+    },
+    {
+        "className": "org.jsoup.select.NodeVisitor",
+        "normalizedScore": 0.7396246513883354,
+        "weightedScore": 0.7354344429782803,
+        "b2s": 5100,
+        "s2b": 0,
+        "b2sMemory": 0.6697616577148438,
+        "s2bMemory": 0.6698760986328125
+    },
+    {
+        "className": "org.jsoup.select.StructuralEvaluator$Is",
+        "normalizedScore": 0.7797857830409619,
+        "weightedScore": 0.774648497549215,
+        "b2s": 5200,
+        "s2b": 2,
+        "b2sMemory": 0.6697616577148438,
+        "s2bMemory": 0.6698760986328125
+    },
+    {
+        "className": "org.jsoup.select.Evaluator$IndexLessThan",
+        "normalizedScore": 0.7637417000583319,
+        "weightedScore": 0.7587216967191653,
+        "b2s": 5400,
+        "s2b": 1,
+        "b2sMemory": 0.6697616577148438,
+        "s2bMemory": 0.6698760986328125
+    },
+    {
+        "className": "org.jsoup.parser.XmlTreeBuilder$1",
+        "normalizedScore": 0.8104190191654147,
+        "weightedScore": 0.8119474246393246,
+        "b2s": 5600,
+        "s2b": 4,
+        "b2sMemory": 0.6697616577148438,
+        "s2bMemory": 2.6791839599609375
+    },
+    {
+        "className": "org.jsoup.parser.TokeniserState$24",
+        "normalizedScore": 0.7594866155559711,
+        "weightedScore": 0.7618013237531054,
+        "b2s": 6400,
+        "s2b": 2,
+        "b2sMemory": 0.6697616577148438,
+        "s2bMemory": 1.3396530151367188
+    },
+    {
+        "className": "org.jsoup.nodes.Attribute",
+        "normalizedScore": 0.7680324627894134,
+        "weightedScore": 0.7594787346460949,
+        "b2s": 5700,
+        "s2b": 26,
+        "b2sMemory": 0.6697616577148438,
+        "s2bMemory": 12.67333984375
+    },
+    {
+        "className": "org.jsoup.nodes.package-info",
+        "normalizedScore": 0.8016504321253336,
+        "weightedScore": 0.8099809641340392,
+        "b2s": 6300,
+        "s2b": 0,
+        "b2sMemory": 0.6819915771484375,
+        "s2bMemory": 0.6821060180664062
+    },
+    {
+        "className": "org.jsoup.select.Evaluator$IsOnlyOfType",
+        "normalizedScore": 0.7239544543934283,
+        "weightedScore": 0.7210405486241562,
+        "b2s": 5800,
+        "s2b": 2,
+        "b2sMemory": 0.6819915771484375,
+        "s2bMemory": 1.3640899658203125
+    },
+    {
+        "className": "org.jsoup.select.Evaluator$AllElements",
+        "normalizedScore": 0.7375130629522668,
+        "weightedScore": 0.7295814287881877,
+        "b2s": 5500,
+        "s2b": 1,
+        "b2sMemory": 0.6819915771484375,
+        "s2bMemory": 0.6821060180664062
+    },
+    {
+        "className": "org.jsoup.parser.StreamParser",
+        "normalizedScore": 0.7581999352487726,
+        "weightedScore": 0.7534364985915152,
+        "b2s": 5500,
+        "s2b": 13,
+        "b2sMemory": 0.6819915771484375,
+        "s2bMemory": 4.683967590332031
+    },
+    {
+        "className": "org.jsoup.parser.HtmlTreeBuilderState$24",
+        "normalizedScore": 0.72056309868403,
+        "weightedScore": 0.7184333225433247,
+        "b2s": 6000,
+        "s2b": 10,
+        "b2sMemory": 0.6355361938476562,
+        "s2bMemory": 9.273048400878906
+    },
+    {
+        "className": "org.jsoup.select.NodeFilter",
+        "normalizedScore": 0.782989075834618,
+        "weightedScore": 0.7831448487860744,
+        "b2s": 6100,
+        "s2b": 0,
+        "b2sMemory": 0.6191024780273438,
+        "s2bMemory": 0.6192169189453125
+    },
+    {
+        "className": "org.jsoup.parser.TokeniserState$18",
+        "normalizedScore": 0.7741504824787251,
+        "weightedScore": 0.7742941908646661,
+        "b2s": 7300,
+        "s2b": 1,
+        "b2sMemory": 0.6191024780273438,
+        "s2bMemory": 0.6192169189453125
+    },
+    {
+        "className": "org.jsoup.parser.HtmlTreeBuilderState$9",
+        "normalizedScore": 0.767962966044316,
+        "weightedScore": 0.7721049727817868,
+        "b2s": 5000,
+        "s2b": 18,
+        "b2sMemory": 0.6191024780273438,
+        "s2bMemory": 14.482757568359375
+    },
+    {
+        "className": "org.jsoup.nodes.Document",
+        "normalizedScore": 0.7660914294571404,
+        "weightedScore": 0.7622277315238789,
+        "b2s": 6900,
+        "s2b": 20,
+        "b2sMemory": 0.6256256103515625,
+        "s2bMemory": 11.756034851074219
+    },
+    {
+        "className": "org.jsoup.Jsoup",
+        "normalizedScore": 0.7111835002758647,
+        "weightedScore": 0.7000706233275693,
+        "b2s": 6600,
+        "s2b": 8,
+        "b2sMemory": 0.6511077880859375,
+        "s2bMemory": 4.653114318847656
+    },
+    {
+        "className": "org.jsoup.nodes.Attributes$Dataset$DatasetIterator",
+        "normalizedScore": 0.7514504900883514,
+        "weightedScore": 0.7487061594989934,
+        "b2s": 7300,
+        "s2b": 3,
+        "b2sMemory": 0.631866455078125,
+        "s2bMemory": 1.8957748413085938
+    },
+    {
+        "className": "org.jsoup.parser.TokeniserState$51",
+        "normalizedScore": 0.7981024948527734,
+        "weightedScore": 0.8026908707970493,
+        "b2s": 5400,
+        "s2b": 2,
+        "b2sMemory": 0.631866455078125,
+        "s2bMemory": 1.8958053588867188
+    },
+    {
+        "className": "org.jsoup.parser.HtmlTreeBuilderState$25",
+        "normalizedScore": 0.8115504933969154,
+        "weightedScore": 0.81327919486005,
+        "b2s": 6600,
+        "s2b": 3,
+        "b2sMemory": 0.631866455078125,
+        "s2bMemory": 3.1594390869140625
+    },
+    {
+        "className": "org.jsoup.parser.TokeniserState$23",
+        "normalizedScore": 0.750866901817491,
+        "weightedScore": 0.7515725448684615,
+        "b2s": 5900,
+        "s2b": 1,
+        "b2sMemory": 0.631866455078125,
+        "s2bMemory": 1.2638473510742188
+    },
+    {
+        "className": "org.jsoup.select.Evaluator$Id",
+        "normalizedScore": 0.7733761526321373,
+        "weightedScore": 0.7688787101551007,
+        "b2s": 5000,
+        "s2b": 1,
+        "b2sMemory": 0.631866455078125,
+        "s2bMemory": 0.6319808959960938
+    },
+    {
+        "className": "org.jsoup.nodes.Attributes",
+        "normalizedScore": 0.7258378232862333,
+        "weightedScore": 0.7213284644149098,
+        "b2s": 5400,
+        "s2b": 35,
+        "b2sMemory": 0.631866455078125,
+        "s2bMemory": 20.0
+    },
+    {
+        "className": "org.jsoup.select.Evaluator$AttributeWithValue",
+        "normalizedScore": 0.7561028256961825,
+        "weightedScore": 0.7512559019051903,
+        "b2s": 5300,
+        "s2b": 2,
+        "b2sMemory": 0.6736526489257812,
+        "s2bMemory": 1.3474578857421875
+    },
+    {
+        "className": "org.jsoup.parser.Tokeniser",
+        "normalizedScore": 0.8061198787861388,
+        "weightedScore": 0.8004722096045276,
+        "b2s": 5300,
+        "s2b": 52,
+        "b2sMemory": 0.6736526489257812,
+        "s2bMemory": 31.370269775390625
+    },
+    {
+        "className": "org.jsoup.parser.TokeniserState$46",
+        "normalizedScore": 0.7802275765099269,
+        "weightedScore": 0.7837286283827438,
+        "b2s": 6600,
+        "s2b": 3,
+        "b2sMemory": 2.0,
+        "s2bMemory": 2.452117919921875
+    },
+    {
+        "className": "org.jsoup.nodes.Attributes$Dataset$EntrySet",
+        "normalizedScore": 0.6874618575770898,
+        "weightedScore": 0.6839629695593088,
+        "b2s": 4800,
+        "s2b": 1,
+        "b2sMemory": 0.9195098876953125,
+        "s2bMemory": 0.9196243286132812
+    },
+    {
+        "className": "org.jsoup.select.Collector",
+        "normalizedScore": 0.7549352633828995,
+        "weightedScore": 0.7576786516451606,
+        "b2s": 5000,
+        "s2b": 2,
+        "b2sMemory": 0.9195098876953125,
+        "s2bMemory": 1.8391571044921875
+    }
+]

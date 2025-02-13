@@ -1,0 +1,38 @@
+[
+    {
+        "className": "org.slf4j.reload4j.Reload4jMDCAdapter",
+        "normalizedScore": 0.7040730321499259,
+        "weightedScore": 0.7013139124913386,
+        "b2s": 13900,
+        "s2b": 194,
+        "b2sMemory": 0.35445404052734375,
+        "s2bMemory": 1.0917434692382812
+    },
+    {
+        "className": "org.slf4j.reload4j.Reload4jLoggerFactory",
+        "normalizedScore": 0.7688390346387551,
+        "weightedScore": 0.7683050231835189,
+        "b2s": 7800,
+        "s2b": 33,
+        "b2sMemory": 1.995635986328125,
+        "s2bMemory": 2.8171310424804688
+    },
+    {
+        "className": "org.slf4j.reload4j.Reload4jServiceProvider",
+        "normalizedScore": 0.8203093926092442,
+        "weightedScore": 0.8166456880926848,
+        "b2s": 10200,
+        "s2b": 15,
+        "b2sMemory": 0.24184417724609375,
+        "s2bMemory": 0.96759033203125
+    },
+    {
+        "className": "org.slf4j.reload4j.Reload4jLoggerAdapter",
+        "normalizedScore": 0.7361457428994326,
+        "weightedScore": 0.7287366765336254,
+        "b2s": 6524300,
+        "s2b": 60,
+        "b2sMemory": 0.1865386962890625,
+        "s2bMemory": 6.057373046875
+    }
+]

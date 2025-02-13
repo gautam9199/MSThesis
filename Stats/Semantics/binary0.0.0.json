@@ -1,0 +1,1493 @@
+[
+  {
+    "className": "A",
+    "methods": [
+      {
+        "name": "a",
+        "returnType": "void"
+      }
+    ],
+    "instanceCreation": "failed: class transformer.textsimilarity.ClassFileTester cannot access a member of class A with modifiers \"\""
+  },
+  {
+    "className": "AbstractClass",
+    "methods": [
+      {
+        "name": "a",
+        "returnType": "void"
+      },
+      {
+        "name": "abstractClass",
+        "returnType": "void"
+      }
+    ],
+    "instanceCreation": "success"
+  },
+  {
+    "className": "AccessArrays.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Bad local variable type\nException Details:\n  Location:\n    AccessArrays.charArrays()V @4: aload_1\n  Reason:\n    Type top (current frame, locals[1]) is not assignable to reference type\n  Current Frame:\n    bci: @4\n    flags: { }\n    locals: { \u0027AccessArrays\u0027 }\n    stack: { \u0027[C\u0027, \u0027[C\u0027 }\n  Bytecode:\n    0000000: 06bc 0559 2b03 1041 552b 0410 6255 2b05\n    0000010: 1026 552c be12 0b36 0415 041d a200 0f2c\n    0000020: 1504 3436 0515 0404 6036 04b1          \n  Stackmap Table:\n    full_frame(@43,{Object[#2],Top,Top,Top,Integer},{Object[#16],Object[#16],Integer})\n"
+  },
+  {
+    "className": "AnnotatedAnnotationInterface",
+    "methods": [
+      {
+        "name": "value",
+        "returnType": "java.lang.String"
+      }
+    ],
+    "instanceCreation": "no-arg constructor not available"
+  },
+  {
+    "className": "AnnotationData$FutureSootAnnotation",
+    "methods": [],
+    "instanceCreation": "no-arg constructor not available"
+  },
+  {
+    "className": "AnnotationData",
+    "methods": [],
+    "instanceCreation": "success"
+  },
+  {
+    "className": "AnnotationEnum$Day.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file AnnotationEnum$Day"
+  },
+  {
+    "className": "AnnotationEnum$Weekend",
+    "methods": [],
+    "instanceCreation": "no-arg constructor not available"
+  },
+  {
+    "className": "AnnotationEnum",
+    "methods": [],
+    "instanceCreation": "success"
+  },
+  {
+    "className": "AnnotationExtend$NestedClass.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Bad type on operand stack in putfield\nException Details:\n  Location:\n    AnnotationExtend$NestedClass.\u003cinit\u003e(LAnnotationExtend;)V @3: putfield\n  Reason:\n    Type uninitializedThis (current frame, stack[1]) is not assignable to \u0027AnnotationExtend$NestedClass\u0027 (constant pool 10)\n  Current Frame:\n    bci: @3\n    flags: { flagThisUninit }\n    locals: { uninitializedThis, \u0027AnnotationExtend\u0027 }\n    stack: { uninitializedThis, uninitializedThis, \u0027AnnotationExtend\u0027 }\n  Bytecode:\n    0000000: 2a2a 2bb5 000a b700 0db1               \n"
+  },
+  {
+    "className": "AnnotationExtend",
+    "methods": [],
+    "instanceCreation": "success"
+  },
+  {
+    "className": "AnnotationImpl$FutureSootAnnotation",
+    "methods": [],
+    "instanceCreation": "no-arg constructor not available"
+  },
+  {
+    "className": "AnnotationImpl",
+    "methods": [
+      {
+        "name": "run",
+        "returnType": "void"
+      }
+    ],
+    "instanceCreation": "success"
+  },
+  {
+    "className": "AnnotationInterfaceNested",
+    "methods": [
+      {
+        "name": "value",
+        "returnType": "OnMethod"
+      }
+    ],
+    "instanceCreation": "no-arg constructor not available"
+  },
+  {
+    "className": "AnnotationInterfaceNested2",
+    "methods": [
+      {
+        "name": "value",
+        "returnType": "AnnotationInterfaceNested"
+      }
+    ],
+    "instanceCreation": "no-arg constructor not available"
+  },
+  {
+    "className": "AnnotationInterfaceWithNestedAnnotation",
+    "methods": [
+      {
+        "name": "value",
+        "returnType": "OnMethod"
+      }
+    ],
+    "instanceCreation": "no-arg constructor not available"
+  },
+  {
+    "className": "AnnotationLibrary",
+    "methods": [
+      {
+        "name": "genre",
+        "returnType": "java.lang.String"
+      },
+      {
+        "name": "author",
+        "returnType": "java.lang.String"
+      },
+      {
+        "name": "lastIssued",
+        "returnType": "java.lang.String"
+      },
+      {
+        "name": "currentEdition",
+        "returnType": "int"
+      }
+    ],
+    "instanceCreation": "no-arg constructor not available"
+  },
+  {
+    "className": "AnnotationMethod$FutureSootAnnotation",
+    "methods": [],
+    "instanceCreation": "no-arg constructor not available"
+  },
+  {
+    "className": "AnnotationMethod.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Method \"type\" in class AnnotationMethod has illegal signature \"methodtype: java.lang.Object __METHODTYPE__(java.lang.Object)\""
+  },
+  {
+    "className": "AnnotationObjects$FutureSootAnnotation",
+    "methods": [],
+    "instanceCreation": "no-arg constructor not available"
+  },
+  {
+    "className": "AnnotationObjects.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Bad type on operand stack\nException Details:\n  Location:\n    AnnotationObjects.\u003cinit\u003e()V @8: checkcast\n  Reason:\n    Type uninitialized 4 (current frame, stack[1]) is not assignable to \u0027java/lang/Object\u0027\n  Current Frame:\n    bci: @8\n    flags: { }\n    locals: { \u0027AnnotationObjects\u0027 }\n    stack: { uninitialized 4, uninitialized 4 }\n  Bytecode:\n    0000000: 2ab7 0008 bb00 0a59 c000 0ab7 000b 2ac0\n    0000010: 000d b500 11bb 0002 59b7 0012 2a5f b500\n    0000020: 162a b400 162a 5fb5 0019 2ab4 0016 2dc1\n    0000030: 0004 3605 2a5f b500 1db1               \n"
+  },
+  {
+    "className": "AnnotationTryCatch$FutureSootAnnotation",
+    "methods": [],
+    "instanceCreation": "no-arg constructor not available"
+  },
+  {
+    "className": "AnnotationTryCatch",
+    "methods": [
+      {
+        "name": "demoMethod",
+        "returnType": "java.lang.String"
+      }
+    ],
+    "instanceCreation": "failed: null"
+  },
+  {
+    "className": "AnnotationUsage",
+    "methods": [
+      {
+        "name": "classes",
+        "returnType": "void"
+      },
+      {
+        "name": "enums",
+        "returnType": "void"
+      },
+      {
+        "name": "someMethod",
+        "returnType": "void"
+      },
+      {
+        "name": "arrayConstant",
+        "returnType": "void"
+      },
+      {
+        "name": "anotherMethod",
+        "returnType": "void"
+      }
+    ],
+    "instanceCreation": "success"
+  },
+  {
+    "className": "AnnotationUsageInherited",
+    "methods": [],
+    "instanceCreation": "success"
+  },
+  {
+    "className": "AnonymousClassInsideMethod.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Bad local variable type\nException Details:\n  Location:\n    AnonymousClassInsideMethod.anonymousClassInsideMethod()V @13: aload_3\n  Reason:\n    Type top (current frame, locals[3]) is not assignable to reference type\n  Current Frame:\n    bci: @13\n    flags: { }\n    locals: { \u0027AnonymousClassInsideMethod\u0027, top, \u0027AnonymousClassInsideMethod$1\u0027 }\n    stack: { \u0027AnonymousClassInsideMethod$MathOperation\u0027 }\n  Bytecode:\n    0000000: bb00 0859 2ab7 000c 4d2c c000 0e2d b900\n    0000010: 1101 00b1                              \n"
+  },
+  {
+    "className": "AnonymousDiamondOperator$1.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Bad type on operand stack in putfield\nException Details:\n  Location:\n    AnonymousDiamondOperator$1.\u003cinit\u003e(LAnonymousDiamondOperator;)V @3: putfield\n  Reason:\n    Type uninitializedThis (current frame, stack[1]) is not assignable to \u0027AnonymousDiamondOperator$1\u0027 (constant pool 25)\n  Current Frame:\n    bci: @3\n    flags: { flagThisUninit }\n    locals: { uninitializedThis, \u0027AnonymousDiamondOperator\u0027 }\n    stack: { uninitializedThis, uninitializedThis, \u0027AnonymousDiamondOperator\u0027 }\n  Bytecode:\n    0000000: 2a2a 2bb5 0019 b700 1cb1               \n"
+  },
+  {
+    "className": "AnonymousDiamondOperator.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Bad type on operand stack\nException Details:\n  Location:\n    AnonymousDiamondOperator.main([Ljava/lang/String;)V @17: invokevirtual\n  Reason:\n    Type \u0027java/io/PrintStream\u0027 (current frame, stack[0]) is not assignable to integer\n  Current Frame:\n    bci: @17\n    flags: { }\n    locals: { \u0027[Ljava/lang/String;\u0027, top, \u0027AnonymousDiamondOperator\u0027, top, integer }\n    stack: { \u0027java/io/PrintStream\u0027 }\n  Bytecode:\n    0000000: bb00 0259 b700 0a4d b200 102c b600 1436\n    0000010: 04b6 001a b1                           \n"
+  },
+  {
+    "className": "ArrayConstant",
+    "methods": [
+      {
+        "name": "value",
+        "returnType": "[Ljava.lang.String;"
+      }
+    ],
+    "instanceCreation": "no-arg constructor not available"
+  },
+  {
+    "className": "AssertStatement.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Bad local variable type\nException Details:\n  Location:\n    AssertStatement.\u003cclinit\u003e()V @2: aload_0\n  Reason:\n    Type top (current frame, locals[0]) is not assignable to reference type\n  Current Frame:\n    bci: @2\n    flags: { }\n    locals: { }\n    stack: { \u0027java/lang/String\u0027 }\n  Bytecode:\n    0000000: 121d 2ab6 0023 3c1b 03a0 0008 043d a700\n    0000010: 0612 243d 5fb3 000d b1                 \n  Stackmap Table:\n    full_frame(@17,{Top,Integer},{Object[#38]})\n    full_frame(@20,{Top,Integer,Integer},{Object[#38]})\n"
+  },
+  {
+    "className": "Autoboxing",
+    "methods": [
+      {
+        "name": "autoboxing",
+        "returnType": "void"
+      }
+    ],
+    "instanceCreation": "success"
+  },
+  {
+    "className": "AutomaticWidening",
+    "methods": [
+      {
+        "name": "automaticWidening",
+        "returnType": "void"
+      }
+    ],
+    "instanceCreation": "success"
+  },
+  {
+    "className": "BinaryLiteralInInt",
+    "methods": [
+      {
+        "name": "binaryLiteralInInt",
+        "returnType": "void"
+      }
+    ],
+    "instanceCreation": "success"
+  },
+  {
+    "className": "BitwiseOperationsInt",
+    "methods": [
+      {
+        "name": "bitwiseOpComplement",
+        "returnType": "void"
+      },
+      {
+        "name": "bitwiseOpUnsignedRightShift",
+        "returnType": "void"
+      },
+      {
+        "name": "bitwiseOpSignedRightShift",
+        "returnType": "void"
+      },
+      {
+        "name": "bitwiseOpLeftShift",
+        "returnType": "void"
+      },
+      {
+        "name": "bitwiseOpAnd",
+        "returnType": "void"
+      },
+      {
+        "name": "bitwiseOpOr",
+        "returnType": "void"
+      },
+      {
+        "name": "bitwiseOpXor",
+        "returnType": "void"
+      }
+    ],
+    "instanceCreation": "success"
+  },
+  {
+    "className": "BooleanOperators",
+    "methods": [
+      {
+        "name": "relationalOpNotEqual",
+        "returnType": "void"
+      },
+      {
+        "name": "ConditionalOpAnd",
+        "returnType": "void"
+      },
+      {
+        "name": "logicalOpAnd",
+        "returnType": "void"
+      },
+      {
+        "name": "conditionalOp",
+        "returnType": "void"
+      },
+      {
+        "name": "logicalOpXor",
+        "returnType": "void"
+      },
+      {
+        "name": "conditionalOpOr",
+        "returnType": "void"
+      },
+      {
+        "name": "relationalOpEqual",
+        "returnType": "void"
+      },
+      {
+        "name": "logicalOpOr",
+        "returnType": "void"
+      },
+      {
+        "name": "complementOp",
+        "returnType": "void"
+      }
+    ],
+    "instanceCreation": "success"
+  },
+  {
+    "className": "BreakInWhileLoop",
+    "methods": [
+      {
+        "name": "breakInWhileLoop",
+        "returnType": "void"
+      }
+    ],
+    "instanceCreation": "success"
+  },
+  {
+    "className": "CastingInNumTypes.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Bad type on operand stack\nException Details:\n  Location:\n    CastingInNumTypes.displayNum()V @43: invokevirtual\n  Reason:\n    Type \u0027java/io/PrintStream\u0027 (current frame, stack[0]) is not assignable to double_2nd\n  Current Frame:\n    bci: @43\n    flags: { }\n    locals: { \u0027CastingInNumTypes\u0027, integer, integer, integer, top, float, double, double_2nd, double, double_2nd }\n    stack: { \u0027java/io/PrintStream\u0027 }\n  Bytecode:\n    0000000: 043c 053d 063e 1400 0a37 0412 0c38 0514\n    0000010: 000d 3906 b200 141b b600 1ab2 0014 1d3c\n    0000020: 1bb6 001a b200 141c 8739 08b6 001d b200\n    0000030: 1416 0488 360a 9336 0bb6 001a b200 1417\n    0000040: 058d 3908 b600 1db2 0014 1604 8836 0cb6\n    0000050: 001a b200 1418 0690 380d b600 20b2 0014\n    0000060: 1806 b600 1d14 0021 3908 b200 1490 380d\n    0000070: b600 20b2 0014 8f37 0eb6 0025 b200 148e\n    0000080: 360c b600 1ab2 0014 8e36 0c93 360f b600\n    0000090: 1ab2 0014 8e36 0c91 3c1b b600 1ab1     \n"
+  },
+  {
+    "className": "CharLiterals.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Control flow falls through code end\nException Details:\n  Location:\n    CharLiterals.specialChar()V @3: \u003cinvalid\u003e\n  Reason:\n    Error exists in the bytecode\n  Bytecode:\n    0000000: 113c b1                                \n"
+  },
+  {
+    "className": "ClassAnnotation",
+    "methods": [
+      {
+        "name": "single",
+        "returnType": "java.lang.Class"
+      },
+      {
+        "name": "array",
+        "returnType": "[Ljava.lang.Class;"
+      }
+    ],
+    "instanceCreation": "no-arg constructor not available"
+  },
+  {
+    "className": "Color.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file Color"
+  },
+  {
+    "className": "ContinueInWhileLoop",
+    "methods": [
+      {
+        "name": "continueInWhileLoop",
+        "returnType": "void"
+      }
+    ],
+    "instanceCreation": "success"
+  },
+  {
+    "className": "CossiInput$CossiInputBuilder.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Operand stack overflow\nException Details:\n  Location:\n    CossiInput$CossiInputBuilder.build()LCossiInput; @0: new\n  Reason:\n    Exceeded max stack size.\n  Current Frame:\n    bci: @0\n    flags: { }\n    locals: { \u0027CossiInput$CossiInputBuilder\u0027 }\n    stack: { }\n  Bytecode:\n    0000000: bb00 0859 2ab4 000c 2ab4 000f 2ab4 0013\n    0000010: 2ab4 0016 2ab4 001a 1506 039f 000a 2ab4\n    0000020: 001e a700 08b8 0022 3a07 2ab4 0025 1506\n    0000030: 039f 000a 2ab4 0028 a700 08b8 002b 3a08\n    0000040: 2ab4 002e 1506 039f 000a 2ab4 0032 a700\n    0000050: 08b8 0036 3a09 2ab4 0039 1506 039f 000a\n    0000060: 2ab4 003c a700 08b8 003f 3a0a 2ab4 0042\n    0000070: 1506 039f 000a 2ab4 0045 a700 08b8 0048\n    0000080: 3a0b 2ab4 004b 1506 039f 000a 2ab4 004e\n    0000090: a700 08b8 0051 3a0c 2ab4 0054 1506 039f\n    00000a0: 000a 2ab4 0057 a700 08b8 005a 3a0d 2ab4\n    00000b0: 005d 1506 039f 000a 2ab4 0060 a700 08b8\n    00000c0: 0063 3a0e 2ab4 0066 1506 039f 000a 2ab4\n    00000d0: 0069 a700 08b8 006c 3a0f 2ab4 006f 1506\n    00000e0: 039f 000a 2ab4 0072 a700 08b8 0075 3a10\n    00000f0: 2ab4 0078 1506 039f 000a 2ab4 007b a700\n    0000100: 08b8 007e 3a11 2ab4 0081 1506 039f 000a\n    0000110: 2ab4 0084 a700 08b8 0087 3a12 2ab4 008a\n    0000120: 1506 039f 000a 2ab4 008d a700 08b8 0090\n    0000130: 3a13 2ab4 0093 1506 039f 000a 2ab4 0096\n    0000140: a700 08b8 0099 3a14 2ab4 009c 1515 039f\n    0000150: 000a 2ab4 00a0 a700 08b8 00a4 3a16 2ab4\n    0000160: 00a7 1506 039f 000a 2ab4 00aa a700 08b8\n    0000170: 00ad 3a17 2ab4 00b0 1506 039f 000a 2ab4\n    0000180: 00b3 a700 08b8 00b6 3a18 2ab4 00b9 1506\n    0000190: 039f 000a 2ab4 00bc a700 08b8 00bf 3a19\n    00001a0: 2ab4 00c2 1506 039f 000a 2ab4 00c5 a700\n    00001b0: 08b8 00c8 3a1a 2ab4 00cb 1506 039f 000a\n    00001c0: 2ab4 00ce a700 08b8 00d1 3a1b b700 d5b0\n    00001d0:                                        \n"
+  },
+  {
+    "className": "CossiInput.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Operand stack underflow\nException Details:\n  Location:\n    CossiInput.access$000()Ljava/util/Set; @4: areturn\n  Reason:\n    Attempt to pop empty stack.\n  Current Frame:\n    bci: @4\n    flags: { }\n    locals: { \u0027java/util/Set\u0027 }\n    stack: { }\n  Bytecode:\n    0000000: b800 8c4b b0                           \n"
+  },
+  {
+    "className": "CreateNewInstance",
+    "methods": [
+      {
+        "name": "createNewInstance",
+        "returnType": "void"
+      }
+    ],
+    "instanceCreation": "success"
+  },
+  {
+    "className": "CustomException",
+    "methods": [],
+    "instanceCreation": "no-arg constructor not available"
+  },
+  {
+    "className": "DeclareConstructor",
+    "methods": [],
+    "instanceCreation": "no-arg constructor not available"
+  },
+  {
+    "className": "DeclareEnum.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Bad local variable type\nException Details:\n  Location:\n    DeclareEnum.declareEnum()V @10: iload_2\n  Reason:\n    Type top (current frame, locals[2]) is not assignable to integer\n  Current Frame:\n    bci: @10\n    flags: { }\n    locals: { \u0027DeclareEnum\u0027, \u0027[LDeclareEnum$Type;\u0027, top, integer }\n    stack: { integer, integer }\n  Bytecode:\n    0000000: b800 0c4c 2bbe 120d 3e1d 1ca2 0014 2b1d\n    0000010: 323a 04b2 0013 1904 b600 191d 0460 3eb1\n    0000020:                                        \n  Stackmap Table:\n    full_frame(@31,{Object[#2],Object[#27],Top,Integer},{Integer})\n"
+  },
+  {
+    "className": "DeclareEnumWithConstructor.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Bad local variable type\nException Details:\n  Location:\n    DeclareEnumWithConstructor.main([Ljava/lang/String;)V @6: aload_1\n  Reason:\n    Type top (current frame, locals[1]) is not assignable to reference type\n  Current Frame:\n    bci: @6\n    flags: { }\n    locals: { \u0027[Ljava/lang/String;\u0027 }\n    stack: { \u0027DeclareEnumWithConstructor$Number\u0027, \u0027java/io/PrintStream\u0027 }\n  Bytecode:\n    0000000: b200 0cb2 0012 2bb8 0016 3eb6 001c b1  \n"
+  },
+  {
+    "className": "DeclareField",
+    "methods": [
+      {
+        "name": "main",
+        "returnType": "void"
+      },
+      {
+        "name": "display",
+        "returnType": "void"
+      },
+      {
+        "name": "staticDisplay",
+        "returnType": "void"
+      }
+    ],
+    "instanceCreation": "failed: class transformer.textsimilarity.ClassFileTester cannot access a member of class DeclareField with modifiers \"\""
+  },
+  {
+    "className": "DeclareFloat",
+    "methods": [
+      {
+        "name": "declareFloatMethod",
+        "returnType": "void"
+      }
+    ],
+    "instanceCreation": "failed: null"
+  },
+  {
+    "className": "DeclareInnerClass.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Bad operand type when invoking \u003cinit\u003e\nException Details:\n  Location:\n    DeclareInnerClass.main([Ljava/lang/String;)V @21: invokespecial\n  Reason:\n    Invalid type: \u0027java/lang/Object\u0027 (current frame, stack[2])\n  Current Frame:\n    bci: @21\n    flags: { }\n    locals: { \u0027[Ljava/lang/String;\u0027, top, \u0027DeclareInnerClass\u0027 }\n    stack: { uninitialized 12, uninitialized 12, \u0027java/lang/Object\u0027, \u0027DeclareInnerClass\u0027 }\n  Bytecode:\n    0000000: bb00 0259 b700 1f4d 2cb6 0021 bb00 2359\n    0000010: 2cb8 0029 2cb7 002c 3a04 1904 b600 2fb1\n    0000020:                                        \n"
+  },
+  {
+    "className": "DeclareInt",
+    "methods": [
+      {
+        "name": "declareIntMethod",
+        "returnType": "void"
+      }
+    ],
+    "instanceCreation": "failed: null"
+  },
+  {
+    "className": "DeclareLong",
+    "methods": [
+      {
+        "name": "main",
+        "returnType": "void"
+      },
+      {
+        "name": "declareLongMethod",
+        "returnType": "void"
+      }
+    ],
+    "instanceCreation": "failed: null"
+  },
+  {
+    "className": "DefaultMethodInterface",
+    "methods": [
+      {
+        "name": "defaultInterfaceMethod",
+        "returnType": "void"
+      },
+      {
+        "name": "interfaceMethod",
+        "returnType": "void"
+      }
+    ],
+    "instanceCreation": "no-arg constructor not available"
+  },
+  {
+    "className": "DefaultMethodInterfaceImpl",
+    "methods": [
+      {
+        "name": "main",
+        "returnType": "void"
+      },
+      {
+        "name": "defaultInterfaceMethod",
+        "returnType": "void"
+      },
+      {
+        "name": "interfaceMethod",
+        "returnType": "void"
+      }
+    ],
+    "instanceCreation": "failed: class transformer.textsimilarity.ClassFileTester cannot access a member of class DefaultMethodInterfaceImpl with modifiers \"\""
+  },
+  {
+    "className": "DoWhileLoop",
+    "methods": [
+      {
+        "name": "doWhileLoop",
+        "returnType": "void"
+      }
+    ],
+    "instanceCreation": "success"
+  },
+  {
+    "className": "DynamicInvoke",
+    "methods": [
+      {
+        "name": "stringConcatenation",
+        "returnType": "void"
+      }
+    ],
+    "instanceCreation": "success"
+  },
+  {
+    "className": "Employee",
+    "methods": [
+      {
+        "name": "getSalary",
+        "returnType": "int"
+      }
+    ],
+    "instanceCreation": "no-arg constructor not available"
+  },
+  {
+    "className": "EmptyStatement",
+    "methods": [
+      {
+        "name": "emptyStatement",
+        "returnType": "void"
+      }
+    ],
+    "instanceCreation": "success"
+  },
+  {
+    "className": "EnumAnnotation.class",
+    "errorType": "NoClassDefFoundError",
+    "errorMessage": "AnnotationUsage$Enums"
+  },
+  {
+    "className": "EscapeSequencesInString",
+    "methods": [
+      {
+        "name": "escapeBackslashR",
+        "returnType": "void"
+      },
+      {
+        "name": "escapeBackslash",
+        "returnType": "void"
+      },
+      {
+        "name": "escapeSingleQuote",
+        "returnType": "void"
+      },
+      {
+        "name": "escapeDoubleQuotes",
+        "returnType": "void"
+      },
+      {
+        "name": "escapeBackslashB",
+        "returnType": "void"
+      },
+      {
+        "name": "escapeBackslashF",
+        "returnType": "void"
+      },
+      {
+        "name": "escapeBackslashN",
+        "returnType": "void"
+      },
+      {
+        "name": "escapeBackslashT",
+        "returnType": "void"
+      }
+    ],
+    "instanceCreation": "success"
+  },
+  {
+    "className": "EvaluationOrderWithParentheses",
+    "methods": [
+      {
+        "name": "evaluationOrderWithParentheses",
+        "returnType": "void"
+      }
+    ],
+    "instanceCreation": "success"
+  },
+  {
+    "className": "FieldMerge.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Illegal class name \"java/lang/String[]\" in class file FieldMerge"
+  },
+  {
+    "className": "FinalMethod",
+    "methods": [
+      {
+        "name": "finalMethod",
+        "returnType": "void"
+      }
+    ],
+    "instanceCreation": "success"
+  },
+  {
+    "className": "FinalVariable",
+    "methods": [
+      {
+        "name": "finalVariable",
+        "returnType": "void"
+      }
+    ],
+    "instanceCreation": "success"
+  },
+  {
+    "className": "ForEachLoop.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Bad local variable type\nException Details:\n  Location:\n    ForEachLoop.forEachLoop()V @5: aload_1\n  Reason:\n    Type top (current frame, locals[1]) is not assignable to reference type\n  Current Frame:\n    bci: @5\n    flags: { }\n    locals: { \u0027ForEachLoop\u0027 }\n    stack: { \u0027[I\u0027, \u0027[I\u0027 }\n  Bytecode:\n    0000000: 1009 bc0a 592b 0310 0a4f 2b04 1014 4f2b\n    0000010: 0510 1e4f 2b06 1028 4f2b 0710 324f 2b08\n    0000020: 103c 4f2b 1006 1047 4f2b 1007 1050 4f2b\n    0000030: 1008 105a 4f12 073e 2cbe 1207 3605 1505\n    0000040: 1504 a200 132c 1505 2e36 061d 0460 3e15\n    0000050: 0504 6036 05b1                         \n  Stackmap Table:\n    full_frame(@85,{Object[#2],Top,Top,Integer,Top,Integer},{Object[#9],Object[#9],Integer})\n"
+  },
+  {
+    "className": "ForLoop",
+    "methods": [
+      {
+        "name": "forLoop",
+        "returnType": "void"
+      }
+    ],
+    "instanceCreation": "success"
+  },
+  {
+    "className": "GenericAnnotation$FutureSootAnnotation",
+    "methods": [],
+    "instanceCreation": "no-arg constructor not available"
+  },
+  {
+    "className": "GenericAnnotation",
+    "methods": [],
+    "instanceCreation": "success"
+  },
+  {
+    "className": "GenericTypeParamOnClass.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Operand stack underflow\nException Details:\n  Location:\n    GenericTypeParamOnClass.genericTypeParamOnClass()V @15: invokestatic\n  Reason:\n    Attempt to pop empty stack.\n  Current Frame:\n    bci: @15\n    flags: { }\n    locals: { \u0027GenericTypeParamOnClass\u0027, top, \u0027GenericTypeParamOnClass$A\u0027, \u0027java/lang/Integer\u0027 }\n    stack: { \u0027GenericTypeParamOnClass$A\u0027 }\n  Bytecode:\n    0000000: bb00 0859 2ab7 000c 4d08 b800 124e 2cb8\n    0000010: 0016 2cb6 001a 3a04 c000 0e3a 0519 05b6\n    0000020: 001e 3606 b1                           \n"
+  },
+  {
+    "className": "GenericTypeParamOnMethod",
+    "methods": [
+      {
+        "name": "a",
+        "returnType": "void"
+      },
+      {
+        "name": "genericTypeParamOnMethod",
+        "returnType": "void"
+      }
+    ],
+    "instanceCreation": "success"
+  },
+  {
+    "className": "GenTypeParam.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Operand stack overflow\nException Details:\n  Location:\n    GenTypeParam.copy(Ljava/util/List;Ljava/util/List;)V @0: ldc\n  Reason:\n    Exceeded max stack size.\n  Current Frame:\n    bci: @0\n    flags: { }\n    locals: { \u0027GenTypeParam\u0027, \u0027java/util/List\u0027, \u0027java/util/List\u0027 }\n    stack: { }\n  Bytecode:\n    0000000: 120f 3eb9 0015 0100 1d15 04a2 0040 b900\n    0000010: 1902 002b b900 1d02 00b2 0023 bb00 2559\n    0000020: b700 29b9 0019 0200 1907 1908 b600 2d3a\n    0000030: 0919 0912 2fb6 0032 3a07 1907 b600 363a\n    0000040: 0ab6 003c 1d04 603e a7ff bbb1          \n"
+  },
+  {
+    "className": "IfElseStatement.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Operand stack underflow\nException Details:\n  Location:\n    IfElseStatement.ifElseCascadingElseIfInElseStatement(I)I @41: ireturn\n  Reason:\n    Attempt to pop empty stack.\n  Current Frame:\n    bci: @41\n    flags: { }\n    locals: { \u0027IfElseStatement\u0027, integer, integer, integer }\n    stack: { }\n  Bytecode:\n    0000000: 1207 3d1b 1208 a200 0804 3ea7 001e 1b12\n    0000010: 08a2 0009 1015 3ea7 0012 1b12 0aa4 0009\n    0000020: 1016 3ea7 0006 1017 3eac               \n  Stackmap Table:\n    append_frame(@14,Integer)\n    same_frame(@26)\n    same_frame(@38)\n    append_frame(@41,Integer)\n"
+  },
+  {
+    "className": "InfiniteLoop",
+    "methods": [
+      {
+        "name": "stmtLoop",
+        "returnType": "void"
+      }
+    ],
+    "instanceCreation": "failed: class transformer.textsimilarity.ClassFileTester cannot access a member of class InfiniteLoop with modifiers \"\""
+  },
+  {
+    "className": "Initialize3DimensionalArrays.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Illegal class name \"Ljava/lang/String;\" in class file Initialize3DimensionalArrays"
+  },
+  {
+    "className": "InitializeArraysWhileDeclaration.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Operand stack underflow\nException Details:\n  Location:\n    InitializeArraysWhileDeclaration.charArrays()V @15: castore\n  Reason:\n    Attempt to pop empty stack.\n  Current Frame:\n    bci: @15\n    flags: { }\n    locals: { \u0027InitializeArraysWhileDeclaration\u0027 }\n    stack: { integer, integer }\n  Bytecode:\n    0000000: 06bc 0559 0310 4155 0410 6255 0510 2655\n    0000010: 4db1                                   \n"
+  },
+  {
+    "className": "InitializeArraysWithIndex.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Bad local variable type\nException Details:\n  Location:\n    InitializeArraysWithIndex.charArrays()V @4: aload_1\n  Reason:\n    Type top (current frame, locals[1]) is not assignable to reference type\n  Current Frame:\n    bci: @4\n    flags: { }\n    locals: { \u0027InitializeArraysWithIndex\u0027 }\n    stack: { \u0027[C\u0027, \u0027[C\u0027 }\n  Bytecode:\n    0000000: 06bc 0559 2b03 1041 552b 0410 6255 2b05\n    0000010: 1026 55b1                              \n"
+  },
+  {
+    "className": "InitializeMultidimensionalArrays.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Illegal class name \"Ljava/lang/String;\" in class file InitializeMultidimensionalArrays"
+  },
+  {
+    "className": "InstanceOfCheck.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Bad type on operand stack\nException Details:\n  Location:\n    InstanceOfCheck.instanceOfCheckMethod()V @15: invokevirtual\n  Reason:\n    Type \u0027java/io/PrintStream\u0027 (current frame, stack[1]) is not assignable to integer\n  Current Frame:\n    bci: @15\n    flags: { }\n    locals: { \u0027InstanceOfCheck\u0027, top, integer }\n    stack: { \u0027InstanceOfCheck\u0027, \u0027java/io/PrintStream\u0027 }\n  Bytecode:\n    0000000: bb00 0259 b700 09b2 000f 2ac1 0004 3db6\n    0000010: 0015 b1                                \n"
+  },
+  {
+    "className": "InstanceOfCheckSuper",
+    "methods": [],
+    "instanceCreation": "failed: class transformer.textsimilarity.ClassFileTester cannot access a member of class InstanceOfCheckSuper with modifiers \"\""
+  },
+  {
+    "className": "InterfaceImpl",
+    "methods": [
+      {
+        "name": "interfaceMethod",
+        "returnType": "void"
+      }
+    ],
+    "instanceCreation": "no-arg constructor not available"
+  },
+  {
+    "className": "InterfaceImplClass",
+    "methods": [
+      {
+        "name": "interfaceMethod",
+        "returnType": "void"
+      }
+    ],
+    "instanceCreation": "failed: class transformer.textsimilarity.ClassFileTester cannot access a member of class InterfaceImplClass with modifiers \"\""
+  },
+  {
+    "className": "InterfaceImplDummy",
+    "methods": [
+      {
+        "name": "interfaceMethod",
+        "returnType": "void"
+      }
+    ],
+    "instanceCreation": "no-arg constructor not available"
+  },
+  {
+    "className": "InterfaceVisibleAnnotation",
+    "methods": [],
+    "instanceCreation": "no-arg constructor not available"
+  },
+  {
+    "className": "Java9AnonymousDiamond$1.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Bad type on operand stack in putfield\nException Details:\n  Location:\n    Java9AnonymousDiamond$1.\u003cinit\u003e(LJava9AnonymousDiamond;)V @3: putfield\n  Reason:\n    Type uninitializedThis (current frame, stack[1]) is not assignable to \u0027Java9AnonymousDiamond$1\u0027 (constant pool 19)\n  Current Frame:\n    bci: @3\n    flags: { flagThisUninit }\n    locals: { uninitializedThis, \u0027Java9AnonymousDiamond\u0027 }\n    stack: { uninitializedThis, uninitializedThis, \u0027Java9AnonymousDiamond\u0027 }\n  Bytecode:\n    0000000: 2a2a 2bb5 0013 b700 16b1               \n"
+  },
+  {
+    "className": "Java9AnonymousDiamond.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Operand stack underflow\nException Details:\n  Location:\n    Java9AnonymousDiamond.anonymousDiamond()Ljava/util/concurrent/Callable; @9: areturn\n  Reason:\n    Attempt to pop empty stack.\n  Current Frame:\n    bci: @9\n    flags: { }\n    locals: { \u0027Java9AnonymousDiamond\u0027, top, \u0027Java9AnonymousDiamond$1\u0027 }\n    stack: { }\n  Bytecode:\n    0000000: bb00 0859 2ab7 000c 4db0               \n"
+  },
+  {
+    "className": "LabelledLoopBreak",
+    "methods": [
+      {
+        "name": "labelledLoopBreak",
+        "returnType": "void"
+      }
+    ],
+    "instanceCreation": "success"
+  },
+  {
+    "className": "LabelStatement",
+    "methods": [
+      {
+        "name": "labelStatement",
+        "returnType": "void"
+      }
+    ],
+    "instanceCreation": "success"
+  },
+  {
+    "className": "LocalMerging.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Operand stack overflow\nException Details:\n  Location:\n    LocalMerging.localMergingWithInlining(I)V @0: iconst_2\n  Reason:\n    Exceeded max stack size.\n  Current Frame:\n    bci: @0\n    flags: { }\n    locals: { \u0027LocalMerging\u0027, integer }\n    stack: { }\n  Bytecode:\n    0000000: 05bd 0008 5903 120a 5304 120c 534e 0436\n    0000010: 041b 04a0 000a 120d 3605 a700 0815 0491\n    0000020: 3605 2d15 0532 3a06 b1                 \n"
+  },
+  {
+    "className": "MethodAcceptingLamExpr.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Method \"type\" in class MethodAcceptingLamExpr has illegal signature \"methodtype: double __METHODTYPE__(double)\""
+  },
+  {
+    "className": "MethodAcceptingVar.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Operand stack underflow\nException Details:\n  Location:\n    MethodAcceptingVar.byteVariable(B)V @4: i2b\n  Reason:\n    Attempt to pop empty stack.\n  Current Frame:\n    bci: @4\n    flags: { }\n    locals: { \u0027MethodAcceptingVar\u0027, integer, integer }\n    stack: { }\n  Bytecode:\n    0000000: 1b04 603d 913c b1                      \n"
+  },
+  {
+    "className": "MethodOverloading.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Operand stack underflow\nException Details:\n  Location:\n    MethodOverloading.calculate(II)I @4: ireturn\n  Reason:\n    Attempt to pop empty stack.\n  Current Frame:\n    bci: @4\n    flags: { }\n    locals: { \u0027MethodOverloading\u0027, integer, integer }\n    stack: { }\n  Bytecode:\n    0000000: 1b1c 603c ac                           \n"
+  },
+  {
+    "className": "MethodOverriding",
+    "methods": [
+      {
+        "name": "calculateArea",
+        "returnType": "void"
+      }
+    ],
+    "instanceCreation": "success"
+  },
+  {
+    "className": "MethodOverridingSubclass",
+    "methods": [
+      {
+        "name": "calculateArea",
+        "returnType": "void"
+      }
+    ],
+    "instanceCreation": "success"
+  },
+  {
+    "className": "MethodReference.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Method \"type\" in class MethodReference has illegal signature \"methodtype: void __METHODTYPE__()\""
+  },
+  {
+    "className": "MethodReturningVar.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Operand stack underflow\nException Details:\n  Location:\n    MethodReturningVar.charVariable()C @3: ireturn\n  Reason:\n    Attempt to pop empty stack.\n  Current Frame:\n    bci: @3\n    flags: { }\n    locals: { \u0027MethodReturningVar\u0027, integer }\n    stack: { }\n  Bytecode:\n    0000000: 1061 3cac                              \n"
+  },
+  {
+    "className": "MultiInterfaceImplClass",
+    "methods": [
+      {
+        "name": "interfaceMethod",
+        "returnType": "void"
+      }
+    ],
+    "instanceCreation": "failed: class transformer.textsimilarity.ClassFileTester cannot access a member of class MultiInterfaceImplClass with modifiers \"\""
+  },
+  {
+    "className": "MultilineStrings",
+    "methods": [
+      {
+        "name": "multi",
+        "returnType": "void"
+      }
+    ],
+    "instanceCreation": "failed: class transformer.textsimilarity.ClassFileTester cannot access a member of class MultilineStrings with modifiers \"\""
+  },
+  {
+    "className": "MultiTryCatch.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Operand stack overflow\nException Details:\n  Location:\n    MultiTryCatch.printFile()V @0: new\n  Reason:\n    Exceeded max stack size.\n  Current Frame:\n    bci: @0\n    flags: { }\n    locals: { \u0027MultiTryCatch\u0027 }\n    stack: { }\n  Bytecode:\n    0000000: bb00 1359 bb00 1559 c000 1512 17b7 001a\n    0000010: c000 1cb7 001f 3a05 1221 3a06 0536 07b2\n    0000020: 0027 1507 b600 2d19 05b6 0031 3a09 1909\n    0000030: 01a5 0043 b200 2719 09b6 0033 a7ff eb3a\n    0000040: 0b19 05b6 0036 a700 3d3a 0ca7 0038 3a0d\n    0000050: 3a0b 1905 b600 36a7 002c 3a0e 3a0b a700\n    0000060: 253a 0f3a 0b19 05b6 0036 a700 073a 103a\n    0000070: 0b19 0bbf 1905 b600 36a7 000a 3a11 3a0b\n    0000080: a700 03b1                              \n  Exception Handler Table:\n    bci [24, 63] \u003d\u003e handler: 63\n    bci [24, 63] \u003d\u003e handler: 78\n    bci [24, 63] \u003d\u003e handler: 63\n    bci [24, 63] \u003d\u003e handler: 97\n    bci [65, 70] \u003d\u003e handler: 73\n    bci [82, 87] \u003d\u003e handler: 90\n    bci [97, 101] \u003d\u003e handler: 97\n    bci [101, 106] \u003d\u003e handler: 109\n    bci [116, 121] \u003d\u003e handler: 124\n"
+  },
+  {
+    "className": "MyClass",
+    "methods": [
+      {
+        "name": "add",
+        "returnType": "java.lang.Object"
+      }
+    ],
+    "instanceCreation": "failed: class transformer.textsimilarity.ClassFileTester cannot access a member of class MyClass with modifiers \"\""
+  },
+  {
+    "className": "MyInnerAnnotation",
+    "methods": [
+      {
+        "name": "secondInnerAnnotation",
+        "returnType": "MySecondInnerAnnotation"
+      }
+    ],
+    "instanceCreation": "no-arg constructor not available"
+  },
+  {
+    "className": "MyInterface",
+    "methods": [
+      {
+        "name": "display",
+        "returnType": "void"
+      }
+    ],
+    "instanceCreation": "no-arg constructor not available"
+  },
+  {
+    "className": "MyOuterAnnotation",
+    "methods": [
+      {
+        "name": "innerAnnotation",
+        "returnType": "MyInnerAnnotation"
+      }
+    ],
+    "instanceCreation": "no-arg constructor not available"
+  },
+  {
+    "className": "MySecondInnerAnnotation",
+    "methods": [
+      {
+        "name": "value",
+        "returnType": "java.lang.String"
+      }
+    ],
+    "instanceCreation": "no-arg constructor not available"
+  },
+  {
+    "className": "NamedClassInsideMethod.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Bad local variable type\nException Details:\n  Location:\n    NamedClassInsideMethod.namedClassInsideMethod()V @13: aload_3\n  Reason:\n    Type top (current frame, locals[3]) is not assignable to reference type\n  Current Frame:\n    bci: @13\n    flags: { }\n    locals: { \u0027NamedClassInsideMethod\u0027, top, \u0027NamedClassInsideMethod$1MyMathOperation\u0027 }\n    stack: { \u0027NamedClassInsideMethod$MathOperation\u0027 }\n  Bytecode:\n    0000000: bb00 0859 2ab7 000c 4d2c c000 0e2d b900\n    0000010: 1101 00b1                              \n"
+  },
+  {
+    "className": "NativeMethod",
+    "methods": [
+      {
+        "name": "returnResult",
+        "returnType": "int"
+      }
+    ],
+    "instanceCreation": "success"
+  },
+  {
+    "className": "NestedAnnotation",
+    "methods": [],
+    "instanceCreation": "failed: class transformer.textsimilarity.ClassFileTester cannot access a member of class NestedAnnotation with modifiers \"\""
+  },
+  {
+    "className": "NewCodeBlockInMethod",
+    "methods": [
+      {
+        "name": "newCodeBlockInMethod",
+        "returnType": "void"
+      }
+    ],
+    "instanceCreation": "success"
+  },
+  {
+    "className": "NoModifierClass",
+    "methods": [
+      {
+        "name": "privateMethod",
+        "returnType": "void"
+      },
+      {
+        "name": "protectedMethod",
+        "returnType": "void"
+      },
+      {
+        "name": "noModifierMethod",
+        "returnType": "void"
+      },
+      {
+        "name": "publicMethod",
+        "returnType": "void"
+      }
+    ],
+    "instanceCreation": "failed: class transformer.textsimilarity.ClassFileTester cannot access a member of class NoModifierClass with modifiers \"\""
+  },
+  {
+    "className": "NonInheritableOnClass",
+    "methods": [
+      {
+        "name": "count",
+        "returnType": "int"
+      }
+    ],
+    "instanceCreation": "no-arg constructor not available"
+  },
+  {
+    "className": "NullVariable",
+    "methods": [
+      {
+        "name": "nullVariable",
+        "returnType": "void"
+      }
+    ],
+    "instanceCreation": "success"
+  },
+  {
+    "className": "OnClass",
+    "methods": [
+      {
+        "name": "author",
+        "returnType": "java.lang.String"
+      },
+      {
+        "name": "sthBlue",
+        "returnType": "int"
+      }
+    ],
+    "instanceCreation": "no-arg constructor not available"
+  },
+  {
+    "className": "OnField",
+    "methods": [
+      {
+        "name": "isRipe",
+        "returnType": "java.lang.String"
+      },
+      {
+        "name": "sthNew",
+        "returnType": "int"
+      }
+    ],
+    "instanceCreation": "no-arg constructor not available"
+  },
+  {
+    "className": "OnLocal",
+    "methods": [
+      {
+        "name": "isRubberDuck",
+        "returnType": "boolean"
+      }
+    ],
+    "instanceCreation": "no-arg constructor not available"
+  },
+  {
+    "className": "OnMethod",
+    "methods": [
+      {
+        "name": "sthBorrowed",
+        "returnType": "int"
+      },
+      {
+        "name": "isDuck",
+        "returnType": "boolean"
+      }
+    ],
+    "instanceCreation": "no-arg constructor not available"
+  },
+  {
+    "className": "OnMethodRepeatable",
+    "methods": [
+      {
+        "name": "countOnMe",
+        "returnType": "int"
+      }
+    ],
+    "instanceCreation": "no-arg constructor not available"
+  },
+  {
+    "className": "OnMethodRepeatables",
+    "methods": [
+      {
+        "name": "value",
+        "returnType": "[LOnMethodRepeatable;"
+      },
+      {
+        "name": "containerValue",
+        "returnType": "java.lang.String"
+      }
+    ],
+    "instanceCreation": "no-arg constructor not available"
+  },
+  {
+    "className": "OnParameter",
+    "methods": [
+      {
+        "name": "isBigDuck",
+        "returnType": "boolean"
+      }
+    ],
+    "instanceCreation": "no-arg constructor not available"
+  },
+  {
+    "className": "Percentage",
+    "methods": [
+      {
+        "name": "calcPercentage",
+        "returnType": "double"
+      }
+    ],
+    "instanceCreation": "no-arg constructor not available"
+  },
+  {
+    "className": "Person",
+    "methods": [],
+    "instanceCreation": "no-arg constructor not available"
+  },
+  {
+    "className": "PrivateMethodInterface.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Bad type on operand stack\nException Details:\n  Location:\n    PrivateMethodInterface.add(II)V @7: invokevirtual\n  Reason:\n    Type \u0027java/io/PrintStream\u0027 (current frame, stack[0]) is not assignable to integer\n  Current Frame:\n    bci: @7\n    flags: { }\n    locals: { \u0027PrivateMethodInterface\u0027, integer, integer }\n    stack: { \u0027java/io/PrintStream\u0027 }\n  Bytecode:\n    0000000: b200 121b 1c60 3cb6 001d b1            \n"
+  },
+  {
+    "className": "PrivateMethodInterfaceImpl.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Bad type on operand stack\nException Details:\n  Location:\n    PrivateMethodInterface.add(II)V @7: invokevirtual\n  Reason:\n    Type \u0027java/io/PrintStream\u0027 (current frame, stack[0]) is not assignable to integer\n  Current Frame:\n    bci: @7\n    flags: { }\n    locals: { \u0027PrivateMethodInterface\u0027, integer, integer }\n    stack: { \u0027java/io/PrintStream\u0027 }\n  Bytecode:\n    0000000: b200 121b 1c60 3cb6 001d b1            \n"
+  },
+  {
+    "className": "PublicClass",
+    "methods": [
+      {
+        "name": "privateMethod",
+        "returnType": "void"
+      },
+      {
+        "name": "protectedMethod",
+        "returnType": "void"
+      },
+      {
+        "name": "noModifierMethod",
+        "returnType": "void"
+      },
+      {
+        "name": "publicMethod",
+        "returnType": "void"
+      }
+    ],
+    "instanceCreation": "success"
+  },
+  {
+    "className": "RecordTest.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Illegal class name \"LRecordTest;\" in class file RecordTest"
+  },
+  {
+    "className": "ReferenceVarDeclaration",
+    "methods": [
+      {
+        "name": "stringVariable",
+        "returnType": "void"
+      }
+    ],
+    "instanceCreation": "success"
+  },
+  {
+    "className": "ReferencingThis.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Operand stack underflow\nException Details:\n  Location:\n    ReferencingThis.getObject()LReferencingThis; @8: areturn\n  Reason:\n    Attempt to pop empty stack.\n  Current Frame:\n    bci: @8\n    flags: { }\n    locals: { \u0027ReferencingThis\u0027 }\n    stack: { }\n  Bytecode:\n    0000000: b200 0c12 0eb6 0014 b0                 \n"
+  },
+  {
+    "className": "Reflection.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Bad local variable type\nException Details:\n  Location:\n    Reflection.checkReflection()V @12: aload_1\n  Reason:\n    Type top (current frame, locals[1]) is not assignable to reference type\n  Current Frame:\n    bci: @12\n    flags: { }\n    locals: { \u0027Reflection\u0027 }\n    stack: { \u0027Reflection\u0027, \u0027java/lang/String\u0027, \u0027java/io/PrintStream\u0027 }\n  Bytecode:\n    0000000: bb00 0259 b700 1212 14b2 001a 2bb6 0020\n    0000010: 03bd 0022 592b 2db6 0026 3a04 b200 1a19\n    0000020: 04b6 002c 3a05 b600 2fb2 001a 2bb6 0033\n    0000030: 3a07 1907 beb6 0036 b1                 \n"
+  },
+  {
+    "className": "RegEmployee.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Bad local variable type\nException Details:\n  Location:\n    RegEmployee.getSalary()I @8: iload_1\n  Reason:\n    Type top (current frame, locals[1]) is not assignable to integer\n  Current Frame:\n    bci: @8\n    flags: { }\n    locals: { \u0027RegEmployee\u0027 }\n    stack: { integer, integer }\n  Bytecode:\n    0000000: 2ab7 0008 2ab4 000c 1b1c 603d ac       \n"
+  },
+  {
+    "className": "Sender.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Bad local variable type\nException Details:\n  Location:\n    Sender.send(Ljava/lang/String;)V @20: aload\n  Reason:\n    Type top (current frame, locals[4]) is not assignable to reference type\n  Current Frame:\n    bci: @20\n    flags: { }\n    locals: { \u0027Sender\u0027, \u0027java/lang/String\u0027 }\n    stack: { \u0027java/io/PrintStream\u0027, \u0027java/lang/StringBuilder\u0027 }\n  Bytecode:\n    0000000: 1400 09b8 0010 a700 044d b200 16bb 0018\n    0000010: 59b7 001c 1904 2bb6 0020 3a05 1905 1222\n    0000020: b600 203a 0519 05b6 0026 4c2b b600 2bb1\n    0000030:                                        \n  Exception Handler Table:\n    bci [0, 6] \u003d\u003e handler: 9\n  Stackmap Table:\n    same_locals_1_stack_item_frame(@9,Object[#8])\n    same_frame(@10)\n"
+  },
+  {
+    "className": "SenderMethod.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Bad local variable type\nException Details:\n  Location:\n    SenderMethod.send(Ljava/lang/String;)V @20: aload\n  Reason:\n    Type top (current frame, locals[4]) is not assignable to reference type\n  Current Frame:\n    bci: @20\n    flags: { }\n    locals: { \u0027SenderMethod\u0027, \u0027java/lang/String\u0027 }\n    stack: { \u0027java/io/PrintStream\u0027, \u0027java/lang/StringBuilder\u0027 }\n  Bytecode:\n    0000000: 1400 09b8 0010 a700 044d b200 16bb 0018\n    0000010: 59b7 001c 1904 2bb6 0020 3a05 1905 1222\n    0000020: b600 203a 0519 05b6 0026 4c2b b600 2bb1\n    0000030:                                        \n  Exception Handler Table:\n    bci [0, 6] \u003d\u003e handler: 9\n  Stackmap Table:\n    same_locals_1_stack_item_frame(@9,Object[#8])\n    same_frame(@10)\n"
+  },
+  {
+    "className": "StatementEval",
+    "methods": [
+      {
+        "name": "statementEval",
+        "returnType": "void"
+      }
+    ],
+    "instanceCreation": "success"
+  },
+  {
+    "className": "StaticImport.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Bad type on operand stack\nException Details:\n  Location:\n    StaticImport.mathFunctions()V @10: invokevirtual\n  Reason:\n    Type \u0027java/io/PrintStream\u0027 (current frame, stack[0]) is not assignable to double_2nd\n  Current Frame:\n    bci: @10\n    flags: { }\n    locals: { \u0027StaticImport\u0027, top, double, double_2nd }\n    stack: { \u0027java/io/PrintStream\u0027 }\n  Bytecode:\n    0000000: b200 0c14 000d b800 1449 b600 1ab2 000c\n    0000010: 1400 1b14 001d b800 2239 04b6 001a b200\n    0000020: 0c14 0023 b800 2739 04b6 001a b200 0c12\n    0000030: 29b6 002c b1                           \n"
+  },
+  {
+    "className": "StaticInitializer.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Bad local variable type\nException Details:\n  Location:\n    StaticInitializer.\u003cclinit\u003e()V @7: iload_0\n  Reason:\n    Type top (current frame, locals[0]) is not assignable to integer\n  Current Frame:\n    bci: @7\n    flags: { }\n    locals: { }\n    stack: { integer }\n  Bytecode:\n    0000000: 08b3 0010 b200 101a 07a4 0007 07b3 0010\n    0000010: b1                                     \n  Stackmap Table:\n    same_locals_1_stack_item_frame(@16,Integer)\n"
+  },
+  {
+    "className": "StaticMethod",
+    "methods": [
+      {
+        "name": "staticMethod",
+        "returnType": "void"
+      }
+    ],
+    "instanceCreation": "success"
+  },
+  {
+    "className": "StaticMethodInterface",
+    "methods": [
+      {
+        "name": "display",
+        "returnType": "void"
+      },
+      {
+        "name": "initStatic",
+        "returnType": "void"
+      }
+    ],
+    "instanceCreation": "no-arg constructor not available"
+  },
+  {
+    "className": "StaticMethodInterfaceImpl",
+    "methods": [
+      {
+        "name": "main",
+        "returnType": "void"
+      },
+      {
+        "name": "display",
+        "returnType": "void"
+      },
+      {
+        "name": "initStatic",
+        "returnType": "void"
+      }
+    ],
+    "instanceCreation": "failed: class transformer.textsimilarity.ClassFileTester cannot access a member of class StaticMethodInterfaceImpl with modifiers \"\""
+  },
+  {
+    "className": "StaticMethodInvocation",
+    "methods": [
+      {
+        "name": "staticMethodInvocation",
+        "returnType": "void"
+      },
+      {
+        "name": "staticmethod",
+        "returnType": "void"
+      }
+    ],
+    "instanceCreation": "success"
+  },
+  {
+    "className": "StaticVariable.class",
+    "errorType": "NoSuchFieldError",
+    "errorMessage": "num"
+  },
+  {
+    "className": "StringConcatenation",
+    "methods": [
+      {
+        "name": "stringConcatenation",
+        "returnType": "void"
+      }
+    ],
+    "instanceCreation": "success"
+  },
+  {
+    "className": "StringWithUnicodeChar",
+    "methods": [
+      {
+        "name": "stringWithUnicodeChar",
+        "returnType": "void"
+      }
+    ],
+    "instanceCreation": "success"
+  },
+  {
+    "className": "SubClass",
+    "methods": [
+      {
+        "name": "superclassMethod",
+        "returnType": "void"
+      },
+      {
+        "name": "subclassMethod",
+        "returnType": "void"
+      }
+    ],
+    "instanceCreation": "failed: class transformer.textsimilarity.ClassFileTester cannot access a member of class SubClass with modifiers \"\""
+  },
+  {
+    "className": "SuperClass",
+    "methods": [
+      {
+        "name": "superclassMethod",
+        "returnType": "void"
+      }
+    ],
+    "instanceCreation": "failed: class transformer.textsimilarity.ClassFileTester cannot access a member of class SuperClass with modifiers \"\""
+  },
+  {
+    "className": "SwitchCaseStatement.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file SwitchCaseStatement"
+  },
+  {
+    "className": "SwitchCaseStatementWithString$1.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file SwitchCaseStatementWithString$1"
+  },
+  {
+    "className": "SwitchCaseStatementWithString.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file SwitchCaseStatementWithString"
+  },
+  {
+    "className": "SwitchExprWithoutBreak",
+    "methods": [
+      {
+        "name": "switchSomething",
+        "returnType": "void"
+      }
+    ],
+    "instanceCreation": "failed: class transformer.textsimilarity.ClassFileTester cannot access a member of class SwitchExprWithoutBreak with modifiers \"\""
+  },
+  {
+    "className": "SwitchExprWithYieldTest",
+    "methods": [
+      {
+        "name": "switchSomething",
+        "returnType": "void"
+      }
+    ],
+    "instanceCreation": "failed: class transformer.textsimilarity.ClassFileTester cannot access a member of class SwitchExprWithYieldTest with modifiers \"\""
+  },
+  {
+    "className": "SymbolsAsMethodName",
+    "methods": [
+      {
+        "name": "αρετη",
+        "returnType": "void"
+      }
+    ],
+    "instanceCreation": "success"
+  },
+  {
+    "className": "SynchronizedBlock.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Bad local variable type\nException Details:\n  Location:\n    SynchronizedBlock.run()V @4: aload_1\n  Reason:\n    Type top (current frame, locals[1]) is not assignable to reference type\n  Current Frame:\n    bci: @4\n    flags: { }\n    locals: { \u0027SynchronizedBlock\u0027 }\n    stack: { \u0027java/lang/String\u0027 }\n  Bytecode:\n    0000000: 2ab4 000c 2bc2 b200 122a b400 0cb6 0018\n    0000010: 2bc3 a700 0a3a 042b c319 04bf b1       \n  Exception Handler Table:\n    bci [6, 18] \u003d\u003e handler: 21\n    bci [21, 25] \u003d\u003e handler: 21\n  Stackmap Table:\n    same_locals_1_stack_item_frame(@21,Object[#8])\n    same_locals_1_stack_item_frame(@28,Object[#26])\n"
+  },
+  {
+    "className": "SynchronizedMethod",
+    "methods": [
+      {
+        "name": "run",
+        "returnType": "void"
+      }
+    ],
+    "instanceCreation": "success"
+  },
+  {
+    "className": "TempEmployee.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Bad local variable type\nException Details:\n  Location:\n    TempEmployee.getSalary()I @8: iload_1\n  Reason:\n    Type top (current frame, locals[1]) is not assignable to integer\n  Current Frame:\n    bci: @8\n    flags: { }\n    locals: { \u0027TempEmployee\u0027 }\n    stack: { integer, integer }\n  Bytecode:\n    0000000: 2ab7 0011 2ab4 000d 1b1c 603d ac       \n"
+  },
+  {
+    "className": "TernaryOperator.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Bad local variable type\nException Details:\n  Location:\n    TernaryOperator.ternaryOperatorMethod()Z @4: iload_1\n  Reason:\n    Type top (current frame, locals[1]) is not assignable to integer\n  Current Frame:\n    bci: @4\n    flags: { }\n    locals: { \u0027TernaryOperator\u0027 }\n    stack: { integer }\n  Bytecode:\n    0000000: 2ab4 000a 1b03 a200 0912 0b3d a700 0504\n    0000010: 3dac                                   \n  Stackmap Table:\n    same_locals_1_stack_item_frame(@15,Integer)\n    full_frame(@17,{Object[#2],Top,Integer},{Integer})\n"
+  },
+  {
+    "className": "ThrowExceptionMethod.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Bad type on operand stack\nException Details:\n  Location:\n    ThrowExceptionMethod.main([Ljava/lang/String;)V @25: invokevirtual\n  Reason:\n    Type \u0027java/io/PrintStream\u0027 (current frame, stack[0]) is not assignable to \u0027java/lang/String\u0027\n  Current Frame:\n    bci: @25\n    flags: { }\n    locals: { \u0027[Ljava/lang/String;\u0027, top, top, \u0027CustomException\u0027, top, \u0027java/lang/String\u0027 }\n    stack: { \u0027java/io/PrintStream\u0027 }\n  Bytecode:\n    0000000: bb00 0259 b700 194d 2cb6 001b a700 104e\n    0000010: b200 212d b600 253a 05b6 002a b1       \n  Exception Handler Table:\n    bci [0, 12] \u003d\u003e handler: 15\n  Stackmap Table:\n    same_locals_1_stack_item_frame(@15,Object[#11])\n    same_frame(@28)\n"
+  },
+  {
+    "className": "TransientVariable",
+    "methods": [
+      {
+        "name": "transientVariable",
+        "returnType": "void"
+      }
+    ],
+    "instanceCreation": "failed: class transformer.textsimilarity.ClassFileTester cannot access a member of class TransientVariable with modifiers \"\""
+  },
+  {
+    "className": "TryCatchFinally.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Operand stack overflow\nException Details:\n  Location:\n    TryCatchFinally.tryCatchNestedInCatch()V @0: ldc\n  Reason:\n    Exceeded max stack size.\n  Current Frame:\n    bci: @0\n    flags: { }\n    locals: { \u0027TryCatchFinally\u0027 }\n    stack: { }\n  Bytecode:\n    0000000: 120c 4c12 284d b200 142c b600 1aa7 002a\n    0000010: 3a04 122c 4cb2 0014 2bb6 001a 122a 4cb2\n    0000020: 0014 2bb6 001a a700 113a 063a 0412 2e4c\n    0000030: b200 142b b600 1ab1                    \n  Exception Handler Table:\n    bci [3, 13] \u003d\u003e handler: 16\n    bci [28, 38] \u003d\u003e handler: 41\n"
+  },
+  {
+    "className": "TryWithResources.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Operand stack overflow\nException Details:\n  Location:\n    TryWithResources.printFile()V @0: new\n  Reason:\n    Exceeded max stack size.\n  Current Frame:\n    bci: @0\n    flags: { }\n    locals: { \u0027TryWithResources\u0027 }\n    stack: { }\n  Bytecode:\n    0000000: bb00 0c59 bb00 0e59 c000 0e12 10b7 0014\n    0000010: c000 16b7 0019 3a05 013a 0612 1b3a 0719\n    0000020: 05b6 001f 3a08 1908 01a5 0037 b200 2519\n    0000030: 08b6 002a a7ff eb3a 0a19 06bf 3a0b 1905\n    0000040: 01a5 004e 1906 01a5 0043 1905 b600 2da7\n    0000050: 0040 3a0c 3a06 1906 1906 b600 31a7 0032\n    0000060: 1905 01a5 002f 1906 01a5 0019 1905 b600\n    0000070: 2da7 0021 3a0d 3a06 1906 1906 b600 31a7\n    0000080: 0013 1905 b600 2da7 000b 1905 b600 2d19\n    0000090: 06bf b1                                \n  Exception Handler Table:\n    bci [27, 55] \u003d\u003e handler: 55\n    bci [55, 62] \u003d\u003e handler: 60\n    bci [74, 79] \u003d\u003e handler: 82\n    bci [108, 113] \u003d\u003e handler: 116\n"
+  },
+  {
+    "className": "TryWithResourcesConcise.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Bad type on operand stack\nException Details:\n  Location:\n    TryWithResourcesConcise.printFile()V @8: checkcast\n  Reason:\n    Type uninitialized 4 (current frame, stack[3]) is not assignable to \u0027java/lang/Object\u0027\n  Current Frame:\n    bci: @8\n    flags: { }\n    locals: { \u0027TryWithResourcesConcise\u0027 }\n    stack: { uninitialized 0, uninitialized 0, uninitialized 4, uninitialized 4 }\n  Bytecode:\n    0000000: bb00 1459 bb00 1659 c000 1612 18b7 001b\n    0000010: c000 1db7 0020 1222 3a06 1905 b600 263a\n    0000020: 0719 0701 a500 2ab2 002c 1907 b600 31a7\n    0000030: ffeb 3a09 1905 01a5 0014 1905 b600 34a7\n    0000040: 000c 3a0a 1909 190a b600 3819 09bf 1905\n    0000050: 01a5 000b 1905 b600 34a7 0003 b1       \n  Exception Handler Table:\n    bci [22, 50] \u003d\u003e handler: 50\n    bci [58, 63] \u003d\u003e handler: 66\n  Stackmap Table:\n    full_frame(@26,{Object[#2],Top,Top,Top,Top,Top,Object[#58]},{Object[#20]})\n    full_frame(@50,{Object[#2]},{Object[#18]})\n    full_frame(@66,{Object[#2],Top,Top,Top,Top,Top,Top,Top,Top,Object[#18]},{Object[#18]})\n    same_frame(@75)\n    full_frame(@78,{Object[#2],Top,Top,Top,Top,Top,Object[#58],Object[#58]},{Object[#20]})\n    same_locals_1_stack_item_frame(@92,Object[#20])\n"
+  },
+  {
+    "className": "TypeInference",
+    "methods": [
+      {
+        "name": "main",
+        "returnType": "void"
+      },
+      {
+        "name": "printFile",
+        "returnType": "void"
+      }
+    ],
+    "instanceCreation": "failed: class transformer.textsimilarity.ClassFileTester cannot access a member of class TypeInference with modifiers \"\""
+  },
+  {
+    "className": "TypeInferenceLambda.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Method \"type\" in class TypeInferenceLambda has illegal signature \"methodtype: java.lang.Object __METHODTYPE__(java.lang.Object,java.lang.Object)\""
+  },
+  {
+    "className": "UnaryOpInt.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Bad local variable type\nException Details:\n  Location:\n    UnaryOpInt.methodUnaryOpInt()V @8: iload_1\n  Reason:\n    Type top (current frame, locals[1]) is not assignable to integer\n  Current Frame:\n    bci: @8\n    flags: { }\n    locals: { \u0027UnaryOpInt\u0027 }\n    stack: { integer, integer }\n  Bytecode:\n    0000000: 2ab4 000a 2ab4 000d 1b1c 603c b1       \n"
+  },
+  {
+    "className": "UncheckedCast.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Operand stack underflow\nException Details:\n  Location:\n    UncheckedCast.uncheckedCastDisplay()V @30: aastore\n  Reason:\n    Attempt to pop empty stack.\n  Current Frame:\n    bci: @30\n    flags: { }\n    locals: { \u0027UncheckedCast\u0027, top, \u0027java/lang/Integer\u0027, \u0027java/lang/Integer\u0027 }\n    stack: { integer, \u0027java/lang/Integer\u0027 }\n  Bytecode:\n    0000000: 07bd 0008 5908 b800 0c4d 032c 5310 08b8\n    0000010: 000c 4e04 2d53 1009 b800 0c4d 052c 5310\n    0000020: 06b8 000c 4d06 2c53 2bb8 0012 3a04 b200\n    0000030: 1819 05b6 001e b1                      \n"
+  },
+  {
+    "className": "UnderscoreInInt",
+    "methods": [
+      {
+        "name": "underscoreInInt",
+        "returnType": "void"
+      }
+    ],
+    "instanceCreation": "success"
+  },
+  {
+    "className": "VariableDeclaration.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Control flow falls through code end\nException Details:\n  Location:\n    VariableDeclaration.intVariable()V @3: \u003cinvalid\u003e\n  Reason:\n    Error exists in the bytecode\n  Bytecode:\n    0000000: 113c b1                                \n"
+  },
+  {
+    "className": "VariableShadowing",
+    "methods": [
+      {
+        "name": "variableShadowing",
+        "returnType": "void"
+      }
+    ],
+    "instanceCreation": "failed: null"
+  },
+  {
+    "className": "VirtualMethod.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Bad type on operand stack\nException Details:\n  Location:\n    VirtualMethod.virtualMethodDemo()V @38: invokevirtual\n  Reason:\n    Type \u0027java/io/PrintStream\u0027 (current frame, stack[0]) is not assignable to integer\n  Current Frame:\n    bci: @38\n    flags: { }\n    locals: { \u0027VirtualMethod\u0027, top, \u0027TempEmployee\u0027, top, \u0027RegEmployee\u0027, top, integer }\n    stack: { \u0027java/io/PrintStream\u0027 }\n  Bytecode:\n    0000000: bb00 0b59 1105 dc11 0096 b700 0e4d bb00\n    0000010: 1059 1105 dc11 01f4 b700 113a 04b2 0017\n    0000020: 2cb6 001d 3606 b600 23b2 0017 1904 b600\n    0000030: 1d36 08b6 0023 b1                      \n"
+  },
+  {
+    "className": "VisibleAnnotation",
+    "methods": [],
+    "instanceCreation": "success"
+  },
+  {
+    "className": "VisibleClassAnnotation",
+    "methods": [],
+    "instanceCreation": "no-arg constructor not available"
+  },
+  {
+    "className": "VolatileVariable.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Bad local variable type\nException Details:\n  Location:\n    VolatileVariable.increaseCounter()I @4: iload_1\n  Reason:\n    Type top (current frame, locals[1]) is not assignable to integer\n  Current Frame:\n    bci: @4\n    flags: { }\n    locals: { \u0027VolatileVariable\u0027 }\n    stack: { integer }\n  Bytecode:\n    0000000: 2ab4 000a 1b04 603d 2a5f b500 0aac     \n"
+  },
+  {
+    "className": "WhileLoop",
+    "methods": [
+      {
+        "name": "whileLoop",
+        "returnType": "void"
+      }
+    ],
+    "instanceCreation": "success"
+  },
+  {
+    "className": "αρετη",
+    "methods": [
+      {
+        "name": "main",
+        "returnType": "void"
+      },
+      {
+        "name": "αρετηAsClassName",
+        "returnType": "void"
+      }
+    ],
+    "instanceCreation": "success"
+  }
+]

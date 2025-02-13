@@ -1,0 +1,65 @@
+[
+    {
+        "className": "org.slf4j.simple.SimpleServiceProvider",
+        "normalizedScore": 0.8010587494219199,
+        "weightedScore": 0.7983666675831762,
+        "b2s": 5300,
+        "s2b": 152,
+        "b2sMemory": 0.3544769287109375,
+        "s2bMemory": 2.4446029663085938
+    },
+    {
+        "className": "org.slf4j.simple.SimpleLogger",
+        "normalizedScore": 0.7631198347571863,
+        "weightedScore": 0.7623577193131401,
+        "b2s": 15100,
+        "s2b": 178,
+        "b2sMemory": 0.1397857666015625,
+        "s2bMemory": 4.3486175537109375
+    },
+    {
+        "className": "org.slf4j.simple.SimpleLoggerConfiguration",
+        "normalizedScore": 0.7770429735665306,
+        "weightedScore": 0.7747913014361902,
+        "b2s": 4900,
+        "s2b": 48,
+        "b2sMemory": 1.7757797241210938,
+        "s2bMemory": 1.187469482421875
+    },
+    {
+        "className": "org.slf4j.simple.OutputChoice$OutputChoiceType",
+        "normalizedScore": 0.8074306967845873,
+        "weightedScore": 0.8123526411177691,
+        "b2s": 5000,
+        "s2b": 7,
+        "b2sMemory": 0.218536376953125,
+        "s2bMemory": 1.4454269409179688
+    },
+    {
+        "className": "org.slf4j.simple.OutputChoice",
+        "normalizedScore": 0.7509023702249396,
+        "weightedScore": 0.7517120566132192,
+        "b2s": 3199500,
+        "s2b": 10,
+        "b2sMemory": 0.18619537353515625,
+        "s2bMemory": 1.4898910522460938
+    },
+    {
+        "className": "org.slf4j.simple.OutputChoice$1",
+        "normalizedScore": 0.813626669155254,
+        "weightedScore": 0.8167696087636837,
+        "b2s": 5200,
+        "s2b": 9,
+        "b2sMemory": 0.1681671142578125,
+        "s2bMemory": 2.1959152221679688
+    },
+    {
+        "className": "org.slf4j.simple.SimpleLoggerFactory",
+        "normalizedScore": 0.781409882297921,
+        "weightedScore": 0.7800748430766273,
+        "b2s": 5100,
+        "s2b": 8,
+        "b2sMemory": 0.15793609619140625,
+        "s2bMemory": 0.7908248901367188
+    }
+]

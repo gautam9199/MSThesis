@@ -1,0 +1,1532 @@
+[
+    {
+        "className": "EscapeSequencesInString",
+        "normalizedScore": 0.9228404824433042,
+        "weightedScore": 0.927764021132588,
+        "b2s": 4600,
+        "s2b": 201,
+        "b2sMemory": 0.3809356689453125,
+        "s2bMemory": 1.4349365234375
+    },
+    {
+        "className": "AnnotationEnum",
+        "normalizedScore": 0.9152338727221285,
+        "weightedScore": 0.9217342008649354,
+        "b2s": 3100,
+        "s2b": 3,
+        "b2sMemory": 0.1281280517578125,
+        "s2bMemory": 0.10113525390625
+    },
+    {
+        "className": "MethodReference",
+        "normalizedScore": 0.8804615992945677,
+        "weightedScore": 0.8845938491905796,
+        "b2s": 4100,
+        "s2b": 34,
+        "b2sMemory": 0.03023529052734375,
+        "s2bMemory": 0.861724853515625
+    },
+    {
+        "className": "BreakInWhileLoop",
+        "normalizedScore": 0.8059003811150754,
+        "weightedScore": 0.815171454114679,
+        "b2s": 3400,
+        "s2b": 25,
+        "b2sMemory": 0.0276641845703125,
+        "s2bMemory": 0.5772323608398438
+    },
+    {
+        "className": "VisibleAnnotation",
+        "normalizedScore": 0.9086955628935428,
+        "weightedScore": 0.9151022711956283,
+        "b2s": 3300,
+        "s2b": 2,
+        "b2sMemory": 0.02213287353515625,
+        "s2bMemory": 0.0868072509765625
+    },
+    {
+        "className": "OnLocal",
+        "normalizedScore": 0.9285016420361248,
+        "weightedScore": 0.9346662561576355,
+        "b2s": 6500,
+        "s2b": 3,
+        "b2sMemory": 0.0125274658203125,
+        "s2bMemory": 0.069976806640625
+    },
+    {
+        "className": "Java9AnonymousDiamond",
+        "normalizedScore": 0.8210107875170447,
+        "weightedScore": 0.8156954230510545,
+        "b2s": 5400,
+        "s2b": 32,
+        "b2sMemory": 0.01,
+        "s2bMemory": 1.1315765380859375
+    },
+    {
+        "className": "MethodOverloading",
+        "normalizedScore": 0.8913425101967976,
+        "weightedScore": 0.896777547566631,
+        "b2s": 6300,
+        "s2b": 8,
+        "b2sMemory": 0.0148468017578125,
+        "s2bMemory": 0.29026031494140625
+    },
+    {
+        "className": "Employee",
+        "normalizedScore": 0.8966640315395104,
+        "weightedScore": 0.9042685835512513,
+        "b2s": 5100,
+        "s2b": 5,
+        "b2sMemory": 0.01317596435546875,
+        "s2bMemory": 0.198394775390625
+    },
+    {
+        "className": "LabelStatement",
+        "normalizedScore": 0.7931639745022484,
+        "weightedScore": 0.8003659016593534,
+        "b2s": 5400,
+        "s2b": 7,
+        "b2sMemory": 0.01107025146484375,
+        "s2bMemory": 0.39056396484375
+    },
+    {
+        "className": "SubClass",
+        "normalizedScore": 0.9054844767456451,
+        "weightedScore": 0.9117495883931146,
+        "b2s": 3800,
+        "s2b": 7,
+        "b2sMemory": 0.0145721435546875,
+        "s2bMemory": 0.40079498291015625
+    },
+    {
+        "className": "ArrayConstant",
+        "normalizedScore": 0.9324833602069161,
+        "weightedScore": 0.9383803233315235,
+        "b2s": 3400,
+        "s2b": 1,
+        "b2sMemory": 0.01735687255859375,
+        "s2bMemory": 0.0346527099609375
+    },
+    {
+        "className": "InterfaceImplDummy",
+        "normalizedScore": 0.9186334373526491,
+        "weightedScore": 0.9254713923186829,
+        "b2s": 3200,
+        "s2b": 0,
+        "b2sMemory": 0.01,
+        "s2bMemory": 0.01273345947265625
+    },
+    {
+        "className": "StaticMethodInterfaceImpl",
+        "normalizedScore": 0.9228695089354831,
+        "weightedScore": 0.9279492022012865,
+        "b2s": 14200,
+        "s2b": 12,
+        "b2sMemory": 0.01,
+        "s2bMemory": 0.6354827880859375
+    },
+    {
+        "className": "NamedClassInsideMethod",
+        "normalizedScore": 0.8591758547999131,
+        "weightedScore": 0.8637949924837636,
+        "b2s": 4600,
+        "s2b": 8,
+        "b2sMemory": 0.014434814453125,
+        "s2bMemory": 0.35321807861328125
+    },
+    {
+        "className": "TypeInference",
+        "normalizedScore": 0.8354842622449553,
+        "weightedScore": 0.8395091068293695,
+        "b2s": 7100,
+        "s2b": 15,
+        "b2sMemory": 0.01355743408203125,
+        "s2bMemory": 0.832366943359375
+    },
+    {
+        "className": "InitializeMultidimensionalArrays",
+        "normalizedScore": 0.8455823594147378,
+        "weightedScore": 0.8478175919821462,
+        "b2s": 5200,
+        "s2b": 30,
+        "b2sMemory": 0.0221405029296875,
+        "s2bMemory": 2.858184814453125
+    },
+    {
+        "className": "GenericAnnotation$FutureSootAnnotation",
+        "normalizedScore": 0.9191731280738734,
+        "weightedScore": 0.9260363030713641,
+        "b2s": 3300,
+        "s2b": 0,
+        "b2sMemory": 0.0842437744140625,
+        "s2bMemory": 0.0843658447265625
+    },
+    {
+        "className": "NewCodeBlockInMethod",
+        "normalizedScore": 0.9046049833069431,
+        "weightedScore": 0.9116444849762488,
+        "b2s": 5400,
+        "s2b": 3,
+        "b2sMemory": 0.0842437744140625,
+        "s2bMemory": 0.17116546630859375
+    },
+    {
+        "className": "NullVariable",
+        "normalizedScore": 0.9039291356793914,
+        "weightedScore": 0.910954062487039,
+        "b2s": 4900,
+        "s2b": 3,
+        "b2sMemory": 0.0842437744140625,
+        "s2bMemory": 0.168609619140625
+    },
+    {
+        "className": "InstanceOfCheckSuper",
+        "normalizedScore": 0.91294957495909,
+        "weightedScore": 0.9196938331494555,
+        "b2s": 5200,
+        "s2b": 1,
+        "b2sMemory": 0.0842437744140625,
+        "s2bMemory": 0.0843658447265625
+    },
+    {
+        "className": "Java9AnonymousDiamond$1",
+        "normalizedScore": 0.7645424836204581,
+        "weightedScore": 0.7506134877836648,
+        "b2s": 7300,
+        "s2b": 7,
+        "b2sMemory": 0.0842437744140625,
+        "s2bMemory": 0.3371429443359375
+    },
+    {
+        "className": "AnnotationTryCatch$FutureSootAnnotation",
+        "normalizedScore": 0.9192143333781103,
+        "weightedScore": 0.9260807788281782,
+        "b2s": 3400,
+        "s2b": 0,
+        "b2sMemory": 0.0842437744140625,
+        "s2bMemory": 0.0843658447265625
+    },
+    {
+        "className": "DeclareFloat",
+        "normalizedScore": 0.9136403333335213,
+        "weightedScore": 0.9200760799781671,
+        "b2s": 3300,
+        "s2b": 3,
+        "b2sMemory": 0.0842437744140625,
+        "s2bMemory": 0.33715057373046875
+    },
+    {
+        "className": "AnnotationMethod$FutureSootAnnotation",
+        "normalizedScore": 0.9191314136466806,
+        "weightedScore": 0.9259912784169819,
+        "b2s": 5700,
+        "s2b": 0,
+        "b2sMemory": 0.0842437744140625,
+        "s2bMemory": 0.0843658447265625
+    },
+    {
+        "className": "EvaluationOrderWithParentheses",
+        "normalizedScore": 0.9075258740900544,
+        "weightedScore": 0.9143767725198289,
+        "b2s": 3200,
+        "s2b": 3,
+        "b2sMemory": 0.0842437744140625,
+        "s2bMemory": 0.1686248779296875
+    },
+    {
+        "className": "BitwiseOperationsInt",
+        "normalizedScore": 0.896285587128181,
+        "weightedScore": 0.902882585486759,
+        "b2s": 5000,
+        "s2b": 11,
+        "b2sMemory": 0.0842437744140625,
+        "s2bMemory": 0.7585067749023438
+    },
+    {
+        "className": "CossiInput",
+        "normalizedScore": 0.722967645152831,
+        "weightedScore": 0.7173042306292188,
+        "b2s": 3300,
+        "s2b": 71,
+        "b2sMemory": 0.0842437744140625,
+        "s2bMemory": 5.60321044921875
+    },
+    {
+        "className": "RegEmployee",
+        "normalizedScore": 0.8784619530118506,
+        "weightedScore": 0.8838834095990071,
+        "b2s": 5000,
+        "s2b": 3,
+        "b2sMemory": 1.71026611328125,
+        "s2bMemory": 0.33115386962890625
+    },
+    {
+        "className": "FinalVariable",
+        "normalizedScore": 0.8991031956023932,
+        "weightedScore": 0.9067800074094461,
+        "b2s": 5000,
+        "s2b": 2,
+        "b2sMemory": 0.16552734375,
+        "s2bMemory": 0.1656494140625
+    },
+    {
+        "className": "DeclareInt",
+        "normalizedScore": 0.9044460244741036,
+        "weightedScore": 0.9117639005120632,
+        "b2s": 3400,
+        "s2b": 4,
+        "b2sMemory": 0.16552734375,
+        "s2bMemory": 0.49929046630859375
+    },
+    {
+        "className": "StaticVariable",
+        "normalizedScore": 0.9217552555756243,
+        "weightedScore": 0.9276379824452465,
+        "b2s": 5300,
+        "s2b": 4,
+        "b2sMemory": 0.16552734375,
+        "s2bMemory": 0.33123779296875
+    },
+    {
+        "className": "TransientVariable",
+        "normalizedScore": 0.9139874846296244,
+        "weightedScore": 0.9204739325412843,
+        "b2s": 3100,
+        "s2b": 3,
+        "b2sMemory": 0.16552734375,
+        "s2bMemory": 0.331207275390625
+    },
+    {
+        "className": "NonInheritableOnClass",
+        "normalizedScore": 0.9286226493238918,
+        "weightedScore": 0.9347895106050949,
+        "b2s": 4800,
+        "s2b": 0,
+        "b2sMemory": 0.16552734375,
+        "s2bMemory": 0.1656494140625
+    },
+    {
+        "className": "AnnotationTryCatch",
+        "normalizedScore": 0.7968273380344217,
+        "weightedScore": 0.7964924303179362,
+        "b2s": 3200,
+        "s2b": 3,
+        "b2sMemory": 0.16552734375,
+        "s2bMemory": 0.33119964599609375
+    },
+    {
+        "className": "RecordTest",
+        "normalizedScore": 0.8449182872069422,
+        "weightedScore": 0.8534240438605151,
+        "b2s": 5300,
+        "s2b": 13,
+        "b2sMemory": 0.16552734375,
+        "s2bMemory": 0.83038330078125
+    },
+    {
+        "className": "SwitchExprWithoutBreak",
+        "normalizedScore": 0.847132550373923,
+        "weightedScore": 0.8494931589728942,
+        "b2s": 5000,
+        "s2b": 24,
+        "b2sMemory": 0.16552734375,
+        "s2bMemory": 1.5003433227539062
+    },
+    {
+        "className": "SwitchCaseStatement",
+        "normalizedScore": 0.8112733177906187,
+        "weightedScore": 0.8142571907293328,
+        "b2s": 5300,
+        "s2b": 24,
+        "b2sMemory": 0.15383148193359375,
+        "s2bMemory": 2.4640884399414062
+    },
+    {
+        "className": "DeclareEnum",
+        "normalizedScore": 0.8218100490771562,
+        "weightedScore": 0.8287618652451816,
+        "b2s": 3100,
+        "s2b": 5,
+        "b2sMemory": 0.16458892822265625,
+        "s2bMemory": 0.49643707275390625
+    },
+    {
+        "className": "AnnotationInterfaceNested",
+        "normalizedScore": 0.9255032069492,
+        "weightedScore": 0.9319772764981824,
+        "b2s": 7700,
+        "s2b": 0,
+        "b2sMemory": 0.16458892822265625,
+        "s2bMemory": 0.16471099853515625
+    },
+    {
+        "className": "AnnotationImpl",
+        "normalizedScore": 0.9183573245600439,
+        "weightedScore": 0.9244911352512477,
+        "b2s": 5600,
+        "s2b": 2,
+        "b2sMemory": 0.16458892822265625,
+        "s2bMemory": 0.16471099853515625
+    },
+    {
+        "className": "VariableDeclaration",
+        "normalizedScore": 0.8908303773126142,
+        "weightedScore": 0.8970556505733098,
+        "b2s": 4900,
+        "s2b": 9,
+        "b2sMemory": 0.16458892822265625,
+        "s2bMemory": 0.6585464477539062
+    },
+    {
+        "className": "ForEachLoop",
+        "normalizedScore": 0.8133215048136683,
+        "weightedScore": 0.8154397836843701,
+        "b2s": 5000,
+        "s2b": 5,
+        "b2sMemory": 0.16458892822265625,
+        "s2bMemory": 0.8231048583984375
+    },
+    {
+        "className": "StringConcatenation",
+        "normalizedScore": 0.9065389614469203,
+        "weightedScore": 0.9134075878247507,
+        "b2s": 4700,
+        "s2b": 2,
+        "b2sMemory": 0.16458892822265625,
+        "s2bMemory": 0.16471099853515625
+    },
+    {
+        "className": "TernaryOperator",
+        "normalizedScore": 0.840483615278031,
+        "weightedScore": 0.8463858303564882,
+        "b2s": 3300,
+        "s2b": 3,
+        "b2sMemory": 0.16458892822265625,
+        "s2bMemory": 0.3319091796875
+    },
+    {
+        "className": "ContinueInWhileLoop",
+        "normalizedScore": 0.7969852647147859,
+        "weightedScore": 0.8044390561241019,
+        "b2s": 8800,
+        "s2b": 2,
+        "b2sMemory": 0.16458892822265625,
+        "s2bMemory": 0.493927001953125
+    },
+    {
+        "className": "AutomaticWidening",
+        "normalizedScore": 0.903659822724598,
+        "weightedScore": 0.910454083859846,
+        "b2s": 3100,
+        "s2b": 1,
+        "b2sMemory": 0.16458892822265625,
+        "s2bMemory": 0.16471099853515625
+    },
+    {
+        "className": "OnMethod",
+        "normalizedScore": 0.9359864707235551,
+        "weightedScore": 0.9416525295335525,
+        "b2s": 3400,
+        "s2b": 0,
+        "b2sMemory": 0.16458892822265625,
+        "s2bMemory": 0.16471099853515625
+    },
+    {
+        "className": "SymbolsAsMethodName",
+        "normalizedScore": 0.9542712367267803,
+        "weightedScore": 0.9572923889161713,
+        "b2s": 3200,
+        "s2b": 4,
+        "b2sMemory": 0.16458892822265625,
+        "s2bMemory": 0.32935333251953125
+    },
+    {
+        "className": "TempEmployee",
+        "normalizedScore": 0.8784970257159825,
+        "weightedScore": 0.8839479767391556,
+        "b2s": 5400,
+        "s2b": 3,
+        "b2sMemory": 0.16458892822265625,
+        "s2bMemory": 0.3293304443359375
+    },
+    {
+        "className": "InitializeArraysWhileDeclaration",
+        "normalizedScore": 0.9249048414370374,
+        "weightedScore": 0.9280245689994358,
+        "b2s": 4800,
+        "s2b": 10,
+        "b2sMemory": 0.16458892822265625,
+        "s2bMemory": 1.3170700073242188
+    },
+    {
+        "className": "MethodAcceptingLamExpr",
+        "normalizedScore": 0.8341730328504867,
+        "weightedScore": 0.8374718071024962,
+        "b2s": 5000,
+        "s2b": 6,
+        "b2sMemory": 0.14981842041015625,
+        "s2bMemory": 0.6019821166992188
+    },
+    {
+        "className": "AnnotationObjects$FutureSootAnnotation",
+        "normalizedScore": 0.9191731280738734,
+        "weightedScore": 0.9260363030713641,
+        "b2s": 6200,
+        "s2b": 0,
+        "b2sMemory": 0.14981842041015625,
+        "s2bMemory": 0.14994049072265625
+    },
+    {
+        "className": "MyInnerAnnotation",
+        "normalizedScore": 0.921078251508692,
+        "weightedScore": 0.9272160403929104,
+        "b2s": 5100,
+        "s2b": 0,
+        "b2sMemory": 0.14981842041015625,
+        "s2bMemory": 0.14994049072265625
+    },
+    {
+        "className": "AnnotationData$FutureSootAnnotation",
+        "normalizedScore": 0.9190464192042179,
+        "weightedScore": 0.9258995412589515,
+        "b2s": 10200,
+        "s2b": 0,
+        "b2sMemory": 0.14981842041015625,
+        "s2bMemory": 0.14994049072265625
+    },
+    {
+        "className": "StaticImport",
+        "normalizedScore": 0.8853871024890213,
+        "weightedScore": 0.8927043705009887,
+        "b2s": 3100,
+        "s2b": 3,
+        "b2sMemory": 0.14981842041015625,
+        "s2bMemory": 0.59942626953125
+    },
+    {
+        "className": "AnonymousClassInsideMethod",
+        "normalizedScore": 0.8570396226072751,
+        "weightedScore": 0.8612217002325875,
+        "b2s": 3300,
+        "s2b": 2,
+        "b2sMemory": 0.14981842041015625,
+        "s2bMemory": 0.30008697509765625
+    },
+    {
+        "className": "Initialize3DimensionalArrays",
+        "normalizedScore": 0.8179046699693151,
+        "weightedScore": 0.8175368246295516,
+        "b2s": 3400,
+        "s2b": 25,
+        "b2sMemory": 0.14981842041015625,
+        "s2bMemory": 5.651908874511719
+    },
+    {
+        "className": "UnaryOpInt",
+        "normalizedScore": 0.8744469280382287,
+        "weightedScore": 0.8815926525450704,
+        "b2s": 5100,
+        "s2b": 2,
+        "b2sMemory": 0.18207550048828125,
+        "s2bMemory": 0.36679840087890625
+    },
+    {
+        "className": "BinaryLiteralInInt",
+        "normalizedScore": 0.8933200606635991,
+        "weightedScore": 0.9008801935369102,
+        "b2s": 3400,
+        "s2b": 1,
+        "b2sMemory": 0.18207550048828125,
+        "s2bMemory": 0.18219757080078125
+    },
+    {
+        "className": "OnMethodRepeatable",
+        "normalizedScore": 0.9286621755629888,
+        "weightedScore": 0.9348297744318106,
+        "b2s": 4200,
+        "s2b": 0,
+        "b2sMemory": 0.18207550048828125,
+        "s2bMemory": 0.18219757080078125
+    },
+    {
+        "className": "AnnotationUsageInherited",
+        "normalizedScore": 0.9207194403632246,
+        "weightedScore": 0.9268992445786506,
+        "b2s": 6200,
+        "s2b": 1,
+        "b2sMemory": 0.18207550048828125,
+        "s2bMemory": 0.18219757080078125
+    },
+    {
+        "className": "VirtualMethod",
+        "normalizedScore": 0.8893091341641424,
+        "weightedScore": 0.8963811277244723,
+        "b2s": 5500,
+        "s2b": 4,
+        "b2sMemory": 0.18207550048828125,
+        "s2bMemory": 0.7309951782226562
+    },
+    {
+        "className": "AnnotationData",
+        "normalizedScore": 0.9152338727221285,
+        "weightedScore": 0.9217342008649354,
+        "b2s": 6100,
+        "s2b": 1,
+        "b2sMemory": 0.18207550048828125,
+        "s2bMemory": 0.18219757080078125
+    },
+    {
+        "className": "MultiTryCatch",
+        "normalizedScore": 0.7721462355415291,
+        "weightedScore": 0.7743953137532361,
+        "b2s": 3400,
+        "s2b": 35,
+        "b2sMemory": 0.18207550048828125,
+        "s2bMemory": 3.0996246337890625
+    },
+    {
+        "className": "SwitchCaseStatementWithString$1",
+        "normalizedScore": 0.7696336371088203,
+        "weightedScore": 0.7708665072928839,
+        "b2s": 5600,
+        "s2b": 4,
+        "b2sMemory": 0.18669891357421875,
+        "s2bMemory": 0.7469482421875
+    },
+    {
+        "className": "MyOuterAnnotation",
+        "normalizedScore": 0.9203810174199564,
+        "weightedScore": 0.9264910638261088,
+        "b2s": 3900,
+        "s2b": 0,
+        "b2sMemory": 0.18669891357421875,
+        "s2bMemory": 0.18682098388671875
+    },
+    {
+        "className": "AnnotationLibrary",
+        "normalizedScore": 0.9430266647412093,
+        "weightedScore": 0.9482785639686474,
+        "b2s": 7500,
+        "s2b": 0,
+        "b2sMemory": 0.18669891357421875,
+        "s2bMemory": 0.18682098388671875
+    },
+    {
+        "className": "CustomException",
+        "normalizedScore": 0.9101600521502086,
+        "weightedScore": 0.9168841599295381,
+        "b2s": 6300,
+        "s2b": 1,
+        "b2sMemory": 0.18669891357421875,
+        "s2bMemory": 0.18682098388671875
+    },
+    {
+        "className": "EmptyStatement",
+        "normalizedScore": 0.9042596010780665,
+        "weightedScore": 0.9112575285580817,
+        "b2s": 11000,
+        "s2b": 1,
+        "b2sMemory": 0.18669891357421875,
+        "s2bMemory": 0.18682098388671875
+    },
+    {
+        "className": "IfElseStatement",
+        "normalizedScore": 0.8295969073747798,
+        "weightedScore": 0.8323754315212454,
+        "b2s": 3500,
+        "s2b": 17,
+        "b2sMemory": 0.18669891357421875,
+        "s2bMemory": 2.2407379150390625
+    },
+    {
+        "className": "PrivateMethodInterface",
+        "normalizedScore": 0.9312588226052124,
+        "weightedScore": 0.9342867864985372,
+        "b2s": 4700,
+        "s2b": 5,
+        "b2sMemory": 0.194366455078125,
+        "s2bMemory": 0.583251953125
+    },
+    {
+        "className": "MyClass",
+        "normalizedScore": 0.7706115275846551,
+        "weightedScore": 0.7647688622211475,
+        "b2s": 3400,
+        "s2b": 1,
+        "b2sMemory": 0.194366455078125,
+        "s2bMemory": 0.194488525390625
+    },
+    {
+        "className": "DefaultMethodInterface",
+        "normalizedScore": 0.9582138797707774,
+        "weightedScore": 0.9612067210427118,
+        "b2s": 3300,
+        "s2b": 1,
+        "b2sMemory": 0.194366455078125,
+        "s2bMemory": 0.194488525390625
+    },
+    {
+        "className": "LocalMerging",
+        "normalizedScore": 0.7662057229482047,
+        "weightedScore": 0.7654959313225291,
+        "b2s": 3200,
+        "s2b": 10,
+        "b2sMemory": 0.194366455078125,
+        "s2bMemory": 1.3607177734375
+    },
+    {
+        "className": "TryWithResources",
+        "normalizedScore": 0.7558205563705377,
+        "weightedScore": 0.7522806717604265,
+        "b2s": 3200,
+        "s2b": 11,
+        "b2sMemory": 0.194366455078125,
+        "s2bMemory": 1.74969482421875
+    },
+    {
+        "className": "DeclareLong",
+        "normalizedScore": 0.9435764773582616,
+        "weightedScore": 0.946781786568008,
+        "b2s": 3100,
+        "s2b": 4,
+        "b2sMemory": 0.1779632568359375,
+        "s2bMemory": 0.5340194702148438
+    },
+    {
+        "className": "ReferenceVarDeclaration",
+        "normalizedScore": 0.9086313719608432,
+        "weightedScore": 0.9152963246523995,
+        "b2s": 4000,
+        "s2b": 1,
+        "b2sMemory": 0.1779632568359375,
+        "s2bMemory": 0.1780853271484375
+    },
+    {
+        "className": "InterfaceVisibleAnnotation",
+        "normalizedScore": 0.9024086094321184,
+        "weightedScore": 0.9094091277992513,
+        "b2s": 5400,
+        "s2b": 0,
+        "b2sMemory": 0.1779632568359375,
+        "s2bMemory": 0.1780853271484375
+    },
+    {
+        "className": "MethodAcceptingVar",
+        "normalizedScore": 0.9014595293617615,
+        "weightedScore": 0.90573278473188,
+        "b2s": 12300,
+        "s2b": 5,
+        "b2sMemory": 0.1779632568359375,
+        "s2bMemory": 0.7145233154296875
+    },
+    {
+        "className": "\u03b1\u03c1\u03b5\u03c4\u03b7",
+        "normalizedScore": 0.9367832427980015,
+        "weightedScore": 0.9407611685182014,
+        "b2s": 4700,
+        "s2b": 4,
+        "b2sMemory": 0.1779632568359375,
+        "s2bMemory": 0.35610198974609375
+    },
+    {
+        "className": "UncheckedCast",
+        "normalizedScore": 0.8882617601736382,
+        "weightedScore": 0.8894032216967274,
+        "b2s": 4000,
+        "s2b": 4,
+        "b2sMemory": 0.1779632568359375,
+        "s2bMemory": 0.712005615234375
+    },
+    {
+        "className": "Autoboxing",
+        "normalizedScore": 0.8592603181067409,
+        "weightedScore": 0.8672684284104515,
+        "b2s": 5300,
+        "s2b": 2,
+        "b2sMemory": 0.1779632568359375,
+        "s2bMemory": 0.3560791015625
+    },
+    {
+        "className": "GenTypeParam",
+        "normalizedScore": 0.7782710299860182,
+        "weightedScore": 0.7784173945080017,
+        "b2s": 7700,
+        "s2b": 13,
+        "b2sMemory": 0.1779632568359375,
+        "s2bMemory": 2.49554443359375
+    },
+    {
+        "className": "ReferencingThis",
+        "normalizedScore": 0.9067894955502602,
+        "weightedScore": 0.9116431920433441,
+        "b2s": 3700,
+        "s2b": 9,
+        "b2sMemory": 0.1837310791015625,
+        "s2bMemory": 1.2896041870117188
+    },
+    {
+        "className": "ForLoop",
+        "normalizedScore": 0.785349371803228,
+        "weightedScore": 0.7929572917657624,
+        "b2s": 3800,
+        "s2b": 3,
+        "b2sMemory": 0.1837310791015625,
+        "s2bMemory": 0.36759185791015625
+    },
+    {
+        "className": "MultiInterfaceImplClass",
+        "normalizedScore": 0.9155684406635732,
+        "weightedScore": 0.921063193648813,
+        "b2s": 5000,
+        "s2b": 1,
+        "b2sMemory": 0.1837310791015625,
+        "s2bMemory": 0.367584228515625
+    },
+    {
+        "className": "OnMethodRepeatables",
+        "normalizedScore": 0.9048245538619141,
+        "weightedScore": 0.9121622619634611,
+        "b2s": 50300,
+        "s2b": 1,
+        "b2sMemory": 0.1837310791015625,
+        "s2bMemory": 0.1838531494140625
+    },
+    {
+        "className": "InitializeArraysWithIndex",
+        "normalizedScore": 0.8912041043494846,
+        "weightedScore": 0.8966789679215748,
+        "b2s": 24000,
+        "s2b": 5,
+        "b2sMemory": 0.1837310791015625,
+        "s2bMemory": 1.28887939453125
+    },
+    {
+        "className": "DeclareInnerClass",
+        "normalizedScore": 0.8969083062839807,
+        "weightedScore": 0.9035233732576564,
+        "b2s": 4000,
+        "s2b": 2,
+        "b2sMemory": 0.164794921875,
+        "s2bMemory": 0.659332275390625
+    },
+    {
+        "className": "SwitchCaseStatementWithString",
+        "normalizedScore": 0.7969619909727109,
+        "weightedScore": 0.797011530101386,
+        "b2s": 7600,
+        "s2b": 11,
+        "b2sMemory": 0.164794921875,
+        "s2bMemory": 2.1451416015625
+    },
+    {
+        "className": "StatementEval",
+        "normalizedScore": 0.8497855900055805,
+        "weightedScore": 0.855576261774253,
+        "b2s": 6300,
+        "s2b": 2,
+        "b2sMemory": 0.1695556640625,
+        "s2bMemory": 0.33922576904296875
+    },
+    {
+        "className": "AnonymousDiamondOperator",
+        "normalizedScore": 0.9024950796067227,
+        "weightedScore": 0.9049841608576688,
+        "b2s": 6400,
+        "s2b": 4,
+        "b2sMemory": 0.1695556640625,
+        "s2bMemory": 0.6783676147460938
+    },
+    {
+        "className": "NoModifierClass",
+        "normalizedScore": 0.913800565906239,
+        "weightedScore": 0.9200853444804503,
+        "b2s": 5300,
+        "s2b": 3,
+        "b2sMemory": 0.1695556640625,
+        "s2bMemory": 0.3392333984375
+    },
+    {
+        "className": "InstanceOfCheck",
+        "normalizedScore": 0.8856907542947147,
+        "weightedScore": 0.8921500879561524,
+        "b2s": 4700,
+        "s2b": 2,
+        "b2sMemory": 0.1695556640625,
+        "s2bMemory": 0.33925628662109375
+    },
+    {
+        "className": "OnClass",
+        "normalizedScore": 0.9361894924545983,
+        "weightedScore": 0.9418587994368965,
+        "b2s": 8400,
+        "s2b": 0,
+        "b2sMemory": 0.16956329345703125,
+        "s2bMemory": 0.169677734375
+    },
+    {
+        "className": "AnnotationExtend",
+        "normalizedScore": 0.9220952633605579,
+        "weightedScore": 0.9281000227387879,
+        "b2s": 5100,
+        "s2b": 1,
+        "b2sMemory": 0.16956329345703125,
+        "s2bMemory": 0.169677734375
+    },
+    {
+        "className": "MethodReturningVar",
+        "normalizedScore": 0.861738836473556,
+        "weightedScore": 0.8675371399311309,
+        "b2s": 5400,
+        "s2b": 3,
+        "b2sMemory": 0.16956329345703125,
+        "s2bMemory": 0.6784133911132812
+    },
+    {
+        "className": "PrivateMethodInterfaceImpl",
+        "normalizedScore": 0.9438576736184997,
+        "weightedScore": 0.9472426068935924,
+        "b2s": 4800,
+        "s2b": 1,
+        "b2sMemory": 0.16956329345703125,
+        "s2bMemory": 0.3392333984375
+    },
+    {
+        "className": "SynchronizedBlock",
+        "normalizedScore": 0.8334853938630574,
+        "weightedScore": 0.8376368544767516,
+        "b2s": 13800,
+        "s2b": 7,
+        "b2sMemory": 0.16956329345703125,
+        "s2bMemory": 0.5118484497070312
+    },
+    {
+        "className": "AnnotationExtend$NestedClass",
+        "normalizedScore": 0.9065956090819199,
+        "weightedScore": 0.9117144122898229,
+        "b2s": 5796000,
+        "s2b": 1,
+        "b2sMemory": 0.16956329345703125,
+        "s2bMemory": 0.169677734375
+    },
+    {
+        "className": "LabelledLoopBreak",
+        "normalizedScore": 0.7934964262857731,
+        "weightedScore": 0.7992265103086764,
+        "b2s": 4500,
+        "s2b": 2,
+        "b2sMemory": 0.16956329345703125,
+        "s2bMemory": 0.5113449096679688
+    },
+    {
+        "className": "NativeMethod",
+        "normalizedScore": 0.9190009987640883,
+        "weightedScore": 0.925482775910333,
+        "b2s": 4400,
+        "s2b": 0,
+        "b2sMemory": 0.16956329345703125,
+        "s2bMemory": 0.169677734375
+    },
+    {
+        "className": "AnnotationInterfaceWithNestedAnnotation",
+        "normalizedScore": 0.916268031525192,
+        "weightedScore": 0.9158821042850815,
+        "b2s": 3300,
+        "s2b": 0,
+        "b2sMemory": 0.16956329345703125,
+        "s2bMemory": 0.169677734375
+    },
+    {
+        "className": "OnParameter",
+        "normalizedScore": 0.9285423887519725,
+        "weightedScore": 0.9347077577199125,
+        "b2s": 5000,
+        "s2b": 0,
+        "b2sMemory": 0.16956329345703125,
+        "s2bMemory": 0.169677734375
+    },
+    {
+        "className": "MultilineStrings",
+        "normalizedScore": 0.9142849129317444,
+        "weightedScore": 0.920545497268822,
+        "b2s": 6200,
+        "s2b": 1,
+        "b2sMemory": 0.16956329345703125,
+        "s2bMemory": 0.169677734375
+    },
+    {
+        "className": "Sender",
+        "normalizedScore": 0.8705989408689123,
+        "weightedScore": 0.8738420770850515,
+        "b2s": 6000,
+        "s2b": 5,
+        "b2sMemory": 0.16956329345703125,
+        "s2bMemory": 0.6783676147460938
+    },
+    {
+        "className": "GenericTypeParamOnMethod",
+        "normalizedScore": 0.8534762647899461,
+        "weightedScore": 0.858252095101075,
+        "b2s": 4500,
+        "s2b": 3,
+        "b2sMemory": 0.16956329345703125,
+        "s2bMemory": 0.339263916015625
+    },
+    {
+        "className": "StaticMethodInterface",
+        "normalizedScore": 0.9621220378685494,
+        "weightedScore": 0.9646572244783542,
+        "b2s": 3200,
+        "s2b": 1,
+        "b2sMemory": 0.16956329345703125,
+        "s2bMemory": 0.169677734375
+    },
+    {
+        "className": "SwitchExprWithYieldTest",
+        "normalizedScore": 0.8476848666534793,
+        "weightedScore": 0.8499948322423024,
+        "b2s": 4300,
+        "s2b": 5,
+        "b2sMemory": 0.16956329345703125,
+        "s2bMemory": 1.3569793701171875
+    },
+    {
+        "className": "InterfaceImpl",
+        "normalizedScore": 0.9183832425325006,
+        "weightedScore": 0.9252026364000558,
+        "b2s": 3700,
+        "s2b": 0,
+        "b2sMemory": 0.15488433837890625,
+        "s2bMemory": 0.154998779296875
+    },
+    {
+        "className": "AbstractClass",
+        "normalizedScore": 0.9009555154518375,
+        "weightedScore": 0.9062650425039936,
+        "b2s": 6900,
+        "s2b": 1,
+        "b2sMemory": 0.15488433837890625,
+        "s2bMemory": 0.309906005859375
+    },
+    {
+        "className": "AnnotationUsage",
+        "normalizedScore": 0.619760066436036,
+        "weightedScore": 0.6182007264590991,
+        "b2s": 5000,
+        "s2b": 8,
+        "b2sMemory": 0.15488433837890625,
+        "s2bMemory": 0.6196823120117188
+    },
+    {
+        "className": "Color",
+        "normalizedScore": 0.7918003653405549,
+        "weightedScore": 0.7948905990767698,
+        "b2s": 7800,
+        "s2b": 4,
+        "b2sMemory": 0.15488433837890625,
+        "s2bMemory": 0.7745742797851562
+    },
+    {
+        "className": "DeclareConstructor",
+        "normalizedScore": 0.8895951818530454,
+        "weightedScore": 0.8975623776157314,
+        "b2s": 4300,
+        "s2b": 2,
+        "b2sMemory": 0.15488433837890625,
+        "s2bMemory": 0.30987548828125
+    },
+    {
+        "className": "AssertStatement",
+        "normalizedScore": 0.7577414857062711,
+        "weightedScore": 0.7580958093578662,
+        "b2s": 32300,
+        "s2b": 7,
+        "b2sMemory": 0.15488433837890625,
+        "s2bMemory": 1.394134521484375
+    },
+    {
+        "className": "Reflection",
+        "normalizedScore": 0.8697153634135552,
+        "weightedScore": 0.8761254196264913,
+        "b2s": 6600,
+        "s2b": 4,
+        "b2sMemory": 0.14180755615234375,
+        "s2bMemory": 0.8510818481445312
+    },
+    {
+        "className": "SynchronizedMethod",
+        "normalizedScore": 0.9113356394954861,
+        "weightedScore": 0.9182020755459375,
+        "b2s": 5400,
+        "s2b": 1,
+        "b2sMemory": 0.14180755615234375,
+        "s2bMemory": 0.2837371826171875
+    },
+    {
+        "className": "A",
+        "normalizedScore": 0.9136642317635723,
+        "weightedScore": 0.9204927544355905,
+        "b2s": 5900,
+        "s2b": 1,
+        "b2sMemory": 0.14180755615234375,
+        "s2bMemory": 0.1419219970703125
+    },
+    {
+        "className": "GenericAnnotation",
+        "normalizedScore": 0.763096340993064,
+        "weightedScore": 0.7591210008418844,
+        "b2s": 3200,
+        "s2b": 1,
+        "b2sMemory": 0.14180755615234375,
+        "s2bMemory": 0.1419219970703125
+    },
+    {
+        "className": "Percentage",
+        "normalizedScore": 0.9182247056402805,
+        "weightedScore": 0.925032372062554,
+        "b2s": 4700,
+        "s2b": 0,
+        "b2sMemory": 0.14180755615234375,
+        "s2bMemory": 0.1419219970703125
+    },
+    {
+        "className": "ClassAnnotation",
+        "normalizedScore": 0.8265403520907397,
+        "weightedScore": 0.8352376682330171,
+        "b2s": 5700,
+        "s2b": 0,
+        "b2sMemory": 0.14180755615234375,
+        "s2bMemory": 0.1419219970703125
+    },
+    {
+        "className": "DefaultMethodInterfaceImpl",
+        "normalizedScore": 0.9326583265407701,
+        "weightedScore": 0.9369182670825694,
+        "b2s": 4300,
+        "s2b": 3,
+        "b2sMemory": 0.14180755615234375,
+        "s2bMemory": 0.5673294067382812
+    },
+    {
+        "className": "StaticMethod",
+        "normalizedScore": 0.9186342450802568,
+        "weightedScore": 0.9247635213021581,
+        "b2s": 8300,
+        "s2b": 1,
+        "b2sMemory": 0.14180755615234375,
+        "s2bMemory": 0.28387451171875
+    },
+    {
+        "className": "StringWithUnicodeChar",
+        "normalizedScore": 0.9066558510340781,
+        "weightedScore": 0.9135071959532437,
+        "b2s": 4900,
+        "s2b": 1,
+        "b2sMemory": 0.14180755615234375,
+        "s2bMemory": 0.1419219970703125
+    },
+    {
+        "className": "TryWithResourcesConcise",
+        "normalizedScore": 0.7930091535653917,
+        "weightedScore": 0.7897876855318231,
+        "b2s": 5800,
+        "s2b": 7,
+        "b2sMemory": 0.14180755615234375,
+        "s2bMemory": 1.2765960693359375
+    },
+    {
+        "className": "AnonymousDiamondOperator$1",
+        "normalizedScore": 0.8059628426296666,
+        "weightedScore": 0.8027627245008851,
+        "b2s": 3300,
+        "s2b": 3,
+        "b2sMemory": 0.14180755615234375,
+        "s2bMemory": 0.5673828125
+    },
+    {
+        "className": "TryCatchFinally",
+        "normalizedScore": 0.7968485501714443,
+        "weightedScore": 0.803905360839304,
+        "b2s": 3900,
+        "s2b": 42,
+        "b2sMemory": 0.14180755615234375,
+        "s2bMemory": 9.278327941894531
+    },
+    {
+        "className": "DeclareField",
+        "normalizedScore": 0.9098180463968083,
+        "weightedScore": 0.9162292898854698,
+        "b2s": 11300,
+        "s2b": 3,
+        "b2sMemory": 0.178375244140625,
+        "s2bMemory": 0.5352554321289062
+    },
+    {
+        "className": "InfiniteLoop",
+        "normalizedScore": 0.9059047984245043,
+        "weightedScore": 0.9130021798537302,
+        "b2s": 5400,
+        "s2b": 0,
+        "b2sMemory": 0.178375244140625,
+        "s2bMemory": 0.17848968505859375
+    },
+    {
+        "className": "Person",
+        "normalizedScore": 0.8917312683306672,
+        "weightedScore": 0.8992947382341973,
+        "b2s": 4200,
+        "s2b": 1,
+        "b2sMemory": 0.178375244140625,
+        "s2bMemory": 0.17848968505859375
+    },
+    {
+        "className": "CastingInNumTypes",
+        "normalizedScore": 0.8289733920376819,
+        "weightedScore": 0.8382679625234717,
+        "b2s": 22900,
+        "s2b": 7,
+        "b2sMemory": 0.178375244140625,
+        "s2bMemory": 2.5016937255859375
+    },
+    {
+        "className": "AnnotationImpl$FutureSootAnnotation",
+        "normalizedScore": 0.9190464192042179,
+        "weightedScore": 0.9258995412589515,
+        "b2s": 3100,
+        "s2b": 0,
+        "b2sMemory": 0.16838836669921875,
+        "s2bMemory": 0.1685028076171875
+    },
+    {
+        "className": "DoWhileLoop",
+        "normalizedScore": 0.8266336193879634,
+        "weightedScore": 0.8362016624078448,
+        "b2s": 4900,
+        "s2b": 2,
+        "b2sMemory": 0.16838836669921875,
+        "s2bMemory": 0.33941650390625
+    },
+    {
+        "className": "StaticMethodInvocation",
+        "normalizedScore": 0.9112675714025306,
+        "weightedScore": 0.9175767116981748,
+        "b2s": 5800,
+        "s2b": 1,
+        "b2sMemory": 0.16838836669921875,
+        "s2bMemory": 0.33690643310546875
+    },
+    {
+        "className": "CharLiterals",
+        "normalizedScore": 0.9106724101346032,
+        "weightedScore": 0.9140608824409536,
+        "b2s": 3000,
+        "s2b": 3,
+        "b2sMemory": 0.16838836669921875,
+        "s2bMemory": 0.505279541015625
+    },
+    {
+        "className": "MethodOverridingSubclass",
+        "normalizedScore": 0.9208130723570064,
+        "weightedScore": 0.9269575715729186,
+        "b2s": 7200,
+        "s2b": 1,
+        "b2sMemory": 0.16838836669921875,
+        "s2bMemory": 0.336883544921875
+    },
+    {
+        "className": "FieldMerge",
+        "normalizedScore": 0.798164383998694,
+        "weightedScore": 0.8014762408536578,
+        "b2s": 5200,
+        "s2b": 2,
+        "b2sMemory": 0.16838836669921875,
+        "s2bMemory": 0.5052947998046875
+    },
+    {
+        "className": "SenderMethod",
+        "normalizedScore": 0.8723359790635218,
+        "weightedScore": 0.8755785716333601,
+        "b2s": 5100,
+        "s2b": 2,
+        "b2sMemory": 0.16838836669921875,
+        "s2bMemory": 0.6737747192382812
+    },
+    {
+        "className": "VisibleClassAnnotation",
+        "normalizedScore": 0.9018556791335114,
+        "weightedScore": 0.9088332317875361,
+        "b2s": 6100,
+        "s2b": 0,
+        "b2sMemory": 0.16838836669921875,
+        "s2bMemory": 0.1685028076171875
+    },
+    {
+        "className": "DynamicInvoke",
+        "normalizedScore": 0.9415359263482684,
+        "weightedScore": 0.9456696790987891,
+        "b2s": 4800,
+        "s2b": 1,
+        "b2sMemory": 0.16838836669921875,
+        "s2bMemory": 0.3372802734375
+    },
+    {
+        "className": "AnnotationEnum$Weekend",
+        "normalizedScore": 0.9184375299957491,
+        "weightedScore": 0.9252424256448228,
+        "b2s": 7100,
+        "s2b": 0,
+        "b2sMemory": 0.16838836669921875,
+        "s2bMemory": 0.1685028076171875
+    },
+    {
+        "className": "StaticInitializer",
+        "normalizedScore": 0.883806725972461,
+        "weightedScore": 0.8908564465739397,
+        "b2s": 5600,
+        "s2b": 1,
+        "b2sMemory": 0.16838836669921875,
+        "s2bMemory": 0.33689117431640625
+    },
+    {
+        "className": "UnderscoreInInt",
+        "normalizedScore": 0.906410027456642,
+        "weightedScore": 0.9132402890787938,
+        "b2s": 5200,
+        "s2b": 0,
+        "b2sMemory": 0.16838836669921875,
+        "s2bMemory": 0.1685028076171875
+    },
+    {
+        "className": "AnnotatedAnnotationInterface",
+        "normalizedScore": 0.8476990713406324,
+        "weightedScore": 0.8475720213494262,
+        "b2s": 5500,
+        "s2b": 0,
+        "b2sMemory": 0.16838836669921875,
+        "s2bMemory": 0.1685028076171875
+    },
+    {
+        "className": "TypeInferenceLambda",
+        "normalizedScore": 0.8343783283365461,
+        "weightedScore": 0.8372118630242591,
+        "b2s": 5200,
+        "s2b": 2,
+        "b2sMemory": 0.16838836669921875,
+        "s2bMemory": 0.6747360229492188
+    },
+    {
+        "className": "AnnotationInterfaceNested2",
+        "normalizedScore": 0.8292372080069459,
+        "weightedScore": 0.8316638056775889,
+        "b2s": 7600,
+        "s2b": 0,
+        "b2sMemory": 0.16838836669921875,
+        "s2bMemory": 0.1685028076171875
+    },
+    {
+        "className": "PublicClass",
+        "normalizedScore": 0.9140775664639241,
+        "weightedScore": 0.9203662867823015,
+        "b2s": 4200,
+        "s2b": 1,
+        "b2sMemory": 0.16838836669921875,
+        "s2bMemory": 0.336883544921875
+    },
+    {
+        "className": "WhileLoop",
+        "normalizedScore": 0.8020386656781294,
+        "weightedScore": 0.8110067736326095,
+        "b2s": 5300,
+        "s2b": 1,
+        "b2sMemory": 0.16838836669921875,
+        "s2bMemory": 0.3369140625
+    },
+    {
+        "className": "MethodOverriding",
+        "normalizedScore": 0.9163196891119858,
+        "weightedScore": 0.922787892912359,
+        "b2s": 5100,
+        "s2b": 1,
+        "b2sMemory": 0.16838836669921875,
+        "s2bMemory": 0.3369140625
+    },
+    {
+        "className": "VolatileVariable",
+        "normalizedScore": 0.8475951115712883,
+        "weightedScore": 0.8552725752040753,
+        "b2s": 5100,
+        "s2b": 1,
+        "b2sMemory": 0.16838836669921875,
+        "s2bMemory": 0.3394317626953125
+    },
+    {
+        "className": "AnnotationMethod",
+        "normalizedScore": 0.7336176333388127,
+        "weightedScore": 0.7344991595537607,
+        "b2s": 3400,
+        "s2b": 5,
+        "b2sMemory": 0.16838836669921875,
+        "s2bMemory": 1.011016845703125
+    },
+    {
+        "className": "InterfaceImplClass",
+        "normalizedScore": 0.918369621766451,
+        "weightedScore": 0.9247605076910719,
+        "b2s": 4700,
+        "s2b": 0,
+        "b2sMemory": 0.16838836669921875,
+        "s2bMemory": 0.336883544921875
+    },
+    {
+        "className": "DeclareEnumWithConstructor",
+        "normalizedScore": 0.8746225488636532,
+        "weightedScore": 0.8828235592834104,
+        "b2s": 3800,
+        "s2b": 2,
+        "b2sMemory": 0.16838836669921875,
+        "s2bMemory": 0.33712005615234375
+    },
+    {
+        "className": "ThrowExceptionMethod",
+        "normalizedScore": 0.8719770095445281,
+        "weightedScore": 0.8757427637395769,
+        "b2s": 14500,
+        "s2b": 2,
+        "b2sMemory": 0.16838836669921875,
+        "s2bMemory": 0.6736679077148438
+    },
+    {
+        "className": "CreateNewInstance",
+        "normalizedScore": 0.9140481125225329,
+        "weightedScore": 0.9200117223229113,
+        "b2s": 3800,
+        "s2b": 0,
+        "b2sMemory": 0.16838836669921875,
+        "s2bMemory": 0.3369140625
+    },
+    {
+        "className": "MySecondInnerAnnotation",
+        "normalizedScore": 0.9200665055911781,
+        "weightedScore": 0.9261641204349038,
+        "b2s": 5800,
+        "s2b": 0,
+        "b2sMemory": 0.16838836669921875,
+        "s2bMemory": 0.1685028076171875
+    },
+    {
+        "className": "EnumAnnotation",
+        "normalizedScore": 0.9404005383829945,
+        "weightedScore": 0.9458604845446951,
+        "b2s": 92700,
+        "s2b": 0,
+        "b2sMemory": 0.16838836669921875,
+        "s2bMemory": 0.1685028076171875
+    },
+    {
+        "className": "NestedAnnotation",
+        "normalizedScore": 0.9040967404762993,
+        "weightedScore": 0.9107945044451982,
+        "b2s": 23600,
+        "s2b": 0,
+        "b2sMemory": 0.16838836669921875,
+        "s2bMemory": 0.1685028076171875
+    },
+    {
+        "className": "VariableShadowing",
+        "normalizedScore": 0.9014373389289498,
+        "weightedScore": 0.9069033611336159,
+        "b2s": 5300,
+        "s2b": 1,
+        "b2sMemory": 0.16838836669921875,
+        "s2bMemory": 0.33701324462890625
+    },
+    {
+        "className": "AnnotationEnum$Day",
+        "normalizedScore": 0.8159544398965922,
+        "weightedScore": 0.8210676832185252,
+        "b2s": 5100,
+        "s2b": 4,
+        "b2sMemory": 0.16838836669921875,
+        "s2bMemory": 1.68414306640625
+    },
+    {
+        "className": "OnField",
+        "normalizedScore": 0.9362754033789337,
+        "weightedScore": 0.9419461086550753,
+        "b2s": 4900,
+        "s2b": 0,
+        "b2sMemory": 0.1571197509765625,
+        "s2bMemory": 0.15723419189453125
+    },
+    {
+        "className": "AnnotationObjects",
+        "normalizedScore": 0.7429845339068762,
+        "weightedScore": 0.741376186812182,
+        "b2s": 3100,
+        "s2b": 1,
+        "b2sMemory": 0.1571197509765625,
+        "s2bMemory": 0.47154998779296875
+    },
+    {
+        "className": "BooleanOperators",
+        "normalizedScore": 0.7871664091514737,
+        "weightedScore": 0.7881055678725374,
+        "b2s": 6800,
+        "s2b": 12,
+        "b2sMemory": 0.1571197509765625,
+        "s2bMemory": 5.887413024902344
+    },
+    {
+        "className": "SuperClass",
+        "normalizedScore": 0.8955018473988821,
+        "weightedScore": 0.90279584411856,
+        "b2s": 7200,
+        "s2b": 1,
+        "b2sMemory": 1.9142074584960938,
+        "s2bMemory": 0.43489837646484375
+    },
+    {
+        "className": "FinalMethod",
+        "normalizedScore": 0.9183993058023695,
+        "weightedScore": 0.9245410265982794,
+        "b2s": 5900,
+        "s2b": 1,
+        "b2sMemory": 0.185272216796875,
+        "s2bMemory": 0.18538665771484375
+    },
+    {
+        "className": "MyInterface",
+        "normalizedScore": 1.0,
+        "weightedScore": 1.0,
+        "b2s": 3800,
+        "s2b": 0,
+        "b2sMemory": 0.185272216796875,
+        "s2bMemory": 0.18538665771484375
+    },
+    {
+        "className": "AccessArrays",
+        "normalizedScore": 0.7740347459197846,
+        "weightedScore": 0.7724599600928399,
+        "b2s": 5500,
+        "s2b": 11,
+        "b2sMemory": 0.185272216796875,
+        "s2bMemory": 3.5204238891601562
+    },
+    {
+        "className": "CossiInput$CossiInputBuilder",
+        "normalizedScore": 0.5907681191092039,
+        "weightedScore": 0.5708625779165155,
+        "b2s": 3600,
+        "s2b": 77,
+        "b2sMemory": 0.2001953125,
+        "s2bMemory": 4.2764892578125
+    },
+    {
+        "className": "GenericTypeParamOnClass",
+        "normalizedScore": 0.874201289028469,
+        "weightedScore": 0.879515771629154,
+        "b2s": 3300,
+        "s2b": 1,
+        "b2sMemory": 0.19573974609375,
+        "s2bMemory": 0.3915863037109375
+    }
+]

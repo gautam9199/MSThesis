@@ -1,0 +1,217 @@
+[
+  {
+    "className": "com.squareup.javapoet.AnnotationSpec$1",
+    "methods": [],
+    "instanceCreation": "no-arg constructor not available"
+  },
+  {
+    "className": "AnnotationSpec$Builder.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Method \"type\" in class com/squareup/javapoet/AnnotationSpec$Builder has illegal signature \"methodtype: java.lang.Object __METHODTYPE__(java.lang.Object)\""
+  },
+  {
+    "className": "AnnotationSpec$Visitor.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Bad local variable type\nException Details:\n  Location:\n    com/squareup/javapoet/AnnotationSpec$Visitor.visitAnnotation(Ljavax/lang/model/element/AnnotationMirror;Ljava/lang/String;)Lcom/squareup/javapoet/AnnotationSpec$Builder; @19: aload_3\n  Reason:\n    Type top (current frame, locals[3]) is not assignable to reference type\n  Current Frame:\n    bci: @19\n    flags: { }\n    locals: { \u0027com/squareup/javapoet/AnnotationSpec$Visitor\u0027, \u0027javax/lang/model/element/AnnotationMirror\u0027, \u0027java/lang/String\u0027, top, top, \u0027com/squareup/javapoet/AnnotationSpec\u0027 }\n    stack: { \u0027com/squareup/javapoet/AnnotationSpec$Builder\u0027, \u0027[Ljava/lang/Object;\u0027 }\n  Bytecode:\n    0000000: 2ab4 000a 04bd 000c 592b b800 5b3a 0503\n    0000010: 1905 532d 2c12 5d19 04b6 001e 3a06 b0  \n"
+  },
+  {
+    "className": "AnnotationSpec.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Method \"type\" in class com/squareup/javapoet/AnnotationSpec has illegal signature \"methodtype: java.lang.Object __METHODTYPE__(java.lang.Object)\""
+  },
+  {
+    "className": "ArrayTypeName.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Bad local variable type\nException Details:\n  Location:\n    com/squareup/javapoet/TypeName.\u003cinit\u003e(Ljava/lang/String;Ljava/util/List;)V @13: aload_3\n  Reason:\n    Type top (current frame, locals[3]) is not assignable to reference type\n  Current Frame:\n    bci: @13\n    flags: { }\n    locals: { \u0027com/squareup/javapoet/TypeName\u0027, \u0027java/lang/String\u0027, \u0027java/util/List\u0027 }\n    stack: { \u0027java/util/Collection\u0027 }\n  Bytecode:\n    0000000: 2ab7 00c4 2a2b b500 992c c000 c62d b800\n    0000010: cc3a 042a 5fb5 00d0 b1                 \n"
+  },
+  {
+    "className": "ClassName$1.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Bad type on operand stack in putfield\nException Details:\n  Location:\n    com/squareup/javapoet/ClassName$1.\u003cinit\u003e(Ljava/lang/String;Ljavax/lang/model/element/TypeElement;)V @3: putfield\n  Reason:\n    Type uninitializedThis (current frame, stack[1]) is not assignable to \u0027com/squareup/javapoet/ClassName$1\u0027 (constant pool 10)\n  Current Frame:\n    bci: @3\n    flags: { flagThisUninit }\n    locals: { uninitializedThis, \u0027java/lang/String\u0027, \u0027javax/lang/model/element/TypeElement\u0027 }\n    stack: { uninitializedThis, uninitializedThis, \u0027java/lang/String\u0027 }\n  Bytecode:\n    0000000: 2a2a 2bb5 000a 2a2c b500 0eb7 0011 b1  \n"
+  },
+  {
+    "className": "ClassName.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Bad local variable type\nException Details:\n  Location:\n    com/squareup/javapoet/TypeName.\u003cinit\u003e(Ljava/lang/String;Ljava/util/List;)V @13: aload_3\n  Reason:\n    Type top (current frame, locals[3]) is not assignable to reference type\n  Current Frame:\n    bci: @13\n    flags: { }\n    locals: { \u0027com/squareup/javapoet/TypeName\u0027, \u0027java/lang/String\u0027, \u0027java/util/List\u0027 }\n    stack: { \u0027java/util/Collection\u0027 }\n  Bytecode:\n    0000000: 2ab7 00c4 2a2b b500 992c c000 c62d b800\n    0000010: cc3a 042a 5fb5 00d0 b1                 \n"
+  },
+  {
+    "className": "com.squareup.javapoet.CodeBlock$1",
+    "methods": [],
+    "instanceCreation": "no-arg constructor not available"
+  },
+  {
+    "className": "CodeBlock$Builder.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Bad type on operand stack\nException Details:\n  Location:\n    com/squareup/javapoet/CodeBlock$Builder.\u003cinit\u003e()V @8: checkcast\n  Reason:\n    Type uninitialized 4 (current frame, stack[1]) is not assignable to \u0027java/lang/Object\u0027\n  Current Frame:\n    bci: @8\n    flags: { }\n    locals: { \u0027com/squareup/javapoet/CodeBlock$Builder\u0027 }\n    stack: { uninitialized 4, uninitialized 4 }\n  Bytecode:\n    0000000: 2ab7 00de bb00 6959 c000 69b7 006a 2ac0\n    0000010: 000c b500 0abb 0069 59c0 0069 b700 6a2a\n    0000020: c000 0cb5 0089 b1                      \n"
+  },
+  {
+    "className": "CodeBlock$CodeBlockJoiner.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Operand stack overflow\nException Details:\n  Location:\n    com/squareup/javapoet/CodeBlock$CodeBlockJoiner.add(Lcom/squareup/javapoet/CodeBlock;)Lcom/squareup/javapoet/CodeBlock$CodeBlockJoiner; @0: aload_0\n  Reason:\n    Exceeded max stack size.\n  Current Frame:\n    bci: @0\n    flags: { }\n    locals: { \u0027com/squareup/javapoet/CodeBlock$CodeBlockJoiner\u0027, \u0027com/squareup/javapoet/CodeBlock\u0027 }\n    stack: { }\n  Bytecode:\n    0000000: 2ab4 000a 1c03 a000 132a b400 0e2a b400\n    0000010: 1203 bd00 0459 b600 172a 03b5 000a 2ab4\n    0000020: 000e 2bb6 001a b0                      \n"
+  },
+  {
+    "className": "CodeBlock.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Method \"type\" in class com/squareup/javapoet/CodeBlock has illegal signature \"methodtype: java.lang.Object __METHODTYPE__()\""
+  },
+  {
+    "className": "com.squareup.javapoet.CodeWriter$1",
+    "methods": [],
+    "instanceCreation": "no-arg constructor not available"
+  },
+  {
+    "className": "CodeWriter$Multiset.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Bad type on operand stack\nException Details:\n  Location:\n    com/squareup/javapoet/CodeWriter$Multiset.\u003cinit\u003e()V @8: checkcast\n  Reason:\n    Type uninitialized 4 (current frame, stack[1]) is not assignable to \u0027java/lang/Object\u0027\n  Current Frame:\n    bci: @8\n    flags: { }\n    locals: { \u0027com/squareup/javapoet/CodeWriter$Multiset\u0027 }\n    stack: { uninitialized 4, uninitialized 4 }\n  Bytecode:\n    0000000: 2ab7 0008 bb00 0a59 c000 0ab7 000b 2ac0\n    0000010: 000d b500 11b1                         \n"
+  },
+  {
+    "className": "CodeWriter.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Method \"type\" in class com/squareup/javapoet/CodeWriter has illegal signature \"methodtype: void __METHODTYPE__(java.lang.Object)\""
+  },
+  {
+    "className": "com.squareup.javapoet.FieldSpec$1",
+    "methods": [],
+    "instanceCreation": "no-arg constructor not available"
+  },
+  {
+    "className": "FieldSpec$Builder.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Operand stack underflow\nException Details:\n  Location:\n    com/squareup/javapoet/FieldSpec$Builder.\u003cinit\u003e(Lcom/squareup/javapoet/TypeName;Ljava/lang/String;)V @9: swap\n  Reason:\n    Attempt to pop empty stack.\n  Current Frame:\n    bci: @9\n    flags: { }\n    locals: { \u0027com/squareup/javapoet/FieldSpec$Builder\u0027, \u0027com/squareup/javapoet/TypeName\u0027, \u0027java/lang/String\u0027, \u0027com/squareup/javapoet/CodeBlock$Builder\u0027 }\n    stack: { \u0027com/squareup/javapoet/FieldSpec$Builder\u0027 }\n  Bytecode:\n    0000000: 2ab7 0094 b800 974e 2a5f b500 262a 01b5\n    0000010: 000f bb00 9959 c000 99b7 009a 2ac0 0052\n    0000020: b500 50bb 0099 59c0 0099 b700 9a2a c000\n    0000030: 52b5 005d 2a2b b500 912a 2cb5 000a b1  \n"
+  },
+  {
+    "className": "FieldSpec.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Operand stack overflow\nException Details:\n  Location:\n    com/squareup/javapoet/FieldSpec.\u003cinit\u003e(Lcom/squareup/javapoet/FieldSpec$Builder;)V @0: aload_0\n  Reason:\n    Exceeded max stack size.\n  Current Frame:\n    bci: @0\n    flags: { flagThisUninit }\n    locals: { uninitializedThis, \u0027com/squareup/javapoet/FieldSpec$Builder\u0027 }\n    stack: { }\n  Bytecode:\n    0000000: 2ab7 0098 2bb8 009c 4d03 bd00 0459 2c12\n    0000010: 462d b800 4c3a 04c0 009e 3a05 2a5f b500\n    0000020: 0c2b b800 a23a 0603 bd00 0459 1906 12a4\n    0000030: 1907 b800 4c3a 04c0 005c 3a08 2a5f b500\n    0000040: 102b b800 183a 0919 09b6 00a8 3a0a 2a5f\n    0000050: b500 1c2b b400 26c0 0029 190b b800 ac3a\n    0000060: 0c2a 5fb5 0027 2bb4 0032 c000 2919 0eb8\n    0000070: 00b0 3a0f 2a5f b500 352b b800 b43a 0a19\n    0000080: 0a01 a000 12b8 00b7 3a10 1910 b600 a83a\n    0000090: 11a7 0009 2bb8 00b4 3a11 2a5f b500 38b1\n    00000a0:                                        \n"
+  },
+  {
+    "className": "JavaFile$1.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Operand stack underflow\nException Details:\n  Location:\n    com/squareup/javapoet/JavaFile$1.append(C)Ljava/lang/Appendable; @0: areturn\n  Reason:\n    Attempt to pop empty stack.\n  Current Frame:\n    bci: @0\n    flags: { }\n    locals: { \u0027com/squareup/javapoet/JavaFile$1\u0027, integer }\n    stack: { }\n  Bytecode:\n    0000000: b0                                     \n"
+  },
+  {
+    "className": "JavaFile$2.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Bad type on operand stack in putfield\nException Details:\n  Location:\n    com/squareup/javapoet/JavaFile$2.\u003cinit\u003e(Lcom/squareup/javapoet/JavaFile;Ljava/net/URI;Ljavax/tools/JavaFileObject$Kind;)V @3: putfield\n  Reason:\n    Type uninitializedThis (current frame, stack[1]) is not assignable to \u0027com/squareup/javapoet/JavaFile$2\u0027 (constant pool 10)\n  Current Frame:\n    bci: @3\n    flags: { flagThisUninit }\n    locals: { uninitializedThis, \u0027com/squareup/javapoet/JavaFile\u0027, \u0027java/net/URI\u0027, \u0027javax/tools/JavaFileObject$Kind\u0027 }\n    stack: { uninitializedThis, uninitializedThis, \u0027com/squareup/javapoet/JavaFile\u0027 }\n  Bytecode:\n    0000000: 2a2a 2bb5 000a 2c2d b700 0db8 0013 3704\n    0000010: 2a5f b500 17b1                         \n"
+  },
+  {
+    "className": "JavaFile$Builder.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Operand stack underflow\nException Details:\n  Location:\n    com/squareup/javapoet/JavaFile$Builder.\u003cinit\u003e(Ljava/lang/String;Lcom/squareup/javapoet/TypeSpec;)V @9: swap\n  Reason:\n    Attempt to pop empty stack.\n  Current Frame:\n    bci: @9\n    flags: { }\n    locals: { \u0027com/squareup/javapoet/JavaFile$Builder\u0027, \u0027java/lang/String\u0027, \u0027com/squareup/javapoet/TypeSpec\u0027, \u0027com/squareup/javapoet/CodeBlock$Builder\u0027 }\n    stack: { \u0027com/squareup/javapoet/JavaFile$Builder\u0027 }\n  Bytecode:\n    0000000: 2ab7 0009 b800 0f4e 2a5f b500 132a 1215\n    0000010: b500 19bb 001b 59c0 001b b700 1c2a c000\n    0000020: 1eb5 0022 2a2b b500 252a 2cb5 0029 b1  \n"
+  },
+  {
+    "className": "JavaFile.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Illegal class name \"javax/lang/model/element/Element[]\" in class file com/squareup/javapoet/JavaFile"
+  },
+  {
+    "className": "LineWrapper$1.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file com/squareup/javapoet/LineWrapper$1"
+  },
+  {
+    "className": "LineWrapper$FlushType.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file com/squareup/javapoet/LineWrapper$FlushType"
+  },
+  {
+    "className": "LineWrapper$RecordingAppendable.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Operand stack underflow\nException Details:\n  Location:\n    com/squareup/javapoet/LineWrapper$RecordingAppendable.append(Ljava/lang/CharSequence;)Ljava/lang/Appendable; @0: invokeinterface\n  Reason:\n    Attempt to pop empty stack.\n  Current Frame:\n    bci: @0\n    flags: { }\n    locals: { \u0027com/squareup/javapoet/LineWrapper$RecordingAppendable\u0027, \u0027java/lang/CharSequence\u0027 }\n    stack: { }\n  Bytecode:\n    0000000: b900 1001 001c 039f 0011 1c04 643e b900\n    0000010: 1402 002a 5fb5 0018 2ab4 001c b900 1e02\n    0000020: 00b0                                   \n"
+  },
+  {
+    "className": "LineWrapper.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file com/squareup/javapoet/LineWrapper"
+  },
+  {
+    "className": "com.squareup.javapoet.MethodSpec$1",
+    "methods": [],
+    "instanceCreation": "no-arg constructor not available"
+  },
+  {
+    "className": "MethodSpec$Builder.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Operand stack underflow\nException Details:\n  Location:\n    com/squareup/javapoet/MethodSpec$Builder.\u003cinit\u003e(Ljava/lang/String;)V @9: swap\n  Reason:\n    Attempt to pop empty stack.\n  Current Frame:\n    bci: @9\n    flags: { }\n    locals: { \u0027com/squareup/javapoet/MethodSpec$Builder\u0027, \u0027java/lang/String\u0027, \u0027com/squareup/javapoet/CodeBlock$Builder\u0027 }\n    stack: { \u0027com/squareup/javapoet/MethodSpec$Builder\u0027 }\n  Bytecode:\n    0000000: 2ab7 0088 b800 8d4d 2a5f b500 67bb 008f\n    0000010: 59c0 008f b700 902a c000 5eb5 005c b800\n    0000020: 8d3a 052a 5fb5 006b bb00 9259 c000 92b7\n    0000030: 0093 2ac0 0018 b500 43bb 0092 59c0 0092\n    0000040: b700 932a c000 18b5 000a bb00 9259 c000\n    0000050: 92b7 0093 2ac0 0018 b500 96bb 0092 59c0\n    0000060: 0092 b700 932a c000 18b5 0099 2bb6 009d\n    0000070: b1                                     \n"
+  },
+  {
+    "className": "MethodSpec.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Operand stack overflow\nException Details:\n  Location:\n    com/squareup/javapoet/MethodSpec.\u003cinit\u003e(Lcom/squareup/javapoet/MethodSpec$Builder;)V @0: aload_0\n  Reason:\n    Exceeded max stack size.\n  Current Frame:\n    bci: @0\n    flags: { flagThisUninit }\n    locals: { uninitializedThis, \u0027com/squareup/javapoet/MethodSpec$Builder\u0027 }\n    stack: { }\n  Bytecode:\n    0000000: 2ab7 00a3 2bb8 00a7 4d2c b600 3c4e 2db6\n    0000010: 002a 3604 1504 03a0 0015 2bb4 00aa b200\n    0000020: b0b9 00b3 0200 1504 03a0 0009 0436 07a7\n    0000030: 0007 1233 3607 04bd 0004 592b b800 b73a\n    0000040: 0903 1909 5312 b9b8 00bf 2bb8 00c3 3604\n    0000050: 1504 039f 0012 2bb4 0077 1905 b700 c715\n    0000060: 0403 9f00 0904 3604 a700 0712 3336 0404\n    0000070: bd00 0459 2bb8 00b7 3a09 0319 0953 12c9\n    0000080: b800 bf2b b800 b73a 0903 bd00 0459 1909\n    0000090: 12cb 190a b800 cf3a 0bc0 0042 3a0c 2a5f\n    00000a0: b500 3e2b b800 d23a 0d19 0db6 003c 3a0e\n    00000b0: 2a5f b500 0a2b b400 d5c0 00d7 190f b800\n    00000c0: db3a 102a 5fb5 00dc 2bb4 00aa c000 d719\n    00000d0: 12b8 00e0 3a13 2a5f b500 e32b b400 e6c0\n    00000e0: 00d7 1912 b800 db3a 052a 5fb5 00e7 2bb8\n    00000f0: 00eb 3a14 2a5f b500 ef2b b400 77c0 00d7\n    0000100: 1912 b800 db3a 052a 5fb5 0014 2bb8 00c3\n    0000110: 3604 2a5f b500 f32b b800 8f3a 0bc0 00d7\n    0000120: 1912 b800 db3a 052a 5fb5 00f6 2bb8 00fa\n    0000130: 3a0e 2a5f b500 fd2a 2db5 0100 b1       \n"
+  },
+  {
+    "className": "NameAllocator.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Operand stack underflow\nException Details:\n  Location:\n    com/squareup/javapoet/NameAllocator.\u003cinit\u003e(Ljava/util/LinkedHashSet;Ljava/util/LinkedHashMap;)V @8: putfield\n  Reason:\n    Attempt to pop empty stack.\n  Current Frame:\n    bci: @8\n    flags: { }\n    locals: { \u0027com/squareup/javapoet/NameAllocator\u0027, \u0027java/util/LinkedHashSet\u0027, \u0027java/util/LinkedHashMap\u0027 }\n    stack: { \u0027java/util/Set\u0027 }\n  Bytecode:\n    0000000: 2ab7 0098 2ac0 006b b500 402a c000 71b5\n    0000010: 004b b1                                \n"
+  },
+  {
+    "className": "ParameterizedTypeName.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Bad local variable type\nException Details:\n  Location:\n    com/squareup/javapoet/TypeName.\u003cinit\u003e(Ljava/lang/String;Ljava/util/List;)V @13: aload_3\n  Reason:\n    Type top (current frame, locals[3]) is not assignable to reference type\n  Current Frame:\n    bci: @13\n    flags: { }\n    locals: { \u0027com/squareup/javapoet/TypeName\u0027, \u0027java/lang/String\u0027, \u0027java/util/List\u0027 }\n    stack: { \u0027java/util/Collection\u0027 }\n  Bytecode:\n    0000000: 2ab7 00c4 2a2b b500 992c c000 c62d b800\n    0000010: cc3a 042a 5fb5 00d0 b1                 \n"
+  },
+  {
+    "className": "com.squareup.javapoet.ParameterSpec$1",
+    "methods": [],
+    "instanceCreation": "no-arg constructor not available"
+  },
+  {
+    "className": "ParameterSpec$Builder.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Operand stack underflow\nException Details:\n  Location:\n    com/squareup/javapoet/ParameterSpec$Builder.\u003cinit\u003e(Lcom/squareup/javapoet/TypeName;Ljava/lang/String;)V @9: swap\n  Reason:\n    Attempt to pop empty stack.\n  Current Frame:\n    bci: @9\n    flags: { }\n    locals: { \u0027com/squareup/javapoet/ParameterSpec$Builder\u0027, \u0027com/squareup/javapoet/TypeName\u0027, \u0027java/lang/String\u0027, \u0027com/squareup/javapoet/CodeBlock$Builder\u0027 }\n    stack: { \u0027com/squareup/javapoet/ParameterSpec$Builder\u0027 }\n  Bytecode:\n    0000000: 2ab7 009a b800 9f4e 2a5f b500 4fbb 00a1\n    0000010: 59c0 00a1 b700 a22a c000 27b5 0025 bb00\n    0000020: a159 c000 a1b7 00a2 2ac0 0027 b500 302a\n    0000030: 2bb5 008f 2a2c b500 49b1               \n"
+  },
+  {
+    "className": "ParameterSpec.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Bad local variable type\nException Details:\n  Location:\n    com/squareup/javapoet/ParameterSpec.\u003cinit\u003e(Lcom/squareup/javapoet/ParameterSpec$Builder;)V @17: aload_3\n  Reason:\n    Type top (current frame, locals[3]) is not assignable to reference type\n  Current Frame:\n    bci: @17\n    flags: { }\n    locals: { \u0027com/squareup/javapoet/ParameterSpec\u0027, \u0027com/squareup/javapoet/ParameterSpec$Builder\u0027, \u0027java/lang/String\u0027 }\n    stack: { \u0027[Ljava/lang/Object;\u0027, \u0027[Ljava/lang/Object;\u0027, \u0027java/lang/String\u0027, \u0027java/lang/String\u0027 }\n  Bytecode:\n    0000000: 2ab7 00d2 2bb8 00d6 4d03 bd00 0459 2c12\n    0000010: d82d b800 833a 04c0 006b 3a05 2a5f b500\n    0000020: 582b b400 d9c0 00db 1906 b800 df3a 072a\n    0000030: 5fb5 0034 2bb4 00e1 c000 db19 08b8 00e5\n    0000040: 3a09 2a5f b500 3e2b b800 e93a 0a03 bd00\n    0000050: 0459 190a 127d 190b b800 833a 0cc0 0048\n    0000060: 3a0d 2a5f b500 462b b800 ed3a 0e19 0eb6\n    0000070: 00f2 3a0f 2a5f b500 f6b1               \n"
+  },
+  {
+    "className": "TypeName$1.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file com/squareup/javapoet/TypeName$1"
+  },
+  {
+    "className": "TypeName$2.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file com/squareup/javapoet/TypeName$2"
+  },
+  {
+    "className": "TypeName.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Bad local variable type\nException Details:\n  Location:\n    com/squareup/javapoet/TypeName.\u003cinit\u003e(Ljava/lang/String;Ljava/util/List;)V @13: aload_3\n  Reason:\n    Type top (current frame, locals[3]) is not assignable to reference type\n  Current Frame:\n    bci: @13\n    flags: { }\n    locals: { \u0027com/squareup/javapoet/TypeName\u0027, \u0027java/lang/String\u0027, \u0027java/util/List\u0027 }\n    stack: { \u0027java/util/Collection\u0027 }\n  Bytecode:\n    0000000: 2ab7 00c4 2a2b b500 992c c000 c62d b800\n    0000010: cc3a 042a 5fb5 00d0 b1                 \n"
+  },
+  {
+    "className": "com.squareup.javapoet.TypeSpec$1",
+    "methods": [],
+    "instanceCreation": "no-arg constructor not available"
+  },
+  {
+    "className": "TypeSpec$Builder.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Operand stack overflow\nException Details:\n  Location:\n    com/squareup/javapoet/TypeSpec$Builder.\u003cinit\u003e(Lcom/squareup/javapoet/TypeSpec$Kind;Ljava/lang/String;Lcom/squareup/javapoet/CodeBlock;)V @0: aload_0\n  Reason:\n    Exceeded max stack size.\n  Current Frame:\n    bci: @0\n    flags: { flagThisUninit }\n    locals: { uninitializedThis, \u0027com/squareup/javapoet/TypeSpec$Kind\u0027, \u0027java/lang/String\u0027, \u0027com/squareup/javapoet/CodeBlock\u0027 }\n    stack: { }\n  Bytecode:\n    0000000: 2ab7 018f b801 933a 042a 5fb5 0093 b201\n    0000010: 6e2a 5fb5 0163 b801 933a 062a 5fb5 009f\n    0000020: b801 933a 062a 5fb5 012e bb01 9559 c001\n    0000030: 95b7 0196 2ac0 00e3 b500 e1bb 0198 59c0\n    0000040: 0198 b701 992a c000 23b5 007d bb01 9859\n    0000050: c001 98b7 0199 2ac0 0023 b500 b3bb 0198\n    0000060: 59c0 0198 b701 992a c000 23b5 00c6 bb01\n    0000070: 9859 c001 98b7 0199 2ac0 0023 b500 98bb\n    0000080: 0198 59c0 0198 b701 992a c000 23b5 019c\n    0000090: bb01 9859 c001 98b7 0199 2ac0 0023 b500\n    00000a0: 21bb 0198 59c0 0198 b701 992a c000 23b5\n    00000b0: 00be bb01 9859 c001 98b7 0199 2ac0 0023\n    00000c0: b500 cbbb 019e 59c0 019e b701 9f2a c000\n    00000d0: dab5 00d8 2c01 a500 142c c001 a119 0db8\n    00000e0: 01a7 360e 150e 039f 0009 0436 0fa7 0007\n    00000f0: 1228 360f 04bd 0004 5903 2c53 1301 a9b8\n    0000100: 0030 2a2b b501 0c2a c000 4cb5 0089 2a2d\n    0000110: b500 83b1                              \n"
+  },
+  {
+    "className": "TypeSpec$Kind.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Class name is empty or contains illegal character in descriptor in class file com/squareup/javapoet/TypeSpec$Kind"
+  },
+  {
+    "className": "TypeSpec.class",
+    "errorType": "ClassFormatError",
+    "errorMessage": "Illegal exception table range in class file com/squareup/javapoet/TypeSpec"
+  },
+  {
+    "className": "TypeVariableName.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Bad local variable type\nException Details:\n  Location:\n    com/squareup/javapoet/TypeName.\u003cinit\u003e(Ljava/lang/String;Ljava/util/List;)V @13: aload_3\n  Reason:\n    Type top (current frame, locals[3]) is not assignable to reference type\n  Current Frame:\n    bci: @13\n    flags: { }\n    locals: { \u0027com/squareup/javapoet/TypeName\u0027, \u0027java/lang/String\u0027, \u0027java/util/List\u0027 }\n    stack: { \u0027java/util/Collection\u0027 }\n  Bytecode:\n    0000000: 2ab7 00c4 2a2b b500 992c c000 c62d b800\n    0000010: cc3a 042a 5fb5 00d0 b1                 \n"
+  },
+  {
+    "className": "Util.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Bad type on operand stack\nException Details:\n  Location:\n    com/squareup/javapoet/Util.checkState(ZLjava/lang/String;[Ljava/lang/Object;)V @15: checkcast\n  Reason:\n    Type uninitialized 5 (current frame, stack[1]) is not assignable to \u0027java/lang/Object\u0027\n  Current Frame:\n    bci: @15\n    flags: { }\n    locals: { integer, \u0027java/lang/String\u0027, \u0027[Ljava/lang/Object;\u0027 }\n    stack: { uninitialized 5, uninitialized 5 }\n  Bytecode:\n    0000000: 1a03 a000 17bb 0060 592b 2cb8 001a 4cc0\n    0000010: 0060 b700 61c0 0037 bfb1               \n  Stackmap Table:\n    same_frame(@25)\n"
+  },
+  {
+    "className": "WildcardTypeName.class",
+    "errorType": "VerifyError",
+    "errorMessage": "Bad local variable type\nException Details:\n  Location:\n    com/squareup/javapoet/TypeName.\u003cinit\u003e(Ljava/lang/String;Ljava/util/List;)V @13: aload_3\n  Reason:\n    Type top (current frame, locals[3]) is not assignable to reference type\n  Current Frame:\n    bci: @13\n    flags: { }\n    locals: { \u0027com/squareup/javapoet/TypeName\u0027, \u0027java/lang/String\u0027, \u0027java/util/List\u0027 }\n    stack: { \u0027java/util/Collection\u0027 }\n  Bytecode:\n    0000000: 2ab7 00c4 2a2b b500 992c c000 c62d b800\n    0000010: cc3a 042a 5fb5 00d0 b1                 \n"
+  }
+]
